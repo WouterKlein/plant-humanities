@@ -26,10 +26,6 @@
 <param title="Philippines" eid="Q928">
 <param title="Syzygium aromaticum" eid="Q26736" aliases="cloves">
 <param title="nutmeg" eid="Q83165">
-<param title="Kingdom of Kotte" eid="Q1589163" aliases="Kotte">
-<param title="Kingdom of Kandy" eid="Q1530762" aliases="Kandy">
-<param title="Colombo" eid="Q35381">
-<param title="Jaffna" eid="Q215277">
 
 ### The cinnamon challenge
 In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although the instruction is simple enough – try to swallow a tablespoon of cinnamon at once – it proves to be virtually impossible in practice. Trying to ingest dry, ground cinnamon bark initially causes a severe choke reaction, characterised by extreme exhalation of cinnamon powder (known as 'dragon breath'). Subsequently, the cinnamon combines with saliva in the mouth to produce an indigestible clutter in the back of the throat. Thankfully, this [quite dangerous assignment](https://doi.org/10.1542/peds.2012-3418) will only be a marginal footnote in the history of cinnamon. Those who know cinnamon only from an endless series of ridiculous YouTube videos, or as a quotidian kitchen spice, will be surprised to learn that the real challenge of cinnamon has been an ongoing effort for 2000 years, to find out what cinnamon actually is, as a plant and as a medicine.
@@ -79,12 +75,17 @@ Once 'true' cinnamon had begun to be understood as cinnamon from Sri Lanka, Euro
 
 ### Optimizing the monopoly
 The Dutch made even stronger, concerted efforts to get a hold on cinnamon. They signed a treaty with the king of Kandy in 1638, hoping this would give them a share of the cinnamon trade, which was still dominated by the Portuguese at the time. After the Portuguese were defeated in Colombo (1656) and Jaffnapatnam (1658), the Dutch controlled many coastal areas of the island, while the kingdom of Kandy ruled the island's interior. The relation between the Dutch and the king of Kandy was strained. Cinnamon trees were scattered throughout the forests of the island, so groups of peelers who worked for the Dutch often had to cross Portuguese and, later, Kandian territory to reach the areas where the trees grew. As it was impossible for the Dutch to keep a military grip on this enormous territory, or on individual groups of peelers, there was little they could do when peelers chose, or were forced, to switch allegiance. Therefore, bribing the king of Kandy was a recurring means to leave peelers alone, in order not to interrupt the supply of cinnamon.
+<param title="Kingdom of Kandy" eid="Q1530762" aliases="Kandy">
+<param title="Colombo" eid="Q35381">
+<param title="Jaffna" eid="Q215277" aliases="Jaffnapatnam">
 <param ve-map
 	title="Sri Lanka during the Dutch period. [Note: I have to create a ve-map tag based on a map in Wagenaar, p. 32.]"
 	center="7.792820, 80.750146"
 	zoom="7.6">
 
 Peelers were specialized laborers from the Sinhalese caste _Salagama_ (also known as _Saliya_ or _Chaliya_). Although their skills were indispensable for the cinnamon trade, they were treated harshly by the Dutch. Each year, the peelers gathered in Colombo for a ceremony where they pledged loyalty to the Dutch governor. There was a long peeling season for cinnamon between May and August, and a short season in January and February. On both occasions, groups of men were sent off into the woods with nothing but paring knives and an amount of rice. Adult men were obliged to bring back 12 _robes_ (of 56 pounds each) at the end of the summer season. Boys from 12 years of age had to contribute proportionally. Dutch sources often complained about peelers as lazy and unreliable, but the peelers had a hard life. They were away from home for months, had to provide for themselves while working in the forests, where they were subject to diseases, and they were severely punished if they did not meet their quotum.[^ref9]
+<param title="Sinhalese people" eid="Q932244" aliases="Sinhalese">
+<param title="Salagama" eid="Q3469487">
 <param ve-image
 	title="Imaginary landscapes with spices from the East Indies. On the left can be seen a nutmeg tree, a cinnamon tree, and an elephant chase in the background. On the right can be seen a cloves tree and bamboo, with the volcano Ternate in the back. Etching by Romeyn de Hooghe, produced between 1682 and 1733. Rijksmuseum, Amsterdam, object no. BI-1972-1043-16, serial no. 10/41."
 	url="https://upload.wikimedia.org/wikipedia/commons/f/f3/Kaneel%2C_nootmuskaat%2C_kruidnagel_en_bamboe_Kaneel_en_Nootmus_Canelle%2C_Muscade%2C_Chasse_des_Elephans%2C_etc_Kruytnagelengewas_Girofle%2C_Bambous%2C_Montagne_brulante%2C_etc_%28titel_op_object%29_Les_Indes_Orientales_et_Occidentales_e%2C_BI-1972-1043-16.jpg">
@@ -95,6 +96,9 @@ Peelers were specialized laborers from the Sinhalese caste _Salagama_ (also know
 	url="NL-HaNA_4.VEL_939A-klein.jpg">
 
 The restrictions of the Dutch on cinnamon exports made it the only real monopoly on Sri Lanka in the early modern period. Smuggling was severely punished. In 1704, Bengal traders were allowed to export small amounts of cinnamon, which would not affect the monopoly of the Dutch East India Company (VOC) too much. In the 1720s, export restrictions were loosened for several products, but not cinnamon.[^ref10] The tight grip of the Dutch was also felt internally. Cinnamon harvesters had long been accustomed to clearing plots of forest to create temporary cultivated fields, called _chenas_. Under Dutch rule, they were no longer allowed to practice species circulation on a plot once it was planted with cinnamon, so as not to diminish the total acreage. But Pieter van Dam, long-term secretary of the VOC, calculated around 1700 that Sri Lanka produced more than enough cinnamon to supply European and international markets. This makes the suppression of _chena_ practices seem all the more exploitative.[^ref11]
+<param title="Dutch East India Company" eid="Q159766" aliases="Dutch East India Company (VOC)">
+<param title="shifting cultivation" eid="Q287854" aliases="species circulation">
+<param title="Pieter van Dam" eid="Q2681934">
 <param ve-image
 	title="Image from 1720, showing the benefits that could be made from monocultures of cinnamon on temporary cleared fields (_chenas_). The image on the left shows a demarcated area of forest to be cultivated; the image on the middle shows the same field after the original vegetation was cleared; and the image on the right shows the _chena_ as a monoculture of cinnamon. The text at the bottom is a calculation of the expected returns. A field with only five cinnamon trees could contain 135 trees after cultivation: a 27-fold increase. When this image was produced, however, the VOC was still very reluctant to abandon the wild harvest approach it had always adopted, and _chena_ practices were dicouraged."
 	url="NL-HaNA_4.VEL_939A-groot_cropped.jpg">
@@ -242,7 +246,7 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MjY2NTkxMCwtMjUzMTk3MDQzLDE1MD
+eyJoaXN0b3J5IjpbLTgwNDc2MjQ2NywtMjUzMTk3MDQzLDE1MD
 U2OTI4MzIsMTY2MTI2MDg0OCwxMDE1MTYxNjMxLC0xNTU4NzY2
 NDA4LDE0MTA4MTE1OTMsLTE1NTUxMDA0OTcsOTE5OTM0NTI5LC
 0yMDY2ODAxODk3LC0xMTA1MDQ2NTQxLDkxNDQ3Mzk2LC0xMzE5
