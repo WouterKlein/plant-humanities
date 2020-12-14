@@ -57,9 +57,9 @@
 <param title="Cape Horn" eid="Q4078" aliases="">
 <param title="Alonso de Ovalle" eid="Q2839275" aliases="">
 <param title="Society of Jesus" eid="Q36380" aliases="Jesuits">
-<param title="" eid="" aliases="">
-<param title="" eid="" aliases="">
-<param title="" eid="" aliases="">
+<param title="Cinnamomum burmanni" eid="Q4115136" aliases="">
+<param title="Cinnamomum cebuense" eid="Q5121027" aliases="">
+<param title="Juan de Cuéllar" eid="Q6301228" aliases="">
 <param title="" eid="" aliases="">
 <param title="" eid="" aliases="">
 
@@ -243,11 +243,11 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk1MDU3OTIzLDE2NjEyNjA4NDgsMTAxNT
-E2MTYzMSwtMTU1ODc2NjQwOCwxNDEwODExNTkzLC0xNTU1MTAw
-NDk3LDkxOTkzNDUyOSwtMjA2NjgwMTg5NywtMTEwNTA0NjU0MS
-w5MTQ0NzM5NiwtMTMxOTAyMzgwOSw1NjA3NzkyNDIsLTE0NTg0
-MzE3MjYsLTg0MDI2NjI3MCwtMTIxNDMzMzU4Myw2NDQwMTI3ND
-gsLTM1Mjc1ODg0MSw3NTQ2MjI0NTcsMTAzMDI2NzE4MCwtMTM3
-NjM3MzY0Ml19
+eyJoaXN0b3J5IjpbLTE1Nzc3MjQ0ODIsMTY2MTI2MDg0OCwxMD
+E1MTYxNjMxLC0xNTU4NzY2NDA4LDE0MTA4MTE1OTMsLTE1NTUx
+MDA0OTcsOTE5OTM0NTI5LC0yMDY2ODAxODk3LC0xMTA1MDQ2NT
+QxLDkxNDQ3Mzk2LC0xMzE5MDIzODA5LDU2MDc3OTI0MiwtMTQ1
+ODQzMTcyNiwtODQwMjY2MjcwLC0xMjE0MzMzNTgzLDY0NDAxMj
+c0OCwtMzUyNzU4ODQxLDc1NDYyMjQ1NywxMDMwMjY3MTgwLC0x
+Mzc2MzczNjQyXX0=
 -->
