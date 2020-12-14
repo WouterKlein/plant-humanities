@@ -10,7 +10,7 @@
 <param title="Boxwood blight" eid="Q4952010">
 <param title="fungus" eid="Q764">
 <param title="spore" eid="Q177332" aliases="spores">
-<param title="Buxus" eid="Q158703" aliases-"Boxwood">
+<param title="Buxus" eid="Q158703" aliases="Boxwood">
 <param title="Buxus sempervirens" eid="Q27344" aliases="common boxwood">
 <param title="Maquis shrubland" eid="Q667552" aliases= "maquis">
 <param title="Pliny the Younger" eid="Q168707" aliases="Pliny">
@@ -238,5 +238,6 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^ref23]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^ref24]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.test
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTE3Nzg5NDMsMTI0NzY2NDk3OV19
+eyJoaXN0b3J5IjpbLTIwOTYyMzQ2MzksLTExMTE3Nzg5NDMsMT
+I0NzY2NDk3OV19
 -->
