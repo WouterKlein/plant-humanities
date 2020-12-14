@@ -16,6 +16,15 @@
 <param title="Cinnamomum" eid="#Q27282" aliases="">
 <param title="Garcia de Orta" eid="#Q1493994" aliases="">
 <param title="Old Goa" eid="#Q553907" aliases="Goa">
+<param title="Cinnamomum cassia" eid="#Q204148" aliases="">
+<param title="" eid="" aliases="">
+<param title="" eid="" aliases="">
+<param title="" eid="" aliases="">
+<param title="" eid="" aliases="">
+<param title="" eid="" aliases="">
+<param title="" eid="" aliases="">
+<param title="" eid="" aliases="">
+<param title="" eid="" aliases="">
 <param title="" eid="" aliases="">
 <param title="" eid="" aliases="">
 <param title="" eid="" aliases="">
@@ -201,11 +210,11 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyNDE2Njc0LC0xNTU1MTAwNDk3LDkxOT
-kzNDUyOSwtMjA2NjgwMTg5NywtMTEwNTA0NjU0MSw5MTQ0NzM5
-NiwtMTMxOTAyMzgwOSw1NjA3NzkyNDIsLTE0NTg0MzE3MjYsLT
-g0MDI2NjI3MCwtMTIxNDMzMzU4Myw2NDQwMTI3NDgsLTM1Mjc1
-ODg0MSw3NTQ2MjI0NTcsMTAzMDI2NzE4MCwtMTM3NjM3MzY0Mi
-w1NjczNTM4MTIsMTg3NjMxNTg3NSwxNTc4MDQyNTYxLDIwMjE5
-NzcxNDJdfQ==
+eyJoaXN0b3J5IjpbLTEyMzA3NjM5MTEsLTE1NTUxMDA0OTcsOT
+E5OTM0NTI5LC0yMDY2ODAxODk3LC0xMTA1MDQ2NTQxLDkxNDQ3
+Mzk2LC0xMzE5MDIzODA5LDU2MDc3OTI0MiwtMTQ1ODQzMTcyNi
+wtODQwMjY2MjcwLC0xMjE0MzMzNTgzLDY0NDAxMjc0OCwtMzUy
+NzU4ODQxLDc1NDYyMjQ1NywxMDMwMjY3MTgwLC0xMzc2MzczNj
+QyLDU2NzM1MzgxMiwxODc2MzE1ODc1LDE1NzgwNDI1NjEsMjAy
+MTk3NzE0Ml19
 -->
