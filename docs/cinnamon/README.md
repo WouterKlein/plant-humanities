@@ -177,7 +177,7 @@ A third, and most daring strategy, was to transplant the 'true' cinnamon to Span
 <param title="Real Jardín Botánico de Madrid" eid="Q1794858" aliases="Royal Botanical Garden of Madrid">
 <param title="José Celestino Mutis y Bosio" eid="Q731937" aliases="José Celestino Mutis">
 <param title="Botanical Expedition to New Granada" eid="Q7373838" aliases="Royal Botanical Expedition to New Granada">
-<param title="Guadeloupe" eid="Q17012">
+<param title="Guadeloupe" eid="Q3118683">
 <param title="Saint Vincent" eid="Q379656">
 <param ve-image
 	title="[No visualization here yet.]"
@@ -247,11 +247,11 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQwMTk3NDg5LDE3ODQ0NDc0NCwtMjUzMT
-k3MDQzLDE1MDU2OTI4MzIsMTY2MTI2MDg0OCwxMDE1MTYxNjMx
-LC0xNTU4NzY2NDA4LDE0MTA4MTE1OTMsLTE1NTUxMDA0OTcsOT
-E5OTM0NTI5LC0yMDY2ODAxODk3LC0xMTA1MDQ2NTQxLDkxNDQ3
-Mzk2LC0xMzE5MDIzODA5LDU2MDc3OTI0MiwtMTQ1ODQzMTcyNi
-wtODQwMjY2MjcwLC0xMjE0MzMzNTgzLDY0NDAxMjc0OCwtMzUy
-NzU4ODQxXX0=
+eyJoaXN0b3J5IjpbLTE4ODAxNDg4ODAsOTQwMTk3NDg5LDE3OD
+Q0NDc0NCwtMjUzMTk3MDQzLDE1MDU2OTI4MzIsMTY2MTI2MDg0
+OCwxMDE1MTYxNjMxLC0xNTU4NzY2NDA4LDE0MTA4MTE1OTMsLT
+E1NTUxMDA0OTcsOTE5OTM0NTI5LC0yMDY2ODAxODk3LC0xMTA1
+MDQ2NTQxLDkxNDQ3Mzk2LC0xMzE5MDIzODA5LDU2MDc3OTI0Mi
+wtMTQ1ODQzMTcyNiwtODQwMjY2MjcwLC0xMjE0MzMzNTgzLDY0
+NDAxMjc0OF19
 -->
