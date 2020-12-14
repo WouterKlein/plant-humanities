@@ -43,6 +43,15 @@
 <param title="Batavia" eid="Q1199713">
 <param title="Paul Hermann" eid="Q66569" aliases="">
 <param title="Species Plantarum" eid="Q849308" aliases="">
+<param title="Carl Linnaeus" eid="Q1043" aliases="">
+<param title="Lapland" eid="Q5700" aliases="">
+<param title="" eid="" aliases="">
+<param title="" eid="" aliases="">
+<param title="" eid="" aliases="">
+<param title="" eid="" aliases="">
+<param title="" eid="" aliases="">
+<param title="" eid="" aliases="">
+<param title="" eid="" aliases="">
 <param title="" eid="" aliases="">
 <param title="" eid="" aliases="">
 <param title="" eid="" aliases="">
@@ -133,7 +142,7 @@ Although cinnamon was a successful monopoly during the Dutch period, was it pure
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
-Interests of empire and a disinterested search for knowledge could go hand in hand. The botanist Paul Hermann was employed by the VOC between 1672 and 1677 to gather botanical knowledge on Sri Lanka. Although Hermann barely made it out of Colombo, he managed to collect an impressive amount of material, including many cinnamon specimens.[^ref15] Hermann's collections offered input for decades of scholarly interest in Sri Lankan flora. Many specimens served indirectly as type specimens for the _Species Plantarum_ (1753) of Carolus Linnaeus, who dreamed of transplanting cinnamon to Lapland.[^ref16] But Hermann already knew that northern Europe was too cold for cinnamon: in spite of the VOC ban on exporting living plants, he sent trees to several acquaintances in the Dutch Republic, none of which survived the cold winters.[^ref17] Exchange of knowledge and goods was evidently possible: an extensive, first-hand account of all the cinnamon varieties on Sri Lanka even made it into the _Philosophical Transactions_ of the Royal Society in 1730.[^ref18]
+Interests of empire and a disinterested search for knowledge could go hand in hand. The botanist Paul Hermann was employed by the VOC between 1672 and 1677 to gather botanical knowledge on Sri Lanka. Although Hermann barely made it out of Colombo, he managed to collect an impressive amount of material, including many cinnamon specimens.[^ref15] Hermann's collections offered input for decades of scholarly interest in Sri Lankan flora. Many specimens served indirectly as type specimens for the _Species Plantarum_ (1753) of Carl Linnaeus, who dreamed of transplanting cinnamon to Lapland.[^ref16] But Hermann already knew that northern Europe was too cold for cinnamon: in spite of the VOC ban on exporting living plants, he sent trees to several acquaintances in the Dutch Republic, none of which survived the cold winters.[^ref17] Exchange of knowledge and goods was evidently possible: an extensive, first-hand account of all the cinnamon varieties on Sri Lanka even made it into the _Philosophical Transactions_ of the Royal Society in 1730.[^ref18]
 <param ve-image
 	title="'Cinnamon from Ceylon with flowers'. Specimen of   
 _Cinnamomum verum_ J.Presl, from Paul Hermann's herbarium of plants from Sri Lanka in Leiden, specimen no. L.2070171. [This is currently a downloaded image, because the Leiden volumes of Hermann's herbarium are not in JSTOR's Global Plants database. The London volumes are.]"
@@ -227,11 +236,11 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzOTE1ODkwOCwxNjYxMjYwODQ4LDEwMT
-UxNjE2MzEsLTE1NTg3NjY0MDgsMTQxMDgxMTU5MywtMTU1NTEw
-MDQ5Nyw5MTk5MzQ1MjksLTIwNjY4MDE4OTcsLTExMDUwNDY1ND
-EsOTE0NDczOTYsLTEzMTkwMjM4MDksNTYwNzc5MjQyLC0xNDU4
-NDMxNzI2LC04NDAyNjYyNzAsLTEyMTQzMzM1ODMsNjQ0MDEyNz
-Q4LC0zNTI3NTg4NDEsNzU0NjIyNDU3LDEwMzAyNjcxODAsLTEz
-NzYzNzM2NDJdfQ==
+eyJoaXN0b3J5IjpbMTQxNjAyNDgsMTY2MTI2MDg0OCwxMDE1MT
+YxNjMxLC0xNTU4NzY2NDA4LDE0MTA4MTE1OTMsLTE1NTUxMDA0
+OTcsOTE5OTM0NTI5LC0yMDY2ODAxODk3LC0xMTA1MDQ2NTQxLD
+kxNDQ3Mzk2LC0xMzE5MDIzODA5LDU2MDc3OTI0MiwtMTQ1ODQz
+MTcyNiwtODQwMjY2MjcwLC0xMjE0MzMzNTgzLDY0NDAxMjc0OC
+wtMzUyNzU4ODQxLDc1NDYyMjQ1NywxMDMwMjY3MTgwLC0xMzc2
+MzczNjQyXX0=
 -->
