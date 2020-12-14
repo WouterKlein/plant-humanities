@@ -8,7 +8,6 @@
 	num-primary-sources="0"
 	author="Wouter Klein, PhD">
 <param title="cinnamon challenge" eid="Q420721">
-<param title="cinnamon" eid="Q370239">
 <param title="Sri Lanka" eid="Q854">
 <param title="Pedanius Dioscorides" eid="Q297776" aliases="Dioscorides">
 <param title="East Indies" eid="Q213137">
@@ -247,11 +246,11 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNDc1NTksMTUwNTY5MjgzMiwxNjYxMj
-YwODQ4LDEwMTUxNjE2MzEsLTE1NTg3NjY0MDgsMTQxMDgxMTU5
-MywtMTU1NTEwMDQ5Nyw5MTk5MzQ1MjksLTIwNjY4MDE4OTcsLT
-ExMDUwNDY1NDEsOTE0NDczOTYsLTEzMTkwMjM4MDksNTYwNzc5
-MjQyLC0xNDU4NDMxNzI2LC04NDAyNjYyNzAsLTEyMTQzMzM1OD
-MsNjQ0MDEyNzQ4LC0zNTI3NTg4NDEsNzU0NjIyNDU3LDEwMzAy
-NjcxODBdfQ==
+eyJoaXN0b3J5IjpbLTgwMTY1MzY4LDE1MDU2OTI4MzIsMTY2MT
+I2MDg0OCwxMDE1MTYxNjMxLC0xNTU4NzY2NDA4LDE0MTA4MTE1
+OTMsLTE1NTUxMDA0OTcsOTE5OTM0NTI5LC0yMDY2ODAxODk3LC
+0xMTA1MDQ2NTQxLDkxNDQ3Mzk2LC0xMzE5MDIzODA5LDU2MDc3
+OTI0MiwtMTQ1ODQzMTcyNiwtODQwMjY2MjcwLC0xMjE0MzMzNT
+gzLDY0NDAxMjc0OCwtMzUyNzU4ODQxLDc1NDYyMjQ1NywxMDMw
+MjY3MTgwXX0=
 -->
