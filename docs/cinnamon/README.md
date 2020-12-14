@@ -64,8 +64,8 @@
 <param title="Real Jardín Botánico de Madrid" eid="Q1794858" aliases="Royal Botanical Garden of Madrid">
 <param title="José Celestino Mutis y Bosio" eid="Q731937" aliases="José Celestino Mutis">
 <param title="Botanical Expedition to New Granada" eid="Q7373838" aliases="Royal Botanical Expedition to New Granada">
-<param title="" eid="" aliases="">
-<param title="" eid="" aliases="">
+<param title="Guadeloupe" eid="Q17012" aliases="">
+<param title="Saint Vincent" eid="Q379656" aliases="">
 <param title="" eid="" aliases="">
 <param title="" eid="" aliases="">
 <param title="" eid="" aliases="">
@@ -191,7 +191,7 @@ A third, and most daring strategy, was to transplant the 'true' cinnamon to Span
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
-Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cinnamon](http://www.worldstopexports.com/cinnamon-exporters/). But confusion still remains: _Cinnamomum verum_ J. Presl. is now grown in many countries in the tropical zone, but the quality of the product differs for each region.[^ref28] Moreover, commercial statistics usually generalize all market variations under the header 'cinnamon', without differentiating between _Cinnamomum_ species. This issue is even more pertinent in medicine. Cinnamon has a lot of potential therapeutic applications that have been studied, but many studies fail to clarify which species of _Cinnamomum_ was/were used, making it difficult to generalize the results.[^ref29] The species epithet _verum_ may sound like an obsolete name in a globalized world, where everyone has access to cinnamon and where cinnamon is grown in many tropical areas. But it still captures the essence of what cinnamon has always been about: distinguishing between what is 'true' and wat is not.
+Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cinnamon](http://www.worldstopexports.com/cinnamon-exporters/). But confusion still remains: _Cinnamomum verum_ J. Presl. is now grown in many countries in the tropical zone, but the quality of the product differs for each region.[^ref28] Moreover, commercial statistics usually generalize all market variations under the header 'cinnamon', without differentiating between _Cinnamomum_ species. This issue is even more pertinent in medicine. Cinnamon has a lot of potential therapeutic applications that have been studied, but many studies fail to clarify which species of _Cinnamomum_ was/were used, making it difficult to generalize the results.[^ref29] The species epithet _verum_ may sound like an obsolete name in a globalized world, where everyone has access to cinnamon and where cinnamon is grown in many tropical areas. But it still captures the essence of what cinnamon has always been about: distinguishing between what is 'true' and what is not.
 <param ve-map
 	title="[I would like to include a map here with the current distribution of Cinnamomum verum. I have two sources for that: the data differ quite a bit, and I don't know if I can simply extract it from the sources: https://www.cabi.org/isc/datasheet/13573 (CABI), and http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:463752-1 (Kew, Plants of the World Online)]">
 
@@ -255,11 +255,11 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDcyMDE4MzgsMTY2MTI2MDg0OCwxMD
-E1MTYxNjMxLC0xNTU4NzY2NDA4LDE0MTA4MTE1OTMsLTE1NTUx
-MDA0OTcsOTE5OTM0NTI5LC0yMDY2ODAxODk3LC0xMTA1MDQ2NT
-QxLDkxNDQ3Mzk2LC0xMzE5MDIzODA5LDU2MDc3OTI0MiwtMTQ1
-ODQzMTcyNiwtODQwMjY2MjcwLC0xMjE0MzMzNTgzLDY0NDAxMj
-c0OCwtMzUyNzU4ODQxLDc1NDYyMjQ1NywxMDMwMjY3MTgwLC0x
-Mzc2MzczNjQyXX0=
+eyJoaXN0b3J5IjpbMTUwNTY5MjgzMiwxNjYxMjYwODQ4LDEwMT
+UxNjE2MzEsLTE1NTg3NjY0MDgsMTQxMDgxMTU5MywtMTU1NTEw
+MDQ5Nyw5MTk5MzQ1MjksLTIwNjY4MDE4OTcsLTExMDUwNDY1ND
+EsOTE0NDczOTYsLTEzMTkwMjM4MDksNTYwNzc5MjQyLC0xNDU4
+NDMxNzI2LC04NDAyNjYyNzAsLTEyMTQzMzM1ODMsNjQ0MDEyNz
+Q4LC0zNTI3NTg4NDEsNzU0NjIyNDU3LDEwMzAyNjcxODAsLTEz
+NzYzNzM2NDJdfQ==
 -->
