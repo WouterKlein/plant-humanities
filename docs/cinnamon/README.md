@@ -18,7 +18,7 @@ In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although
 	
 ### Forgotten knowledge and fabricated history
 Cinnamon had a long history before any European ever saw 'true' cinnamon (_Cinnamomum verum_ J.Presl), which originally grew only on Sri Lanka. Here immediately lies the key to understanding the history of cinnamon: it is mostly about a plant-based product carrying that name, not about any particular plant species like the one mentioned above. This is a crucial observation, because a lot of confusion about cinnamon emanates from the incorrect equation of _names_ with _plants_. To be more precise: in the Latin west, it has long been assumed that the plants _cinnamomum_ (κιννάμωμον in Greek) and _cassia_ (κασία), as described by ancient medical authorities (notably Dioscorides), are the same plants as those found in the East Indies in the sixteenth century. A recent revision of archaeological, historical, linguistic and botanical evidence, however, has suggested that the cinnamon of ancient history was probably an East-African plant, _Cassia abbreviata_ Oliv., which is not related to the genus _Cinnamomum_.[^ref1]
-<param title="cinnamon" eid="Q28165">
+<param title="cinnamon" eid="Q370239">
 <param title="Sri Lanka" eid="Q854">
 <param title="Pedanius Dioscorides" eid="Q297776" aliases="Dioscorides">
 <param title="East Indies" eid="Q213137">
@@ -248,11 +248,11 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTI1Njc4MTIsLTI1MzE5NzA0MywxNT
-A1NjkyODMyLDE2NjEyNjA4NDgsMTAxNTE2MTYzMSwtMTU1ODc2
-NjQwOCwxNDEwODExNTkzLC0xNTU1MTAwNDk3LDkxOTkzNDUyOS
-wtMjA2NjgwMTg5NywtMTEwNTA0NjU0MSw5MTQ0NzM5NiwtMTMx
-OTAyMzgwOSw1NjA3NzkyNDIsLTE0NTg0MzE3MjYsLTg0MDI2Nj
-I3MCwtMTIxNDMzMzU4Myw2NDQwMTI3NDgsLTM1Mjc1ODg0MSw3
-NTQ2MjI0NTddfQ==
+eyJoaXN0b3J5IjpbMTc4NDQ0NzQ0LC0yNTMxOTcwNDMsMTUwNT
+Y5MjgzMiwxNjYxMjYwODQ4LDEwMTUxNjE2MzEsLTE1NTg3NjY0
+MDgsMTQxMDgxMTU5MywtMTU1NTEwMDQ5Nyw5MTk5MzQ1MjksLT
+IwNjY4MDE4OTcsLTExMDUwNDY1NDEsOTE0NDczOTYsLTEzMTkw
+MjM4MDksNTYwNzc5MjQyLC0xNDU4NDMxNzI2LC04NDAyNjYyNz
+AsLTEyMTQzMzM1ODMsNjQ0MDEyNzQ4LC0zNTI3NTg4NDEsNzU0
+NjIyNDU3XX0=
 -->
