@@ -7,6 +7,7 @@
 	num-specimens="0"
 	num-primary-sources="0"
 	author="Wouter Klein, PhD">
+<param title="" eid="" aliases-"Boxwood">
 
 ### The cinnamon challenge
 In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although the instruction is simple enough – try to swallow a tablespoon of cinnamon at once – it proves to be virtually impossible in practice. Trying to ingest dry, ground cinnamon bark initially causes a severe choke reaction, characterised by extreme exhalation of cinnamon powder (known as 'dragon breath'). Subsequently, the cinnamon combines with saliva in the mouth to produce an indigestible clutter in the back of the throat. Thankfully, this [quite dangerous assignment](https://doi.org/10.1542/peds.2012-3418) will only be a marginal footnote in the history of cinnamon. Those who know cinnamon only from an endless series of ridiculous YouTube videos, or as a quotidian kitchen spice, will be surprised to learn that the real challenge of cinnamon has been an ongoing effort for 2000 years, to find out what cinnamon actually is, as a plant and as a medicine.
@@ -188,11 +189,11 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE5OTM0NTI5LC0yMDY2ODAxODk3LC0xMT
-A1MDQ2NTQxLDkxNDQ3Mzk2LC0xMzE5MDIzODA5LDU2MDc3OTI0
-MiwtMTQ1ODQzMTcyNiwtODQwMjY2MjcwLC0xMjE0MzMzNTgzLD
-Y0NDAxMjc0OCwtMzUyNzU4ODQxLDc1NDYyMjQ1NywxMDMwMjY3
-MTgwLC0xMzc2MzczNjQyLDU2NzM1MzgxMiwxODc2MzE1ODc1LD
-E1NzgwNDI1NjEsMjAyMTk3NzE0MiwtMTA4NzU5OTAzNywtMTM2
-NjExNTYwM119
+eyJoaXN0b3J5IjpbNzgxNzUyMjMsOTE5OTM0NTI5LC0yMDY2OD
+AxODk3LC0xMTA1MDQ2NTQxLDkxNDQ3Mzk2LC0xMzE5MDIzODA5
+LDU2MDc3OTI0MiwtMTQ1ODQzMTcyNiwtODQwMjY2MjcwLC0xMj
+E0MzMzNTgzLDY0NDAxMjc0OCwtMzUyNzU4ODQxLDc1NDYyMjQ1
+NywxMDMwMjY3MTgwLC0xMzc2MzczNjQyLDU2NzM1MzgxMiwxOD
+c2MzE1ODc1LDE1NzgwNDI1NjEsMjAyMTk3NzE0MiwtMTA4NzU5
+OTAzN119
 -->
