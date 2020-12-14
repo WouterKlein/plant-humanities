@@ -100,7 +100,6 @@ Peelers were specialized laborers from the Sinhalese caste _Salagama_ (also know
 The restrictions of the Dutch on cinnamon exports made it the only real monopoly on Sri Lanka in the early modern period. Smuggling was severely punished. In 1704, Bengal traders were allowed to export small amounts of cinnamon, which would not affect the monopoly of the Dutch East India Company (VOC) too much. In the 1720s, export restrictions were loosened for several products, but not cinnamon.[^ref10] The tight grip of the Dutch was also felt internally. Cinnamon harvesters had long been accustomed to clearing plots of forest to create temporary cultivated fields, called _chenas_. Under Dutch rule, they were no longer allowed to practice species circulation on a plot once it was planted with cinnamon, so as not to diminish the total acreage. But Pieter van Dam, long-term secretary of the VOC, calculated around 1700 that Sri Lanka produced more than enough cinnamon to supply European and international markets. This makes the suppression of _chena_ practices seem all the more exploitative.[^ref11]
 <param title="Dutch East India Company" eid="Q159766" aliases="Dutch East India Company (VOC)">
 <param title="shifting cultivation" eid="Q287854" aliases="species circulation">
-<param title="Pieter van Dam" eid="Q2681934">
 <param ve-image
 	title="Image from 1720, showing the benefits that could be made from monocultures of cinnamon on temporary cleared fields (_chenas_). The image on the left shows a demarcated area of forest to be cultivated; the image on the middle shows the same field after the original vegetation was cleared; and the image on the right shows the _chena_ as a monoculture of cinnamon. The text at the bottom is a calculation of the expected returns. A field with only five cinnamon trees could contain 135 trees after cultivation: a 27-fold increase. When this image was produced, however, the VOC was still very reluctant to abandon the wild harvest approach it had always adopted, and _chena_ practices were dicouraged."
 	url="NL-HaNA_4.VEL_939A-groot_cropped.jpg">
@@ -248,11 +247,11 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NDQ0NzQ0LC0yNTMxOTcwNDMsMTUwNT
-Y5MjgzMiwxNjYxMjYwODQ4LDEwMTUxNjE2MzEsLTE1NTg3NjY0
-MDgsMTQxMDgxMTU5MywtMTU1NTEwMDQ5Nyw5MTk5MzQ1MjksLT
-IwNjY4MDE4OTcsLTExMDUwNDY1NDEsOTE0NDczOTYsLTEzMTkw
-MjM4MDksNTYwNzc5MjQyLC0xNDU4NDMxNzI2LC04NDAyNjYyNz
-AsLTEyMTQzMzM1ODMsNjQ0MDEyNzQ4LC0zNTI3NTg4NDEsNzU0
-NjIyNDU3XX0=
+eyJoaXN0b3J5IjpbOTQwMTk3NDg5LDE3ODQ0NDc0NCwtMjUzMT
+k3MDQzLDE1MDU2OTI4MzIsMTY2MTI2MDg0OCwxMDE1MTYxNjMx
+LC0xNTU4NzY2NDA4LDE0MTA4MTE1OTMsLTE1NTUxMDA0OTcsOT
+E5OTM0NTI5LC0yMDY2ODAxODk3LC0xMTA1MDQ2NTQxLDkxNDQ3
+Mzk2LC0xMzE5MDIzODA5LDU2MDc3OTI0MiwtMTQ1ODQzMTcyNi
+wtODQwMjY2MjcwLC0xMjE0MzMzNTgzLDY0NDAxMjc0OCwtMzUy
+NzU4ODQxXX0=
 -->
