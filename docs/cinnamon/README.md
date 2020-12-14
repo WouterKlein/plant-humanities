@@ -30,24 +30,6 @@
 <param title="Kingdom of Kandy" eid="Q1530762" aliases="Kandy">
 <param title="Colombo" eid="Q35381">
 <param title="Jaffna" eid="Q215277">
-<param title="Sinhalese people" eid="Q932244" aliases="Sinhalese">
-<param title="Salagama" eid="Q3469487">
-<param title="Dutch East India Company" eid="Q159766" aliases="Dutch East India Company (VOC)">
-<param title="shifting cultivation" eid="Q287854" aliases="species circulation">
-<param title="Pieter van Dam" eid="Q2681934">
-<param title="Iman Willem Falck" eid="Q16836179">
-<param title="plantation" eid="Q188913">
-<param title="Malabar Coast" eid="Q473181">
-<param title="Hendrik van Rheede" eid="Q741104" aliases="Hendrik Adriaan van Rheede tot Drakenstein">
-<param title="Rijckloff van Goens" eid="Q1392981">
-<param title="Batavia" eid="Q1199713">
-<param title="Paul Hermann" eid="Q66569">
-<param title="Species Plantarum" eid="Q849308">
-<param title="Carl Linnaeus" eid="Q1043">
-<param title="Lapland" eid="Q5700">
-<param title="Dutch Republic" eid="Q170072">
-<param title="Philosophical Transactions" eid="Q913162">
-<param title="Royal Society" eid="Q123885">
 
 ### The cinnamon challenge
 In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although the instruction is simple enough – try to swallow a tablespoon of cinnamon at once – it proves to be virtually impossible in practice. Trying to ingest dry, ground cinnamon bark initially causes a severe choke reaction, characterised by extreme exhalation of cinnamon powder (known as 'dragon breath'). Subsequently, the cinnamon combines with saliva in the mouth to produce an indigestible clutter in the back of the throat. Thankfully, this [quite dangerous assignment](https://doi.org/10.1542/peds.2012-3418) will only be a marginal footnote in the history of cinnamon. Those who know cinnamon only from an endless series of ridiculous YouTube videos, or as a quotidian kitchen spice, will be surprised to learn that the real challenge of cinnamon has been an ongoing effort for 2000 years, to find out what cinnamon actually is, as a plant and as a medicine.
@@ -118,6 +100,8 @@ The restrictions of the Dutch on cinnamon exports made it the only real monopoly
 	url="NL-HaNA_4.VEL_939A-groot_cropped.jpg">
 
 Local grievances about the VOC policy for _chenas_, and about extortion of peelers by Sinhalese and Dutch officials, exploded in 1760. Backed by the king of Kandy, the peelers rebelled, leading to a war that lasted until 1766. The war finally may have caused the Dutch to rethink their approach for cinnamon production. Starting in 1769, governor Iman Willem Falck (in office 1765-1785) began to experiment with 'cinnamon gardens' (_kaneeltuinen_), which amounted to nothing less than a successful colonial plantation mechanism. By the end of his governorship, there were 24 million cinnamon trees growing in gardens, which increased to 609 million trees (!) by 1794.[^ref12]
+<param title="Iman Willem Falck" eid="Q16836179">
+<param title="plantation" eid="Q188913">
 <param ve-image
 	title="'Map of the cinnamon gardens with their main roads in the district of Kaliture.' This anonymous, eighteenth-century map shows 70 cinnamon gardens located immediately south of Colombo, between Kaliture (present-day Kalutara) and the mouth of the Bentotte (Bentota) river."
 	attribution="Nationaal Archief, The Hague, 4.VEL 'Inventaris van de verzameling buitenlandse kaarten Leupe, 1584-1865', inv.no. 935 'Kaart van de Salpittie Korls Kanneeltuynen, met dies Hoofdwegens, geleegen in het district Kaliture'."
@@ -130,12 +114,23 @@ The success was short-lived, however. When the British took over control of the 
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
 ### A tool of empire or a tool of science?
-Although cinnamon was a successful monopoly during the Dutch period, was it purely a tool of empire? Production and export were guarded as closely as possible, smuggling was prohibited, and living trees could not leave the island. The Dutch monopoly was about retaining commercial interests above anything else, but not all restrictions were commercially motivated. When the commander of the Dutch possessions on the Malabar coast, Hendrik Adriaan van Rheede tot Drakenstein, experimented with the oil of local cinnamon species as a medicine in 1675, he was reprimanded by Rijckloff van Goens, the governor of Sri Lanka, for breaking the monopoly. The colonial government in Batavia agreed, but Van Rheede justified his actions by letter and continued his work. Here, the motivation of both men was to demonstrate that the medicines from 'their' respective regions were superior. In such instances, interests of empire and personal rivalry intertwined.[^ref14] 
+Although cinnamon was a successful monopoly during the Dutch period, was it purely a tool of empire? Production and export were guarded as closely as possible, smuggling was prohibited, and living trees could not leave the island. The Dutch monopoly was about retaining commercial interests above anything else, but not all restrictions were commercially motivated. When the commander of the Dutch possessions on the Malabar coast, Hendrik Adriaan van Rheede tot Drakenstein, experimented with the oil of local cinnamon species as a medicine in 1675, he was reprimanded by Rijckloff van Goens, the governor of Sri Lanka, for breaking the monopoly. The colonial government in Batavia agreed, but Van Rheede justified his actions by letter and continued his work. Here, the motivation of both men was to demonstrate that the medicines from 'their' respective regions were superior. In such instances, interests of empire and personal rivalry intertwined.[^ref14]
+<param title="Malabar Coast" eid="Q473181">
+<param title="Hendrik van Rheede" eid="Q741104" aliases="Hendrik Adriaan van Rheede tot Drakenstein">
+<param title="Rijckloff van Goens" eid="Q1392981">
+<param title="Batavia" eid="Q1199713">
 <param ve-image
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
 Interests of empire and a disinterested search for knowledge could go hand in hand. The botanist Paul Hermann was employed by the VOC between 1672 and 1677 to gather botanical knowledge on Sri Lanka. Although Hermann barely made it out of Colombo, he managed to collect an impressive amount of material, including many cinnamon specimens.[^ref15] Hermann's collections offered input for decades of scholarly interest in Sri Lankan flora. Many specimens served indirectly as type specimens for the _Species Plantarum_ (1753) of Carl Linnaeus, who dreamed of transplanting cinnamon to Lapland.[^ref16] But Hermann already knew that northern Europe was too cold for cinnamon: in spite of the VOC ban on exporting living plants, he sent trees to several acquaintances in the Dutch Republic, none of which survived the cold winters.[^ref17] Exchange of knowledge and goods was evidently possible: an extensive, first-hand account of all the cinnamon varieties on Sri Lanka even made it into the _Philosophical Transactions_ of the Royal Society in 1730.[^ref18]
+<param title="Paul Hermann" eid="Q66569">
+<param title="Species Plantarum" eid="Q849308">
+<param title="Carl Linnaeus" eid="Q1043">
+<param title="Lapland" eid="Q5700">
+<param title="Dutch Republic" eid="Q170072">
+<param title="Philosophical Transactions" eid="Q913162">
+<param title="Royal Society" eid="Q123885">
 <param ve-image
 	title="'Cinnamon from Ceylon with flowers'. Specimen of   
 _Cinnamomum verum_ J.Presl, from Paul Hermann's herbarium of plants from Sri Lanka in Leiden, specimen no. L.2070171. [This is currently a downloaded image, because the Leiden volumes of Hermann's herbarium are not in JSTOR's Global Plants database. The London volumes are.]"
@@ -247,7 +242,7 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMDU3ODE3MywtMjUzMTk3MDQzLDE1MD
+eyJoaXN0b3J5IjpbMTE1MjY2NTkxMCwtMjUzMTk3MDQzLDE1MD
 U2OTI4MzIsMTY2MTI2MDg0OCwxMDE1MTYxNjMxLC0xNTU4NzY2
 NDA4LDE0MTA4MTE1OTMsLTE1NTUxMDA0OTcsOTE5OTM0NTI5LC
 0yMDY2ODAxODk3LC0xMTA1MDQ2NTQxLDkxNDQ3Mzk2LC0xMzE5
