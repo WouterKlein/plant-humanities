@@ -182,17 +182,17 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref26]: Bleichmar, _Visible Empire_, 26, 31.
 
-[^ref27]: Thomas J. Zumbroich, "The Introduction of Nutmeg (_Myristica fragrans_ Houtt.) and Cinnamon (_Cinnamomum verum_ J. Presl.) to America", _Acta Botánica Venezuélica_, 28:1 (2005) 155-160.
+[^ref27]: Thomas J. Zumbroich, "The Introduction of Nutmeg (_Myristica fragrans_ Houtt.) and Cinnamon (_Cinnamomum verum_ J.Presl) to America", _Acta Botánica Venezuélica_, 28:1 (2005) 155-160.
 
 [^ref28]: U.M. Senanayake and R.O.B. Wijesekera, "Cinnamon and Cassia – The Future Vision", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 327-329.
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjY4MDE4OTcsLTExMDUwNDY1NDEsOT
-E0NDczOTYsLTEzMTkwMjM4MDksNTYwNzc5MjQyLC0xNDU4NDMx
-NzI2LC04NDAyNjYyNzAsLTEyMTQzMzM1ODMsNjQ0MDEyNzQ4LC
-0zNTI3NTg4NDEsNzU0NjIyNDU3LDEwMzAyNjcxODAsLTEzNzYz
-NzM2NDIsNTY3MzUzODEyLDE4NzYzMTU4NzUsMTU3ODA0MjU2MS
-wyMDIxOTc3MTQyLC0xMDg3NTk5MDM3LC0xMzY2MTE1NjAzLC0x
-NzgxMzI0MF19
+eyJoaXN0b3J5IjpbOTE5OTM0NTI5LC0yMDY2ODAxODk3LC0xMT
+A1MDQ2NTQxLDkxNDQ3Mzk2LC0xMzE5MDIzODA5LDU2MDc3OTI0
+MiwtMTQ1ODQzMTcyNiwtODQwMjY2MjcwLC0xMjE0MzMzNTgzLD
+Y0NDAxMjc0OCwtMzUyNzU4ODQxLDc1NDYyMjQ1NywxMDMwMjY3
+MTgwLC0xMzc2MzczNjQyLDU2NzM1MzgxMiwxODc2MzE1ODc1LD
+E1NzgwNDI1NjEsMjAyMTk3NzE0MiwtMTA4NzU5OTAzNywtMTM2
+NjExNTYwM119
 -->
