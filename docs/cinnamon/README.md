@@ -62,8 +62,8 @@
 <param title="Juan de Cuéllar" eid="Q6301228" aliases="">
 <param title="Casimiro Gómez Ortega" eid="Q957993" aliases="">
 <param title="Real Jardín Botánico de Madrid" eid="Q1794858" aliases="Royal Botanical Garden of Madrid">
-<param title="# José Celestino Mutis y Bosio" eid="Q731937" aliases="">
-<param title="" eid="" aliases="">
+<param title="José Celestino Mutis y Bosio" eid="Q731937" aliases="José Celestino Mutis">
+<param title="Botanical Expedition to New Granada" eid="Q7373838" aliases="Royal Botanical Expedition to New Granada">
 <param title="" eid="" aliases="">
 <param title="" eid="" aliases="">
 <param title="" eid="" aliases="">
@@ -255,7 +255,7 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDAzMTUyOTcsMTY2MTI2MDg0OCwxMD
+eyJoaXN0b3J5IjpbLTE0MDcyMDE4MzgsMTY2MTI2MDg0OCwxMD
 E1MTYxNjMxLC0xNTU4NzY2NDA4LDE0MTA4MTE1OTMsLTE1NTUx
 MDA0OTcsOTE5OTM0NTI5LC0yMDY2ODAxODk3LC0xMTA1MDQ2NT
 QxLDkxNDQ3Mzk2LC0xMzE5MDIzODA5LDU2MDc3OTI0MiwtMTQ1
