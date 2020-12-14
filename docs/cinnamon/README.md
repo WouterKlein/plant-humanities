@@ -7,73 +7,65 @@
 	num-specimens="0"
 	num-primary-sources="0"
 	author="Wouter Klein, PhD">
-<param title="cinnamon challenge" eid="Q420721" aliases="">
-<param title="cinnamon" eid="Q370239" aliases="">
-<param title="Sri Lanka" eid="Q854" aliases="">
+<param title="cinnamon challenge" eid="Q420721">
+<param title="cinnamon" eid="Q370239">
+<param title="Sri Lanka" eid="Q854">
 <param title="Pedanius Dioscorides" eid="Q297776" aliases="Dioscorides">
-<param title="East Indies" eid="Q213137" aliases="">
-<param title="Cassia abbreviata" eid="Q145495" aliases="">
-<param title="Cinnamomum" eid="Q27282" aliases="">
-<param title="Garcia de Orta" eid="Q1493994" aliases="">
+<param title="East Indies" eid="Q213137">
+<param title="Cassia abbreviata" eid="Q145495">
+<param title="Cinnamomum" eid="Q27282">
+<param title="Garcia de Orta" eid="Q1493994">
 <param title="Old Goa" eid="Q553907" aliases="Goa">
-<param title="Cinnamomum cassia" eid="Q204148" aliases="">
-<param title="Trajan" eid="Q1425" aliases="">
-<param title="Persian Gulf" eid="Q34675" aliases="">
+<param title="Cinnamomum cassia" eid="Q204148">
+<param title="Trajan" eid="Q1425">
+<param title="Persian Gulf" eid="Q34675">
 <param title="Christopher Columbus" eid="Q7322" aliases="Columbus">
-<param title="Canella winterana" eid="Q2706419" aliases="">
-<param title="Juan Sebastián Elcano" eid="Q201510" aliases="">
+<param title="Canella winterana" eid="Q2706419">
+<param title="Juan Sebastián Elcano" eid="Q201510">
 <param title="Ferdinand Magellan" eid="Q1496" aliases="Magellan's">
-<param title="Philippines" eid="Q928" aliases="">
+<param title="Philippines" eid="Q928">
 <param title="Syzygium aromaticum" eid="Q26736" aliases="cloves">
-<param title="nutmeg" eid="Q83165" aliases="">
+<param title="nutmeg" eid="Q83165">
 <param title="Kingdom of Kotte" eid="Q1589163" aliases="Kotte">
 <param title="Kingdom of Kandy" eid="Q1530762" aliases="Kandy">
-<param title="Colombo" eid="Q35381" aliases="">
-<param title="Jaffna" eid="Q215277" aliases="">
+<param title="Colombo" eid="Q35381">
+<param title="Jaffna" eid="Q215277">
 <param title="Sinhalese people" eid="Q932244" aliases="Sinhalese">
-<param title="Salagama" eid="Q3469487" aliases="">
+<param title="Salagama" eid="Q3469487">
 <param title="Dutch East India Company" eid="Q159766" aliases="Dutch East India Company (VOC)">
 <param title="shifting cultivation" eid="Q287854" aliases="species circulation">
-<param title="Pieter van Dam" eid="Q2681934" aliases="">
-<param title="Iman Willem Falck" eid="Q16836179" aliases="">
-<param title="plantation" eid="Q188913" aliases="">
-<param title="Malabar Coast" eid="Q473181" aliases="">
+<param title="Pieter van Dam" eid="Q2681934">
+<param title="Iman Willem Falck" eid="Q16836179">
+<param title="plantation" eid="Q188913">
+<param title="Malabar Coast" eid="Q473181">
 <param title="Hendrik van Rheede" eid="Q741104" aliases="Hendrik Adriaan van Rheede tot Drakenstein">
-<param title="Rijckloff van Goens" eid="Q1392981" aliases="">
+<param title="Rijckloff van Goens" eid="Q1392981">
 <param title="Batavia" eid="Q1199713">
-<param title="Paul Hermann" eid="Q66569" aliases="">
-<param title="Species Plantarum" eid="Q849308" aliases="">
-<param title="Carl Linnaeus" eid="Q1043" aliases="">
-<param title="Lapland" eid="Q5700" aliases="">
-<param title="Dutch Republic" eid="Q170072" aliases="">
-<param title="Philosophical Transactions" eid="Q913162" aliases="">
-<param title="Royal Society" eid="Q123885" aliases="">
-<param title="Gonzalo Pizarro" eid="Q435292" aliases="">
-<param title="Francisco de Orellana" eid="Q207901" aliases="">
-<param title="Amazon" eid="Q3783" aliases="">
-<param title="El Dorado" eid="Q192550" aliases="">
-<param title="Joseph de Jussieu" eid="Q1347343" aliases="">
-<param title="Cape of Good Hope" eid="Q4092" aliases="">
-<param title="Cape Horn" eid="Q4078" aliases="">
-<param title="Alonso de Ovalle" eid="Q2839275" aliases="">
+<param title="Paul Hermann" eid="Q66569">
+<param title="Species Plantarum" eid="Q849308">
+<param title="Carl Linnaeus" eid="Q1043">
+<param title="Lapland" eid="Q5700">
+<param title="Dutch Republic" eid="Q170072">
+<param title="Philosophical Transactions" eid="Q913162">
+<param title="Royal Society" eid="Q123885">
+<param title="Gonzalo Pizarro" eid="Q435292">
+<param title="Francisco de Orellana" eid="Q207901">
+<param title="Amazon" eid="Q3783">
+<param title="El Dorado" eid="Q192550">
+<param title="Joseph de Jussieu" eid="Q1347343">
+<param title="Cape of Good Hope" eid="Q4092">
+<param title="Cape Horn" eid="Q4078">
+<param title="Alonso de Ovalle" eid="Q2839275">
 <param title="Society of Jesus" eid="Q36380" aliases="Jesuits">
-<param title="Cinnamomum burmanni" eid="Q4115136" aliases="">
-<param title="Cinnamomum cebuense" eid="Q5121027" aliases="">
-<param title="Juan de Cuéllar" eid="Q6301228" aliases="">
-<param title="Casimiro Gómez Ortega" eid="Q957993" aliases="">
+<param title="Cinnamomum burmanni" eid="Q4115136">
+<param title="Cinnamomum cebuense" eid="Q5121027">
+<param title="Juan de Cuéllar" eid="Q6301228">
+<param title="Casimiro Gómez Ortega" eid="Q957993">
 <param title="Real Jardín Botánico de Madrid" eid="Q1794858" aliases="Royal Botanical Garden of Madrid">
 <param title="José Celestino Mutis y Bosio" eid="Q731937" aliases="José Celestino Mutis">
 <param title="Botanical Expedition to New Granada" eid="Q7373838" aliases="Royal Botanical Expedition to New Granada">
-<param title="Guadeloupe" eid="Q17012" aliases="">
-<param title="Saint Vincent" eid="Q379656" aliases="">
-<param title="" eid="" aliases="">
-<param title="" eid="" aliases="">
-<param title="" eid="" aliases="">
-<param title="" eid="" aliases="">
-<param title="" eid="" aliases="">
-<param title="" eid="" aliases="">
-<param title="" eid="" aliases="">
-<param title="" eid="" aliases="">
+<param title="Guadeloupe" eid="Q17012">
+<param title="Saint Vincent" eid="Q379656">
 
 ### The cinnamon challenge
 In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although the instruction is simple enough – try to swallow a tablespoon of cinnamon at once – it proves to be virtually impossible in practice. Trying to ingest dry, ground cinnamon bark initially causes a severe choke reaction, characterised by extreme exhalation of cinnamon powder (known as 'dragon breath'). Subsequently, the cinnamon combines with saliva in the mouth to produce an indigestible clutter in the back of the throat. Thankfully, this [quite dangerous assignment](https://doi.org/10.1542/peds.2012-3418) will only be a marginal footnote in the history of cinnamon. Those who know cinnamon only from an endless series of ridiculous YouTube videos, or as a quotidian kitchen spice, will be surprised to learn that the real challenge of cinnamon has been an ongoing effort for 2000 years, to find out what cinnamon actually is, as a plant and as a medicine.
@@ -255,11 +247,11 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNTY5MjgzMiwxNjYxMjYwODQ4LDEwMT
-UxNjE2MzEsLTE1NTg3NjY0MDgsMTQxMDgxMTU5MywtMTU1NTEw
-MDQ5Nyw5MTk5MzQ1MjksLTIwNjY4MDE4OTcsLTExMDUwNDY1ND
-EsOTE0NDczOTYsLTEzMTkwMjM4MDksNTYwNzc5MjQyLC0xNDU4
-NDMxNzI2LC04NDAyNjYyNzAsLTEyMTQzMzM1ODMsNjQ0MDEyNz
-Q4LC0zNTI3NTg4NDEsNzU0NjIyNDU3LDEwMzAyNjcxODAsLTEz
-NzYzNzM2NDJdfQ==
+eyJoaXN0b3J5IjpbMTEyNDc1NTksMTUwNTY5MjgzMiwxNjYxMj
+YwODQ4LDEwMTUxNjE2MzEsLTE1NTg3NjY0MDgsMTQxMDgxMTU5
+MywtMTU1NTEwMDQ5Nyw5MTk5MzQ1MjksLTIwNjY4MDE4OTcsLT
+ExMDUwNDY1NDEsOTE0NDczOTYsLTEzMTkwMjM4MDksNTYwNzc5
+MjQyLC0xNDU4NDMxNzI2LC04NDAyNjYyNzAsLTEyMTQzMzM1OD
+MsNjQ0MDEyNzQ4LC0zNTI3NTg4NDEsNzU0NjIyNDU3LDEwMzAy
+NjcxODBdfQ==
 -->
