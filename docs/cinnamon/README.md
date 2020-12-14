@@ -89,7 +89,7 @@ The success was short-lived, however. When the British took over control of the 
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
 ### A tool of empire or a tool of science?
-Although cinnamon was a successful monopoly during the Dutch period, was it only a tool of empire? Production and export were guarded as closely as possible, smuggling was prohibited, and living trees could not leave the island. The Dutch monopoly was about retaining commercial interests above anything else, but not all restrictions were commercially motivated. When the commander of the Dutch possessions on the Malabar coast, Hendrik Adriaan van Rheede tot Drakenstein, experimented with the oil of local cinnamon species as a medicine in 1675, he was reprimanded by Rijckloff van Goens, the governor of Sri Lanka, for breaking the monopoly. The colonial government in Batavia agreed, but Van Rheede justified his actions by letter and continued his work. Here, the motivation of both men was to demonstrate that the medicines from 'their' respective regions were superior. In such instances, interests of empire and personal rivalry intertwined.[^ref14] 
+Although cinnamon was a successful monopoly during the Dutch period, was it purely a tool of empire? Production and export were guarded as closely as possible, smuggling was prohibited, and living trees could not leave the island. The Dutch monopoly was about retaining commercial interests above anything else, but not all restrictions were commercially motivated. When the commander of the Dutch possessions on the Malabar coast, Hendrik Adriaan van Rheede tot Drakenstein, experimented with the oil of local cinnamon species as a medicine in 1675, he was reprimanded by Rijckloff van Goens, the governor of Sri Lanka, for breaking the monopoly. The colonial government in Batavia agreed, but Van Rheede justified his actions by letter and continued his work. Here, the motivation of both men was to demonstrate that the medicines from 'their' respective regions were superior. In such instances, interests of empire and personal rivalry intertwined.[^ref14] 
 <param ve-image
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
@@ -188,7 +188,7 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTI2MDY5OSwtMTMxOTAyMzgwOSw1Nj
+eyJoaXN0b3J5IjpbLTgwODQyMzk2NiwtMTMxOTAyMzgwOSw1Nj
 A3NzkyNDIsLTE0NTg0MzE3MjYsLTg0MDI2NjI3MCwtMTIxNDMz
 MzU4Myw2NDQwMTI3NDgsLTM1Mjc1ODg0MSw3NTQ2MjI0NTcsMT
 AzMDI2NzE4MCwtMTM3NjM3MzY0Miw1NjczNTM4MTIsMTg3NjMx
