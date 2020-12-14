@@ -18,9 +18,9 @@
 <param title="Old Goa" eid="#Q553907" aliases="Goa">
 <param title="Cinnamomum cassia" eid="#Q204148" aliases="">
 <param title="Trajan" eid="#Q1425" aliases="">
-<param title="" eid="" aliases="">
-<param title="" eid="" aliases="">
-<param title="" eid="" aliases="">
+<param title="Persian Gulf" eid="#Q34675" aliases="">
+<param title="Christopher Columbus" eid="#Q7322" aliases="Columbus">
+<param title="Canella winterana" eid="#Q2706419" aliases="">
 <param title="" eid="" aliases="">
 <param title="" eid="" aliases="">
 <param title="" eid="" aliases="">
@@ -210,7 +210,7 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDc5MzE3MTksLTE1NTUxMDA0OTcsOT
+eyJoaXN0b3J5IjpbLTE4MDAzNjAxMTEsLTE1NTUxMDA0OTcsOT
 E5OTM0NTI5LC0yMDY2ODAxODk3LC0xMTA1MDQ2NTQxLDkxNDQ3
 Mzk2LC0xMzE5MDIzODA5LDU2MDc3OTI0MiwtMTQ1ODQzMTcyNi
 wtODQwMjY2MjcwLC0xMjE0MzMzNTgzLDY0NDAxMjc0OCwtMzUy
