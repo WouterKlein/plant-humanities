@@ -7,27 +7,27 @@
 	num-specimens="0"
 	num-primary-sources="0"
 	author="Wouter Klein, PhD">
-<param title="cinnamon challenge" eid="#Q420721" aliases="">
-<param title="cinnamon" eid="#Q370239" aliases="">
+<param title="cinnamon challenge" eid="Q420721" aliases="">
+<param title="cinnamon" eid="Q370239" aliases="">
 <param title="Sri Lanka" eid="Q854" aliases="">
-<param title="Pedanius Dioscorides" eid="#Q297776" aliases="Dioscorides">
-<param title="East Indies" eid="#213137" aliases="">
-<param title="Cassia abbreviata" eid="#Q145495" aliases="">
-<param title="Cinnamomum" eid="#Q27282" aliases="">
-<param title="Garcia de Orta" eid="#Q1493994" aliases="">
-<param title="Old Goa" eid="#Q553907" aliases="Goa">
-<param title="Cinnamomum cassia" eid="#Q204148" aliases="">
-<param title="Trajan" eid="#Q1425" aliases="">
-<param title="Persian Gulf" eid="#Q34675" aliases="">
-<param title="Christopher Columbus" eid="#Q7322" aliases="Columbus">
-<param title="Canella winterana" eid="#Q2706419" aliases="">
-<param title="Juan Sebastián Elcano" eid="#Q201510" aliases="">
-<param title="Ferdinand Magellan" eid="#Q1496" aliases="Magellan's">
-<param title="Philippines" eid="#Q928" aliases="">
-<param title="Syzygium aromaticum" eid="#Q26736" aliases="cloves">
-<param title="nutmeg" eid="#Q83165" aliases="">
-<param title="Kingdom of Kotte" eid="#Q1589163" aliases="Kotte">
-<param title="Kingdom of Kandy" eid="#Q1530762" aliases="Kandy">
+<param title="Pedanius Dioscorides" eid="Q297776" aliases="Dioscorides">
+<param title="East Indies" eid="Q213137" aliases="">
+<param title="Cassia abbreviata" eid="Q145495" aliases="">
+<param title="Cinnamomum" eid="Q27282" aliases="">
+<param title="Garcia de Orta" eid="Q1493994" aliases="">
+<param title="Old Goa" eid="Q553907" aliases="Goa">
+<param title="Cinnamomum cassia" eid="Q204148" aliases="">
+<param title="Trajan" eid="Q1425" aliases="">
+<param title="Persian Gulf" eid="Q34675" aliases="">
+<param title="Christopher Columbus" eid="Q7322" aliases="Columbus">
+<param title="Canella winterana" eid="Q2706419" aliases="">
+<param title="Juan Sebastián Elcano" eid="Q201510" aliases="">
+<param title="Ferdinand Magellan" eid="Q1496" aliases="Magellan's">
+<param title="Philippines" eid="Q928" aliases="">
+<param title="Syzygium aromaticum" eid="Q26736" aliases="cloves">
+<param title="nutmeg" eid="Q83165" aliases="">
+<param title="Kingdom of Kotte" eid="Q1589163" aliases="Kotte">
+<param title="Kingdom of Kandy" eid="Q1530762" aliases="Kandy">
 <param title="Colombo" eid="Q35381" aliases="">
 <param title="Jaffna" eid="Q215277" aliases="">
 <param title="Sinhalese people" eid="Q932244" aliases="Sinhalese">
@@ -53,8 +53,8 @@
 <param title="Amazon" eid="Q3783" aliases="">
 <param title="El Dorado" eid="Q192550" aliases="">
 <param title="Joseph de Jussieu" eid="Q1347343" aliases="">
-<param title="" eid="" aliases="">
-<param title="" eid="" aliases="">
+<param title="Cape of Good Hope" eid="Q4092" aliases="">
+<param title="Cape Horn" eid="" aliases="">
 <param title="" eid="" aliases="">
 <param title="" eid="" aliases="">
 <param title="" eid="" aliases="">
@@ -243,11 +243,11 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjgzNTk5NjcsMTY2MTI2MDg0OCwxMD
-E1MTYxNjMxLC0xNTU4NzY2NDA4LDE0MTA4MTE1OTMsLTE1NTUx
-MDA0OTcsOTE5OTM0NTI5LC0yMDY2ODAxODk3LC0xMTA1MDQ2NT
-QxLDkxNDQ3Mzk2LC0xMzE5MDIzODA5LDU2MDc3OTI0MiwtMTQ1
-ODQzMTcyNiwtODQwMjY2MjcwLC0xMjE0MzMzNTgzLDY0NDAxMj
-c0OCwtMzUyNzU4ODQxLDc1NDYyMjQ1NywxMDMwMjY3MTgwLC0x
-Mzc2MzczNjQyXX0=
+eyJoaXN0b3J5IjpbLTM3ODI3Nzg2MSwxNjYxMjYwODQ4LDEwMT
+UxNjE2MzEsLTE1NTg3NjY0MDgsMTQxMDgxMTU5MywtMTU1NTEw
+MDQ5Nyw5MTk5MzQ1MjksLTIwNjY4MDE4OTcsLTExMDUwNDY1ND
+EsOTE0NDczOTYsLTEzMTkwMjM4MDksNTYwNzc5MjQyLC0xNDU4
+NDMxNzI2LC04NDAyNjYyNzAsLTEyMTQzMzM1ODMsNjQ0MDEyNz
+Q4LC0zNTI3NTg4NDEsNzU0NjIyNDU3LDEwMzAyNjcxODAsLTEz
+NzYzNzM2NDJdfQ==
 -->
