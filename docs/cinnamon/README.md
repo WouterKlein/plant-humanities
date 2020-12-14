@@ -61,7 +61,7 @@ The Dutch made even stronger, concerted efforts to get a hold on cinnamon. They 
 	center="7.792820, 80.750146"
 	zoom="7.6">
 
-Peelers were specialized laborers from the Sinhalese caste _Salagama_ (also known as _Saliya_ or _Chaliya_). Although their skills were indispensable for the cinnamon trade, they were treated harshly by the Dutch. Each year, the peelers gathered in Colombo for a ceremony where they pledged loyalty to the Dutch governor. There was a long peeling season for cinnamon between May and August, and a short one between January and February. On both occassions, groups of men were sent off into the woods with nothing but paring knives and an amount of rice. Adult men were obliged to bring back 12 _robes_ (of 56 pounds each) at the end of the summer season. Boys from 12 years of age had to contribute proportionally. Dutch sources often complained about peelers as lazy and unreliable, but the peelers had a hard life. They were away from home for months, had to provide for themselves while working in the forests, where they were subject to diseases, and they were severely punished if they did not meet their quotum.[^ref9]
+Peelers were specialized laborers from the Sinhalese caste _Salagama_ (also known as _Saliya_ or _Chaliya_). Although their skills were indispensable for the cinnamon trade, they were treated harshly by the Dutch. Each year, the peelers gathered in Colombo for a ceremony where they pledged loyalty to the Dutch governor. There was a long peeling season for cinnamon between May and August, and a short season in January and February. On both occassions, groups of men were sent off into the woods with nothing but paring knives and an amount of rice. Adult men were obliged to bring back 12 _robes_ (of 56 pounds each) at the end of the summer season. Boys from 12 years of age had to contribute proportionally. Dutch sources often complained about peelers as lazy and unreliable, but the peelers had a hard life. They were away from home for months, had to provide for themselves while working in the forests, where they were subject to diseases, and they were severely punished if they did not meet their quotum.[^ref9]
 <param ve-image
 	title="Imaginary landscapes with spices from the East Indies. On the left can be seen a nutmeg tree, a cinnamon tree, and an elephant chase in the background. On the right can be seen a cloves tree and bamboo, with the volcano Ternate in the back. Etching by Romeyn de Hooghe, produced between 1682 and 1733. Rijksmuseum, Amsterdam, object no. BI-1972-1043-16, serial no. 10/41."
 	url="https://upload.wikimedia.org/wikipedia/commons/f/f3/Kaneel%2C_nootmuskaat%2C_kruidnagel_en_bamboe_Kaneel_en_Nootmus_Canelle%2C_Muscade%2C_Chasse_des_Elephans%2C_etc_Kruytnagelengewas_Girofle%2C_Bambous%2C_Montagne_brulante%2C_etc_%28titel_op_object%29_Les_Indes_Orientales_et_Occidentales_e%2C_BI-1972-1043-16.jpg">
@@ -188,11 +188,11 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODc3NDQyMDQsLTEzMTkwMjM4MDksNT
-YwNzc5MjQyLC0xNDU4NDMxNzI2LC04NDAyNjYyNzAsLTEyMTQz
-MzM1ODMsNjQ0MDEyNzQ4LC0zNTI3NTg4NDEsNzU0NjIyNDU3LD
-EwMzAyNjcxODAsLTEzNzYzNzM2NDIsNTY3MzUzODEyLDE4NzYz
-MTU4NzUsMTU3ODA0MjU2MSwyMDIxOTc3MTQyLC0xMDg3NTk5MD
-M3LC0xMzY2MTE1NjAzLC0xNzgxMzI0MCwtOTc4ODE2NDY5LC05
-ODEyMjU0NDJdfQ==
+eyJoaXN0b3J5IjpbMTAzMTg1NzYwMCwtMTMxOTAyMzgwOSw1Nj
+A3NzkyNDIsLTE0NTg0MzE3MjYsLTg0MDI2NjI3MCwtMTIxNDMz
+MzU4Myw2NDQwMTI3NDgsLTM1Mjc1ODg0MSw3NTQ2MjI0NTcsMT
+AzMDI2NzE4MCwtMTM3NjM3MzY0Miw1NjczNTM4MTIsMTg3NjMx
+NTg3NSwxNTc4MDQyNTYxLDIwMjE5NzcxNDIsLTEwODc1OTkwMz
+csLTEzNjYxMTU2MDMsLTE3ODEzMjQwLC05Nzg4MTY0NjksLTk4
+MTIyNTQ0Ml19
 -->
