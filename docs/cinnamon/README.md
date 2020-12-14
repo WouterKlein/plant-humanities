@@ -27,8 +27,8 @@
 <param title="Syzygium aromaticum" eid="#Q26736" aliases="cloves">
 <param title="nutmeg" eid="#Q83165" aliases="">
 <param title="Kingdom of Kotte" eid="#Q1589163" aliases="Kotte">
-<param title="" eid="" aliases="">
-<param title="" eid="" aliases="">
+<param title="Kingdom of Kandy" eid="#Q1530762" aliases="Kandy">
+<param title="Colombo" eid="Q35381" aliases="">
 <param title="" eid="" aliases="">
 <param title="" eid="" aliases="">
 <param title="" eid="" aliases="">
@@ -221,11 +221,11 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTg3NjY0MDgsMTQxMDgxMTU5MywtMT
-U1NTEwMDQ5Nyw5MTk5MzQ1MjksLTIwNjY4MDE4OTcsLTExMDUw
-NDY1NDEsOTE0NDczOTYsLTEzMTkwMjM4MDksNTYwNzc5MjQyLC
-0xNDU4NDMxNzI2LC04NDAyNjYyNzAsLTEyMTQzMzM1ODMsNjQ0
-MDEyNzQ4LC0zNTI3NTg4NDEsNzU0NjIyNDU3LDEwMzAyNjcxOD
-AsLTEzNzYzNzM2NDIsNTY3MzUzODEyLDE4NzYzMTU4NzUsMTU3
-ODA0MjU2MV19
+eyJoaXN0b3J5IjpbLTE5MTc2Mjk2OTYsLTE1NTg3NjY0MDgsMT
+QxMDgxMTU5MywtMTU1NTEwMDQ5Nyw5MTk5MzQ1MjksLTIwNjY4
+MDE4OTcsLTExMDUwNDY1NDEsOTE0NDczOTYsLTEzMTkwMjM4MD
+ksNTYwNzc5MjQyLC0xNDU4NDMxNzI2LC04NDAyNjYyNzAsLTEy
+MTQzMzM1ODMsNjQ0MDEyNzQ4LC0zNTI3NTg4NDEsNzU0NjIyND
+U3LDEwMzAyNjcxODAsLTEzNzYzNzM2NDIsNTY3MzUzODEyLDE4
+NzYzMTU4NzVdfQ==
 -->
