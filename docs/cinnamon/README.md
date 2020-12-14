@@ -29,6 +29,17 @@
 <param title="Kingdom of Kotte" eid="#Q1589163" aliases="Kotte">
 <param title="" eid="" aliases="">
 <param title="" eid="" aliases="">
+<param title="" eid="" aliases="">
+<param title="" eid="" aliases="">
+<param title="" eid="" aliases="">
+<param title="" eid="" aliases="">
+<param title="" eid="" aliases="">
+<param title="" eid="" aliases="">
+<param title="" eid="" aliases="">
+<param title="" eid="" aliases="">
+<param title="" eid="" aliases="">
+<param title="" eid="" aliases="">
+<param title="" eid="" aliases="">
 
 ### The cinnamon challenge
 In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although the instruction is simple enough – try to swallow a tablespoon of cinnamon at once – it proves to be virtually impossible in practice. Trying to ingest dry, ground cinnamon bark initially causes a severe choke reaction, characterised by extreme exhalation of cinnamon powder (known as 'dragon breath'). Subsequently, the cinnamon combines with saliva in the mouth to produce an indigestible clutter in the back of the throat. Thankfully, this [quite dangerous assignment](https://doi.org/10.1542/peds.2012-3418) will only be a marginal footnote in the history of cinnamon. Those who know cinnamon only from an endless series of ridiculous YouTube videos, or as a quotidian kitchen spice, will be surprised to learn that the real challenge of cinnamon has been an ongoing effort for 2000 years, to find out what cinnamon actually is, as a plant and as a medicine.
@@ -210,11 +221,11 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NDgyNzQ5MCwxNDEwODExNTkzLC0xNT
-U1MTAwNDk3LDkxOTkzNDUyOSwtMjA2NjgwMTg5NywtMTEwNTA0
-NjU0MSw5MTQ0NzM5NiwtMTMxOTAyMzgwOSw1NjA3NzkyNDIsLT
-E0NTg0MzE3MjYsLTg0MDI2NjI3MCwtMTIxNDMzMzU4Myw2NDQw
-MTI3NDgsLTM1Mjc1ODg0MSw3NTQ2MjI0NTcsMTAzMDI2NzE4MC
-wtMTM3NjM3MzY0Miw1NjczNTM4MTIsMTg3NjMxNTg3NSwxNTc4
-MDQyNTYxXX0=
+eyJoaXN0b3J5IjpbLTE1NTg3NjY0MDgsMTQxMDgxMTU5MywtMT
+U1NTEwMDQ5Nyw5MTk5MzQ1MjksLTIwNjY4MDE4OTcsLTExMDUw
+NDY1NDEsOTE0NDczOTYsLTEzMTkwMjM4MDksNTYwNzc5MjQyLC
+0xNDU4NDMxNzI2LC04NDAyNjYyNzAsLTEyMTQzMzM1ODMsNjQ0
+MDEyNzQ4LC0zNTI3NTg4NDEsNzU0NjIyNDU3LDEwMzAyNjcxOD
+AsLTEzNzYzNzM2NDIsNTY3MzUzODEyLDE4NzYzMTU4NzUsMTU3
+ODA0MjU2MV19
 -->
