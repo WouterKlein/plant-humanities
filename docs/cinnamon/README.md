@@ -48,11 +48,6 @@
 <param title="Dutch Republic" eid="Q170072">
 <param title="Philosophical Transactions" eid="Q913162">
 <param title="Royal Society" eid="Q123885">
-<param title="Gonzalo Pizarro" eid="Q435292">
-<param title="Francisco de Orellana" eid="Q207901">
-<param title="Amazon" eid="Q3783">
-<param title="El Dorado" eid="Q192550">
-<param title="Joseph de Jussieu" eid="Q1347343">
 
 ### The cinnamon challenge
 In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although the instruction is simple enough – try to swallow a tablespoon of cinnamon at once – it proves to be virtually impossible in practice. Trying to ingest dry, ground cinnamon bark initially causes a severe choke reaction, characterised by extreme exhalation of cinnamon powder (known as 'dragon breath'). Subsequently, the cinnamon combines with saliva in the mouth to produce an indigestible clutter in the back of the throat. Thankfully, this [quite dangerous assignment](https://doi.org/10.1542/peds.2012-3418) will only be a marginal footnote in the history of cinnamon. Those who know cinnamon only from an endless series of ridiculous YouTube videos, or as a quotidian kitchen spice, will be surprised to learn that the real challenge of cinnamon has been an ongoing effort for 2000 years, to find out what cinnamon actually is, as a plant and as a medicine.
@@ -150,6 +145,11 @@ _Cinnamomum verum_ J.Presl, from Paul Hermann's herbarium of plants from Sri Lan
 ### Cinnamon and the imagination of empire
 
 Meanwhile, other states were desperate to have cinnamon for themselves. This was especially true for Spain and its empire. Spain tried – ultimately with no success – to acquire cinnamon trees itself, or at least to copy Dutch practices for exotic plants in its colonies.[^ref19] The Spanish quest for cinnamon in the New World even went back as far as the early days of exploration: we already came across Columbus's efforts to find cinnamon on his journeys. The famous expedition of Gonzalo Pizarro and Francisco de Orellana along the Amazon river (1541-1542) was also intended to find the legendary 'Land of Cinnamon' (_País de la Canela_), which was associated with the land of gold, El Dorado. Their journey still inspired the French botanist Joseph de Jussieu to find the cinnamon lands of South America in the 1740s.[^ref20]
+<param title="Gonzalo Pizarro" eid="Q435292">
+<param title="Francisco de Orellana" eid="Q207901">
+<param title="Amazon" eid="Q3783">
+<param title="El Dorado" eid="Q192550">
+<param title="Joseph de Jussieu" eid="Q1347343">
 <param ve-map
 	title="[Might be cool to include a map here, of the Pizarro and Orellana expedition. There is reusable geodata avilable on http://sharemap.org/public/Francisco_de_Orellana_Amazon_River_voyage_(1541-1542)#!webgl]"
 	center="-1.961220, -63.523771"
@@ -247,7 +247,7 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNjc4NjY3OSwtMjUzMTk3MDQzLDE1MD
+eyJoaXN0b3J5IjpbMTkwMDU3ODE3MywtMjUzMTk3MDQzLDE1MD
 U2OTI4MzIsMTY2MTI2MDg0OCwxMDE1MTYxNjMxLC0xNTU4NzY2
 NDA4LDE0MTA4MTE1OTMsLTE1NTUxMDA0OTcsOTE5OTM0NTI5LC
 0yMDY2ODAxODk3LC0xMTA1MDQ2NTQxLDkxNDQ3Mzk2LC0xMzE5
