@@ -119,7 +119,7 @@ And Spain really needed cinnamon. One eighteenth-century report estimated that t
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
-A third, and most daring strategy, was to transplant the 'true' cinnamon to Spanish territories. This was an important objective for men like Casimiro Gómez Ortega, director of the Royal botanical Garden in Madrid between 1771 and 1801, and José Celestino Mutis, the Spanish botanist who initiated the Royal Botanical Expedition to New Granada from 1783 onwards. Gómez Ortega published an 'Instruction on the Safest and Most Economical Means of Transporting Live Plants by Sea and by Land to the Most Distant Countries' in 1779. The document invited and instructed naturalists everywhere to contribute plants and plant knowledge for the Spanish empire. Cinnamon was explicitly mentioned as one of the target species. Similarly, Mutis addressed the Spanish crown in the 1760s to support his plans for botanical expeditions in South America. New plant knowledge would greatly benefit the empire, and again cinnamon was explicitly mentioned.[^ref26] However, Spain never succeeded in growing 'true' cinnamon in South America, contrary to the French on Guadeloupe (1762) and the British on Saint Vincent (1768).[^ref27]
+A third, and most daring strategy, was to transplant the 'true' cinnamon to Spanish territories. This was an important objective for men like Casimiro Gómez Ortega, director of the Royal botanical Garden in Madrid between 1771 and 1801, and José Celestino Mutis, the Spanish botanist who initiated the Royal Botanical Expedition to New Granada from 1783 onwards. Gómez Ortega published an instruction in 1779, which invited naturalists everywhere to contribute plants and plant knowledge for the Spanish empire. Cinnamon was explicitly mentioned as one of the target species. Similarly, Mutis addressed the Spanish crown in the 1760s to support his plans for botanical expeditions in South America. New plant knowledge would greatly benefit the empire, and again cinnamon was explicitly mentioned.[^ref26] However, Spain never succeeded in growing 'true' cinnamon in South America, contrary to the French on Guadeloupe (1762) and the British on Saint Vincent (1768).[^ref27]
 <param ve-image
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
@@ -188,11 +188,11 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI2MjAxMzI5LDkxNDQ3Mzk2LC0xMzE5MD
-IzODA5LDU2MDc3OTI0MiwtMTQ1ODQzMTcyNiwtODQwMjY2Mjcw
-LC0xMjE0MzMzNTgzLDY0NDAxMjc0OCwtMzUyNzU4ODQxLDc1ND
-YyMjQ1NywxMDMwMjY3MTgwLC0xMzc2MzczNjQyLDU2NzM1Mzgx
-MiwxODc2MzE1ODc1LDE1NzgwNDI1NjEsMjAyMTk3NzE0MiwtMT
-A4NzU5OTAzNywtMTM2NjExNTYwMywtMTc4MTMyNDAsLTk3ODgx
-NjQ2OV19
+eyJoaXN0b3J5IjpbLTExMDUwNDY1NDEsOTE0NDczOTYsLTEzMT
+kwMjM4MDksNTYwNzc5MjQyLC0xNDU4NDMxNzI2LC04NDAyNjYy
+NzAsLTEyMTQzMzM1ODMsNjQ0MDEyNzQ4LC0zNTI3NTg4NDEsNz
+U0NjIyNDU3LDEwMzAyNjcxODAsLTEzNzYzNzM2NDIsNTY3MzUz
+ODEyLDE4NzYzMTU4NzUsMTU3ODA0MjU2MSwyMDIxOTc3MTQyLC
+0xMDg3NTk5MDM3LC0xMzY2MTE1NjAzLC0xNzgxMzI0MCwtOTc4
+ODE2NDY5XX0=
 -->
