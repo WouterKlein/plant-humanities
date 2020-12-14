@@ -7,29 +7,30 @@
 	num-specimens="0"
 	num-primary-sources="0"
 	author="Wouter Klein, PhD">
-<param title="cinnamon challenge" eid="Q420721">
-<param title="cinnamon" eid="Q370239">
-<param title="Sri Lanka" eid="Q854">
-<param title="Pedanius Dioscorides" eid="Q297776" aliases="Dioscorides">
-<param title="East Indies" eid="Q213137">
-<param title="Cassia abbreviata" eid="Q145495">
-<param title="Cinnamomum" eid="Q27282">
-<param title="Garcia de Orta" eid="Q1493994">
-<param title="Old Goa" eid="Q553907" aliases="Goa">
 
 ### The cinnamon challenge
 In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although the instruction is simple enough – try to swallow a tablespoon of cinnamon at once – it proves to be virtually impossible in practice. Trying to ingest dry, ground cinnamon bark initially causes a severe choke reaction, characterised by extreme exhalation of cinnamon powder (known as 'dragon breath'). Subsequently, the cinnamon combines with saliva in the mouth to produce an indigestible clutter in the back of the throat. Thankfully, this [quite dangerous assignment](https://doi.org/10.1542/peds.2012-3418) will only be a marginal footnote in the history of cinnamon. Those who know cinnamon only from an endless series of ridiculous YouTube videos, or as a quotidian kitchen spice, will be surprised to learn that the real challenge of cinnamon has been an ongoing effort for 2000 years, to find out what cinnamon actually is, as a plant and as a medicine.
+<param title="cinnamon challenge" eid="Q420721">
+<param title="cinnamon" eid="Q28165">
 <param ve-video
 	vid="cmpd58kMl2s"
 	title="Mythbusters Cinnamon Challenge.">
 	
 ### Forgotten knowledge and fabricated history
 Cinnamon had a long history before any European ever saw 'true' cinnamon (_Cinnamomum verum_ J.Presl), which originally grew only on Sri Lanka. Here immediately lies the key to understanding the history of cinnamon: it is mostly about a plant-based product carrying that name, not about any particular plant species like the one mentioned above. This is a crucial observation, because a lot of confusion about cinnamon emanates from the incorrect equation of _names_ with _plants_. To be more precise: in the Latin west, it has long been assumed that the plants _cinnamomum_ (κιννάμωμον in Greek) and _cassia_ (κασία), as described by ancient medical authorities (notably Dioscorides), are the same plants as those found in the East Indies in the sixteenth century. A recent revision of archaeological, historical, linguistic and botanical evidence, however, has suggested that the cinnamon of ancient history was probably an East-African plant, _Cassia abbreviata_ Oliv., which is not related to the genus _Cinnamomum_.[^ref1]
+<param title="cinnamon" eid="Q28165">
+<param title="Sri Lanka" eid="Q854">
+<param title="Pedanius Dioscorides" eid="Q297776" aliases="Dioscorides">
+<param title="East Indies" eid="Q213137">
+<param title="Cassia abbreviata" eid="Q145495">
+<param title="Cinnamomum" eid="Q27282">
 <param ve-image
 	title="Cinnamon, from a medieval Arabian manuscript of Dioscorides's _De Materia medica_ (first century CE). Translated in Arabic by an unknown scribe in Spain (twelfth-thirteenth century), and currently in the Bibliothèque Nationale de France, ms. Arabe 2850, f. 129b. [Note: I downloaded this image from HOLLIS Images. The image has a manifest but it is no reusable, as it requires a login to access.]"
 	url="18040817.jpg">
 	
 How could this confusion last so long? First, a possible explanation for the shift from an East-African to a South-East-Asian plant is linguistic. In medieval Latin, the name for cinnamon from the East Indies was _canella_, which still resounds in many European languages today. For some reason, the names _canella_ and _cinnamomum_ both began to be associated with the East Indian spice in the Middle Ages.[^ref2] In the wake of the European voyages of discovery in the fifteenth and sixteenth centuries, European scholars writing about cinnamon would turn to classical, not medieval sources, to understand the spice and its properties. They managed to resolve the discrepancies they found between classical descriptions of the spice and the plant that was found in Sri Lanka. For instance, in his book [_Colloquies on the Simples and Drugs of India_](http://digital.ub.uni-duesseldorf.de/vester/content/pageview/4968642) (1563), the Portuguese physician Garcia de Orta, who worked in Goa, explained the differences between his own observations and classical authors' descriptions of cinnamon by the fact that the latter had only known the processed spice, not the plant.[^ref3]
+<param title="Garcia de Orta" eid="Q1493994">
+<param title="Old Goa" eid="Q553907" aliases="Goa">
 <param ve-image
 	title="Cinnamon leaf and bark, in Garcia de Orta, _Aromatum, et Simplicium aliquot Medicamentorum apud Indos nascentium Historia_ (Antverpiae: Ex officina Christophori Plantini 1567) 72. The images were not in Orta's original Portuguese publication of 1563, but they were added by the editor, Flemish botanist Carolus Clusius, for this Latin edition."
 	url="https://www.archive.org/download/mobot31753003488159/page/n71_w314">
@@ -247,11 +248,11 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkzNjg1MzIzLC0yNTMxOTcwNDMsMTUwNT
-Y5MjgzMiwxNjYxMjYwODQ4LDEwMTUxNjE2MzEsLTE1NTg3NjY0
-MDgsMTQxMDgxMTU5MywtMTU1NTEwMDQ5Nyw5MTk5MzQ1MjksLT
-IwNjY4MDE4OTcsLTExMDUwNDY1NDEsOTE0NDczOTYsLTEzMTkw
-MjM4MDksNTYwNzc5MjQyLC0xNDU4NDMxNzI2LC04NDAyNjYyNz
-AsLTEyMTQzMzM1ODMsNjQ0MDEyNzQ4LC0zNTI3NTg4NDEsNzU0
-NjIyNDU3XX0=
+eyJoaXN0b3J5IjpbLTE5OTI1Njc4MTIsLTI1MzE5NzA0MywxNT
+A1NjkyODMyLDE2NjEyNjA4NDgsMTAxNTE2MTYzMSwtMTU1ODc2
+NjQwOCwxNDEwODExNTkzLC0xNTU1MTAwNDk3LDkxOTkzNDUyOS
+wtMjA2NjgwMTg5NywtMTEwNTA0NjU0MSw5MTQ0NzM5NiwtMTMx
+OTAyMzgwOSw1NjA3NzkyNDIsLTE0NTg0MzE3MjYsLTg0MDI2Nj
+I3MCwtMTIxNDMzMzU4Myw2NDQwMTI3NDgsLTM1Mjc1ODg0MSw3
+NTQ2MjI0NTddfQ==
 -->
