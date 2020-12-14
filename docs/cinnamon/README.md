@@ -11,19 +11,16 @@
 ### The cinnamon challenge
 In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although the instruction is simple enough – try to swallow a tablespoon of cinnamon at once – it proves to be virtually impossible in practice. Trying to ingest dry, ground cinnamon bark initially causes a severe choke reaction, characterised by extreme exhalation of cinnamon powder (known as 'dragon breath'). Subsequently, the cinnamon combines with saliva in the mouth to produce an indigestible clutter in the back of the throat. Thankfully, this [quite dangerous assignment](https://doi.org/10.1542/peds.2012-3418) will only be a marginal footnote in the history of cinnamon. Those who know cinnamon only from an endless series of ridiculous YouTube videos, or as a quotidian kitchen spice, will be surprised to learn that the real challenge of cinnamon has been an ongoing effort for 2000 years, to find out what cinnamon actually is, as a plant and as a medicine.
 <param title="cinnamon challenge" eid="Q420721">
-<param title="cinnamon" eid="Q28165">
 <param ve-video
 	vid="cmpd58kMl2s"
 	title="Mythbusters Cinnamon Challenge.">
 	
 ### Forgotten knowledge and fabricated history
 Cinnamon had a long history before any European ever saw 'true' cinnamon (_Cinnamomum verum_ J.Presl), which originally grew only on Sri Lanka. Here immediately lies the key to understanding the history of cinnamon: it is mostly about a plant-based product carrying that name, not about any particular plant species like the one mentioned above. This is a crucial observation, because a lot of confusion about cinnamon emanates from the incorrect equation of _names_ with _plants_. To be more precise: in the Latin west, it has long been assumed that the plants _cinnamomum_ (κιννάμωμον in Greek) and _cassia_ (κασία), as described by ancient medical authorities (notably Dioscorides), are the same plants as those found in the East Indies in the sixteenth century. A recent revision of archaeological, historical, linguistic and botanical evidence, however, has suggested that the cinnamon of ancient history was probably an East-African plant, _Cassia abbreviata_ Oliv., which is not related to the genus _Cinnamomum_.[^ref1]
-<param title="cinnamon" eid="Q370239">
 <param title="Sri Lanka" eid="Q854">
 <param title="Pedanius Dioscorides" eid="Q297776" aliases="Dioscorides">
 <param title="East Indies" eid="Q213137">
 <param title="Cassia abbreviata" eid="Q145495">
-<param title="Cinnamomum" eid="Q27282">
 <param ve-image
 	title="Cinnamon, from a medieval Arabian manuscript of Dioscorides's _De Materia medica_ (first century CE). Translated in Arabic by an unknown scribe in Spain (twelfth-thirteenth century), and currently in the Bibliothèque Nationale de France, ms. Arabe 2850, f. 129b. [Note: I downloaded this image from HOLLIS Images. The image has a manifest but it is no reusable, as it requires a login to access.]"
 	url="18040817.jpg">
@@ -184,6 +181,7 @@ A third, and most daring strategy, was to transplant the 'true' cinnamon to Span
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
 Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cinnamon](http://www.worldstopexports.com/cinnamon-exporters/). But confusion still remains: _Cinnamomum verum_ J.Presl is now grown in many countries in the tropical zone, but the quality of the product differs for each region.[^ref28] Moreover, commercial statistics usually generalize all market variations under the header 'cinnamon', without differentiating between _Cinnamomum_ species. This issue is even more pertinent in medicine. Cinnamon has a lot of potential therapeutic applications that have been studied, but many studies fail to clarify which species of _Cinnamomum_ was/were used, making it difficult to generalize the results.[^ref29] The species epithet _verum_ may sound like an obsolete name in a globalized world, where everyone has access to cinnamon and where cinnamon is grown in many tropical areas. But it still captures the essence of what cinnamon has always been about: distinguishing between what is 'true' and what is not.
+<param title="cinnamon" eid="Q370239">
 <param ve-map
 	title="[I would like to include a map here with the current distribution of Cinnamomum verum. I have two sources for that: the data differ quite a bit, and I don't know if I can simply extract it from the sources: https://www.cabi.org/isc/datasheet/13573 (CABI), and http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:463752-1 (Kew, Plants of the World Online)]">
 
@@ -247,11 +245,11 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3Mzg0MTYzOCw5NDAxOTc0ODksMTc4ND
-Q0NzQ0LC0yNTMxOTcwNDMsMTUwNTY5MjgzMiwxNjYxMjYwODQ4
-LDEwMTUxNjE2MzEsLTE1NTg3NjY0MDgsMTQxMDgxMTU5MywtMT
-U1NTEwMDQ5Nyw5MTk5MzQ1MjksLTIwNjY4MDE4OTcsLTExMDUw
-NDY1NDEsOTE0NDczOTYsLTEzMTkwMjM4MDksNTYwNzc5MjQyLC
-0xNDU4NDMxNzI2LC04NDAyNjYyNzAsLTEyMTQzMzM1ODMsNjQ0
-MDEyNzQ4XX0=
+eyJoaXN0b3J5IjpbLTM0NzQ4MzE3NCwtMjczODQxNjM4LDk0MD
+E5NzQ4OSwxNzg0NDQ3NDQsLTI1MzE5NzA0MywxNTA1NjkyODMy
+LDE2NjEyNjA4NDgsMTAxNTE2MTYzMSwtMTU1ODc2NjQwOCwxND
+EwODExNTkzLC0xNTU1MTAwNDk3LDkxOTkzNDUyOSwtMjA2Njgw
+MTg5NywtMTEwNTA0NjU0MSw5MTQ0NzM5NiwtMTMxOTAyMzgwOS
+w1NjA3NzkyNDIsLTE0NTg0MzE3MjYsLTg0MDI2NjI3MCwtMTIx
+NDMzMzU4M119
 -->
