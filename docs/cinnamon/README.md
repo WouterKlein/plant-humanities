@@ -53,19 +53,6 @@
 <param title="Amazon" eid="Q3783">
 <param title="El Dorado" eid="Q192550">
 <param title="Joseph de Jussieu" eid="Q1347343">
-<param title="Cape of Good Hope" eid="Q4092">
-<param title="Cape Horn" eid="Q4078">
-<param title="Alonso de Ovalle" eid="Q2839275">
-<param title="Society of Jesus" eid="Q36380" aliases="Jesuits">
-<param title="Cinnamomum burmanni" eid="Q4115136">
-<param title="Cinnamomum cebuense" eid="Q5121027">
-<param title="Juan de Cuéllar" eid="Q6301228">
-<param title="Casimiro Gómez Ortega" eid="Q957993">
-<param title="Real Jardín Botánico de Madrid" eid="Q1794858" aliases="Royal Botanical Garden of Madrid">
-<param title="José Celestino Mutis y Bosio" eid="Q731937" aliases="José Celestino Mutis">
-<param title="Botanical Expedition to New Granada" eid="Q7373838" aliases="Royal Botanical Expedition to New Granada">
-<param title="Guadeloupe" eid="Q17012">
-<param title="Saint Vincent" eid="Q379656">
 
 ### The cinnamon challenge
 In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although the instruction is simple enough – try to swallow a tablespoon of cinnamon at once – it proves to be virtually impossible in practice. Trying to ingest dry, ground cinnamon bark initially causes a severe choke reaction, characterised by extreme exhalation of cinnamon powder (known as 'dragon breath'). Subsequently, the cinnamon combines with saliva in the mouth to produce an indigestible clutter in the back of the throat. Thankfully, this [quite dangerous assignment](https://doi.org/10.1542/peds.2012-3418) will only be a marginal footnote in the history of cinnamon. Those who know cinnamon only from an endless series of ridiculous YouTube videos, or as a quotidian kitchen spice, will be surprised to learn that the real challenge of cinnamon has been an ongoing effort for 2000 years, to find out what cinnamon actually is, as a plant and as a medicine.
@@ -169,16 +156,29 @@ Meanwhile, other states were desperate to have cinnamon for themselves. This was
 	zoom="4.9">
 
 The Spanish efforts to find cinnamon in the New World were not only intended to compete with the 'true' cinnamon of the Portuguese and the Dutch on Sri Lanka. There was more at stake. The commercial successes of Spain's European rivals in the East Indies made the Cape of Good Hope the principal shipping route to get there. The promise of South American riches could transform Cape Horn into an attractive alternative route, which would benefit Spain. This was an important aim for men like Alonso de Ovalle, a Chilean Jesuit. His _Histórica Relación del Reyno de Chile_ (1646) was accompanied by a detailed map, which served as a visual propaganda tool for Spanish South America. The map highlights the assets of the continent, including the presence of _canela_ and _cynamomum_ areas along the east coast.[^ref21] This was one strategy to emphasize the possibilities of cinnamon production for the Spanish global empire.
+<param title="Cape of Good Hope" eid="Q4092">
+<param title="Cape Horn" eid="Q4078">
+<param title="Alonso de Ovalle" eid="Q2839275">
+<param title="Society of Jesus" eid="Q36380" aliases="Jesuits">
 <param ve-image
 	title="bla bla bla"
 	manifest="https://jcb.lunaimaging.com/luna/servlet/iiif/m/JCBMAPS~1~1~1314~115900932/manifest">
 
 And Spain really needed cinnamon. One eighteenth-century report estimated that two-thirds of the Dutch cinnamon exports from Sri Lanka to Europe was consumed by Spain and its colonies.[^ref22] It still wasn't enough. Cinnamon was used, for instance, as a flavoring ingredient in chocolate drinks, which were very popular in the Spanish Atlantic world.[^ref23] To supplement the supply of cinnamon, Spain embarked on a second strategy of producing cinnamon itself, from other _Cinnamomum_ species in the East Indies. Thus, plantations were created in the Philippines, planted with local species like _Cinnamomum burmanni_ (Nees & T.Nees) Blume and _Cinnamomum cebuense_ Kosterm.[^ref24] The Spanish pharmacist and botanist Juan de Cuéllar went at lengths to convince his superiors in Madrid that cinnamon from the Philippines was identical to cinnamon from Sri Lanka. This was not only a scholarly motivated exercise: there were important commercial interests at stake if Spanish cinnamon could be equated with Dutch cinnamon.[^ref25]
+<param title="Cinnamomum burmanni" eid="Q4115136">
+<param title="Cinnamomum cebuense" eid="Q5121027">
+<param title="Juan de Cuéllar" eid="Q6301228">
 <param ve-image
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
 A third, and most daring strategy, was to transplant the 'true' cinnamon to Spanish territories. This was an important objective for men like Casimiro Gómez Ortega, director of the Royal Botanical Garden of Madrid between 1771 and 1801, and José Celestino Mutis, the Spanish botanist who initiated the Royal Botanical Expedition to New Granada from 1783 onwards. Gómez Ortega published an instruction in 1779, which invited naturalists everywhere to contribute plants and plant knowledge for the Spanish empire. Cinnamon was explicitly mentioned as one of the target species. Similarly, Mutis addressed the Spanish crown in the 1760s to support his plans for botanical expeditions in South America. New plant knowledge would greatly benefit the empire, and again cinnamon was explicitly mentioned.[^ref26] However, Spain never succeeded in growing 'true' cinnamon in South America, contrary to the French on Guadeloupe (1762) and the British on Saint Vincent (1768).[^ref27]
+<param title="Casimiro Gómez Ortega" eid="Q957993">
+<param title="Real Jardín Botánico de Madrid" eid="Q1794858" aliases="Royal Botanical Garden of Madrid">
+<param title="José Celestino Mutis y Bosio" eid="Q731937" aliases="José Celestino Mutis">
+<param title="Botanical Expedition to New Granada" eid="Q7373838" aliases="Royal Botanical Expedition to New Granada">
+<param title="Guadeloupe" eid="Q17012">
+<param title="Saint Vincent" eid="Q379656">
 <param ve-image
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
@@ -247,11 +247,11 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNDc1NTksLTI1MzE5NzA0MywxNTA1Nj
-kyODMyLDE2NjEyNjA4NDgsMTAxNTE2MTYzMSwtMTU1ODc2NjQw
-OCwxNDEwODExNTkzLC0xNTU1MTAwNDk3LDkxOTkzNDUyOSwtMj
-A2NjgwMTg5NywtMTEwNTA0NjU0MSw5MTQ0NzM5NiwtMTMxOTAy
-MzgwOSw1NjA3NzkyNDIsLTE0NTg0MzE3MjYsLTg0MDI2NjI3MC
-wtMTIxNDMzMzU4Myw2NDQwMTI3NDgsLTM1Mjc1ODg0MSw3NTQ2
-MjI0NTddfQ==
+eyJoaXN0b3J5IjpbLTMwNjc4NjY3OSwtMjUzMTk3MDQzLDE1MD
+U2OTI4MzIsMTY2MTI2MDg0OCwxMDE1MTYxNjMxLC0xNTU4NzY2
+NDA4LDE0MTA4MTE1OTMsLTE1NTUxMDA0OTcsOTE5OTM0NTI5LC
+0yMDY2ODAxODk3LC0xMTA1MDQ2NTQxLDkxNDQ3Mzk2LC0xMzE5
+MDIzODA5LDU2MDc3OTI0MiwtMTQ1ODQzMTcyNiwtODQwMjY2Mj
+cwLC0xMjE0MzMzNTgzLDY0NDAxMjc0OCwtMzUyNzU4ODQxLDc1
+NDYyMjQ1N119
 -->
