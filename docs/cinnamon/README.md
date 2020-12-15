@@ -46,7 +46,7 @@ A second, and much more surprising reason for the long-lasting confusion over ci
 ### Cinnamon as a tool of empire
 The attraction of cinnamon – 'true' or other – as a means to enhance the power of a state, by displaying its control over exotic riches, predates the early modern period. For example, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), showing a personification of Arabia, who holds a bundle of cinnamon sticks. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda, to emphasize the relation between the authority of the empire and the conquered lands.[^ref7]
 <param title="Trajan" eid="Q1425">
-<param title="Persian Gulf" eid="Q34675>
+<param title="Persian Gulf" eid="Q34675">
 <param ve-image
 	title="Reverse side of a Roman coin from the reign of emperor Trajan (reigned 98-117 CE), showing a female personification of Arabia, holding a branch and a bundle of cinnamon sticks, and standing next to a camel. Note that this coin was found on the opposite side of the Roman empire, in Yorkshire, Britain."
 	url="https://upload.wikimedia.org/wikipedia/commons/7/77/Roman_Coin%2C_Denarius_of_Trajan_%28FindID_963033%29.jpg"
@@ -245,11 +245,11 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NzQ4MzE3NCwtMzQ3NDgzMTc0LC0yNz
-M4NDE2MzgsOTQwMTk3NDg5LDE3ODQ0NDc0NCwtMjUzMTk3MDQz
-LDE1MDU2OTI4MzIsMTY2MTI2MDg0OCwxMDE1MTYxNjMxLC0xNT
-U4NzY2NDA4LDE0MTA4MTE1OTMsLTE1NTUxMDA0OTcsOTE5OTM0
-NTI5LC0yMDY2ODAxODk3LC0xMTA1MDQ2NTQxLDkxNDQ3Mzk2LC
-0xMzE5MDIzODA5LDU2MDc3OTI0MiwtMTQ1ODQzMTcyNiwtODQw
-MjY2MjcwXX0=
+eyJoaXN0b3J5IjpbLTY1MTE1ODk0NCwtMzQ3NDgzMTc0LC0zND
+c0ODMxNzQsLTI3Mzg0MTYzOCw5NDAxOTc0ODksMTc4NDQ0NzQ0
+LC0yNTMxOTcwNDMsMTUwNTY5MjgzMiwxNjYxMjYwODQ4LDEwMT
+UxNjE2MzEsLTE1NTg3NjY0MDgsMTQxMDgxMTU5MywtMTU1NTEw
+MDQ5Nyw5MTk5MzQ1MjksLTIwNjY4MDE4OTcsLTExMDUwNDY1ND
+EsOTE0NDczOTYsLTEzMTkwMjM4MDksNTYwNzc5MjQyLC0xNDU4
+NDMxNzI2XX0=
 -->
