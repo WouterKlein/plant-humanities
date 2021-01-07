@@ -197,11 +197,11 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref5]: J. Innes Miller, _The Spice Trade of the Roman Empire, 29 B.C. to A.D. 641_ (Oxford: Clarendon Press 1969). The Spice Route thesis was embraced by Lionel Casson, _Ancient Trade and Society_ (Detroit: Wayne State University Press 1984) 225-246; and by John M. Riddle, _Dioscorides on Pharmacy and Medicine_. Forew. by J. Scarborough (Austin: University of Texas Press 1985) 98-104. It was refuted by Manfred G. Raschke, “New Studies in Roman Commerce with the East”, in: H. Temporini (ed.), _Aufstieg und Niedergang der Römischen Welt: Geschichte und Kultur Roms in der neueren Forschung, II Principat / Rise and Fall of the Roman World: History and Culture of Rome in Recent Research, 2nd Principat_ (Berlin and New York: Walter de Gruyter 1978), vol. 9, part 2, 604-1361; and by Patricia Crone, _Meccan Trade and the Rise of Islam_ (Princeton (NJ): Princeton University Press 1987) 37.
 
-[^ref6]: George B. Griffenhagen, “The Materia Medica of Christopher Columbus”, _Pharmacy in History_, 34:3 (1992) 131-145, there 133; and Francisco Guerra, "Drugs from the Indies and the Political Economy of the Sixteenth Century", in: N. Florkin (ed.), _Materia Medica in the XVIth Century: Proceedings of a Symposium of the International Academy of the History of Medicine Held at the University of Basel, 7th Sept. 1964_. Analecta Medico-Historica 1 (Oxford: Pergamon Press 1964) 29-54.
+[^ref6]: George B. Griffenhagen, “The Materia Medica of Christopher Columbus”, _Pharmacy in History_, 34:3 (1992) 131-145, there 133; and Francisco Guerra, “Drugs from the Indies and the Political Economy of the Sixteenth Century”, in: N. Florkin (ed.), _Materia Medica in the XVIth Century: Proceedings of a Symposium of the International Academy of the History of Medicine Held at the University of Basel, 7th Sept. 1964_. Analecta Medico-Historica 1 (Oxford: Pergamon Press 1964) 29-54.
 
-[^ref7]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
+[^ref7]: Barbara Zając, “Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)”, in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 
-[^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
+[^ref8]: Zoltán Biedermann, “The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)”, _Journal of Early Modern History_, 13:4 (2009) 265-310.
 
 [^ref9]: Lodewijk Wagenaar, _Cinnamon & Elephants: Sri Lanka and The Netherlands from 1600_. Transl. by Steve Green and Michael Blass (Amsterdam: Rijksmuseum / Nijmegen: Vantilt Publishers 2016) 149-157.
 
@@ -245,11 +245,11 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTA3ODU1ODEsLTE3ODkzOTEyNjQsLT
-M0NzQ4MzE3NCwtMzQ3NDgzMTc0LC0yNzM4NDE2MzgsOTQwMTk3
-NDg5LDE3ODQ0NDc0NCwtMjUzMTk3MDQzLDE1MDU2OTI4MzIsMT
-Y2MTI2MDg0OCwxMDE1MTYxNjMxLC0xNTU4NzY2NDA4LDE0MTA4
-MTE1OTMsLTE1NTUxMDA0OTcsOTE5OTM0NTI5LC0yMDY2ODAxOD
-k3LC0xMTA1MDQ2NTQxLDkxNDQ3Mzk2LC0xMzE5MDIzODA5LDU2
-MDc3OTI0Ml19
+eyJoaXN0b3J5IjpbLTQ5ODI2MTIzNCwtMTc4OTM5MTI2NCwtMz
+Q3NDgzMTc0LC0zNDc0ODMxNzQsLTI3Mzg0MTYzOCw5NDAxOTc0
+ODksMTc4NDQ0NzQ0LC0yNTMxOTcwNDMsMTUwNTY5MjgzMiwxNj
+YxMjYwODQ4LDEwMTUxNjE2MzEsLTE1NTg3NjY0MDgsMTQxMDgx
+MTU5MywtMTU1NTEwMDQ5Nyw5MTk5MzQ1MjksLTIwNjY4MDE4OT
+csLTExMDUwNDY1NDEsOTE0NDczOTYsLTEzMTkwMjM4MDksNTYw
+Nzc5MjQyXX0=
 -->
