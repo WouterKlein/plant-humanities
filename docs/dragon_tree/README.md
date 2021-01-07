@@ -13,7 +13,7 @@
 
 ### Introduction: A Desensitizing Sensory Experience
 
-As the tongue goes numb and all efforts fail to remove the scarlet, sticky substance that binds to one’s teeth like quick-setting epoxy, one starts to panic and wonder if the dragon’s blood they just ingested is truly as noxious as its name suggests. Though the epithet ‘dragon’s blood’ brings forth images of medieval myths and fantastical notions of fire-breathing lizards soaring high in the sky, this “blood is in fact the resin of a very real tree. _Dracaena draco_, the centenary tree with a thick trunk and a distinctive, umbrella-style crown, captured the imaginations of great minds across the ages, from Antiquity’s Pliny the Elder (d. 79 AD)  to the Enlightenment’s Alexander von Humboldt (1769-1859). Unlike Pliny, however, Humboldtwho was not the lone scholar of his age enthralled by the epic allure of the dragon tree, as era Eropean naturalists like André Pierre Ledru (1761-1825) also flockused to _D. dracoDrs native Canary Islands to study it around the turn of the nineteenth century. Soon after their initial encounters with Dragon’s Blood, they all may have realized that this strange sap occupied a liminal space between myth, legend, and scientific botany. 
+As the tongue goes numb and all efforts fail to remove the scarlet, sticky substance that binds to one’s teeth like quick-setting epoxy, one starts to panic and wonder if the dragon’s blood they just ingested is truly as noxious as its name suggests. Though the epithet ‘dragon’s blood’ brings forth images of medieval myths and fantastical notions of fire-breathing lizards soaring high in the sky, this “blood is in fact the resin of a very real tree. _Dracaena draco_, the centenary tree with a thick trunk and a distinctive, umbrella-style crown, captured the imaginations of great minds across the ages, from Antiquity’s Pliny the Elder (d. 79 AD)  to the Enlightenment’s Alexander von Humboldt (1769-1859). Unlike Pliny, however, Humboldtwho was not the lone scholar of his age enthralled by the epic allure of the dragon tree, as era Eropean naturalists like André Pierre Ledru (1761-1825) also flockused to _D. dracoDrs native Canary Islands to study it around the turn of the nineteenth century. Soon after their initial encounters with dragon’s blood, they all may have realized that this strange sap occupied a liminal space between myth, legend, and scientific botany. 
 <param title="Dragon’s Blood" eid="Q421877" aliases="Dragon">
 <param title="Dracaena draco" eid="Q157952">
 <param title="Pliny the Elder" eid="Q82778">
@@ -23,7 +23,7 @@ As the tongue goes numb and all efforts fail to remove the scarlet, sticky subst
 <param ve-storiiies
 	id="8a1g2">
 
-Members of today’s _Dracaena_ genus have long been valued for their signature red resin, Dragon’s lood, that oozes from cuts in the bark of those trees.[^ref1]  The first known reports of Dragon’s lood were dispersed through Pliny’s [_Naturalis Historia_](https://archive.org/details/OEXV10R/mode/2up), where he recounted the Indian tale of a dragon (representing Brahma) biting a giant elephant (representing Shiva) and their blood mixing into the iconic resin. While this Vedic myth actually originates from Socotra island of Yemen and is based on the resin of _Dracaena cinnabari_, the fascination with Dragon’s Blood also took a foothold in Europe through the infamous tale of Hercules. 
+Members of today’s _Dracaena_ genus have long been valued for their signature red resin, dragon’s blood, that oozes from cuts in the bark of those trees.[^ref1]  The first known reports of dragon’s blood were dispersed through Pliny’s [_Naturalis Historia_](https://archive.org/details/OEXV10R/mode/2up), where he recounted the Indian tale of a dragon (representing Brahma) biting a giant elephant (representing Shiva) and their blood mixing into the iconic resin. While this Vedic myth actually originates from Socotra island of Yemen and is based on the resin of _Dracaena cinnabari_, the fascination with dragon’s blood also took a foothold in Europe through the infamous tale of Hercules. 
 <param title="Naturalis Historia" eid="Q442">
 <param title="Vedic myth" eid="Q2076739" aliases="Vedic myth">
 <param title="Socotra" eid="Q82859">
@@ -32,14 +32,14 @@ Members of today’s _Dracaena_ genus have long been valued for their signature 
 	title="Vedic Tale of the Elephant and the Dragon. Giraldus Cambrensis, _Bestiary_, (England: c.1225-1250), f58. image Provided by the British Museum"
 	url="https://www.bl.uk/IllImages/Ekta/big/E043/E043090a.jpg">
 
-As the eleventh labor of his famous twelve, Hercules was sent to steal the golden apples guarded by Ladon, a vicious dragon with one hundred heads. Once slain by the demigod, Ladon’s blood seeped into the ground and “from it sprung up the trees that we now know as ‘dragon trees,’” and his body was sent to live among the stars.[^ref2] As Dragon’s lood soon became one of the most coveted commodities in ancient Greece, so too did it serve as a lasting link between myth and reality, as Greeks from Athens to Thebes believed that “the source of ‘Dragon’s Blood’ [... is] the red blood of the dragon Ladon after it was killed by Hercules.”[^ref3]
+As the eleventh labor of his famous twelve, Hercules was sent to steal the golden apples guarded by Ladon, a vicious dragon with one hundred heads. Once slain by the demigod, Ladon’s blood seeped into the ground and “from it sprung up the trees that we now know as ‘dragon trees,’” and his body was sent to live among the stars.[^ref2] As dragon’s blood soon became one of the most coveted commodities in ancient Greece, so too did it serve as a lasting link between myth and reality, as Greeks from Athens to Thebes believed that “the source of ‘Dragon’s Blood’ [... is] the red blood of the dragon Ladon after it was killed by Hercules.”[^ref3]
 <param title="Hercules" eid="Q122248">
 <param title="Ladon" eid="Q274600">
 <param ve-iiif-compare
 	url1="https://free.iiifhosting.com/iiif/6f75f8643461e419d28159fdc552cd384cc7aa5bc1ae2e31b9e2c47b91fefd60/info.json"
 	url2="https://free.iiifhosting.com/iiif/7e103f8b67bc1ce1be0a738a6a34265de93fe18ad5978f48c076da1da1fbf636/info.json">
 
-Native to the Canary Islands, Cape Verde, Madeira, and recently found growing natively on the West coast of Morocco, _D. draco_ is somewhat ubiquitous along the Northwestern coast of Africa. Evidently, the tree and its resin were an important feature of the economy and magico-medicine of the Canary Islands even before colonial contact. Thus, when French explorer Jean de Béthencourt became the first European to write of _D. draco_ in 1402, he recounted an elaborate trade of fishing hooks, knives, and iron in exchange for figs and Dragon’s lood between his crew and 500 Guanches, the indigenous population of the Canary Islands.[^ref4] 
+Native to the Canary Islands, Cape Verde, Madeira, and recently found growing natively on the West coast of Morocco, _D. draco_ is somewhat ubiquitous along the Northwestern coast of Africa. Evidently, the tree and its resin were an important feature of the economy and magico-medicine of the Canary Islands even before colonial contact. Thus, when French explorer Jean de Béthencourt became the first European to write of _D. draco_ in 1402, he recounted an elaborate trade of fishing hooks, knives, and iron in exchange for figs and dragon’s blood between his crew and 500 Guanches, the indigenous population of the Canary Islands.[^ref4] 
 <param title="Cape Verde" eid="Q1011">
 <param title="Madeira" eid="Q26253">
 <param title="Jean de Béthencourt" eid="Q447602">
@@ -52,7 +52,7 @@ Native to the Canary Islands, Cape Verde, Madeira, and recently found growing na
 	geojson url="geojson/Dracaena draco native.json"
 	active>
 
-The Guanches used Dragon’s Blood for a variety of purposes ranging from embalming their dead, to making dyes and varnishes, to even using it as a toothpaste.[^ref5]  Believing that, when dragons died, they transformed into the divine trees, Guanches would regularly meet under the Orotava giant dragon tree’s large canopy to enact laws and perform judicial duties, as well as base meteorological predictions on the tree’s bloom.[^ref6]  ragon’s lood was, therefore, immensely valuable, as Béthencourt noted that the resin was, “well worth two hundred ducats, while what was given in exchange was hardly worth two francs.”[^ref7]  Several centuries later, scientific expeditions by naturalists Alexander von Humboldt and André Pierre Ledru would bring popular attention back to the islands and _D. draco_, as each traveler marveled at this very same tree in Orotava – a tree impossibly large and old, and still echoing with mystical resonances. 
+The Guanches used dragon’s blood for a variety of purposes ranging from embalming their dead, to making dyes and varnishes, to even using it as a toothpaste.[^ref5]  Believing that, when dragons died, they transformed into the divine trees, Guanches would regularly meet under the Orotava giant dragon tree’s large canopy to enact laws and perform judicial duties, as well as base meteorological predictions on the tree’s bloom.[^ref6]  ragon’s lood was, therefore, immensely valuable, as Béthencourt noted that the resin was, “well worth two hundred ducats, while what was given in exchange was hardly worth two francs.”[^ref7]  Several centuries later, scientific expeditions by naturalists Alexander von Humboldt and André Pierre Ledru would bring popular attention back to the islands and _D. draco_, as each traveler marveled at this very same tree in Orotava – a tree impossibly large and old, and still echoing with mystical resonances. 
 <param title="Guanches" eid="Q219995">
 <param title="Orotava" eid="Q177566" aliases="Orotava">
 <param primary ve-storiiies
@@ -180,7 +180,7 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5NTg2NjUxLDE1MjYyNTU0NjcsLTE1OT
-A2NTgyNjEsLTE4NzA2MzI5MDksLTEzNjgxNzg3ODUsMzUxMzY4
-NTk3LDk1MzgwNzUzNV19
+eyJoaXN0b3J5IjpbLTIyMzU3MjE2NSwxNTI2MjU1NDY3LC0xNT
+kwNjU4MjYxLC0xODcwNjMyOTA5LC0xMzY4MTc4Nzg1LDM1MTM2
+ODU5Nyw5NTM4MDc1MzVdfQ==
 -->
