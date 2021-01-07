@@ -65,9 +65,7 @@
 	fill="red"
 	auto-play="true">
 <param ve-map-layer
-	url="https://github.com/WouterKlein/plant-humanities/edit/develop/docs/boxwood/us-states.json">
-
-https://raw.githubusercontent.com/WouterKlein/boxwoodtest/master/us-states.json">
+	url="https://raw.githubusercontent.com/WouterKlein/boxwoodtest/master/us-states.json">
 
 Boxwood, with which this disease is associated, is a genus of evergreen shrubs that enjoy great commercial success as ornamental garden plants. Among its varieties and cultivars, the most popular is arguably English or common boxwood (_Buxus sempervirens ‘Suffruticosa’_) native to western and southern Europe, northwest Africa, and southwest Asia. In the United States—where this cultivated variety had been mass introduced on the wave of the early twentieth-century interest in European gardens—its sales, until recently, represented the greatest proportion (around 15%) among broadleaf evergreens, reaching an annual revenue of 126 million dollars in 2014.[^ref2] A boxwood-flanked promenade, in the words of landscape architect Diane McGuire, was historically “the most common element found in almost every garden in the southern United States.”
 <param title="shrub" eid="Q42295" aliases="shrubs">
@@ -264,6 +262,6 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 [^ref24]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjE0MTgwMCwtMTAwNTk3MTY1LDk5OT
-cwMzkyOSwtMTgzODk0NTQzLDE1ODQ2NDYwMjNdfQ==
+eyJoaXN0b3J5IjpbOTk5NzAzOTI5LC0xMDA1OTcxNjUsOTk5Nz
+AzOTI5LC0xODM4OTQ1NDMsMTU4NDY0NjAyM119
 -->
