@@ -118,7 +118,8 @@ As Ledru remarked in his 1810 [_Voyages aux îles de Ténériffe, la Trinité, S
 	url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/IMG_9319.jpg">
 
 But even in the face of this acute anthropogenic pressure, the great dragon tree at Orotava persisted. Struck by the tree’s size, age, and enduring spirit, Ledru remarks on how even the most environmentally malicious conquistadors respected this  dragon tree.  Perhaps, then, to Humboldt’s delight, Ledru estimated that this special tree would easily live another one-hundred-fifty to two-hundred years.[^15]  
-<param ve-storiiies id="7b1dr">
+<param ve-storiiies
+	id="7b1dr">
 
 Unfortunately, the Orotava centenary dragon tree did not outlive Humboldt and Ledru’s visits by too long. In 1819, a storm first cut off one of its branches, and in 1867, a hurricane-like tempest broke them all off.[^16]  Despite this inauspicious demise, the tree’s image remains associated with the Canary Islands through today, and it is still frequently featured prominently in images of Orotava. Furthermore, both naturalists’ accounts of their encounters with the dragon tree in its native environment stand as proof of its power to equally excite scientific and aesthetic imagination, promote environmental concerns, and reinforce colonial dynamics. 
 <param ve-image
@@ -131,7 +132,7 @@ Just as Humboldt and Ledru observed the centenary _D. draco_ at Orotava and pond
 	iiif-url="https://free.iiifhosting.com/iiif/ac36469812ba26bc336649e5aa20da4c6bfbd178d157caf52bbbfba2bd4d6629">
 
 Today, _D. draco_ is officially designated as a vulnerable population on the International Union for Conservation of Nature’s _Red List of Threatened Species_ due to its near-extinction in the wild.[^19] This is due in part to the fact that the tree relies on animals to disperse its seeds, and the number of animals which are suitable _D. draco_ seed dispersers has substantially decreased over time due to hunting and other forms of habitat destruction.[^20] Furthermore, as Ledru noted over two centuries ago, this population decline and endangerment is also due to over cultivation of the tree’s valuable resin. The number of wild specimens has never been lower than it is today, and even though there are projects to repopulate the islands through experiments in propagation and acclimatization, one wonders if ever again a _Dracaena draco_ will grow to the size and magnificence of the one that so captivated the minds of lers like Humboldt and Ledru.[^21] Perhaps, after its millennia-long smolder, the dragon’s flame will finally be snuffed out by the twenty-first century Anthropocene. 
-<param title="International Union for Conservation of Nature" eid="Q48268" aliases="International Union for Conservation of Nature">
+<param title="International Union for Conservation of Nature" eid="Q48268">
 <param title="Red List of Threatened Species" eid="Q32059">
 <param ve-image
 	iiif-url="https://free.iiifhosting.com/iiif/31fb222aa31e439323c29d61cb363d5c897b02d8cde694ff946f0f6adbb00ad">
@@ -158,5 +159,5 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 [^20]: Aaron González-Castro et al., "Unraveling the Seed Dispersal System of an Insular 'Ghost Dragon Tree (D. draco) in the Wild," in _Frontiers in Ecology and Evolution_ 7, no. 39 (February 2019).
 [^21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (Dracaena draco),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTc1MTkxMV19
+eyJoaXN0b3J5IjpbMTQyNjE4NzYwN119
 -->
