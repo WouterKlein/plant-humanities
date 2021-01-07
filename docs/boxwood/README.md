@@ -127,7 +127,7 @@ Given this close association of boxwood with the gardens of Roman antiquity, it 
 
 The real issue with boxwood was what sixteenth-century English physician John Gerard described as the “evil and loathsome smell,” which, according to Soderini, was not only “annoying,” but could give one headaches as it “infested the air.”[^ref10] To alleviate this problem, the recommended solution was to plant this shrub in combination with other strongly scented evergreens that mitigated this odor, such as myrtle, mastic, and rosemary.[^ref11] These mixed hedges benefitted from the robust texture of boxwood, while its other selective use, also owed to the thick and dense foliage, concerned planting it in thicket-like bird trapping grounds, _ragnaie_. Yet, compared to other plants that could serve analogous purposes or occupy the same garden spaces, boxwood, in Soderini’s words, was “valued little or not at all.”[^ref12]
 <param ve-image
-	title="Boxwood in Gerard's herbal"
+	title="Boxwood in Gerard’s herbal"
 	url="https://www.archive.org/download/herballorgeneral00gera_2/page/n1250_w648"
 	region="-24,334,699,518">
 
@@ -168,7 +168,7 @@ The vindication of boxwood as an essential garden plant took place in late sixte
 
 Yet, in practical terms, borders involving a combination of different shrubs as described by de Serres needed to be regularly replanted. If they were to last longer, his advice was to use boxwood alone regardless of its smell.[^ref19] The advocate of this method was royal gardener Claude Mollet, who was credited with inventing _parterres de broderie_ and supplying their illustrations for de Serres’s treatise. Coming from a family of gardeners, Mollet wrote from the perspective of a professional horticulturist (who among other things, he believed, was supposed to be well-versed in astrology). A committed champion of boxwood, he emphasized the volatility of the French climate affected by two “extremes,” “the great heat and the great cold,” which caused the “nuisance and expense of having to redo and replant garden compartments once every three years.” Mollet’s solution was to reduce the composition of borders to sole boxwood, which he started to implement for King Henri IV in 1595 in the gardens of Saint-Germain-en-Laye, Monceaux, and Fontainebleau; decades later, they would still remain in “good shape.” The species that he particularly praised was “dwarf” (_nain_) boxwood, which did not grow as tall as other varieties and had smaller leaves, but showed the same resistance to freezing and heat.[^ref20]
 <param ve-map
-	title="French royal gardens where Claude Mollet experimented with boxwood"
+	title="French royal gardens where Claude Mollet experimented with boxwood."
 	center="Q90"
 	zoom="8">
 
@@ -239,5 +239,5 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^ref23]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^ref24]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgwODg2NDcxLDE1ODQ2NDYwMjNdfQ==
+eyJoaXN0b3J5IjpbMTc4NDU1OTg3MywxNTg0NjQ2MDIzXX0=
 -->
