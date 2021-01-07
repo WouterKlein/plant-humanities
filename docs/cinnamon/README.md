@@ -180,10 +180,10 @@ A third, and most daring strategy, was to transplant the ‘true’ cinnamon to 
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
-Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of cinnamon](http://www.worldstopexports.com/cinnamon-exporters/). But confusion still remains: _Cinnamomum verum_ J.Presl is now grown in many countries in the tropical zone, but the quality of the product differs for each region.[^ref28] Moreover, commercial statistics usually generalize all market variations under the header ‘cinnamon’, without differentiating between _Cinnamomum_ species. This issue is even more pertinent in medicine. Cinnamon has a lot of potential therapeutic applications that have been studied, but many studies fail to clarify which species of _Cinnamomum_ was/were used, making it difficult to generalize the results.[^ref29] The species epithet _verum_ may sound like an obsolete name in a globalized world, where everyone has access to cinnamon and where cinnamon is grown in many tropical areas. But it still captures the essence of what cinnamon has always been about: distinguishing between what is ‘true' and what is not.
+Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of cinnamon](http://www.worldstopexports.com/cinnamon-exporters/). But confusion still remains: _Cinnamomum verum_ J.Presl is now grown in many countries in the tropical zone, but the quality of the product differs for each region.[^ref28] Moreover, commercial statistics usually generalize all market variations under the header ‘cinnamon’, without differentiating between _Cinnamomum_ species. This issue is even more pertinent in medicine. Cinnamon has a lot of potential therapeutic applications that have been studied, but many studies fail to clarify which species of _Cinnamomum_ was/were used, making it difficult to generalize the results.[^ref29] The species epithet _verum_ may sound like an obsolete name in a globalized world, where everyone has access to cinnamon and where cinnamon is grown in many tropical areas. But it still captures the essence of what cinnamon has always been about: distinguishing between what is ‘true’ and what is not.
 <param title="cinnamon" eid="Q370239">
 <param ve-map
-	title="[I would like to include a map here with the current distribution of Cinnamomum verum. I have two sources for that: the data differ quite a bit, and I don't know if I can simply extract it from the sources: https://www.cabi.org/isc/datasheet/13573 (CABI), and http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:463752-1 (Kew, Plants of the World Online)]">
+	title="[I would like to include a map here with the current distribution of Cinnamomum verum. I have two sources for that: the data differ quite a bit, and I don’t know if I can simply extract it from the sources: https://www.cabi.org/isc/datasheet/13573 (CABI), and http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:463752-1 (Kew, Plants of the World Online)]">
 
 ### References
 
@@ -215,7 +215,7 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref14]: Johan Heniger, _Hendrik Adriaan van Reede tot Drakenstein (1636-1691) and Hortus Malabaricus: A Contribution to the History of Dutch Colonial Botany_ (Rotterdam and Boston: A.A. Balkema 1986) 37-38; and Harold J. Cook, _Matters of Exchange: Commerce, Medicine, and Science in the Dutch Golden Age_ (New Haven: Yale University Press 2007) 310-317.
 
-[^ref15]: Tinde van Andel and Nadine Barth, “Paul Hermann's Ceylon Herbarium (1672-1679) at Leiden, the Netherlands”, _Taxon_, 67:5 (2018) 977-988, there 981.
+[^ref15]: Tinde van Andel and Nadine Barth, “Paul Hermann’s Ceylon Herbarium (1672-1679) at Leiden, the Netherlands”, _Taxon_, 67:5 (2018) 977-988, there 981.
 
 [^ref16]: Lisbet Koerner, _Linnaeus: Nature and Nation_ (Cambridge (MA) and London: Harvard University Press 1999) 36.
 
@@ -225,13 +225,13 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref19]: Daniela Bleichmar, “Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment”, in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 
-[^ref20]: Neil Safier, “Fruitless Botany: Joseph de Jussieu's South American Odyssey”, in: James Delbourgo and Nicholas Dew (eds.), _Science and Empire in the Atlantic World_ (New York: Routledge 2008) 203-224.
+[^ref20]: Neil Safier, “Fruitless Botany: Joseph de Jussieu’s South American Odyssey”, in: James Delbourgo and Nicholas Dew (eds.), _Science and Empire in the Atlantic World_ (New York: Routledge 2008) 203-224.
 
-[^ref21]: Catherine E. Burdick, “Patagonian Cinnamon and Pepper: Blending Geography in Alonso de Ovalle's _Tabula Geographica Regni Chile_ (1646)”, _Imago Mundi_, 66:2 (2014) 196-212.
+[^ref21]: Catherine E. Burdick, “Patagonian Cinnamon and Pepper: Blending Geography in Alonso de Ovalle’s _Tabula Geographica Regni Chile_ (1646)”, _Imago Mundi_, 66:2 (2014) 196-212.
 
 [^ref22]: Jonathan I. Israel, _Dutch Primacy in World Trade, 1585-1740_ (Oxford: Clarendon Press 1989) 251-252. The estimate comes from Jacques Savary des Bruslons, _Dictionnaire universel de commerce_ of 1723. The Real Sociedad Económica de Madrid calculated in 1780 that 600.000 pounds of Dutch cinnamon were consumed by Spanish America each year. See Daniela Bleichmar, _Visible Empire: Botanical Expeditions and Visible Culture in the Hispanic Enlightenment_ (Chicago and London: University of Chicago Press 2012) 132.
 
-[^ref23]: Irene Fattacciu, “The Resilience and Boomerang Effect of Chocolate: A Product's Globalization and Commodification”, in: Bethany Aram and Bartolomé Yun-Casalilla (eds.), _Global Goods and the Spanish Empire, 1492-1824: Circulation, Resistance and Diversity_ (Houndmills and Basingstoke: Palgrave Macmillan 2014) 255-273.
+[^ref23]: Irene Fattacciu, “The Resilience and Boomerang Effect of Chocolate: A Product’s Globalization and Commodification”, in: Bethany Aram and Bartolomé Yun-Casalilla (eds.), _Global Goods and the Spanish Empire, 1492-1824: Circulation, Resistance and Diversity_ (Houndmills and Basingstoke: Palgrave Macmillan 2014) 255-273.
 
 [^ref24]: Francisco Mallari, S.J., “The Mindanao Cinnamon”, _Philippine Quarterly of Culture and Society_, 2:4 (1974) 190-194; and Russell K. Skowronek, “Cinnamon, Ceramics, and Silks: Tracking the Manila Galleon Trade in the Creation of the World Economy”, in: Chunming Wu (ed.), _Early Navigation in the Asia-Pacific Region: A Maritime Archaeological Perspective_ (Singapore: Springer Science+Business Media 2016) 59-74.
 
@@ -243,9 +243,9 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref28]: U.M. Senanayake and R.O.B. Wijesekera, “Cinnamon and Cassia – The Future Vision”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 327-329.
 
-[^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
+[^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘True’ Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwOTcwODg3NiwxMTY3ODgzNzc1LC0xND
+eyJoaXN0b3J5IjpbLTE5ODMyNDYyNywxMTY3ODgzNzc1LC0xND
 IwMDc4ODMxLC00OTgyNjEyMzQsLTE3ODkzOTEyNjQsLTM0NzQ4
 MzE3NCwtMzQ3NDgzMTc0LC0yNzM4NDE2MzgsOTQwMTk3NDg5LD
 E3ODQ0NDc0NCwtMjUzMTk3MDQzLDE1MDU2OTI4MzIsMTY2MTI2
