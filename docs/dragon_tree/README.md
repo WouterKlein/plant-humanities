@@ -1,16 +1,15 @@
 <param ve-config
-  title="Dracaena Draco: The Timeless Canarian Dragon"
-  banner="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/header%20option%206%20-%20FINAL.jpg"
-  layout="vtl"
-  num-maps="1"
-  num-specimens="1"
-  num-images="17"
-  num-primary-sources="16"
-  author="Thomas C. Anderson, Cati Kalinoski, and Lucas Mertehikian">
+	title="Dracaena Draco: The Timeless Canarian Dragon"
+	banner="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/header%20option%206%20-%20FINAL.jpg"
+	layout="vtl"
+	num-maps="1"
+	num-specimens="1"
+	num-images="17"
+	num-primary-sources="16"
+	author="Thomas C. Anderson, Cati Kalinoski, and Lucas Mertehikian">
 
 <param title="Dracaena Draco" eid="Q579524">
 <param title="Dracaena" eid="Q158009" article="dragon_tree_species" aliases="D. draco">
-
 <param title="Dumbarton Oaks" eid="Q1264942" aliases="DO">
 
 ## Introduction: A Desensitizing Sensory Experience
@@ -119,3 +118,6 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 [^19]: “Dracaena draco,” IUCN Red List.org, accessed August 3. 2020, [link](https://www.iucnredlist.org/species/30394/9535771)
 [^20]: Aaron González-Castro et al., "Unraveling the Seed Dispersal System of an Insular 'Ghost Dragon Tree (D. draco) in the Wild," in _Frontiers in Ecology and Evolution_ 7, no. 39 (February 2019).
 [^21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (Dracaena draco),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTg5MzM4NDE5NF19
+-->
