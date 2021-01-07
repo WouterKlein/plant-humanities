@@ -215,29 +215,52 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 ### References
 
 [^ref1]: Nicholas LeBlanc, Catalina Salgado-Salazar, Jo Anne Crouch, “Boxwood blight: an ongoing threat to ornamental and native boxwood,” _Applied Microbiology and Biotechnology_, 102 (2018), 4371. (https://doi.org/10.1007/s00253-018-8936-2). 
+
 [^ref2]: Ibid., with reference to USDA-National Agricultural Statistics Service Census of Agriculture 2014 reports, https://www.agcensus.usda.gov. English or European boxwood is the same species (_Buxus sempervirens_) as American boxwood. There are no boxwood species native to the US. The centers of diversity for the genus are in Western Europe, Northern Africa, and Asia (_Buxus microphylla_).
+
 [^ref3]: _Beatrix Farrand’s Plant Book for Dumbarton Oaks_, ed. Diane Kostial McGuire (Washington, DC: Dumbarton Oaks, 1980), xiii.
+
 [^ref4]: Daniela Bleichmar, “Botanical conquistadors: the promises and challenges of imperial botany in the Hispanic Enlightenment,” _The Botany of Empire in the Long Eighteenth Century_, ed. Yota Batsaki, Sarah Burke Cahalan, and Anatole Tchikine (Washington, DC: Dumbarton Oaks, 2016), 35.
+
 [^ref5]: Pietro Andrea Mattioli, _Discorsi_ (Venice: Valgrisi, 1563), 138; John Gerard, _Herball_ (London: Norton, 1595), 1225.
+
 [^ref6]: Pliny the Younger, _Letters_, V.6.
+
 [^ref7]: Girolamo Firenzuola, “La grande arte della agricoltura,” in Alessandro Tagliolini, “Girolamo Firenzuola e il giardino nelle fonti della metà del Cinquecento,” in _Il giardino storico italiano_, ed. Giovanna Ragionieri (Florence: Olschki, 1981), 304.
+
 [^ref8]: Giovan Vettorio Soderini, _Opere_, ed. Alberto Bacchi della Lega (Bologna: Romagnoli dall’Acqua, 1902–07), III:52, 245, 251, 254, 343.
+
 [^ref9]: Firenzuola, “La grande arte della agricoltura,” 304; Soderini, _Opere_, III:254.
+
 [^ref10]: Gerard, _Herball_, 1226; Soderini, _Opere_, III:343.
+
 [^ref11]: Soderini, _Opere_, III:254, 255; Firenzuola, “La grande arte della agricoltura,” 304. Cf. Claudia Lazzaro, _The Italian Renaissance garden: from the conventions of planting, design, and ornament to the grand gardens of sixteenth-century Italy_ (New Haven and London: Yale University Press, 1990), 26, 291-2n.17.
+
 [^ref12]: Soderini, _Opere_, III:255, 295, 303, 343; Bernardo Davanzati, _Toscana coltivazione delle viti e delli arbori_ (Florence: Giunti, 1622), 32.
+
 [^ref13]: Mattioli, _Discorsi_, 138; John Parkinson, _Paradisi in sole paradisus terrestris_ (London: Lownes and Young, 1629), 606, reporting the same opinion; cf. Amato Lusitano, _Curationem medicinaliam centuriae septem_ (Bordeaux: Vernot, 1620), 639-40.
+
 [^ref14]: Parkinson, _Paradisi in sole_, 606; Gerard, _Herball_, 1225.
+
 [^ref15]: Mattioli, _Discorsi_, 138; cf. Parkinson, _Paradisi in sole _, 606-7.
+
 [^ref16]: Soderini, _Opere_, I:151, 175, 182.
+
 [^ref17]: Gerard, _Herball_, 1225.
+
 [^ref18]: Olivier de Serres, _Théatre d’agriculture_ (Paris: Saugrain, 1617), 506, 529; Jacques Boyceau, _Traite du jardinage_ (Paris: Vanlochom, 1638), 66.
+
 [^ref19]: De Serres, _Théatre d’agriculture_, 529.
+
 [^ref20]: Claude Mollet, _Théatre des jardinage_ (Paris: De Sercy, 1663), 201-203.
+
 [^ref21]: Marco Lastri and Giuseppe Del Rosso, _L’Osservatore fiorentino sugli edifizj della sua patria_ (Florence: Ricci, 1821), III:106 (orig. ed. 1797); Edith Wharton, _Italian villas and their gardens_ (New York: The Century Co., 1904), 13 and passim.
+
 [^ref22]: Edith Wharton, _A backward glance_ (New York, London: D. Appleton-Century Company, 1934), 130.
+
 [^ref23]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
+
 [^ref24]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NDU1OTg3MywxNTg0NjQ2MDIzXX0=
+eyJoaXN0b3J5IjpbLTExODM4MzA0OTMsMTU4NDY0NjAyM119
 -->
