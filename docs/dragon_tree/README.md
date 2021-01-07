@@ -55,7 +55,8 @@ Native to the Canary Islands, Cape Verde, Madeira, and recently found growing na
 The Guanches used Dragon’s Blood for a variety of purposes ranging from embalming their dead, to making dyes and varnishes, to even using it as a toothpaste.[^ref5]  Believing that, when dragons died, they transformed into the divine trees, Guanches would regularly meet under the Orotava giant dragon tree’s large canopy to enact laws and perform judicial duties, as well as base meteorological predictions on the tree’s bloom.[^ref6]  Dragon’s Blood was, therefore, immensely valuable, as Béthencourt noted that the resin was, “well worth two hundred ducats, while what was given in exchange was hardly worth two francs.”[^ref7]  Several centuries later, scientific expeditions by naturalists Alexander von Humboldt and André Pierre Ledru would bring popular attention back to the islands and _D. draco_, as each traveler marveled at this very same tree in Orotava – a tree impossibly large and old, and still echoing with mystical resonances. 
 <param title="Guanches" eid="Q219995">
 <param title="Orotava" eid="Q177566" aliases="Orotava">
-<param primary ve-storiiies id="751f7">
+<param primary ve-storiiies
+	id="751f7">
 
 ![](images/SubSec 2 - Enlightenment v2.jpg)
 After decades of violent attacks against the Guanches, Spanish conquistadors finally vanquished the last of the Canary Islands in 1496. The Guanche language soon disappeared, with the exception of their distinct whistling language, known as Silbo Gomero <param ve-audio url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/media/Silbo%20(online-audio-converter.com).mp3">. Due to the traditional Western preference for written records rather than oral histories, much of what we now know of pre-Columbian culture on the Canaries comes from European colonial interlocutors. After this initial period of European colonization, however, interest in the Canaries blossomed, as the Atlantic islands (comprised of the Canary Islands, as well as the Portuguese Azores and Madeira) quickly became  natural stopping points for travelers of all stripes on their way to the New World as well as Africa. It was during this period of integration of the Canaries into the burgeoning European sphere of influence, then, that _D. draco_ emerged on the stage of European gardens.
@@ -177,6 +178,6 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjgxNzg3ODUsMzUxMzY4NTk3LDk1Mz
-gwNzUzNV19
+eyJoaXN0b3J5IjpbLTcwOTQzNjQ4OSwtMTM2ODE3ODc4NSwzNT
+EzNjg1OTcsOTUzODA3NTM1XX0=
 -->
