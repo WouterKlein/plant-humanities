@@ -187,13 +187,13 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 ### References
 
-[^ref1]: Stephen G. Haw, "Cinnamon, Cassia and Ancient Trade", _Journal of Ancient History and Archaeology_, 4:1 (2017) 5-18.
+[^ref1]: Stephen G. Haw, “Cinnamon, Cassia and Ancient Trade”, _Journal of Ancient History and Archaeology_, 4:1 (2017) 5-18.
 
-[^ref2]: Haw, "Cinnamon", 10-11.
+[^ref2]: Haw, “Cinnamon”, 10-11.
 
-[^ref3]: Inês de Ornellas e Castro, "A 'Pleasant Banquet of Words': Therapeutic Virtues and Alimentary Consumption in Garcia de Orta's _Colloquies on the Simples and Drugs of India_", in: Palmira Fontes da Costa (ed.), _Medicine, Trade, and Empire: Garcia de Orta's_ Colloquies on the Simples and Drugs of India _(1563) in Context_ (Farnham and Burlington: Ashgate 2015) 67-88, there 84, 85.
+[^ref3]: Inês de Ornellas e Castro, “A ‘Pleasant Banquet of Words’: Therapeutic Virtues and Alimentary Consumption in Garcia de Orta’s _Colloquies on the Simples and Drugs of India_”, in: Palmira Fontes da Costa (ed.), _Medicine, Trade, and Empire: Garcia de Orta’s_ Colloquies on the Simples and Drugs of India _(1563) in Context_ (Farnham and Burlington: Ashgate 2015) 67-88, there 84, 85.
 
-[^ref4]: Vijaya Samaraweera, "The Cinnamon Trade of Ceylon", _Indian Economic & Social History Review_, 8:4 (1971) 415-442, there 416.
+[^ref4]: Vijaya Samaraweera, “The Cinnamon Trade of Ceylon", _Indian Economic & Social History Review_, 8:4 (1971) 415-442, there 416.
 
 [^ref5]: J. Innes Miller, _The Spice Trade of the Roman Empire, 29 B.C. to A.D. 641_ (Oxford: Clarendon Press 1969). The Spice Route thesis was embraced by Lionel Casson, _Ancient Trade and Society_ (Detroit: Wayne State University Press 1984) 225-246; and by John M. Riddle, _Dioscorides on Pharmacy and Medicine_. Forew. by J. Scarborough (Austin: University of Texas Press 1985) 98-104. It was refuted by Manfred G. Raschke, "New Studies in Roman Commerce with the East", in: H. Temporini (ed.), _Aufstieg und Niedergang der Römischen Welt: Geschichte und Kultur Roms in der neueren Forschung, II Principat / Rise and Fall of the Roman World: History and Culture of Rome in Recent Research, 2nd Principat_ (Berlin and New York: Walter de Gruyter 1978), vol. 9, part 2, 604-1361; and by Patricia Crone, _Meccan Trade and the Rise of Islam_ (Princeton (NJ): Princeton University Press 1987) 37.
 
@@ -245,11 +245,11 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODkzOTEyNjQsLTM0NzQ4MzE3NCwtMz
-Q3NDgzMTc0LC0yNzM4NDE2MzgsOTQwMTk3NDg5LDE3ODQ0NDc0
-NCwtMjUzMTk3MDQzLDE1MDU2OTI4MzIsMTY2MTI2MDg0OCwxMD
-E1MTYxNjMxLC0xNTU4NzY2NDA4LDE0MTA4MTE1OTMsLTE1NTUx
-MDA0OTcsOTE5OTM0NTI5LC0yMDY2ODAxODk3LC0xMTA1MDQ2NT
-QxLDkxNDQ3Mzk2LC0xMzE5MDIzODA5LDU2MDc3OTI0MiwtMTQ1
-ODQzMTcyNl19
+eyJoaXN0b3J5IjpbLTQzMTMxOTExNCwtMTc4OTM5MTI2NCwtMz
+Q3NDgzMTc0LC0zNDc0ODMxNzQsLTI3Mzg0MTYzOCw5NDAxOTc0
+ODksMTc4NDQ0NzQ0LC0yNTMxOTcwNDMsMTUwNTY5MjgzMiwxNj
+YxMjYwODQ4LDEwMTUxNjE2MzEsLTE1NTg3NjY0MDgsMTQxMDgx
+MTU5MywtMTU1NTEwMDQ5Nyw5MTk5MzQ1MjksLTIwNjY4MDE4OT
+csLTExMDUwNDY1NDEsOTE0NDczOTYsLTEzMTkwMjM4MDksNTYw
+Nzc5MjQyXX0=
 -->
