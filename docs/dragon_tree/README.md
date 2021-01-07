@@ -20,7 +20,8 @@ As the tongue goes numb and all efforts fail to remove the scarlet, sticky subst
 <param title="Alexander von Humboldt" eid="Q6694">
 <param title="André Pierre Ledru" eid="Q2848440" article="André_Pierre_Ledru">
 <param title="Canary Islands" eid="Q5813">
-<param ve-storiiies id="8a1g2">
+<param ve-storiiies
+	id="8a1g2">
 
 ![](images/SubSec 1 - Sanguine v1.jpg)
 Members of today’s _Dracaena_ genus have long been valued for their signature red resin, Dragon’s Blood, that oozes from cuts in the bark of those trees.[^1]  The first known reports of Dragon’s Blood were dispersed through Pliny’s [_Naturalis Historia_](https://archive.org/details/OEXV10R/mode/2up), where he recounted the Indian tale of a dragon (representing Brahma) biting a giant elephant (representing Shiva) and their blood mixing into the iconic resin. While this Vedic myth actually originates from Socotra island of Yemen and is based on the resin of _Dracaena cinnabari_, the fascination with Dragon’s Blood also took a foothold in Europe through the infamous tale of Hercules. 
@@ -28,8 +29,9 @@ Members of today’s _Dracaena_ genus have long been valued for their signature 
 <param title="Vedic myth" eid="Q2076739" aliases="Vedic myth">
 <param title="Socotra" eid="Q82859">
 <param title="Dracaena cinnabari" eid="Q133560">
-<param ve-image ve-image title="Vedic Tale of the Elephant and the Dragon. Giraldus Cambrensis, _Bestiary_, (England: c.1225-1250), f58. image Provided by the British Museum" url="https://www.bl.uk/IllImages/Ekta/big/E043/E043090a.jpg">
-
+<param ve-image
+	title="Vedic Tale of the Elephant and the Dragon. Giraldus Cambrensis, _Bestiary_, (England: c.1225-1250), f58. image Provided by the British Museum"
+	url="https://www.bl.uk/IllImages/Ekta/big/E043/E043090a.jpg">
 
 As the eleventh labor of his famous twelve, Hercules was sent to steal the golden apples guarded by Ladon, a vicious dragon with one hundred heads. Once slain by the demigod, Ladon’s blood seeped into the ground and “from it sprung up the trees that we now know as ‘dragon trees,’” and his body was sent to live among the stars.[^2] As Dragon’s Blood soon became one of the most coveted commodities in ancient Greece, so too did it serve as a lasting link between myth and reality, as Greeks from Athens to Thebes believed that "the source of "Dragon's Blood" [... is] the red blood of the dragon Ladon after it was killed by Hercules."[^3]
 <param title="Hercules" eid="Q122248">
@@ -148,5 +150,5 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 [^20]: Aaron González-Castro et al., "Unraveling the Seed Dispersal System of an Insular 'Ghost Dragon Tree (D. draco) in the Wild," in _Frontiers in Ecology and Evolution_ 7, no. 39 (February 2019).
 [^21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (Dracaena draco),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5ODcyODldfQ==
+eyJoaXN0b3J5IjpbMTAyMDg5ODk5NF19
 -->
