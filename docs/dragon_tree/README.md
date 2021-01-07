@@ -23,7 +23,7 @@ As the tongue goes numb and all efforts fail to remove the scarlet, sticky subst
 <param ve-storiiies
 	id="8a1g2">
 
-Members of today’s _Dracaena_ genus have long been valued for their signature red resin, dragon’s blood, that oozes from cuts in the bark of those trees.[^ref1] The first known reports of dragon’s blood were dispersed through Pliny’s [_Naturalis Historia_](https://archive.org/details/OEXV10R/mode/2up), where he recounted the Indian tale of a dragon (representing Brahma) biting a giant elephant (representing Shiva) and their blood mixing into the iconic resin. While this Vedic myth actually originates from Socotra island of Yemen and is based on the resin of _Dracaena cinnabari_, the fascination with dragon’s blood also took a foothold in Europe through the infamous tale of Hercules. 
+Members of today’s _Dracaena_ genus have long been valued for their signature red resin, dragon’s blood, that oozes from cuts in the bark of those trees. The first known reports of dragon’s blood were dispersed through Pliny’s [_Naturalis Historia_](https://archive.org/details/OEXV10R/mode/2up), where he recounted the Indian tale of a dragon (representing Brahma) biting a giant elephant (representing Shiva) and their blood mixing into the iconic resin. While this Vedic myth actually originates from Socotra island of Yemen and is based on the resin of _Dracaena cinnabari_, the fascination with dragon’s blood also took a foothold in Europe through the infamous tale of Hercules.[^ref1]
 <param title="Naturalis Historia" eid="Q442">
 <param title="Vedic myth" eid="Q2076739" aliases="Vedic myth">
 <param title="Socotra" eid="Q82859">
@@ -179,7 +179,7 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDU0MjAwMzUsMTg0NjM0ODY2NSwtMT
+eyJoaXN0b3J5IjpbLTE3NDk4MTA3NzcsMTg0NjM0ODY2NSwtMT
 Y3NTMwNjU1OSwxNTI2MjU1NDY3LC0xNTkwNjU4MjYxLC0xODcw
 NjMyOTA5LC0xMzY4MTc4Nzg1LDM1MTM2ODU5Nyw5NTM4MDc1Mz
 VdfQ==
