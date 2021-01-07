@@ -32,14 +32,14 @@ Members of today’s _Dracaena_ genus have long been valued for their signature 
 	title="Vedic Tale of the Elephant and the Dragon. Giraldus Cambrensis, _Bestiary_, (England: c.1225-1250), f58. image Provided by the British Museum"
 	url="https://www.bl.uk/IllImages/Ekta/big/E043/E043090a.jpg">
 
-For the eleventh labor of his famous twelve, Hercules was sent to steal the golden apples guarded by Ladon, a vicious dragon with one hundred heads. Once slain by the demigod, Ladon’s blood seeped into the ground and “from it sprung up the trees that we now know as ‘dragon trees,’” and his body was sent to live among the stars.[^ref2] As dragon’s blood soon became one of the most coveted commodities in ancient Greece, so too did it serve as a lasting link between myth and reality, as Greeks from Athens to Thebes believed that “the source of ‘Dragon’s Blood’ [...] [is] the red blood of the dragon Ladon after it was killed by Hercules.”[^ref3]
+For the eleventh labor of his famous twelve, Hercules was sent to steal the golden apples guarded by Ladon, a vicious dragon with one hundred heads. Once slain by the demigod, Ladon’s blood seeped into the ground and “from it sprung up the trees that we now know as ‘dragon trees,’” and his body was sent to live among the stars.[^ref2] As dragon’s blood soon became one of the most coveted commodities in ancient Greece, so too did it serve as a lasting link between myth and reality, as Greeks from Athens to Thebes believed that “the source of ‘Dragon’s Blood’ [... is] the red blood of the dragon Ladon after it was killed by Hercules.”[^ref3]
 <param title="Hercules" eid="Q122248">
 <param title="Ladon" eid="Q274600">
 <param ve-iiif-compare
 	url1="https://free.iiifhosting.com/iiif/6f75f8643461e419d28159fdc552cd384cc7aa5bc1ae2e31b9e2c47b91fefd60/info.json"
 	url2="https://free.iiifhosting.com/iiif/7e103f8b67bc1ce1be0a738a6a34265de93fe18ad5978f48c076da1da1fbf636/info.json">
 
-Native to the Canary Islands, Cape Verde, Madeira, and recently found growing natively on the West coast of Morocco, _D. draco_ is somewhat ubiquitous along the Northwestern coast of Africa. Evidently, the tree and its resin were an important feature of the economy and magico-medicine of the Canary Islands even before colonial contact. Thus, when French explorer Jean de Béthencourt became the first European to write of _D. draco_ in 1402, he recounted an elaborate trade of fishing hooks, knives, and iron in exchange for figs and Dragon’s Blood between his crew and 500 Guanches, the indigenous population of the Canary Islands.[^ref4] 
+As the myths of Antiquity and legends surrounding the dragon tree aged with time, so too did European understandings of the tree evolve as scientific botany developed from the late Medieval through the early modern period. Native to the Canary Islands, Cape Verde, Madeira, and recently found growing natively on the West coast of Morocco, _D. draco_ is somewhat ubiquitous along the Northwestern coast of Africa. Evidently, the tree and its resin were an important feature of the economy and magico-medicine of the Canary Islands even before colonial contact. Thus, when French explorer Jean de Béthencourt became the first European to write of _D. draco_ in 1402, he recounted an elaborate trade of fishing hooks, knives, and iron in exchange for figs and dragon’s blood between his crew and 500 Guanches, the indigenous population of the Canary Islands.[^ref4] 
 <param title="Cape Verde" eid="Q1011">
 <param title="Madeira" eid="Q26253">
 <param title="Jean de Béthencourt" eid="Q447602">
@@ -177,5 +177,5 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDcyMTU3NTMsODg2ODIwMzhdfQ==
+eyJoaXN0b3J5IjpbLTExMTc5MDY1ODIsODg2ODIwMzhdfQ==
 -->
