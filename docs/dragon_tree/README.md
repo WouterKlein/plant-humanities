@@ -1,5 +1,5 @@
 <param ve-config
-	title="Dracaena Draco: The Timeless Canarian Dragon"
+	title="Dracaena draco: the timeless Canarian dragon"
 	banner="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/header%20option%206%20-%20FINAL.jpg"
 	layout="vtl"
 	num-maps="1"
@@ -177,6 +177,7 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTA2NTgyNjEsLTE4NzA2MzI5MDksLT
-EzNjgxNzg3ODUsMzUxMzY4NTk3LDk1MzgwNzUzNV19
+eyJoaXN0b3J5IjpbMTUyNjI1NTQ2NywtMTU5MDY1ODI2MSwtMT
+g3MDYzMjkwOSwtMTM2ODE3ODc4NSwzNTEzNjg1OTcsOTUzODA3
+NTM1XX0=
 -->
