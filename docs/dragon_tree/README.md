@@ -77,7 +77,7 @@ Throughout its dissemination into European spaces from the Age of Discovery, Dra
 	url="https://www.biodiversitylibrary.org/pageimage/51906905"
 	fit="contain">
 <param ve-image
-	title="This image of the _draco arbor_ is the same as in Gerard's herbal, probably being the only illustration available in England at the time. John Parkinson, _Theatrum Botanicum_, (London, 1640), 1532."
+	title="This image of the _draco arbor_ is the same as in Gerard’s herbal, probably being the only illustration available in England at the time. John Parkinson, _Theatrum Botanicum_, (London, 1640), 1532."
 	url="https://www.biodiversitylibrary.org/pageimage/56601428"
 	fit="contain">
 
@@ -95,7 +95,7 @@ European interest in _D. draco_ again resurfaced in the late eighteenth century 
 In 1799, as he stopped in Tenerife before his voyage to the Americas that would make him world-famous, Humboldt found himself in the village of Orotava. There, he entered the garden of a Monsieur Franchy and was immediately awe-struck by the sheer size and magnitude of the dragon tree there – the very same tree that the Guanches had worshipped for centuries. He reported it to measure 60 feet tall and 45 feet in circumference near the roots. “We were told that the trunk of this tree,” Humboldt wrote in his [_Personal Narrative_](https://www.biodiversitylibrary.org/item/228502#page/5/mode/1up), “which is mentioned in several ancient documents as marking the boundaries of a field, was as gigantic in the fifteenth century as it is at the present time.” According to his calculations, the specimen was undoubtedly “one of the oldest inhabitants in our world,” which called for special protection.[^ref12] Humboldt’s experience with the large _D. draco_ at Orotava was far more than the mere realization of a boyish dream, but was instead a pioneering act that that inspired other European travelers to follow in his footsteps and help strengthen a global network of scientific and economic exchanges focused on plants. 
 <param title="Tenerife" eid="Q40846">
 <param ve-image
-	title="Marchais, 'Le dragonier de l'Orotava,' in: Alexander von Humboldt, _Vue des cordillères et monumens des peuples indigènes de l'Amerique_, (Paris: 1810), 156."
+	title="Marchais, ‘Le dragonier de l’Orotava,’ in: Alexander von Humboldt, _Vue des cordillères et monumens des peuples indigènes de l’Amerique_, (Paris: 1810), 156."
 	url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/Dracaena:Humboldt.jpg"
 	region="pct:8,5,145,140"
 	fit="contain">
@@ -143,7 +143,7 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref3]: J. Francisco-Ortega et al., “Early Cultivation of Macaronesian Plants in Three European Gardens”, _Revista de la Academia Canaria de Ciencias_ 23, no. 3 (April 2012), 113-143.
 
-[^ref4]: Pierre Bontier, Jean le Verrier, and Richard Henry Major (trans.), _The Canarian: or, Book of the Conquest and Conversion of the Canarians in the year 1402 by Messire Jean de Béthencourt, Kt_, (London: The Hakluyt Society, 1872), 70-71. [Click here for full book](https://archive.org/details/canarianorbookof00bont_0/page/n7/mode/2up) On D. draco’s wider significance within Guanche culture, see: Mark Milburn, “Dragon’s Blood in East and West Africa, Arabia and the Canary Islands,” _Africa: Rivista trimestrale di studi e documentazione dell'Istituto italiano per l'Africa e l'Oriente_ 39, no. 3 (1984), 489-90.
+[^ref4]: Pierre Bontier, Jean le Verrier, and Richard Henry Major (trans.), _The Canarian: or, Book of the Conquest and Conversion of the Canarians in the year 1402 by Messire Jean de Béthencourt, Kt_, (London: The Hakluyt Society, 1872), 70-71. [Click here for full book](https://archive.org/details/canarianorbookof00bont_0/page/n7/mode/2up) On D. draco’s wider significance within Guanche culture, see: Mark Milburn, “Dragon’s Blood in East and West Africa, Arabia and the Canary Islands,” _Africa: Rivista trimestrale di studi e documentazione dell’Istituto italiano per l’Africa e l’Oriente_ 39, no. 3 (1984), 489-90.
 
 [^ref5]: Colin Walker, “A tale of dragons – the pachycaul species of Dracaena,” _British Cactus & Succulent Journal_ 17, no. 4 (December, 1999), 171-177; Jane Pearson and Hew D.V. Prendergast, “Daemonorops, Dracaena and Other Dragon’s Blood,” _Economic Botany_ 55, no. 4 (October-December 2001), 474-477.
 
@@ -169,7 +169,7 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref16]: Alice Carter Cook, “The Dragon Tree of Orotava,” _The Plant World_ 4, no. 7 (July 1901), 124.
 
-[^ref17]: Joanna Jura-Morawiec and Mirela Tulik, “Dragon’s blood secretion and its ecological significance,” in _Chemoecology_ 26, no. 3, (March 2016), [Click here for full article](https://www.researchgate.net/publication/298897759_Dragon's_blood_secretion_and_its_ecological_significance)
+[^ref17]: Joanna Jura-Morawiec and Mirela Tulik, “Dragon’s blood secretion and its ecological significance,” in _Chemoecology_ 26, no. 3, (March 2016), [Click here for full article](https://www.researchgate.net/publication/298897759_Dragon’s_blood_secretion_and_its_ecological_significance)
 
 [^ref18]: Deepika Gupta, Bruce Bleakley, Rajinder K. Gupta, “Dragon’s blood: Botany, chemistry and therapeutic uses,” _Journal of Ethnopharmacology_ 115 (2008), 361.
 
@@ -177,7 +177,7 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref20]: Aaron González-Castro et al., “Unraveling the Seed Dispersal System of an Insular ‘Ghost’ Dragon Tree (_Dracaena draco_) in the Wild,” in _Frontiers in Ecology and Evolution_ 7, no. 39 (February 2019).
 
-[^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (Dracaena draco),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
+[^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MzQ0MTcyMiw5NTM4MDc1MzVdfQ==
+eyJoaXN0b3J5IjpbMzUxMzY4NTk3LDk1MzgwNzUzNV19
 -->
