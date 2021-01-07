@@ -84,13 +84,22 @@ European interest in _D. draco_ again resurfaced in the late eighteenth century 
 
 In 1799, as he stopped in Tenerife before his voyage to the Americas that would make him world-famous, Humboldt found himself in the village of Orotava. There, he entered the garden of a Monsieur Franchy and was immediately awe-struck by the sheer size and magnitude of the dragon tree there – the very same tree that the Guanches had worshipped for centuries. He reported it to measure 60 feet tall and 45 feet in circumference near the roots. “We were told that the trunk of this tree,” Humboldt wrote in his [_Personal Narrative_](https://www.biodiversitylibrary.org/item/228502#page/5/mode/1up), “which is mentioned in several ancient documents as marking the boundaries of a field, was as gigantic in the fifteenth century as it is at the present time.” According to his calculations, the specimen was undoubtedly “one of the oldest inhabitants in our world,” which called for special protection.[^12] Humboldt’s experience with the large _D. draco_ at Orotava was far more than the mere realization of a boyish dream, but was instead a pioneering act that that inspired other European travelers to follow in his footsteps and help strengthen a global network of scientific and economic exchanges focused on plants. 
 <param title="Tenerife" eid="Q40846">
-<param url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/Dracaena:Humboldt.jpg" ve-image region="pct:8,5,145,140" fit="contain" title="Marchais, 'Le dragonier de l'Orotava,' in: Alexander von Humboldt, _Vue des cordillères et monumens des peuples indigènes de l'Amerique_, (Paris: 1810), 156.">
-<param ve-image url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/DON%20JUAN%20FRANCISCO%20DE%20FRANCHI%20ALFARO.jpg" title="_Jardines y casa de Franchy_, engraving by Simón Cattoir y C. de Freudenberg (ca. 1770)" region="pct:8,5,150,145">
+<param ve-image
+	title="Marchais, 'Le dragonier de l'Orotava,' in: Alexander von Humboldt, _Vue des cordillères et monumens des peuples indigènes de l'Amerique_, (Paris: 1810), 156."
+	url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/Dracaena:Humboldt.jpg"
+	region="pct:8,5,145,140"
+	fit="contain">
+<param ve-image
+	title="_Jardines y casa de Franchy_, engraving by Simón Cattoir y C. de Freudenberg (ca. 1770)"
+	url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/DON%20JUAN%20FRANCISCO%20DE%20FRANCHI%20ALFARO.jpg"
+	region="pct:8,5,150,145">
 
 ![](images/SubSec 3 - Flame v2.jpg)
 Humboldt was not the only naturalist of his time attracted to the remarkable centenary dragon tree, as some three years before, in 1796, French naturalist André Pierre Ledru also found himself in M. Franchy’s garden, admiring the very same tree. Even if its scarlet-colored resin was a critical aspect of the Guanche pharmacopoeia and a valuable piece of naturalia that spurred the Canarian economy, the population of trees from which it was sourced was already in decline by the turn of the nineteenth century due to unsustainable cultivation techniques. This environmental degradation has only increased in intensity in the last two centuries with the intensification of human-driven ecological change, known as the Anthropocene.
 <param title="Anthropocene" eid="Q26841">
-<param ve-image static url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/clone stamp craze.jpg" ve-image title="A Dracaena draco on a mountainside overlooking a twenty-first century industrial agriculture compound near Cenbio de Valerón, Gran Canaria, Spain. Photo taken by Thomas C. Anderson, July 2019.">
+<param ve-image static
+	url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/clone stamp craze.jpg"
+	ve-image title="A Dracaena draco on a mountainside overlooking a twenty-first century industrial agriculture compound near Cenbio de Valerón, Gran Canaria, Spain. Photo taken by Thomas C. Anderson, July 2019.">
 
 As Ledru remarked in his 1810 [_Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco_](https://archive.org/details/voyageauxlesdet00sonngoog/page/n5/mode/2up), which drew on observations he made during his trip to the Isles of Fortune some fourteen years earlier: “In days gone by, the resin that one extracts from the dragon tree was an important object of commerce for Teneriffe; but since the locals have neglected to replace the old trees that were worn out by too-frequent tapping (of the resin) with young plantations, this source will soon be exhausted. There exist perhaps less than fifty dragon trees left on the island.”[^13]  This gradual, yet persistent, degradation of the _D. draco_ population was not solely due to Guanche overcultivation, either, as Spanish colonizers inflicted profound ecological changes upon the islands when they razed and destroyed large swaths of forests during their conquest and settlement of the Canaries three centuries earlier.[^14] 
 <param title="Isles of Fortune" eid="Q19211357" aliases="Isles of Fortune" article="Isles_of_Fortune"> 
@@ -132,5 +141,5 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 [^20]: Aaron González-Castro et al., "Unraveling the Seed Dispersal System of an Insular 'Ghost Dragon Tree (D. draco) in the Wild," in _Frontiers in Ecology and Evolution_ 7, no. 39 (February 2019).
 [^21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (Dracaena draco),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIyODY5NDM5XX0=
+eyJoaXN0b3J5IjpbMjA4MDIwNjQ5XX0=
 -->
