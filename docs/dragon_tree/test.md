@@ -23,7 +23,7 @@ As the tongue goes numb and all efforts fail to remove the scarlet, sticky subst
 <param ve-storiiies
 	id="8a1g2">
 
-Members of today’s _Dracaena_ genus have long been valued for their signature red resin, Dragon’s Blood, that oozes from cuts in the bark of those trees.[^ref1]  The first known reports of Dragon’s Blood were dispersed through Pliny’s [_Naturalis Historia_](https://archive.org/details/OEXV10R/mode/2up), where he recounted the Indian tale of a dragon (representing Brahma) biting a giant elephant (representing Shiva) and their blood mixing into the iconic resin. While this Vedic myth actually originates from Socotra island of Yemen and is based on the resin of _Dracaena cinnabari_, the fascination with Dragon’s Blood also took a foothold in Europe through the infamous tale of Hercules. 
+Members of today’s _Dracaena_ genus have long been valued for their signature red resin, Dragon’s Blood, that oozes from cuts in the bark of those trees.  Though the focus of this article is on _D. draco_, there are many other species of tree that exude their own forms of dragon’s blood. These include the other 120 members of the _Dracaena_ genus, in addition to several others. While these other trees certainly exude a resin identified as Dragon’s Blood, a level of botanical and geographical ambiguity that contributes to Dragon Blood’s mythical status, _D. draco_ and _D. cinnabari_ are the two species that are most commonly referred to as the source of the resin in historical sources.[^ref1]  The first known reports of Dragon’s Blood were dispersed through Pliny’s [_Naturalis Historia_](https://archive.org/details/OEXV10R/mode/2up), where he recounted the Indian tale of a dragon (representing Brahma) biting a giant elephant (representing Shiva) and their blood mixing into the iconic resin. While this Vedic myth actually originates from Socotra island of Yemen and is based on the resin of _Dracaena cinnabari_, the fascination with Dragon’s Blood also took a foothold in Europe through the infamous tale of Hercules. 
 <param title="Naturalis Historia" eid="Q442">
 <param title="Vedic myth" eid="Q2076739" aliases="Vedic myth">
 <param title="Socotra" eid="Q82859">
@@ -177,5 +177,5 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYwNDgwMzcxLDg4NjgyMDM4XX0=
+eyJoaXN0b3J5IjpbLTg4ODIzNzA4OSw4ODY4MjAzOF19
 -->
