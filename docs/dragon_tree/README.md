@@ -117,11 +117,11 @@ As Ledru remarked in his 1810 [_Voyages aux îles de Ténériffe, la Trinité, S
 	title="A small outcrop of Dracaena draco trees at the oldest botanical garden on the Canary Islands, the Jardin Botanico Canario Viera y Clavijo in Gran Canaria, Spain. Photo taken by Thomas C. Anderson, July 2019."
 	url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/IMG_9319.jpg">
 
-But even in the face of this acute anthropogenic pressure, the great dragon tree at Orotava persisted. Struck by the tree’s size, age, and enduring spirit, Ledru remarks on how even the most environmentally malicious conquistadors respected this  dragon tree.  Perhaps, then, to Humboldt’s delight, Ledru estimated that this special tree would easily live another one-hundred-fifty to two-hundred years.[^ref15]  6]
+But even in the face of this acute anthropogenic pressure, the great dragon tree at Orotava persisted. Struck by the tree’s size, age, and enduring spirit, Ledru remarks on how even the most environmentally malicious conquistadors respected this dragon tree. Perhaps, then, to Humboldt’s delight, Ledru estimated that this special tree would easily live another one-hundred-fifty to two-hundred years.[^ref15]
 <param ve-storiiies
 	id="7b1dr">
 
-Unfortunately, the Orotava centenary dragon tree did not outlive Humboldt and Ledru’s visits by too long. In 1819, a storm first cut off one of its branches, and in 1867, a hurricane-like tempest broke them all off.[^ref16]  Despite this inauspicious demise, the tree’s image remains associated with the Canary Islands through today, and it is still frequently featured prominently in images of Orotava. Furthermore, both naturalists’ accounts of their encounters with the dragon tree in its native environment stand as proof of its power to equally excite scientific and aesthetic imagination, promote environmental concerns, and reinforce colonial dynamics. 
+Unfortunately, the Orotava centenary dragon tree did not outlive Humboldt and Ledru’s visits by too long. In 1819, a storm first cut off one of its branches, and in 1867, a hurricane-like tempest broke them all off.[^ref16] Despite this inauspicious demise, the tree’s image remains associated with the Canary Islands through today, and it is still frequently featured prominently in images of Orotava. Furthermore, both naturalists’ accounts of their encounters with the dragon tree in its native environment stand as proof of its power to equally excite scientific and aesthetic imagination, promote environmental concerns, and reinforce colonial dynamics. 
 <param ve-image
 	title=""
 	url="https://upload.wikimedia.org/wikipedia/commons/3/38/Orotava_Ayuntamiento_04.jpg">
@@ -179,7 +179,7 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjM0ODQzLDE4NDYzNDg2NjUsLTE2Nz
+eyJoaXN0b3J5IjpbMTc2MDgwNDc4LDE4NDYzNDg2NjUsLTE2Nz
 UzMDY1NTksMTUyNjI1NTQ2NywtMTU5MDY1ODI2MSwtMTg3MDYz
 MjkwOSwtMTM2ODE3ODc4NSwzNTEzNjg1OTcsOTUzODA3NTM1XX
 0=
