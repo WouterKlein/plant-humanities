@@ -7,12 +7,11 @@
 	num-images="17"
 	num-primary-sources="16"
 	author="Thomas C. Anderson, Cati Kalinoski, and Lucas Mertehikian">
-
 <param title="Dracaena Draco" eid="Q579524">
 <param title="Dracaena" eid="Q158009" article="dragon_tree_species" aliases="D. draco">
 <param title="Dumbarton Oaks" eid="Q1264942" aliases="DO">
 
-## Introduction: A Desensitizing Sensory Experience
+### Introduction: A Desensitizing Sensory Experience
 
 As the tongue goes numb and all efforts fail to remove the scarlet, sticky substance that binds to one’s teeth like quick-setting epoxy, one starts to panic and wonder if the Dragon’s Blood they just ingested is truly as noxious as its name suggests. Though the epithet “Dragon’s Blood” brings forth images of medieval myths and fantastical notions of fire-breathing lizards soaring high in the sky, this “blood” is in fact the resin of a very real tree. _Dracaena draco_, the centenary tree with a thick trunk and a distinctive, umbrella-style crown, captured the imaginations of great minds across the ages, from Antiquity’s Pliny the Elder (d. 79 AD)  to the Enlightenment’s Alexander von Humboldt (1769-1859). Unlike Pliny, however, Humboldt was not the lone scholar of his age enthralled by the epic allure of the dragon tree, as other European naturalists like André Pierre Ledru (1761-1825) also flocked to _D. draco_’s native Canary Islands to study it around the turn of the nineteenth century. Soon after their initial encounters with Dragon’s Blood, they all may have realized that this strange sap occupied a liminal space between myth, legend, and scientific botany. 
 <param title="Dragon's Blood" eid="Q421877" aliases="Dragon">
@@ -119,5 +118,5 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 [^20]: Aaron González-Castro et al., "Unraveling the Seed Dispersal System of an Insular 'Ghost Dragon Tree (D. draco) in the Wild," in _Frontiers in Ecology and Evolution_ 7, no. 39 (February 2019).
 [^21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (Dracaena draco),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MzM4NDE5NF19
+eyJoaXN0b3J5IjpbLTc2NTE1NTg3M119
 -->
