@@ -65,7 +65,7 @@
 	fill="red"
 	auto-play="true">
 <param ve-map-layer
-	url="https://github.com/WouterKlein/plant-humanities/docs/boxwood/us-states.json">
+	url="https://github.com/WouterKlein/plant-humanities/edit/develop/docs/boxwood/us-states.json">
 
 https://raw.githubusercontent.com/WouterKlein/boxwoodtest/master/us-states.json">
 
@@ -264,6 +264,6 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 [^ref24]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDU5NzE2NSw5OTk3MDM5MjksLTE4Mz
-g5NDU0MywxNTg0NjQ2MDIzXX0=
+eyJoaXN0b3J5IjpbLTE2NjE0MTgwMCwtMTAwNTk3MTY1LDk5OT
+cwMzkyOSwtMTgzODk0NTQzLDE1ODQ2NDYwMjNdfQ==
 -->
