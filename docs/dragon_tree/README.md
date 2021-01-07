@@ -68,7 +68,7 @@ The Guanches used dragon’s blood for a variety of purposes ranging from embalm
 <param primary ve-storiiies
 	id="751f7"> 
 
-Throughout its dissemination into European spaces from the Age of Discovery, Ddragon’s Bblood was understood chiefly as a medicament. Soon after its introduction, the sticky scarlet resin became nothing short of a panacea with widespread potential to prevent a host of illnesses.[^ref8] 8 As a result, the so-called ‘_draco arbor_’ features in famous early modern herbals, such as John Gerard’s [_The Herball, or Generall Historie of Plantes_](https://www.biodiversitylibrary.org/item/33580#page/1/mode/1up) (1633) and John Parkinson’s [_Theatrum Botanicum_](https://www.biodiversitylibrary.org/item/256142#page/13/mode/1up) (1640). Both authors pointed to the Atlantic islands (comprised of the Canary Islands, as well as the Portuguese Azores and Madeira) as the tree’s most common habitat; as for _D. draco_’s medical uses, Gerard and Parkinson also agreed —its resin was believed to have effective astringent properties to treat gonorrhea, dysentery, spitting blood, and loose teeth. Gerard noted that “smiths also use it to varnish over their works,” while Parkinson doubted “painters can bring it to be a fit color to be used in their works.”[^ref9]  
+Throughout its dissemination into European spaces from the Age of Discovery, dragon’s blood was understood chiefly as a medicament. Soon after its introduction, the sticky scarlet resin became nothing short of a panacea with widespread potential to prevent a host of illnesses.[^ref8] As a result, the so-called ‘_draco arbor_’ features in famous early modern herbals, such as John Gerard’s [_The Herball, or Generall Historie of Plantes_](https://www.biodiversitylibrary.org/item/33580#page/1/mode/1up) (1633) and John Parkinson’s [_Theatrum Botanicum_](https://www.biodiversitylibrary.org/item/256142#page/13/mode/1up) (1640). Both authors pointed to the Atlantic islands (comprised of the Canary Islands, as well as the Portuguese Azores and Madeira) as the tree’s most common habitat; as for _D. draco_’s medical uses, Gerard and Parkinson also agreed —its resin was believed to have effective astringent properties to treat gonorrhea, dysentery, spitting blood, and loose teeth. Gerard noted that “smiths also use it to varnish over their works,” while Parkinson doubted “painters can bring it to be a fit color to be used in their works.”[^ref9]  
 <param title="Age of Discovery" eid="Q133641">
 <param title="panacea" eid="Q1048167">
 <param title="John Gerard" eid="Q1333338">
@@ -138,7 +138,7 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 <param ve-image
 	iiif-url="https://free.iiifhosting.com/iiif/31fb222aa31e439323c29d61cb363d5c897b02d8cde694ff946f0f6adbb00ad">
 
-[^ref1]: Though the focus of this article is on D. draco, there are many other species of tree that exude their own forms of dragon’s blood. These include the other 120 members of the Dracaena genus, in addition to several others. While these other trees certainly exude a resin identified as drist_, “Dragon’s bBlood, D. draco and Dracaena cinnabari are the two species the most-commonly referenced as the source of the resin in historical sources”. 
+[^ref1]: Though the focus of this article is on D. draco, there are many other species of tree that exude their own forms of dragon’s blood. These include the other 120 members of the Dracaena genus, in addition to several others. While these other trees certainly exude a resin identified as dragon’s blood, _D. draco_ and _D. cinnabari_ are the two species the most-commonly referenced as the source of the resin in historical sources”. 
 
 [^ref2]: Fauna & Flora International, “Canary Islands Dragon Tree,” Global Trees.org, accessed August 3, 2020. [Click here for full article](https://globaltrees.org/threatened-trees/trees/dragon-tree/)
 
@@ -180,7 +180,7 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMzU3MjE2NSwxNTI2MjU1NDY3LC0xNT
-kwNjU4MjYxLC0xODcwNjMyOTA5LC0xMzY4MTc4Nzg1LDM1MTM2
-ODU5Nyw5NTM4MDc1MzVdfQ==
+eyJoaXN0b3J5IjpbLTE2NzUzMDY1NTksMTUyNjI1NTQ2NywtMT
+U5MDY1ODI2MSwtMTg3MDYzMjkwOSwtMTM2ODE3ODc4NSwzNTEz
+Njg1OTcsOTUzODA3NTM1XX0=
 -->
