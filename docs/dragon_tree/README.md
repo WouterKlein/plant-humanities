@@ -175,9 +175,9 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref19]: “Dracaena draco,” IUCN Red List.org, accessed August 3. 2020, [link](https://www.iucnredlist.org/species/30394/9535771)
 
-[^ref20]: Aaron González-Castro et al., “Unraveling the Seed Dispersal System of an Insular 'Ghost Dragon Tree (D. draco) in the Wild,” in _Frontiers in Ecology and Evolution_ 7, no. 39 (February 2019).
+[^ref20]: Aaron González-Castro et al., “Unraveling the Seed Dispersal System of an Insular ‘Ghost’ Dragon Tree (_Dracaena draco_) in the Wild,” in _Frontiers in Ecology and Evolution_ 7, no. 39 (February 2019).
 
 [^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (Dracaena draco),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc4NTgxOTksOTUzODA3NTM1XX0=
+eyJoaXN0b3J5IjpbMTE4MzQ0MTcyMiw5NTM4MDc1MzVdfQ==
 -->
