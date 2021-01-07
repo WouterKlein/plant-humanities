@@ -138,7 +138,9 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref3]: J. Francisco-Ortega et al., “Early Cultivation of Macaronesian Plants in Three European Gardens”, _Revista de la Academia Canaria de Ciencias_ 23, no. 3 (April 2012), 113-143.
 
-[^ref4]: Pierre Bontier, Jean le Verrier, and Richard Henry Major (trans.), _The Canarian: or, Book of the Conquest and Conversion of the Canarians in the year 1402 by Messire Jean de Béthencourt, Kt_, (London: The Hakluyt Society, 1872), 70-71. [Click here for full book](https://archive.org/details/canarianorbookof00bont_0/page/n7/mode/2up) On D. draco’s wider significance within Guanche culture, see: Mark Milburn, “Dragon’s Blood in East and West Africa, Arabia and the Canary Islands,” _Africa: Rivista trimestrale di studi e documentazione dell’Istituto italiano per l’Africa e l’Oriente_ 39, no. 3 (1984), 489-90.
+[^ref4]: Pierre Bontier, Jean le Verrier, and Richard Henry Major (trans.), _The Canarian: or, Book of the Conquest and Conversion of the Canarians in the year 1402 by Messire Jean de Béthencourt, Kt_, (London: The Hakluyt Society, 1872), 70-71. [Click here for full book](https://archive.org/details/canarianorbookof00bont_0/page/n7/mode/2up)
+
+On D. draco’s wider significance within Guanche culture, see: Mark Milburn, “Dragon’s Blood in East and West Africa, Arabia and the Canary Islands,” _Africa: Rivista trimestrale di studi e documentazione dell’Istituto italiano per l’Africa e l’Oriente_ 39, no. 3 (1984), 489-90.
 
 [^ref5]: Colin Walker, “A tale of dragons – the pachycaul species of Dracaena,” _British Cactus & Succulent Journal_ 17, no. 4 (December, 1999), 171-177; Jane Pearson and Hew D.V. Prendergast, “Daemonorops, Dracaena and Other Dragon’s Blood,” _Economic Botany_ 55, no. 4 (October-December 2001), 474-477.
 
@@ -176,6 +178,6 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDA1MzY0MjMsNTY4MjE5MTQ0LC05MT
-cyNDIxMDMsODg2ODIwMzhdfQ==
+eyJoaXN0b3J5IjpbMTI2MzgzNTMxNSw1NjgyMTkxNDQsLTkxNz
+I0MjEwMyw4ODY4MjAzOF19
 -->
