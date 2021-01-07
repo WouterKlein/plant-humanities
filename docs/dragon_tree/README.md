@@ -98,21 +98,26 @@ In 1799, as he stopped in Tenerife before his voyage to the Americas that would 
 Humboldt was not the only naturalist of his time attracted to the remarkable centenary dragon tree, as some three years before, in 1796, French naturalist André Pierre Ledru also found himself in M. Franchy’s garden, admiring the very same tree. Even if its scarlet-colored resin was a critical aspect of the Guanche pharmacopoeia and a valuable piece of naturalia that spurred the Canarian economy, the population of trees from which it was sourced was already in decline by the turn of the nineteenth century due to unsustainable cultivation techniques. This environmental degradation has only increased in intensity in the last two centuries with the intensification of human-driven ecological change, known as the Anthropocene.
 <param title="Anthropocene" eid="Q26841">
 <param ve-image static
-	url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/clone stamp craze.jpg"
-	ve-image title="A Dracaena draco on a mountainside overlooking a twenty-first century industrial agriculture compound near Cenbio de Valerón, Gran Canaria, Spain. Photo taken by Thomas C. Anderson, July 2019.">
+	title="A Dracaena draco on a mountainside overlooking a twenty-first century industrial agriculture compound near Cenbio de Valerón, Gran Canaria, Spain. Photo taken by Thomas C. Anderson, July 2019."
+	url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/clone stamp craze.jpg">
 
 As Ledru remarked in his 1810 [_Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco_](https://archive.org/details/voyageauxlesdet00sonngoog/page/n5/mode/2up), which drew on observations he made during his trip to the Isles of Fortune some fourteen years earlier: “In days gone by, the resin that one extracts from the dragon tree was an important object of commerce for Teneriffe; but since the locals have neglected to replace the old trees that were worn out by too-frequent tapping (of the resin) with young plantations, this source will soon be exhausted. There exist perhaps less than fifty dragon trees left on the island.”[^13]  This gradual, yet persistent, degradation of the _D. draco_ population was not solely due to Guanche overcultivation, either, as Spanish colonizers inflicted profound ecological changes upon the islands when they razed and destroyed large swaths of forests during their conquest and settlement of the Canaries three centuries earlier.[^14] 
 <param title="Isles of Fortune" eid="Q19211357" aliases="Isles of Fortune" article="Isles_of_Fortune"> 
-<param ve-image static url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/IMG_9319.jpg" ve-image title="A small outcrop of Dracaena draco trees at the oldest botanical garden on the Canary Islands, the Jardin Botanico Canario Viera y Clavijo in Gran Canaria, Spain. Photo taken by Thomas C. Anderson, July 2019.">
+<param ve-image static
+	title="A small outcrop of Dracaena draco trees at the oldest botanical garden on the Canary Islands, the Jardin Botanico Canario Viera y Clavijo in Gran Canaria, Spain. Photo taken by Thomas C. Anderson, July 2019."
+	url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/IMG_9319.jpg">
 
 But even in the face of this acute anthropogenic pressure, the great dragon tree at Orotava persisted. Struck by the tree’s size, age, and enduring spirit, Ledru remarks on how even the most environmentally malicious conquistadors respected this  dragon tree.  Perhaps, then, to Humboldt’s delight, Ledru estimated that this special tree would easily live another one-hundred-fifty to two-hundred years.[^15]  
 <param ve-storiiies id="7b1dr">
 
 Unfortunately, the Orotava centenary dragon tree did not outlive Humboldt and Ledru’s visits by too long. In 1819, a storm first cut off one of its branches, and in 1867, a hurricane-like tempest broke them all off.[^16]  Despite this inauspicious demise, the tree’s image remains associated with the Canary Islands through today, and it is still frequently featured prominently in images of Orotava. Furthermore, both naturalists’ accounts of their encounters with the dragon tree in its native environment stand as proof of its power to equally excite scientific and aesthetic imagination, promote environmental concerns, and reinforce colonial dynamics. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/38/Orotava_Ayuntamiento_04.jpg">
+<param ve-image
+	title=""
+	url="https://upload.wikimedia.org/wikipedia/commons/3/38/Orotava_Ayuntamiento_04.jpg">
 
 Just as Humboldt and Ledru observed the centenary _D. draco_ at Orotava and pondered the tree’s age, durability, and its potential influence on theories of a global climate, today’s scientists are weighing the tree’s possible medicinal benefits (including potential cancer treatments) and its commercial value in the cosmetics industry as an ingredient in anti-aging creams in relation to the species’ ongoing battle with extinction and its ecological vulnerability.[^17] Since many different species make good sources of what is commonly known as dragon’s blood, more comprehensive research still needs to be carried out to fully assess the mythical resin’s true medicinal efficacy.[^18] 
-<param ve-image iiif-url="https://free.iiifhosting.com/iiif/ac36469812ba26bc336649e5aa20da4c6bfbd178d157caf52bbbfba2bd4d6629">
+<param ve-image
+	iiif-url="https://free.iiifhosting.com/iiif/ac36469812ba26bc336649e5aa20da4c6bfbd178d157caf52bbbfba2bd4d6629">
 
 Today, _D. draco_ is officially designated as a vulnerable population on the International Union for Conservation of Nature’s _Red List of Threatened Species_ due to its near-extinction in the wild.[^19] This is due in part to the fact that the tree relies on animals to disperse its seeds, and the number of animals which are suitable _D. draco_ seed dispersers has substantially decreased over time due to hunting and other forms of habitat destruction.[^20] Furthermore, as Ledru noted over two centuries ago, this population decline and endangerment is also due to over cultivation of the tree’s valuable resin. The number of wild specimens has never been lower than it is today, and even though there are projects to repopulate the islands through experiments in propagation and acclimatization, one wonders if ever again a _Dracaena draco_ will grow to the size and magnificence of the one that so captivated the minds of lers like Humboldt and Ledru.[^21] Perhaps, after its millennia-long smolder, the dragon’s flame will finally be snuffed out by the twenty-first century Anthropocene. 
 <param title="International Union for Conservation of Nature" eid="Q48268" aliases="International Union for Conservation of Nature">
@@ -141,5 +146,5 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 [^20]: Aaron González-Castro et al., "Unraveling the Seed Dispersal System of an Insular 'Ghost Dragon Tree (D. draco) in the Wild," in _Frontiers in Ecology and Evolution_ 7, no. 39 (February 2019).
 [^21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (Dracaena draco),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MDIwNjQ5XX0=
+eyJoaXN0b3J5IjpbOTM3NjA2MTk4XX0=
 -->
