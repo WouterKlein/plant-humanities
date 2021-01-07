@@ -51,7 +51,6 @@
 ### Boxwood under threat
 
 “Boxwood blight invades North America,” read the heading of an article that appeared in _Science News_ in January 2012. Caused by _Cylindrocladium buxicola_—a fungus whose spores remain viable for several years and can easily be dispersed by moving visitors, wind, or even sprinklers—this disease manifests itself by dark or light brown spots or lesions on the leaves that eventually fall off. First reported in southern England in 1994, boxwood blight has since been devastating gardens across the world, from Europe to New Zealand. Recently, it has been described as “a significant concern for the ornamental horticulture industry” as well as “a growing threat to established landscapes and native ecosystems alike.”[^ref1]
-<param title="Buxus" eid="Q158703" aliases="Boxwood">
 <param ve-map
 	title="Occurence of boxwood blight in America, 2010-2018"
 	center="39.812733, -97.042653"
@@ -68,6 +67,7 @@
 	url="https://raw.githubusercontent.com/WouterKlein/boxwoodtest/master/us-states.json">
 
 Boxwood, with which this disease is associated, is a genus of evergreen shrubs that enjoy great commercial success as ornamental garden plants. Among its varieties and cultivars, the most popular is arguably English or common boxwood (_Buxus sempervirens ‘Suffruticosa’_) native to western and southern Europe, northwest Africa, and southwest Asia. In the United States—where this cultivated variety had been mass introduced on the wave of the early twentieth-century interest in European gardens—its sales, until recently, represented the greatest proportion (around 15%) among broadleaf evergreens, reaching an annual revenue of 126 million dollars in 2014.[^ref2] A boxwood-flanked promenade, in the words of landscape architect Diane McGuire, was historically “the most common element found in almost every garden in the southern United States.”
+<param title="Buxus" eid="Q158703" aliases="Boxwood">
 <param title="shrub" eid="Q42295" aliases="shrubs">
 <param ve-image
 	title="Box Walk at Dumbarton Oaks"
@@ -262,6 +262,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 [^ref24]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk5NzAzOTI5LC0xMDA1OTcxNjUsOTk5Nz
-AzOTI5LC0xODM4OTQ1NDMsMTU4NDY0NjAyM119
+eyJoaXN0b3J5IjpbNTIxNDQxMzU1LDk5OTcwMzkyOSwtMTAwNT
+k3MTY1LDk5OTcwMzkyOSwtMTgzODk0NTQzLDE1ODQ2NDYwMjNd
+fQ==
 -->
