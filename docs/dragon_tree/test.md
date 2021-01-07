@@ -32,7 +32,7 @@ Members of today’s _Dracaena_ genus have long been valued for their signature 
 	title="Vedic Tale of the Elephant and the Dragon. Giraldus Cambrensis, _Bestiary_, (England: c.1225-1250), f58. image Provided by the British Museum"
 	url="https://www.bl.uk/IllImages/Ekta/big/E043/E043090a.jpg">
 
-Fothe eleventh labor of his famous twelve, Hercules was sent to steal the golden apples guarded by Ladon, a vicious dragon with one hundred heads. Once slain by the demigod, Ladon’s blood seeped into the ground and “from it sprung up the trees that we now know as ‘dragon trees,’” and his body was sent to live among the stars.[^ref2] As Dragon’s Blood soon became one of the most coveted commodities in ancient Greece, so too did it serve as a lasting link between myth and reality, as Greeks from Athens to Thebes believed that “the source of ‘Dragon’s Blood’ [... is] the red blood of the dragon Ladon after it was killed by Hercules.”[^ref3]
+For the eleventh labor of his famous twelve, Hercules was sent to steal the golden apples guarded by Ladon, a vicious dragon with one hundred heads. Once slain by the demigod, Ladon’s blood seeped into the ground and “from it sprung up the trees that we now know as ‘dragon trees,’” and his body was sent to live among the stars.[^ref2] As dragon’s blood soon became one of the most coveted commodities in ancient Greece, so too did it serve as a lasting link between myth and reality, as Greeks from Athens to Thebes believed that “the source of ‘Dragon’s Blood’ [...] [is] the red blood of the dragon Ladon after it was killed by Hercules.”[^ref3]
 <param title="Hercules" eid="Q122248">
 <param title="Ladon" eid="Q274600">
 <param ve-iiif-compare
@@ -177,5 +177,5 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4Njc4MjcwMSw4ODY4MjAzOF19
+eyJoaXN0b3J5IjpbLTEwMDcyMTU3NTMsODg2ODIwMzhdfQ==
 -->
