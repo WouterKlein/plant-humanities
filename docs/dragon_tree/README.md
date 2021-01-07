@@ -166,7 +166,7 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref14]: André Pierre Ledru, _Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco_, (Paris: Arthus Bertrand, 1810), 93. [Click here for full book](https://archive.org/details/voyageauxlesdet00sonngoog/page/n5/mode/2up)
 
-[^ref15]: André Pierre Ledru, _Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco_, (Paris: Arthus Bertrand, 1810), 93.  [Click here for full book](https://archive.org/details/voyageauxlesdet00sonngoog/page/n5/mode/2up)
+[^ref15]: André Pierre Ledru, _Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco_, (Paris: Arthus Bertrand, 1810), 93. [Click here for full book](https://archive.org/details/voyageauxlesdet00sonngoog/page/n5/mode/2up)
 
 [^ref167]: Alice Carter Cook, “The Dragon Tree of Orotava,” _The Plant World_ 4, no. 7 (July 1901), 124.
 
@@ -180,7 +180,7 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzUzMDY1NTksMTUyNjI1NTQ2NywtMT
-U5MDY1ODI2MSwtMTg3MDYzMjkwOSwtMTM2ODE3ODc4NSwzNTEz
-Njg1OTcsOTUzODA3NTM1XX0=
+eyJoaXN0b3J5IjpbMTg0NjM0ODY2NSwtMTY3NTMwNjU1OSwxNT
+I2MjU1NDY3LC0xNTkwNjU4MjYxLC0xODcwNjMyOTA5LC0xMzY4
+MTc4Nzg1LDM1MTM2ODU5Nyw5NTM4MDc1MzVdfQ==
 -->
