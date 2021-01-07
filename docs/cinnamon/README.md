@@ -44,7 +44,7 @@ A second, and much more surprising reason for the long-lasting confusion over ci
 	url="Indian_Ocean_Spice_route_(Riddle 1985p99_from Miller_1969).bmp">
 
 ### Cinnamon as a tool of empire
-The attraction of cinnamon – ‘true’ or other – as a means to enhance the power of a state, by displaying its control over exotic riches, predates the early modern period. For example, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), showing a personification of Arabia, who holds a bundle of cinnamon sticks. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda, to emphasize the relation between the authority of the empire and the conquered lands.[^ref7]
+The attraction of cinnamon – ‘true’ or other – as a means to enhance the power of a state, by displaying its control over exotic riches, predates the early modern period. For example, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), showing a personification of Arabia, who holds a bundle of cinnamon sticks. The motif can be associated with Trajan’s conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda, to emphasize the relation between the authority of the empire and the conquered lands.[^ref7]
 <param title="Trajan" eid="Q1425">
 <param title="Persian Gulf" eid="Q34675">
 <param ve-image
@@ -52,20 +52,20 @@ The attraction of cinnamon – ‘true’ or other – as a means to enhance the
 	url="https://upload.wikimedia.org/wikipedia/commons/7/77/Roman_Coin%2C_Denarius_of_Trajan_%28FindID_963033%29.jpg"
 	region="1414,152,1586,1031">
 
-The quest for spices, cinnamon among them, was one of the most important aims that inspired Europeans of the fifteenth and sixteenth centuries to sail the oceans. With success, as many explorers claimed. Columbus brought samples of cinnamon bark with him on his first journey to the New World, to help native inhabitants guide him to cinnamon trees, which he believed should grow there. He sent samples of a kind of 'white cinnamon' (probably _Canella winterana_ (L.) Gaertn.) back to Spain from his second journey. Similarly, Juan Sebastián Elcano, who completed Magellan's circumnavigation of the world after the commander himself had been killed on the Philippines, petitioned successfully to have cinnamon sticks, cloves and nutmeg depicted on his coat of arms, to commemorate his role in opening up the spice route to the East Indies.[^ref6]
+The quest for spices, cinnamon among them, was one of the most important aims that inspired Europeans of the fifteenth and sixteenth centuries to sail the oceans. With success, as many explorers claimed. Columbus brought samples of cinnamon bark with him on his first journey to the New World, to help native inhabitants guide him to cinnamon trees, which he believed should grow there. He sent samples of a kind of ‘white cinnamon’ (probably _Canella winterana_ (L.) Gaertn.) back to Spain from his second journey. Similarly, Juan Sebastián Elcano, who completed Magellan’s circumnavigation of the world after the commander himself had been killed on the Philippines, petitioned successfully to have cinnamon sticks, cloves and nutmeg depicted on his coat of arms, to commemorate his role in opening up the spice route to the East Indies.[^ref6]
 <param title="Christopher Columbus" eid="Q7322" aliases="Columbus">
 <param title="Canella winterana" eid="Q2706419">
 <param title="Juan Sebastián Elcano" eid="Q201510">
-<param title="Ferdinand Magellan" eid="Q1496" aliases="Magellan's">
+<param title="Ferdinand Magellan" eid="Q1496" aliases="Magellan’s">
 <param title="Philippines" eid="Q928">
 <param title="Syzygium aromaticum" eid="Q26736" aliases="cloves">
 <param title="nutmeg" eid="Q83165">
 <param ve-image
-	title="Coat of arms of Juan Sebastián Elcano. At the bottom are two crossed cinnamon sticks, three nutmegs and a bunch of cloves. The banner covering the globe reads in Latin 'Primus circumdedisti me' ('You first encircled me')."
+	title="Coat of arms of Juan Sebastián Elcano. At the bottom are two crossed cinnamon sticks, three nutmegs and a bunch of cloves. The banner covering the globe reads in Latin ‘Primus circumdedisti me’ (‘You first encircled me’)."
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg/585px-Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg.png"
 	fit="contain">
 
-Once 'true' cinnamon had begun to be understood as cinnamon from Sri Lanka, European states strove to gain a foothold on the island, to get access to the cinnamon trade. From the sixteenth century onwards, local rulers bargained with the Portuguese, and later the Dutch, for a share in the cinnamon trade, in exchange for political and/or military assistance against their rivals. The Portuguese made humble attempts to create a monopoly after they first arrived on Sri Lanka in 1505. They soon realized that this was impossible without getting involved in local politics on the island. Therefore, they engaged in 'reluctant imperialism' to get access to cinnamon: they needed a permanent presence on the island, and eventually signed an agreement with the king of Kotte in 1533 to buy large amounts of cinnamon.[^ref8]
+Once ‘true’ cinnamon had begun to be understood as cinnamon from Sri Lanka, European states strove to gain a foothold on the island, to get access to the cinnamon trade. From the sixteenth century onwards, local rulers bargained with the Portuguese, and later the Dutch, for a share in the cinnamon trade, in exchange for political and/or military assistance against their rivals. The Portuguese made humble attempts to create a monopoly after they first arrived on Sri Lanka in 1505. They soon realized that this was impossible without getting involved in local politics on the island. Therefore, they engaged in ‘reluctant imperialism’ to get access to cinnamon: they needed a permanent presence on the island, and eventually signed an agreement with the king of Kotte in 1533 to buy large amounts of cinnamon.[^ref8]
 <param title="Kingdom of Kotte" eid="Q1589163" aliases="Kotte">
 <param ve-map
 	title="Sri Lanka in the sixteenth century (after 1521). [Note: I have to create a ve-map tag based on a map in Wagenaar, p. 32, and a map from Wikimedia Commons (https://upload.wikimedia.org/wikipedia/commons/d/d7/Sri_Lanka_geopolitics_-_after_%22Spoiling_of_Vijayabahu%22.png).]"
@@ -73,7 +73,7 @@ Once 'true' cinnamon had begun to be understood as cinnamon from Sri Lanka, Euro
 	zoom="7.4">
 
 ### Optimizing the monopoly
-The Dutch made even stronger, concerted efforts to get a hold on cinnamon. They signed a treaty with the king of Kandy in 1638, hoping this would give them a share of the cinnamon trade, which was still dominated by the Portuguese at the time. After the Portuguese were defeated in Colombo (1656) and Jaffnapatnam (1658), the Dutch controlled many coastal areas of the island, while the kingdom of Kandy ruled the island's interior. The relation between the Dutch and the king of Kandy was strained. Cinnamon trees were scattered throughout the forests of the island, so groups of peelers who worked for the Dutch often had to cross Portuguese and, later, Kandian territory to reach the areas where the trees grew. As it was impossible for the Dutch to keep a military grip on this enormous territory, or on individual groups of peelers, there was little they could do when peelers chose, or were forced, to switch allegiance. Therefore, bribing the king of Kandy was a recurring means to leave peelers alone, in order not to interrupt the supply of cinnamon.
+The Dutch made even stronger, concerted efforts to get a hold on cinnamon. They signed a treaty with the king of Kandy in 1638, hoping this would give them a share of the cinnamon trade, which was still dominated by the Portuguese at the time. After the Portuguese were defeated in Colombo (1656) and Jaffnapatnam (1658), the Dutch controlled many coastal areas of the island, while the kingdom of Kandy ruled the island’s interior. The relation between the Dutch and the king of Kandy was strained. Cinnamon trees were scattered throughout the forests of the island, so groups of peelers who worked for the Dutch often had to cross Portuguese and, later, Kandian territory to reach the areas where the trees grew. As it was impossible for the Dutch to keep a military grip on this enormous territory, or on individual groups of peelers, there was little they could do when peelers chose, or were forced, to switch allegiance. Therefore, bribing the king of Kandy was a recurring means to leave peelers alone, in order not to interrupt the supply of cinnamon.
 <param title="Kingdom of Kandy" eid="Q1530762" aliases="Kandy">
 <param title="Colombo" eid="Q35381">
 <param title="Jaffna" eid="Q215277" aliases="Jaffnapatnam">
@@ -89,7 +89,7 @@ Peelers were specialized laborers from the Sinhalese caste _Salagama_ (also know
 	title="Imaginary landscapes with spices from the East Indies. On the left can be seen a nutmeg tree, a cinnamon tree, and an elephant chase in the background. On the right can be seen a cloves tree and bamboo, with the volcano Ternate in the back. Etching by Romeyn de Hooghe, produced between 1682 and 1733. Rijksmuseum, Amsterdam, object no. BI-1972-1043-16, serial no. 10/41."
 	url="https://upload.wikimedia.org/wikipedia/commons/f/f3/Kaneel%2C_nootmuskaat%2C_kruidnagel_en_bamboe_Kaneel_en_Nootmus_Canelle%2C_Muscade%2C_Chasse_des_Elephans%2C_etc_Kruytnagelengewas_Girofle%2C_Bambous%2C_Montagne_brulante%2C_etc_%28titel_op_object%29_Les_Indes_Orientales_et_Occidentales_e%2C_BI-1972-1043-16.jpg">
 <param ve-image
-	title="'How cinnamon is peeled on the island of Ceylon'. Anonymous copperplate print, from Philippus Baldaeus, _Naauwkeurige beschryvinge van Malabar en Choromandel, derzelver aangrenzende ryken en het machtige eyland Ceylon_ (Amsterdam: Johannes Janssonius van Waasberge 1672) 195."
+	title="‘How cinnamon is peeled on the island of Ceylon’. Anonymous copperplate print, from Philippus Baldaeus, _Naauwkeurige beschryvinge van Malabar en Choromandel, derzelver aangrenzende ryken en het machtige eyland Ceylon_ (Amsterdam: Johannes Janssonius van Waasberge 1672) 195."
 	url="https://upload.wikimedia.org/wikipedia/commons/7/75/AMH-7014-KB_Peeling_cinnamon_on_Ceylon.jpg"
 	fit="contain"
 	url="NL-HaNA_4.VEL_939A-klein.jpg">
@@ -101,12 +101,12 @@ The restrictions of the Dutch on cinnamon exports made it the only real monopoly
 	title="Image from 1720, showing the benefits that could be made from monocultures of cinnamon on temporary cleared fields (_chenas_). The image on the left shows a demarcated area of forest to be cultivated; the image on the middle shows the same field after the original vegetation was cleared; and the image on the right shows the _chena_ as a monoculture of cinnamon. The text at the bottom is a calculation of the expected returns. A field with only five cinnamon trees could contain 135 trees after cultivation: a 27-fold increase. When this image was produced, however, the VOC was still very reluctant to abandon the wild harvest approach it had always adopted, and _chena_ practices were dicouraged."
 	url="NL-HaNA_4.VEL_939A-groot_cropped.jpg">
 
-Local grievances about the VOC policy for _chenas_, and about extortion of peelers by Sinhalese and Dutch officials, exploded in 1760. Backed by the king of Kandy, the peelers rebelled, leading to a war that lasted until 1766. The war finally may have caused the Dutch to rethink their approach for cinnamon production. Starting in 1769, governor Iman Willem Falck (in office 1765-1785) began to experiment with 'cinnamon gardens' (_kaneeltuinen_), which amounted to nothing less than a successful colonial plantation mechanism. By the end of his governorship, there were 24 million cinnamon trees growing in gardens, which increased to 609 million trees (!) by 1794.[^ref12]
+Local grievances about the VOC policy for _chenas_, and about extortion of peelers by Sinhalese and Dutch officials, exploded in 1760. Backed by the king of Kandy, the peelers rebelled, leading to a war that lasted until 1766. The war finally may have caused the Dutch to rethink their approach for cinnamon production. Starting in 1769, governor Iman Willem Falck (in office 1765-1785) began to experiment with ‘cinnamon gardens’ (_kaneeltuinen_), which amounted to nothing less than a successful colonial plantation mechanism. By the end of his governorship, there were 24 million cinnamon trees growing in gardens, which increased to 609 million trees (!) by 1794.[^ref12]
 <param title="Iman Willem Falck" eid="Q16836179">
 <param title="plantation" eid="Q188913">
 <param ve-image
-	title="'Map of the cinnamon gardens with their main roads in the district of Kaliture.' This anonymous, eighteenth-century map shows 70 cinnamon gardens located immediately south of Colombo, between Kaliture (present-day Kalutara) and the mouth of the Bentotte (Bentota) river."
-	attribution="Nationaal Archief, The Hague, 4.VEL 'Inventaris van de verzameling buitenlandse kaarten Leupe, 1584-1865', inv.no. 935 'Kaart van de Salpittie Korls Kanneeltuynen, met dies Hoofdwegens, geleegen in het district Kaliture'."
+	title="‘Map of the cinnamon gardens with their main roads in the district of Kaliture.’ This anonymous, eighteenth-century map shows 70 cinnamon gardens located immediately south of Colombo, between Kaliture (present-day Kalutara) and the mouth of the Bentotte (Bentota) river."
+	attribution="Nationaal Archief, The Hague, 4.VEL ‘Inventaris van de verzameling buitenlandse kaarten Leupe, 1584-1865’, inv.no. 935 ‘Kaart van de Salpittie Korls Kanneeltuynen, met dies Hoofdwegens, geleegen in het district Kaliture’."
 	url="NL-HaNA_4.VEL_935-groot.jpg"
 	region="2226,1064,839,630">
 
@@ -245,11 +245,11 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NDMxMDA0OCwxMTY3ODgzNzc1LC0xND
-IwMDc4ODMxLC00OTgyNjEyMzQsLTE3ODkzOTEyNjQsLTM0NzQ4
-MzE3NCwtMzQ3NDgzMTc0LC0yNzM4NDE2MzgsOTQwMTk3NDg5LD
-E3ODQ0NDc0NCwtMjUzMTk3MDQzLDE1MDU2OTI4MzIsMTY2MTI2
-MDg0OCwxMDE1MTYxNjMxLC0xNTU4NzY2NDA4LDE0MTA4MTE1OT
-MsLTE1NTUxMDA0OTcsOTE5OTM0NTI5LC0yMDY2ODAxODk3LC0x
-MTA1MDQ2NTQxXX0=
+eyJoaXN0b3J5IjpbOTcyNjc3MzM4LDExNjc4ODM3NzUsLTE0Mj
+AwNzg4MzEsLTQ5ODI2MTIzNCwtMTc4OTM5MTI2NCwtMzQ3NDgz
+MTc0LC0zNDc0ODMxNzQsLTI3Mzg0MTYzOCw5NDAxOTc0ODksMT
+c4NDQ0NzQ0LC0yNTMxOTcwNDMsMTUwNTY5MjgzMiwxNjYxMjYw
+ODQ4LDEwMTUxNjE2MzEsLTE1NTg3NjY0MDgsMTQxMDgxMTU5My
+wtMTU1NTEwMDQ5Nyw5MTk5MzQ1MjksLTIwNjY4MDE4OTcsLTEx
+MDUwNDY1NDFdfQ==
 -->
