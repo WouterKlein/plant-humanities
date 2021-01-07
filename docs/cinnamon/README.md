@@ -205,51 +205,51 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref9]: Lodewijk Wagenaar, _Cinnamon & Elephants: Sri Lanka and The Netherlands from 1600_. Transl. by Steve Green and Michael Blass (Amsterdam: Rijksmuseum / Nijmegen: Vantilt Publishers 2016) 149-157.
 
-[^ref10]: S. Arasaratnam, “Dutch Commercial Policy in Ceylon and its Effects on the Indo-Ceylon Trade (1690-1750)", _Indian Economic & Social History Review_, 4:2 (1967) 109-130.
+[^ref10]: S. Arasaratnam, “Dutch Commercial Policy in Ceylon and its Effects on the Indo-Ceylon Trade (1690-1750)”, _Indian Economic & Social History Review_, 4:2 (1967) 109-130.
 
 [^ref11]: Wagenaar, _Cinnamon & Elephants_, 150, 153.
 
 [^ref12]: Wagenaar, _Cinnamon & Elephants_, 155.
 
-[^ref13]: Samaraweera, “The Cinnamon Trade of Ceylon".
+[^ref13]: Samaraweera, “The Cinnamon Trade of Ceylon”.
 
 [^ref14]: Johan Heniger, _Hendrik Adriaan van Reede tot Drakenstein (1636-1691) and Hortus Malabaricus: A Contribution to the History of Dutch Colonial Botany_ (Rotterdam and Boston: A.A. Balkema 1986) 37-38; and Harold J. Cook, _Matters of Exchange: Commerce, Medicine, and Science in the Dutch Golden Age_ (New Haven: Yale University Press 2007) 310-317.
 
-[^ref15]: Tinde van Andel and Nadine Barth, “Paul Hermann's Ceylon Herbarium (1672-1679) at Leiden, the Netherlands", _Taxon_, 67:5 (2018) 977-988, there 981.
+[^ref15]: Tinde van Andel and Nadine Barth, “Paul Hermann's Ceylon Herbarium (1672-1679) at Leiden, the Netherlands”, _Taxon_, 67:5 (2018) 977-988, there 981.
 
 [^ref16]: Lisbet Koerner, _Linnaeus: Nature and Nation_ (Cambridge (MA) and London: Harvard University Press 1999) 36.
 
 [^ref17]: Paul Hermann, _Horti academici Lugduno-Batavi catalogus exhibens Plantarum omnium Nomina, quibus ab anno MDCLXXXI ad annum MDCLXXXVI Hortus fuit instructus ut & Plurimarum in eodem cultarum & à nemine hucusque editarum Descriptiones & Icones_ (Lugduni Batavorum: Apud Cornelium Boutesteyn 1687) 130; quoted in Heniger, _Hendrik Adriaan van Reede tot Drakenstein_, 155.
 
-[^ref18]: Albertus Seba, “An Account of the Cinnamon Tree in Ceylon, and its several Sorts. Communicated by the Chief Inspector of the Cinnamon Trade and Manufacture in that Island to Albertus Seba, a Noted Druggist at Amsterdam. Translated by the late Dr. Scheuchzer, F. R. S.", _Philosophical Transactions_, 36:409 (1730) I, 97-109.
+[^ref18]: Albertus Seba, “An Account of the Cinnamon Tree in Ceylon, and its several Sorts. Communicated by the Chief Inspector of the Cinnamon Trade and Manufacture in that Island to Albertus Seba, a Noted Druggist at Amsterdam. Translated by the late Dr. Scheuchzer, F. R. S.”, _Philosophical Transactions_, 36:409 (1730) I, 97-109.
 
-[^ref19]: Daniela Bleichmar, “Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
+[^ref19]: Daniela Bleichmar, “Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment”, in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 
-[^ref20]: Neil Safier, “Fruitless Botany: Joseph de Jussieu's South American Odyssey", in: James Delbourgo and Nicholas Dew (eds.), _Science and Empire in the Atlantic World_ (New York: Routledge 2008) 203-224.
+[^ref20]: Neil Safier, “Fruitless Botany: Joseph de Jussieu's South American Odyssey”, in: James Delbourgo and Nicholas Dew (eds.), _Science and Empire in the Atlantic World_ (New York: Routledge 2008) 203-224.
 
-[^ref21]: Catherine E. Burdick, “Patagonian Cinnamon and Pepper: Blending Geography in Alonso de Ovalle's _Tabula Geographica Regni Chile_ (1646)", _Imago Mundi_, 66:2 (2014) 196-212.
+[^ref21]: Catherine E. Burdick, “Patagonian Cinnamon and Pepper: Blending Geography in Alonso de Ovalle's _Tabula Geographica Regni Chile_ (1646)”, _Imago Mundi_, 66:2 (2014) 196-212.
 
 [^ref22]: Jonathan I. Israel, _Dutch Primacy in World Trade, 1585-1740_ (Oxford: Clarendon Press 1989) 251-252. The estimate comes from Jacques Savary des Bruslons, _Dictionnaire universel de commerce_ of 1723. The Real Sociedad Económica de Madrid calculated in 1780 that 600.000 pounds of Dutch cinnamon were consumed by Spanish America each year. See Daniela Bleichmar, _Visible Empire: Botanical Expeditions and Visible Culture in the Hispanic Enlightenment_ (Chicago and London: University of Chicago Press 2012) 132.
 
-[^ref23]: Irene Fattacciu, “The Resilience and Boomerang Effect of Chocolate: A Product's Globalization and Commodification", in: Bethany Aram and Bartolomé Yun-Casalilla (eds.), _Global Goods and the Spanish Empire, 1492-1824: Circulation, Resistance and Diversity_ (Houndmills and Basingstoke: Palgrave Macmillan 2014) 255-273.
+[^ref23]: Irene Fattacciu, “The Resilience and Boomerang Effect of Chocolate: A Product's Globalization and Commodification”, in: Bethany Aram and Bartolomé Yun-Casalilla (eds.), _Global Goods and the Spanish Empire, 1492-1824: Circulation, Resistance and Diversity_ (Houndmills and Basingstoke: Palgrave Macmillan 2014) 255-273.
 
-[^ref24]: Francisco Mallari, S.J., “The Mindanao Cinnamon", _Philippine Quarterly of Culture and Society_, 2:4 (1974) 190-194; and Russell K. Skowronek, “Cinnamon, Ceramics, and Silks: Tracking the Manila Galleon Trade in the Creation of the World Economy", in: Chunming Wu (ed.), _Early Navigation in the Asia-Pacific Region: A Maritime Archaeological Perspective_ (Singapore: Springer Science+Business Media 2016) 59-74.
+[^ref24]: Francisco Mallari, S.J., “The Mindanao Cinnamon”, _Philippine Quarterly of Culture and Society_, 2:4 (1974) 190-194; and Russell K. Skowronek, “Cinnamon, Ceramics, and Silks: Tracking the Manila Galleon Trade in the Creation of the World Economy”, in: Chunming Wu (ed.), _Early Navigation in the Asia-Pacific Region: A Maritime Archaeological Perspective_ (Singapore: Springer Science+Business Media 2016) 59-74.
 
 [^ref25]: Bleichmar, _Visible Empire_, 123-126.
 
 [^ref26]: Bleichmar, _Visible Empire_, 26, 31.
 
-[^ref27]: Thomas J. Zumbroich, “The Introduction of Nutmeg (_Myristica fragrans_ Houtt.) and Cinnamon (_Cinnamomum verum_ J.Presl) to America", _Acta Botánica Venezuélica_, 28:1 (2005) 155-160.
+[^ref27]: Thomas J. Zumbroich, “The Introduction of Nutmeg (_Myristica fragrans_ Houtt.) and Cinnamon (_Cinnamomum verum_ J.Presl) to America”, _Acta Botánica Venezuélica_, 28:1 (2005) 155-160.
 
-[^ref28]: U.M. Senanayake and R.O.B. Wijesekera, “Cinnamon and Cassia – The Future Vision", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 327-329.
+[^ref28]: U.M. Senanayake and R.O.B. Wijesekera, “Cinnamon and Cassia – The Future Vision”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 327-329.
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2Nzg4Mzc3NSwtMTQyMDA3ODgzMSwtND
-k4MjYxMjM0LC0xNzg5MzkxMjY0LC0zNDc0ODMxNzQsLTM0NzQ4
-MzE3NCwtMjczODQxNjM4LDk0MDE5NzQ4OSwxNzg0NDQ3NDQsLT
-I1MzE5NzA0MywxNTA1NjkyODMyLDE2NjEyNjA4NDgsMTAxNTE2
-MTYzMSwtMTU1ODc2NjQwOCwxNDEwODExNTkzLC0xNTU1MTAwND
-k3LDkxOTkzNDUyOSwtMjA2NjgwMTg5NywtMTEwNTA0NjU0MSw5
-MTQ0NzM5Nl19
+eyJoaXN0b3J5IjpbLTE5MzE4OTc0NjUsMTE2Nzg4Mzc3NSwtMT
+QyMDA3ODgzMSwtNDk4MjYxMjM0LC0xNzg5MzkxMjY0LC0zNDc0
+ODMxNzQsLTM0NzQ4MzE3NCwtMjczODQxNjM4LDk0MDE5NzQ4OS
+wxNzg0NDQ3NDQsLTI1MzE5NzA0MywxNTA1NjkyODMyLDE2NjEy
+NjA4NDgsMTAxNTE2MTYzMSwtMTU1ODc2NjQwOCwxNDEwODExNT
+kzLC0xNTU1MTAwNDk3LDkxOTkzNDUyOSwtMjA2NjgwMTg5Nywt
+MTEwNTA0NjU0MV19
 -->
