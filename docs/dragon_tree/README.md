@@ -100,7 +100,7 @@ In 1799, as he stopped in Tenerife before his voyage to the Americas that would 
 	region="pct:8,5,145,140"
 	fit="contain">
 <param ve-image
-	title="_Jardines y casa de Franchy_, engraving by Simón Cattoir y C. de Freudenberg (ca. 1770)."
+	title="_Jardines y casa de Franchy_, engraving by Simón Cattoir y C. de Freudenberg (c. 1770)."
 	url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/DON%20JUAN%20FRANCISCO%20DE%20FRANCHI%20ALFARO.jpg"
 	region="pct:8,5,150,145">
 
@@ -108,7 +108,7 @@ In 1799, as he stopped in Tenerife before his voyage to the Americas that would 
 Humboldt was not the only naturalist of his time attracted to the remarkable centenary dragon tree, as some three years before, in 1796, French naturalist André Pierre Ledru also found himself in M. Franchy’s garden, admiring the very same tree. Even if its scarlet-colored resin was a critical aspect of the Guanche pharmacopoeia and a valuable piece of naturalia that spurred the Canarian economy, the population of trees from which it was sourced was already in decline by the turn of the nineteenth century due to unsustainable cultivation techniques. This environmental degradation has only increased in intensity in the last two centuries with the intensification of human-driven ecological change, known as the Anthropocene.
 <param title="Anthropocene" eid="Q26841">
 <param ve-image static
-	title="A Dracaena draco on a mountainside overlooking a twenty-first century industrial agriculture compound near Cenbio de Valerón, Gran Canaria, Spain. Photo taken by Thomas C. Anderson, July 2019."
+	title="A _Dracaena draco_ on a mountainside overlooking a twenty-first century industrial agriculture compound near Cenbio de Valerón, Gran Canaria, Spain. Photo taken by Thomas C. Anderson, July 2019."
 	url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/clone stamp craze.jpg">
 
 As Ledru remarked in his 1810 [_Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco_](https://archive.org/details/voyageauxlesdet00sonngoog/page/n5/mode/2up), which drew on observations he made during his trip to the Isles of Fortune some fourteen years earlier: “In days gone by, the resin that one extracts from the dragon tree was an important object of commerce for Teneriffe; but since the locals have neglected to replace the old trees that were worn out by too-frequent tapping (of the resin) with young plantations, this source will soon be exhausted. There exist perhaps less than fifty dragon trees left on the island.”[^ref13]  This gradual, yet persistent, degradation of the _D. draco_ population was not solely due to Guanche overcultivation, either, as Spanish colonizers inflicted profound ecological changes upon the islands when they razed and destroyed large swaths of forests during their conquest and settlement of the Canaries three centuries earlier.[^ref14] 
@@ -141,7 +141,7 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref2]: Fauna & Flora International, “Canary Islands Dragon Tree,” Global Trees.org, accessed August 3, 2020. [Click here for full article](https://globaltrees.org/threatened-trees/trees/dragon-tree/)
 
-[^ref3]: J. Francisco-Ortega et al. "Early Cultivation of Macaronesian Plants in Three European Gardens," _Revista de la Academia Canaria de Ciencias_ 23, no. 3 (April 2012), 113-143.
+[^ref3]: J. Francisco-Ortega et al., “Early Cultivation of Macaronesian Plants in Three European Gardens”, _Revista de la Academia Canaria de Ciencias_ 23, no. 3 (April 2012), 113-143.
 
 [^ref4]: Pierre Bontier, Jean le Verrier, and Richard Henry Major (trans.), _The Canarian: or, Book of the Conquest and Conversion of the Canarians in the year 1402 by Messire Jean de Béthencourt, Kt_, (London: The Hakluyt Society, 1872), 70-71. [Click here for full book](https://archive.org/details/canarianorbookof00bont_0/page/n7/mode/2up) On D. draco’s wider significance within Guanche culture, see: Mark Milburn, “Dragon’s Blood in East and West Africa, Arabia and the Canary Islands,” _Africa: Rivista trimestrale di studi e documentazione dell'Istituto italiano per l'Africa e l'Oriente_ 39, no. 3 (1984), 489-90.
 
@@ -175,9 +175,9 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref19]: “Dracaena draco,” IUCN Red List.org, accessed August 3. 2020, [link](https://www.iucnredlist.org/species/30394/9535771)
 
-[^ref20]: Aaron González-Castro et al., "Unraveling the Seed Dispersal System of an Insular 'Ghost Dragon Tree (D. draco) in the Wild," in _Frontiers in Ecology and Evolution_ 7, no. 39 (February 2019).
+[^ref20]: Aaron González-Castro et al., “Unraveling the Seed Dispersal System of an Insular 'Ghost Dragon Tree (D. draco) in the Wild,” in _Frontiers in Ecology and Evolution_ 7, no. 39 (February 2019).
 
 [^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (Dracaena draco),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDAwOTA0MjAsOTUzODA3NTM1XX0=
+eyJoaXN0b3J5IjpbMzc4NTgxOTksOTUzODA3NTM1XX0=
 -->
