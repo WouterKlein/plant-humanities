@@ -29,7 +29,8 @@ Members of today’s _Dracaena_ genus have long been valued for their signature 
 <param title="Dracaena cinnabari" eid="Q133560">
 <param ve-image
 	title="Vedic Tale of the Elephant and the Dragon. Giraldus Cambrensis, _Bestiary_, (England: c.1225-1250), f58. image Provided by the British Museum"
-	url="https://www.bl.uk/IllImages/Ekta/big/E043/E043090a.jpg">
+	url="https://www.bl.uk/IllImages/Ekta/big/E043/E043090a.jpg"
+	region="-22,259,1545,1094">
 
 As the eleventh labor of his famous twelve, Hercules was sent to steal the golden apples guarded by Ladon, a vicious dragon with one hundred heads. Once slain by the demigod, Ladon’s blood seeped into the ground and “from it sprung up the trees that we now know as ‘dragon trees,’” and his body was sent to live among the stars.[^ref2] As dragon’s blood soon became one of the most coveted commodities in ancient Greece, so too did it serve as a lasting link between myth and reality, as Greeks from Athens to Thebes believed that “the source of ‘Dragon’s Blood’ [... is] the red blood of the dragon Ladon after it was killed by Hercules.”[^ref3]
 <param title="Hercules" eid="Q122248">
@@ -179,11 +180,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 oude banner: https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/header%20option%206%20-%20FINAL.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1OTkxMDI4MywxOTQ5MjYxNTIzLDQzND
-Q5MDU5Niw1MzA3OTgyNjMsOTU1ODI1MDEzLC0xMDA4MTA5MTcw
-LDU4NTc1OTI0MywtMTUzMzgxNjQ4MCwtMzI3NzYzMDM1LDE2MD
-U5MTE2MzIsMTU0MDk4MjA2NiwtNTE4MDY5NjY1LDE3ODA2NDg3
-NzgsMjAzMDUwNDk3MCwtNjcyODM2ODcyLDE0OTM3NTM1MzksLT
-EwMzgzNDEyNjEsLTE2NDg5MjU5NzMsMzUyMTY4NDg3LC0xNzQ5
-ODEwNzc3XX0=
+eyJoaXN0b3J5IjpbLTEzNTY3MjcwMTYsMTU1OTkxMDI4MywxOT
+Q5MjYxNTIzLDQzNDQ5MDU5Niw1MzA3OTgyNjMsOTU1ODI1MDEz
+LC0xMDA4MTA5MTcwLDU4NTc1OTI0MywtMTUzMzgxNjQ4MCwtMz
+I3NzYzMDM1LDE2MDU5MTE2MzIsMTU0MDk4MjA2NiwtNTE4MDY5
+NjY1LDE3ODA2NDg3NzgsMjAzMDUwNDk3MCwtNjcyODM2ODcyLD
+E0OTM3NTM1MzksLTEwMzgzNDEyNjEsLTE2NDg5MjU5NzMsMzUy
+MTY4NDg3XX0=
 -->
