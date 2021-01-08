@@ -30,7 +30,7 @@ Members of today’s _Dracaena_ genus have long been valued for their signature 
 <param ve-image
 	title="Vedic Tale of the Elephant and the Dragon. Giraldus Cambrensis, _Bestiary_, (England: c.1225-1250), f58. image Provided by the British Museum"
 	url="https://www.bl.uk/IllImages/Ekta/big/E043/E043090a.jpg"
-	region="-22,259,1545,1094">
+	region="-45,191,1591,1127">
 
 As the eleventh labor of his famous twelve, Hercules was sent to steal the golden apples guarded by Ladon, a vicious dragon with one hundred heads. Once slain by the demigod, Ladon’s blood seeped into the ground and “from it sprung up the trees that we now know as ‘dragon trees,’” and his body was sent to live among the stars.[^ref2] As dragon’s blood soon became one of the most coveted commodities in ancient Greece, so too did it serve as a lasting link between myth and reality, as Greeks from Athens to Thebes believed that “the source of ‘Dragon’s Blood’ [... is] the red blood of the dragon Ladon after it was killed by Hercules.”[^ref3]
 <param title="Hercules" eid="Q122248">
@@ -180,11 +180,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 oude banner: https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/header%20option%206%20-%20FINAL.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTY3MjcwMTYsMTU1OTkxMDI4MywxOT
-Q5MjYxNTIzLDQzNDQ5MDU5Niw1MzA3OTgyNjMsOTU1ODI1MDEz
-LC0xMDA4MTA5MTcwLDU4NTc1OTI0MywtMTUzMzgxNjQ4MCwtMz
-I3NzYzMDM1LDE2MDU5MTE2MzIsMTU0MDk4MjA2NiwtNTE4MDY5
-NjY1LDE3ODA2NDg3NzgsMjAzMDUwNDk3MCwtNjcyODM2ODcyLD
-E0OTM3NTM1MzksLTEwMzgzNDEyNjEsLTE2NDg5MjU5NzMsMzUy
-MTY4NDg3XX0=
+eyJoaXN0b3J5IjpbLTQ5OTkwMTEyMCwxNTU5OTEwMjgzLDE5ND
+kyNjE1MjMsNDM0NDkwNTk2LDUzMDc5ODI2Myw5NTU4MjUwMTMs
+LTEwMDgxMDkxNzAsNTg1NzU5MjQzLC0xNTMzODE2NDgwLC0zMj
+c3NjMwMzUsMTYwNTkxMTYzMiwxNTQwOTgyMDY2LC01MTgwNjk2
+NjUsMTc4MDY0ODc3OCwyMDMwNTA0OTcwLC02NzI4MzY4NzIsMT
+Q5Mzc1MzUzOSwtMTAzODM0MTI2MSwtMTY0ODkyNTk3MywzNTIx
+Njg0ODddfQ==
 -->
