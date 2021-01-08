@@ -7,6 +7,7 @@
 	num-images="17"
 	num-primary-sources="16"
 	author="Thomas C. Anderson, Cati Kalinoski, and Lucas Mertehikian">
+<param title="Dracaena draco" eid="Q157952">
 <param title="Dracaena" eid="Q158009" article="dragon_tree_species" aliases="D. draco">
 
 ### Introduction: a desensitizing sensory experience
@@ -15,7 +16,6 @@ As the tongue goes numb and all efforts fail to remove the scarlet, sticky subst
 <param title="Pliny the Elder" eid="Q82778">
 <param title="Alexander von Humboldt" eid="Q6694">
 <param title="André Pierre Ledru" eid="Q2848440">
-<param title="Dracaena draco" eid="Q157952">
 <param title="Canary Islands" eid="Q5813">
 <param ve-storiiies
 	id="8a1g2">
@@ -175,11 +175,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDczNjQzODAsNTMwNzk4MjYzLDk1NT
-gyNTAxMywtMTAwODEwOTE3MCw1ODU3NTkyNDMsLTE1MzM4MTY0
-ODAsLTMyNzc2MzAzNSwxNjA1OTExNjMyLDE1NDA5ODIwNjYsLT
-UxODA2OTY2NSwxNzgwNjQ4Nzc4LDIwMzA1MDQ5NzAsLTY3Mjgz
-Njg3MiwxNDkzNzUzNTM5LC0xMDM4MzQxMjYxLC0xNjQ4OTI1OT
-czLDM1MjE2ODQ4NywtMTc0OTgxMDc3NywxODQ2MzQ4NjY1LC0x
-Njc1MzA2NTU5XX0=
+eyJoaXN0b3J5IjpbNDM0NDkwNTk2LDUzMDc5ODI2Myw5NTU4Mj
+UwMTMsLTEwMDgxMDkxNzAsNTg1NzU5MjQzLC0xNTMzODE2NDgw
+LC0zMjc3NjMwMzUsMTYwNTkxMTYzMiwxNTQwOTgyMDY2LC01MT
+gwNjk2NjUsMTc4MDY0ODc3OCwyMDMwNTA0OTcwLC02NzI4MzY4
+NzIsMTQ5Mzc1MzUzOSwtMTAzODM0MTI2MSwtMTY0ODkyNTk3My
+wzNTIxNjg0ODcsLTE3NDk4MTA3NzcsMTg0NjM0ODY2NSwtMTY3
+NTMwNjU1OV19
 -->
