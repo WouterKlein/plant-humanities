@@ -108,7 +108,7 @@
 	title="A _Dracaena draco_ on a mountainside overlooking a twenty-first century industrial agriculture compound near Cenbio de Valerón, Gran Canaria, Spain. Photo taken by Thomas C. Anderson, July 2019."
 	url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/clone stamp craze.jpg">
 
-11. As Ledru remarked in his 1810 [_Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco_](https://archive.org/details/voyageauxlesdet00sonngoog/page/n5/mode/2up), which drew on observations he made during his trip to the Isles of Fortune some fourteen years earlier: “In days gone by, the resin that one extracts from the dragon tree was an important object of commerce for Teneriffe; but since the locals have neglected to replace the old trees that were worn out by too-frequent tapping (of the resin) with young plantations, this source will soon be exhausted. There exist perhaps less than fifty dragon trees left on the island.”[^ref13] This gradual, yet persistent, degradation of the _D. draco_ population was not solely due to Guanche overcultivation, either, as Spanish colonizers inflicted profound ecological changes upon the islands when they razed and destroyed large swaths of forests during their conquest and settlement of the Canaries three centuries earlier.[^ref14]
+11. As Ledru remarked in his 1810 [_Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco_](https://archive.org/details/voyageauxlesdet00sonngoog/page/n5/mode/2up), which drew on observations he made during his trip to the Isles of Fortune some fourteen years earlier: “In days gone by, the resin that one extracts from the dragon tree was an important object of commerce for Teneriffe; but since the locals have neglected to replace the old trees that were worn out by too-frequent tapping (of the resin) with young plantations, this source will soon be exhausted. There exist perhaps less than fifty dragon trees left on the island.”[^ref13] This gradual, yet persistent, degradation of the _D. draco_ population was not solely due to Guanche overcultivation, either, as Spanish colonizers inflicted profound ecological changes upon the islands when they razed and destroyed large swaths of forests during their conquest and settlement of the Canaries three centuries earlier.[^ref14] Modern ecologists attribute the dragon tree’s decline to the disappearance of seed dispersers in the Canary Islands over the _longue durée_, potentially refuting Ledru’s assertion that _D. draco_’s deterioration was due to irresponsible Guanche farming practices.[^ref15]
 <param title="Isles of Fortune" eid="Q19211357" aliases="Isles of Fortune" article="Isles_of_Fortune"> 
 <param ve-image static
 	title="A small outcrop of Dracaena draco trees at the oldest botanical garden on the Canary Islands, the Jardin Botanico Canario Viera y Clavijo in Gran Canaria, Spain. Photo taken by Thomas C. Anderson, July 2019."
@@ -146,11 +146,11 @@
 
 [^ref6]: “Villa de La Orotava Dragon Tree Tour: The Arautava Giant,” Ayuntamiento: Villa de La Orotava, accessed August 3, 2020. [Click here for full article](https://www.laorotava.es/en/tourism/discover-la-orotava/villa-de-la-orotava-dragon-tree-tour)
 
-[^ref]: Pierre Bontier, Jean le Verrier, and Richard Henry Major (trans.), _The Canarian: or, Book of the Conquest and Conversion of the Canarians in the year 1402 by Messire Jean de Béthencourt, Kt_, (London: The Hakluyt Society, 1872), 70-71. [Click here for full book](https://archive.org/details/canarianorbookof00bont_0/page/n7/mode/2up)
+[^ref7]: Pierre Bontier, Jean le Verrier, and Richard Henry Major (trans.), _The Canarian: or, Book of the Conquest and Conversion of the Canarians in the year 1402 by Messire Jean de Béthencourt, Kt_, (London: The Hakluyt Society, 1872), 70-71. [Click here for full book](https://archive.org/details/canarianorbookof00bont_0/page/n7/mode/2up)
 
 [^ref8]: Rajinder K. Gupta, Bruce Bleakley, Deepika Gupta, “Dragon’s Blood: Botany, chemistry and therapeutic uses,” _Journal of Ethnopharmacology_ 115 (2008), 361.
 
-[^ref]: John Gerard, _The Herball, or Generall Historie of Plantes_, (London, 1633), 1524 [Click here for full book](https://www.biodiversitylibrary.org/item/33580#page/2/mode/1up); John Parkinson, _Theatrum Botanicum_, (London, 1640), 1532. [Click here for full book](https://www.biodiversitylibrary.org/item/256142#page/13/mode/1up)
+[^ref9]: John Gerard, _The Herball, or Generall Historie of Plantes_, (London, 1633), 1524 [Click here for full book](https://www.biodiversitylibrary.org/item/33580#page/2/mode/1up); John Parkinson, _Theatrum Botanicum_, (London, 1640), 1532. [Click here for full book](https://www.biodiversitylibrary.org/item/256142#page/13/mode/1up)
 
 [^ref10]: Alexander von Humboldt, _Cosmos: A sketch of the Physical Description of the Universe_, vol. 2, (London: 1849), 372. [Click here for full book](https://www.biodiversitylibrary.org/item/73496#page/6/mode/1up)
 
@@ -164,9 +164,9 @@
 
 [^ref15]: André Pierre Ledru, _Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco_, (Paris: Arthus Bertrand, 1810), 93. [Click here for full book](https://archive.org/details/voyageauxlesdet00sonngoog/page/n5/mode/2up)
 
-[^ref167]: Alice Carter Cook, “The Dragon Tree of Orotava,” _The Plant World_ 4, no. 7 (July 1901), 124.
+[^ref16]: Alice Carter Cook, “The Dragon Tree of Orotava,” _The Plant World_ 4, no. 7 (July 1901), 124.
 
-[^ref178]: Joanna Jura-Morawiec and Mirela Tulik, “Dragon’s blood secretion and its ecological significance,” in _Chemoecology_ 26, no. 3, (March 2016), [Click here for full article](https://www.researchgate.net/publication/298897759_Dragon’s_blood_secretion_and_its_ecological_significance)
+[^ref17]: Joanna Jura-Morawiec and Mirela Tulik, “Dragon’s blood secretion and its ecological significance,” in _Chemoecology_ 26, no. 3, (March 2016), [Click here for full article](https://www.researchgate.net/publication/298897759_Dragon’s_blood_secretion_and_its_ecological_significance)
 
 [^ref18]: Deepika Gupta, Bruce Bleakley, Rajinder K. Gupta, “Dragon’s blood: Botany, chemistry and therapeutic uses,” _Journal of Ethnopharmacology_ 115 (2008), 361.
 
@@ -176,7 +176,7 @@
 
 [^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzkyNTQwMjksMjAzMDUwNDk3MCwtNj
+eyJoaXN0b3J5IjpbLTE2MDQ0NDU4NTAsMjAzMDUwNDk3MCwtNj
 cyODM2ODcyLDE0OTM3NTM1MzksLTEwMzgzNDEyNjEsLTE2NDg5
 MjU5NzMsMzUyMTY4NDg3LC0xNzQ5ODEwNzc3LDE4NDYzNDg2Nj
 UsLTE2NzUzMDY1NTksMTUyNjI1NTQ2NywtMTU5MDY1ODI2MSwt
