@@ -125,7 +125,7 @@ But even in the face of this acute anthropogenic pressure, the great dragon tree
 
 Unfortunately, the Orotava centenary dragon tree did not outlive Humboldt and Ledru’s visits by too long. In 1819, a storm first cut off one of its branches, and in 1867, a hurricane-like tempest broke them all off.[^ref17] Despite this inauspicious demise, the tree’s image remains associated with the Canary Islands today, and it is still frequently featured prominently in images of Orotava. Furthermore, both naturalists’ accounts of their encounters with the dragon tree in its native environment stand as proof of its power to equally excite scientific and aesthetic imagination, promote environmental concerns, and reinforce colonial dynamics. 
 <param ve-image
-	title="Window in th town hall of Orotava, showing the dragon tree for which it is famous."
+	title="Window in the town hall of Orotava, showing the dragon tree for which the town is famous."
 	url="https://upload.wikimedia.org/wikipedia/commons/3/38/Orotava_Ayuntamiento_04.jpg">
 
 ### The future of the dragon tree
@@ -185,11 +185,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIzMDYxOTcyLDE3OTczMjAwNDcsMTcwMD
-UxOTg5MSw3MjA0NTY2ODksLTE0OTgwNTU0NTUsMTk0NTgzOTYw
-MCwtMTczNDI1NTgyLC02ODc3NTkwNzYsMTI0OTAxMjM5NCwxOT
-A2NTA1ODI0LC05NDU1NDc4NSwzNDkwMDA2NywtMTk2MDQwOTI2
-MiwzNjAxODUyMzAsMzYwMTg1MjMwLC00OTk5MDExMjAsMTU1OT
-kxMDI4MywxOTQ5MjYxNTIzLDQzNDQ5MDU5Niw1MzA3OTgyNjNd
-fQ==
+eyJoaXN0b3J5IjpbLTExMjU3MDQ5MywxNzk3MzIwMDQ3LDE3MD
+A1MTk4OTEsNzIwNDU2Njg5LC0xNDk4MDU1NDU1LDE5NDU4Mzk2
+MDAsLTE3MzQyNTU4MiwtNjg3NzU5MDc2LDEyNDkwMTIzOTQsMT
+kwNjUwNTgyNCwtOTQ1NTQ3ODUsMzQ5MDAwNjcsLTE5NjA0MDky
+NjIsMzYwMTg1MjMwLDM2MDE4NTIzMCwtNDk5OTAxMTIwLDE1NT
+k5MTAyODMsMTk0OTI2MTUyMyw0MzQ0OTA1OTYsNTMwNzk4MjYz
+XX0=
 -->
