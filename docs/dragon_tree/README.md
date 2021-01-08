@@ -20,7 +20,7 @@ As the tongue goes numb and all efforts fail to remove the scarlet, sticky subst
 <param ve-storiiies
 	id="8a1g2">
 
-
+### A tree of legends
 Members of today’s _Dracaena_ genus have long been valued for their signature red resin, dragon’s blood, that oozes from cuts in the bark of those trees. Though the focus of this article is on _D. draco_ , there are many other species of tree that exude their own forms of dragon’s blood. These include the other 120 members of the _Dracaena_ genus, in addition to several others. While these other trees certainly exude a resin identified as dragon’s blood, a level of botanical and geographical ambiguity that contributes to the mythical status of the substance, _D. draco_ and _D. cinnabari_ are the two species that are most commonly referred to as the source of the resin in historical sources. The first known reports of dragon’s blood were dispersed through Pliny’s [_Naturalis Historia_](https://archive.org/details/OEXV10R/mode/2up), where he recounted the Indian tale of a dragon (representing Brahma) biting a giant elephant (representing Shiva) and their blood mixing into the iconic resin. While this Vedic myth actually originates from Socotra island of Yemen and is based on the resin of _Dracaena cinnabari_, the fascination with dragon’s blood also took a foothold in Europe through the infamous tale of Hercules.[^ref1]
 <param title="Naturalis Historia" eid="Q442">
 <param title="Brahma" eid="Q11389">
@@ -40,6 +40,7 @@ As the eleventh labor of his famous twelve, Hercules was sent to steal the golde
 	url1="https://free.iiifhosting.com/iiif/6f75f8643461e419d28159fdc552cd384cc7aa5bc1ae2e31b9e2c47b91fefd60/info.json"
 	url2="https://free.iiifhosting.com/iiif/7e103f8b67bc1ce1be0a738a6a34265de93fe18ad5978f48c076da1da1fbf636/info.json">
 
+### Dragon trees of the Canaries
 As the myths of Antiquity and legends surrounding the dragon tree aged with time, so too did European understandings of the tree evolve as scientific botany developed from the late medieval through the early modern period. Native to the Canary Islands, Cape Verde, Madeira, and recently found growing natively on the West coast of Morocco, _D. draco_ is somewhat ubiquitous along the Northwestern coast of Africa. Evidently, the tree and its resin were an important feature of the economy and magico-medicine of the Canary Islands even before colonial contact. Thus, when French explorer Jean de Béthencourt became the first European to write of _D. draco_ in 1402, he recounted an elaborate trade of fishing hooks, knives, and iron in exchange for figs and dragon’s blood between his crew and 500 Guanches, the indigenous population of the Canary Islands.[^ref4]
 <param title="Cape Verde" eid="Q1011">
 <param title="Madeira" eid="Q26253">
@@ -182,11 +183,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxODU1ODQ5OSwxNzk3MzIwMDQ3LDE3MD
-A1MTk4OTEsNzIwNDU2Njg5LC0xNDk4MDU1NDU1LDE5NDU4Mzk2
-MDAsLTE3MzQyNTU4MiwtNjg3NzU5MDc2LDEyNDkwMTIzOTQsMT
-kwNjUwNTgyNCwtOTQ1NTQ3ODUsMzQ5MDAwNjcsLTE5NjA0MDky
-NjIsMzYwMTg1MjMwLDM2MDE4NTIzMCwtNDk5OTAxMTIwLDE1NT
-k5MTAyODMsMTk0OTI2MTUyMyw0MzQ0OTA1OTYsNTMwNzk4MjYz
-XX0=
+eyJoaXN0b3J5IjpbLTE3OTU1MjI1NzMsMTc5NzMyMDA0NywxNz
+AwNTE5ODkxLDcyMDQ1NjY4OSwtMTQ5ODA1NTQ1NSwxOTQ1ODM5
+NjAwLC0xNzM0MjU1ODIsLTY4Nzc1OTA3NiwxMjQ5MDEyMzk0LD
+E5MDY1MDU4MjQsLTk0NTU0Nzg1LDM0OTAwMDY3LC0xOTYwNDA5
+MjYyLDM2MDE4NTIzMCwzNjAxODUyMzAsLTQ5OTkwMTEyMCwxNT
+U5OTEwMjgzLDE5NDkyNjE1MjMsNDM0NDkwNTk2LDUzMDc5ODI2
+M119
 -->
