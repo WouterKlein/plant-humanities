@@ -82,7 +82,6 @@ Throughout its dissemination into European spaces from the Age of Discovery, dra
 	url="https://www.biodiversitylibrary.org/pageimage/56601428"
 	region="1,478,1831,1297">
 
-### An inspiration for science
 After European colonization, and along with the integration of the Canaries into the burgeoning European sphere of influence, _D. draco_ emerged on the stage of European gardens. Botanical interest in _D. draco_ thrived especially in the latter half of the eighteenth century. German scientist and writer Alexander von Humboldt famously fell prey to the tree’s enchanting appeal. In [_Cosmos: A Sketch of a Physical Description of the Universe_](https://www.biodiversitylibrary.org/item/73496#page/7/mode/1up) (1842), his last work, he still recalled the time when, as a child, he “first saw a colossal dragon tree in an old tower of the Botanical Garden in Berlin.”[^ref10] The experience was so overwhelming that Humboldt even thought of it as “the source from whence sprang my early and fixed desire to visit the lands of the tropics.”[^ref11] The fact that the dragon tree bookended Humboldt’s illustrious career, as both a formative experience of his youth and a notable point in his last great work highlights how the dragon tree itself was at the core of his understanding of nature as one interconnected whole.
 <param title="Botanical Garden Berlin" eid="Q163255" aliases="Botanical Garden in Berlin">
 <param ve-image
@@ -108,6 +107,7 @@ In 1799, as he stopped in Tenerife before his voyage to the Americas that would 
 	url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/DON%20JUAN%20FRANCISCO%20DE%20FRANCHI%20ALFARO.jpg"
 	region="pct:8,5,150,145">
 
+### Smothering the dragon's flame: _D. draco_ and the Anthropocene
 Humboldt was not the only naturalist of his time attracted to the remarkable centenary dragon tree, as some three years before, in 1796, French naturalist André Pierre Ledru also found himself in M. Franchy’s garden, admiring the very same tree. The scarlet-colored resin was a critical aspect of the Guanche pharmacopoeia and a valuable piece of _naturalia_ that spurred the Canarian economy. By the turn of the nineteenth century, however, due to unsustainable cultivation techniques, the population of trees from which it was sourced was already in decline. This environmental degradation has only increased in intensity in the last two centuries with the intensification of human-driven ecological change, known as the Anthropocene.
 <param title="Anthropocene" eid="Q26841">
 <param ve-image static
@@ -186,11 +186,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM0MTE5MTgyLC0xMDU5ODYzMjcxLDE3OT
-czMjAwNDcsMTcwMDUxOTg5MSw3MjA0NTY2ODksLTE0OTgwNTU0
-NTUsMTk0NTgzOTYwMCwtMTczNDI1NTgyLC02ODc3NTkwNzYsMT
-I0OTAxMjM5NCwxOTA2NTA1ODI0LC05NDU1NDc4NSwzNDkwMDA2
-NywtMTk2MDQwOTI2MiwzNjAxODUyMzAsMzYwMTg1MjMwLC00OT
-k5MDExMjAsMTU1OTkxMDI4MywxOTQ5MjYxNTIzLDQzNDQ5MDU5
-Nl19
+eyJoaXN0b3J5IjpbMTU0MDAzNzQyMCwtMTA1OTg2MzI3MSwxNz
+k3MzIwMDQ3LDE3MDA1MTk4OTEsNzIwNDU2Njg5LC0xNDk4MDU1
+NDU1LDE5NDU4Mzk2MDAsLTE3MzQyNTU4MiwtNjg3NzU5MDc2LD
+EyNDkwMTIzOTQsMTkwNjUwNTgyNCwtOTQ1NTQ3ODUsMzQ5MDAw
+NjcsLTE5NjA0MDkyNjIsMzYwMTg1MjMwLDM2MDE4NTIzMCwtND
+k5OTAxMTIwLDE1NTk5MTAyODMsMTk0OTI2MTUyMyw0MzQ0OTA1
+OTZdfQ==
 -->
