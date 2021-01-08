@@ -54,6 +54,7 @@
 
 5. The Guanches used dragon’s blood for a variety of purposes ranging from embalming their dead, to making dyes and varnishes, to even using it as a toothpaste.[^ref5] Believing that, when dragons died, they transformed into the divine trees, Guanches would regularly meet under the Orotava giant dragon tree’s large canopy to enact laws and perform judicial duties, as well as base meteorological predictions on the tree’s bloom.[^ref6] The tree remained a mythic indicator of foreign land that was both exotically enticing yet materially valuable, as shown, for instance, in Martin Schongauer’s engraving _The Flight to Egypt_ (c. 1470). Dragon’s blood was, therefore, immensely valuable, as Béthencourt noted that the resin was, “well worth two hundred ducats, while what was given in exchange was hardly worth two francs.”[^ref7] In fact, dragon’s blood soon became a European toothpaste, likely indicating a cultural transference of ethnobotanical knowledge between the Guanches and their European neighbors. After decades of violent attacks against the Guanches, Spanish conquistadors finally vanquished the last of the Canary Islands in 1496. The Guanche language soon disappeared, with the exception of their distinct whistling language, known as Silbo Gomero <param ve-audio url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/media/Silbo%20(online-audio-converter.com).mp3">. Due to the traditional Western preference for written records rather than oral histories, much of what we now know of pre-Columbian culture on the Canaries comes from European colonial interlocutors.
 <param title="Guanches" eid="Q219995">
+<param title="Orotava" eid="Q177566" aliases="Orotava">
 <param title="Silbo Gomero" eid="Q415" aliases="Silbo Gomero">
 <param primary ve-storiiies
 	id="751f7">
@@ -80,20 +81,16 @@
 	url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/Humboldt.jpg"
 	fit="contain">
 <param ve-image
-	title="Between 1799 and 1804, Alexander Humboldt visited the Canary Islands, Venezuela, Cuba, Peru, Ecuador, Mexico, and the United States"
+	title="Between 1799 and 1804, Alexander Humboldt visited the Canary Islands, Venezuela, Cuba, Peru, Ecuador, Mexico, and the United States."
 	url="https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fa0%2FMap_Alexander_von_Humboldt_expedition-en.svg%2F1200px-Map_Alexander_von_Humboldt_expedition-en.svg.png"
 	fit="contain">
 <param ve-image static
-	title="Engraving of the dragon trees of the House of Franchy in the Villa de La Orotava. Sabin Berthelot, _Histoire Naturelle des Îles Canaries_, (Paris: 1838)"
+	title="Engraving of the dragon trees of the House of Franchy in the Villa de La Orotava. Sabin Berthelot, _Histoire Naturelle des Îles Canaries_, (Paris: 1838)."
 	url="https://upload.wikimedia.org/wikipedia/commons/d/df/Berthelot_drago_franchy.jpg">
 <param primary ve-storiiies
-	id="751f7"> 
+	id="751f7">
 
-Several centuries later, scientific expeditions by naturalists Alexander von Humboldt and André Pierre Ledru would bring popular attention back to the islands and _D. draco_, as each traveler marveled at this very same tree in Orotava – a tree impossibly large and old, and still echoing with mystical resonances.
-<param title="Orotava" eid="Q177566" aliases="Orotava">
-
-
-9. In 1799, as he stopped in Tenerife before his voyage to the Americas that would make him world-famous, Humboldt found himself in the village of Orotava. There, he entered the garden of a Monsieur Franchy and was immediately awe-struck by the sheer size and magnitude of the dragon tree there – the very same tree that the Guanches had worshipped for centuries. He reported it to measure 60 feet tall and 45 feet in circumference near the roots. “We were told that the trunk of this tree,” Humboldt wrote in his [_Personal Narrative_](https://www.biodiversitylibrary.org/item/228502#page/5/mode/1up), “which is mentioned in several ancient documents as marking the boundaries of a field, was as gigantic in the fifteenth century as it is at the present time.” According to his calculations, the specimen was undoubtedly “one of the oldest inhabitants in our world,” which called for special protection.[^ref12] Humboldt’s experience with the large _D. draco_ at Orotava was far more than the mere realization of a boyish dream, but was instead a pioneering act that that inspired other European travelers to follow in his footsteps and help strengthen a global network of scientific and economic exchanges focused on plants. 
+8. In 1799, as he stopped in Tenerife before his voyage to the Americas that would make him world-famous, Humboldt found himself in the village of Orotava. There, he entered the garden of a Monsieur Franchy and was immediately awe-struck by the sheer size and magnitude of the dragon tree there – the very same tree that the Guanches had worshipped for centuries. He reported it to measure 60 feet tall and 45 feet in circumference near the roots. “We were told that the trunk of this tree,” Humboldt wrote in his [_Personal Narrative_](https://www.biodiversitylibrary.org/item/228502#page/5/mode/1up), “which is mentioned in several ancient documents as marking the boundaries of a field, was as gigantic in the fifteenth century as it is at the present time.” According to his calculations, the specimen was undoubtedly “one of the oldest inhabitants in our world,” which called for special protection.[^ref12] Humboldt’s experience with the large _D. draco_ at Orotava was far more than the mere realization of a boyish dream, but was instead a pioneering act that that inspired other European travelers to follow in his footsteps and help strengthen a global network of scientific and economic exchanges focused on plants. 
 <param title="Tenerife" eid="Q40846">
 <param ve-image
 	title="Marchais, ‘Le dragonier de l’Orotava,’ in: Alexander von Humboldt, _Vue des cordillères et monumens des peuples indigènes de l’Amerique_, (Paris: 1810), 156."
@@ -179,7 +176,7 @@ Several centuries later, scientific expeditions by naturalists Alexander von Hum
 
 [^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMzMyMDU0MSwxNDkzNzUzNTM5LC0xMD
+eyJoaXN0b3J5IjpbLTY3MjgzNjg3MiwxNDkzNzUzNTM5LC0xMD
 M4MzQxMjYxLC0xNjQ4OTI1OTczLDM1MjE2ODQ4NywtMTc0OTgx
 MDc3NywxODQ2MzQ4NjY1LC0xNjc1MzA2NTU5LDE1MjYyNTU0Nj
 csLTE1OTA2NTgyNjEsLTE4NzA2MzI5MDksLTEzNjgxNzg3ODUs
