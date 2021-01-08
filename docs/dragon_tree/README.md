@@ -56,7 +56,9 @@ The Guanches used dragon’s blood for a variety of purposes ranging from embalm
 <param title="Guanches" eid="Q219995">
 <param title="Orotava" eid="Q177566" aliases="Orotava">
 <param title="Silbo Gomero" eid="Q415" aliases="Silbo Gomero">
-<param primary ve-storiiies id="751f7">
+<param ve-storiiies
+	id="751f7"
+	primary>
 
 Throughout its dissemination into European spaces from the Age of Discovery, dragon’s blood was understood chiefly as a medicament. Soon after its introduction, the sticky scarlet resin became nothing short of a panacea with widespread potential to prevent a host of illnesses.[^ref8] As a result, the so-called ‘_draco arbor_’ features in famous early modern herbals, such as John Gerard’s [_The Herball, or Generall Historie of Plantes_](https://www.biodiversitylibrary.org/item/33580#page/1/mode/1up) (1633) and John Parkinson’s [_Theatrum Botanicum_](https://www.biodiversitylibrary.org/item/256142#page/13/mode/1up) (1640). Both authors pointed to the Atlantic islands (comprised of the Canary Islands, as well as the Portuguese Azores and Madeira) as the tree’s most common habitat. As for _D. draco_’s medical uses, Gerard and Parkinson also agreed: its resin was believed to have effective astringent properties to treat gonorrhea, dysentery, spitting blood, and loose teeth. Gerard noted that “smiths also use it to varnish over their works,” while Parkinson doubted “painters can bring it to be a fit color to be used in their works.”[^ref9]
 <param title="Age of Discovery" eid="Q133641">
@@ -179,11 +181,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 oude banner: https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/header%20option%206%20-%20FINAL.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjgxMDk3NzQsMzYwMTg1MjMwLC00OT
-k5MDExMjAsMTU1OTkxMDI4MywxOTQ5MjYxNTIzLDQzNDQ5MDU5
-Niw1MzA3OTgyNjMsOTU1ODI1MDEzLC0xMDA4MTA5MTcwLDU4NT
-c1OTI0MywtMTUzMzgxNjQ4MCwtMzI3NzYzMDM1LDE2MDU5MTE2
-MzIsMTU0MDk4MjA2NiwtNTE4MDY5NjY1LDE3ODA2NDg3NzgsMj
-AzMDUwNDk3MCwtNjcyODM2ODcyLDE0OTM3NTM1MzksLTEwMzgz
-NDEyNjFdfQ==
+eyJoaXN0b3J5IjpbMTY0OTg2MzI0MiwzNjAxODUyMzAsLTQ5OT
+kwMTEyMCwxNTU5OTEwMjgzLDE5NDkyNjE1MjMsNDM0NDkwNTk2
+LDUzMDc5ODI2Myw5NTU4MjUwMTMsLTEwMDgxMDkxNzAsNTg1Nz
+U5MjQzLC0xNTMzODE2NDgwLC0zMjc3NjMwMzUsMTYwNTkxMTYz
+MiwxNTQwOTgyMDY2LC01MTgwNjk2NjUsMTc4MDY0ODc3OCwyMD
+MwNTA0OTcwLC02NzI4MzY4NzIsMTQ5Mzc1MzUzOSwtMTAzODM0
+MTI2MV19
 -->
