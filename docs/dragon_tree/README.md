@@ -123,7 +123,7 @@
 	title=""
 	url="https://upload.wikimedia.org/wikipedia/commons/3/38/Orotava_Ayuntamiento_04.jpg">
 
-14. Just as Humboldt and Ledru observed the centenary _D. draco_ at Orotava and pondered the tree’s age, durability, and its potential influence on theories of a global climate, today’s scientists are weighing the tree’s possible medicinal benefits (including potential cancer treatments) and its commercial value in the cosmetics industry as an ingredient in anti-aging creams in relation to the species’ ongoing battle with extinction and its ecological vulnerability.[^ref17] Since many different species make good sources of what is commonly known ragn’s lod, more comprehensive research still needs to be carried out to fully assess the mythical resin’s true medicinal efficacy.[^ref18] 9]
+14. Just as Humboldt and Ledru observed the centenary _D. draco_ at Orotava and pondered the tree’s age, durability, and its potential influence on theories of a global climate, today’s scientists are weighing the tree’s possible medicinal benefits (including potential cancer treatments) and its commercial value in the cosmetics industry as an ingredient in anti-aging creams in relation to the species’ ongoing battle with extinction and its ecological vulnerability.[^ref17] Since many different species make good sources of what is commonly known ragn’s lod, more comprehensive research still needs to be carried out to fully assess the mythical resin’s true medicinal efficacy.[^ref18]
 <param ve-image
 	title=""
 	iiif-url="https://free.iiifhosting.com/iiif/ac36469812ba26bc336649e5aa20da4c6bfbd178d157caf52bbbfba2bd4d6629">
@@ -176,10 +176,10 @@
 
 [^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDQ0NDU4NTAsMjAzMDUwNDk3MCwtNj
-cyODM2ODcyLDE0OTM3NTM1MzksLTEwMzgzNDEyNjEsLTE2NDg5
-MjU5NzMsMzUyMTY4NDg3LC0xNzQ5ODEwNzc3LDE4NDYzNDg2Nj
-UsLTE2NzUzMDY1NTksMTUyNjI1NTQ2NywtMTU5MDY1ODI2MSwt
-MTg3MDYzMjkwOSwtMTM2ODE3ODc4NSwzNTEzNjg1OTcsOTUzOD
-A3NTM1XX0=
+eyJoaXN0b3J5IjpbMzM5OTQyNTAyLDIwMzA1MDQ5NzAsLTY3Mj
+gzNjg3MiwxNDkzNzUzNTM5LC0xMDM4MzQxMjYxLC0xNjQ4OTI1
+OTczLDM1MjE2ODQ4NywtMTc0OTgxMDc3NywxODQ2MzQ4NjY1LC
+0xNjc1MzA2NTU5LDE1MjYyNTU0NjcsLTE1OTA2NTgyNjEsLTE4
+NzA2MzI5MDksLTEzNjgxNzg3ODUsMzUxMzY4NTk3LDk1MzgwNz
+UzNV19
 -->
