@@ -161,17 +161,17 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref10]: Alexander von Humboldt, _Cosmos: A sketch of the Physical Description of the Universe_, vol. 2, (London: 1849), 372. [Click here for full book](https://www.biodiversitylibrary.org/item/73496#page/6/mode/1up)
 
-[^ref11]: Alexander von Humboldt, _Cosmos: A sketch of the Physical Description of the Universe_, vol. 2, (London: 1849), 371-372. [Click here for full book](https://www.biodiversitylibrary.org/item/73496#page/6/mode/1up)
+[^ref11]: Von Humboldt, _Cosmos_, 371-372. [Click here for full book](https://www.biodiversitylibrary.org/item/73496#page/6/mode/1up)
 
 [^ref12]: Alexander von Humboldt, _Personal Narrative of travels to the equinoctial regions of America during the years 1799-1804_, vol. 1, (London: Routledge, 1895), 62 [Click here for full book](https://www.biodiversitylibrary.org/item/228502#page/5/mode/1up); On Humboldt’s environmentalism: Laura Dassow Walls, “Rediscovering Humboldt’s Environmental Revolution,” _Environmental History_ 10, no. 4 (2005), 758-60. 
 
 [^ref13]: André Pierre Ledru, _Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco_, (Paris: Arthus Bertrand, 1810), 81-82. [Click here for full book](https://archive.org/details/voyageauxlesdet00sonngoog/page/n5/mode/2up)
 
-[^ref14]: André Pierre Ledru, _Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco_, (Paris: Arthus Bertrand, 1810), 93. [Click here for full book](https://archive.org/details/voyageauxlesdet00sonngoog/page/n5/mode/2up)
+[^ref14]: Ledru, _Voyages_, 93. [Click here for full book](https://archive.org/details/voyageauxlesdet00sonngoog/page/n5/mode/2up)
 
 [^ref15]: Aaron González-Castro et al., “Unraveling the Seed Dispersal System of an Insular ‘Ghost’ Dragon Tree (_Dracaena draco_) in the Wild,” in _Frontiers in Ecology and Evolution_ 7, no. 39 (February 2019).
 
-[^ref16]: André Pierre Ledru, _Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco_, (Paris: Arthus Bertrand, 1810), 93. [Click here for full book](https://archive.org/details/voyageauxlesdet00sonngoog/page/n5/mode/2up)
+[^ref16]: Ledru, _Voyages_, 93. [Click here for full book](https://archive.org/details/voyageauxlesdet00sonngoog/page/n5/mode/2up)
 
 [^ref17]: Alice Carter Cook, “The Dragon Tree of Orotava,” _The Plant World_ 4, no. 7 (July 1901), 124.
 
@@ -185,11 +185,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzc1NjU0MTgsMTc5NzMyMDA0NywxNz
-AwNTE5ODkxLDcyMDQ1NjY4OSwtMTQ5ODA1NTQ1NSwxOTQ1ODM5
-NjAwLC0xNzM0MjU1ODIsLTY4Nzc1OTA3NiwxMjQ5MDEyMzk0LD
-E5MDY1MDU4MjQsLTk0NTU0Nzg1LDM0OTAwMDY3LC0xOTYwNDA5
-MjYyLDM2MDE4NTIzMCwzNjAxODUyMzAsLTQ5OTkwMTEyMCwxNT
-U5OTEwMjgzLDE5NDkyNjE1MjMsNDM0NDkwNTk2LDUzMDc5ODI2
-M119
+eyJoaXN0b3J5IjpbMTcwMjQyMjE1MywxNzk3MzIwMDQ3LDE3MD
+A1MTk4OTEsNzIwNDU2Njg5LC0xNDk4MDU1NDU1LDE5NDU4Mzk2
+MDAsLTE3MzQyNTU4MiwtNjg3NzU5MDc2LDEyNDkwMTIzOTQsMT
+kwNjUwNTgyNCwtOTQ1NTQ3ODUsMzQ5MDAwNjcsLTE5NjA0MDky
+NjIsMzYwMTg1MjMwLDM2MDE4NTIzMCwtNDk5OTAxMTIwLDE1NT
+k5MTAyODMsMTk0OTI2MTUyMyw0MzQ0OTA1OTYsNTMwNzk4MjYz
+XX0=
 -->
