@@ -22,6 +22,8 @@ As the tongue goes numb and all efforts fail to remove the scarlet, sticky subst
 
 Members of today’s _Dracaena_ genus have long been valued for their signature red resin, dragon’s blood, that oozes from cuts in the bark of those trees. Though the focus of this article is on _D. draco_ , there are many other species of tree that exude their own forms of dragon’s blood. These include the other 120 members of the _Dracaena_ genus, in addition to several others. While these other trees certainly exude a resin identified as dragon’s blood, a level of botanical and geographical ambiguity that contributes to the mythical status of the substance, _D. draco_ and _D. cinnabari_ are the two species that are most commonly referred to as the source of the resin in historical sources. The first known reports of dragon’s blood were dispersed through Pliny’s [_Naturalis Historia_](https://archive.org/details/OEXV10R/mode/2up), where he recounted the Indian tale of a dragon (representing Brahma) biting a giant elephant (representing Shiva) and their blood mixing into the iconic resin. While this Vedic myth actually originates from Socotra island of Yemen and is based on the resin of _Dracaena cinnabari_, the fascination with dragon’s blood also took a foothold in Europe through the infamous tale of Hercules.[^ref1]
 <param title="Naturalis Historia" eid="Q442">
+<param title="Brahma" eid="Q11389">
+<param title="Shiva" eid="Q11378">
 <param title="Vedic myth" eid="Q2076739" aliases="Vedic myth">
 <param title="Socotra" eid="Q82859">
 <param title="Dracaena cinnabari" eid="Q133560">
@@ -177,11 +179,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 oude banner: https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/header%20option%206%20-%20FINAL.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0OTI2MTUyMyw0MzQ0OTA1OTYsNTMwNz
-k4MjYzLDk1NTgyNTAxMywtMTAwODEwOTE3MCw1ODU3NTkyNDMs
-LTE1MzM4MTY0ODAsLTMyNzc2MzAzNSwxNjA1OTExNjMyLDE1ND
-A5ODIwNjYsLTUxODA2OTY2NSwxNzgwNjQ4Nzc4LDIwMzA1MDQ5
-NzAsLTY3MjgzNjg3MiwxNDkzNzUzNTM5LC0xMDM4MzQxMjYxLC
-0xNjQ4OTI1OTczLDM1MjE2ODQ4NywtMTc0OTgxMDc3NywxODQ2
-MzQ4NjY1XX0=
+eyJoaXN0b3J5IjpbMTU1OTkxMDI4MywxOTQ5MjYxNTIzLDQzND
+Q5MDU5Niw1MzA3OTgyNjMsOTU1ODI1MDEzLC0xMDA4MTA5MTcw
+LDU4NTc1OTI0MywtMTUzMzgxNjQ4MCwtMzI3NzYzMDM1LDE2MD
+U5MTE2MzIsMTU0MDk4MjA2NiwtNTE4MDY5NjY1LDE3ODA2NDg3
+NzgsMjAzMDUwNDk3MCwtNjcyODM2ODcyLDE0OTM3NTM1MzksLT
+EwMzgzNDEyNjEsLTE2NDg5MjU5NzMsMzUyMTY4NDg3LC0xNzQ5
+ODEwNzc3XX0=
 -->
