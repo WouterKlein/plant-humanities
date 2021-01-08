@@ -7,7 +7,6 @@
 	num-images="17"
 	num-primary-sources="16"
 	author="Thomas C. Anderson, Cati Kalinoski, and Lucas Mertehikian">
-<param title="Dracaena draco" eid="Q157952">
 <param title="Dracaena" eid="Q158009" article="dragon_tree_species" aliases="D. draco">
 
 ### Introduction: a desensitizing sensory experience
@@ -15,6 +14,7 @@ As the tongue goes numb and all efforts fail to remove the scarlet, sticky subst
 <param title="Dragon’s Blood" eid="Q421877" aliases="dragon’s blood">
 <param title="Pliny the Elder" eid="Q82778">
 <param title="Alexander von Humboldt" eid="Q6694">
+<param title="Dracaena draco" eid="Q157952">
 <param title="André Pierre Ledru" eid="Q2848440">
 <param title="Canary Islands" eid="Q5813">
 <param ve-storiiies
@@ -180,11 +180,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 oude banner: https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/header%20option%206%20-%20FINAL.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTkwMTEyMCwxNTU5OTEwMjgzLDE5ND
-kyNjE1MjMsNDM0NDkwNTk2LDUzMDc5ODI2Myw5NTU4MjUwMTMs
-LTEwMDgxMDkxNzAsNTg1NzU5MjQzLC0xNTMzODE2NDgwLC0zMj
-c3NjMwMzUsMTYwNTkxMTYzMiwxNTQwOTgyMDY2LC01MTgwNjk2
-NjUsMTc4MDY0ODc3OCwyMDMwNTA0OTcwLC02NzI4MzY4NzIsMT
-Q5Mzc1MzUzOSwtMTAzODM0MTI2MSwtMTY0ODkyNTk3MywzNTIx
-Njg0ODddfQ==
+eyJoaXN0b3J5IjpbNzgyMjgxMDMwLC00OTk5MDExMjAsMTU1OT
+kxMDI4MywxOTQ5MjYxNTIzLDQzNDQ5MDU5Niw1MzA3OTgyNjMs
+OTU1ODI1MDEzLC0xMDA4MTA5MTcwLDU4NTc1OTI0MywtMTUzMz
+gxNjQ4MCwtMzI3NzYzMDM1LDE2MDU5MTE2MzIsMTU0MDk4MjA2
+NiwtNTE4MDY5NjY1LDE3ODA2NDg3NzgsMjAzMDUwNDk3MCwtNj
+cyODM2ODcyLDE0OTM3NTM1MzksLTEwMzgzNDEyNjEsLTE2NDg5
+MjU5NzNdfQ==
 -->
