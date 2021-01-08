@@ -58,7 +58,7 @@
 <param primary ve-storiiies
 	id="751f7">
 
-6. After decades of violent attacks against the Guanches, Spanish conquistadors finally vanquished the last of the Canary Islands in 1496. The Guanche language soon disappeared, with the exception of their distinct whistling language, known as Silbo Gomero <param ve-audio url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/media/Silbo%20(online-audio-converter.com).mp3">. Due to the traditional Western preference for written records rather than oral histories, much of what we now know of pre-Columbian culture on the Canaries comes from European colonial interlocutors.
+After decades of violent attacks against the Guanches, Spanish conquistadors finally vanquished the last of the Canary Islands in 1496. The Guanche language soon disappeared, with the exception of their distinct whistling language, known as Silbo Gomero <param ve-audio url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/media/Silbo%20(online-audio-converter.com).mp3">. Due to the traditional Western preference for written records rather than oral histories, much of what we now know of pre-Columbian culture on the Canaries comes from European colonial interlocutors.
 
 6. After this initial period of European colonization, however, interest in the Canaries blossomed, as the Atlantic islands quickly became natural stopping points for travelers of all stripes on their way to the New World as well as Africa. It was during this period of integration of the Canaries into the burgeoning European sphere of influence, then, that _D. draco_ emerged on the stage of European gardens.
 <param title="Silbo Gomero" eid="Q415" aliases="Silbo Gomero">
@@ -183,7 +183,7 @@
 
 [^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0Mjk2NjczMiwtMTY0ODkyNTk3MywzNT
+eyJoaXN0b3J5IjpbMTEwNDc4NjMxNiwtMTY0ODkyNTk3MywzNT
 IxNjg0ODcsLTE3NDk4MTA3NzcsMTg0NjM0ODY2NSwtMTY3NTMw
 NjU1OSwxNTI2MjU1NDY3LC0xNTkwNjU4MjYxLC0xODcwNjMyOT
 A5LC0xMzY4MTc4Nzg1LDM1MTM2ODU5Nyw5NTM4MDc1MzVdfQ==
