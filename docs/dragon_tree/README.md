@@ -1,6 +1,6 @@
 <param ve-config
 	title="Dracaena draco: the timeless Canarian dragon"
-	banner="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/header%20option%206%20-%20FINAL.jpg"
+	banner="https://upload.wikimedia.org/wikipedia/commons/8/83/Socotra_dragon_tree.JPG"
 	layout="vtl"
 	num-maps="1"
 	num-specimens="1"
@@ -174,12 +174,14 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 [^ref21]: González-Castro et al., “Unraveling the Seed Dispersal System”.
 
 [^ref22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
+
+oude banner: https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/header%20option%206%20-%20FINAL.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM0NDkwNTk2LDUzMDc5ODI2Myw5NTU4Mj
-UwMTMsLTEwMDgxMDkxNzAsNTg1NzU5MjQzLC0xNTMzODE2NDgw
-LC0zMjc3NjMwMzUsMTYwNTkxMTYzMiwxNTQwOTgyMDY2LC01MT
-gwNjk2NjUsMTc4MDY0ODc3OCwyMDMwNTA0OTcwLC02NzI4MzY4
-NzIsMTQ5Mzc1MzUzOSwtMTAzODM0MTI2MSwtMTY0ODkyNTk3My
-wzNTIxNjg0ODcsLTE3NDk4MTA3NzcsMTg0NjM0ODY2NSwtMTY3
-NTMwNjU1OV19
+eyJoaXN0b3J5IjpbMTk0OTI2MTUyMyw0MzQ0OTA1OTYsNTMwNz
+k4MjYzLDk1NTgyNTAxMywtMTAwODEwOTE3MCw1ODU3NTkyNDMs
+LTE1MzM4MTY0ODAsLTMyNzc2MzAzNSwxNjA1OTExNjMyLDE1ND
+A5ODIwNjYsLTUxODA2OTY2NSwxNzgwNjQ4Nzc4LDIwMzA1MDQ5
+NzAsLTY3MjgzNjg3MiwxNDkzNzUzNTM5LC0xMDM4MzQxMjYxLC
+0xNjQ4OTI1OTczLDM1MjE2ODQ4NywtMTc0OTgxMDc3NywxODQ2
+MzQ4NjY1XX0=
 -->
