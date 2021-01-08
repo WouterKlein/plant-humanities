@@ -93,8 +93,7 @@ In 1799, as he stopped in Tenerife before his voyage to the Americas that would 
 <param ve-image
 	title="Marchais, ‘Le dragonier de l’Orotava,’ in: Alexander von Humboldt, _Vue des cordillères et monumens des peuples indigènes de l’Amerique_, (Paris: 1810), 156."
 	url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/Dracaena:Humboldt.jpg"
-	region="pct:8,5,145,140"
-	fit="contain">
+	region="866,1834,2130,1509">
 <param ve-image
 	title="_Jardines y casa de Franchy_, engraving by Simón Cattoir y C. de Freudenberg (c. 1770)."
 	url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/DON%20JUAN%20FRANCISCO%20DE%20FRANCHI%20ALFARO.jpg"
@@ -178,11 +177,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 oude banner: https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/header%20option%206%20-%20FINAL.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjUwNTgyNCwtOTQ1NTQ3ODUsMzQ5MD
-AwNjcsLTE5NjA0MDkyNjIsMzYwMTg1MjMwLDM2MDE4NTIzMCwt
-NDk5OTAxMTIwLDE1NTk5MTAyODMsMTk0OTI2MTUyMyw0MzQ0OT
-A1OTYsNTMwNzk4MjYzLDk1NTgyNTAxMywtMTAwODEwOTE3MCw1
-ODU3NTkyNDMsLTE1MzM4MTY0ODAsLTMyNzc2MzAzNSwxNjA1OT
-ExNjMyLDE1NDA5ODIwNjYsLTUxODA2OTY2NSwxNzgwNjQ4Nzc4
+eyJoaXN0b3J5IjpbMTI0OTAxMjM5NCwxOTA2NTA1ODI0LC05ND
+U1NDc4NSwzNDkwMDA2NywtMTk2MDQwOTI2MiwzNjAxODUyMzAs
+MzYwMTg1MjMwLC00OTk5MDExMjAsMTU1OTkxMDI4MywxOTQ5Mj
+YxNTIzLDQzNDQ5MDU5Niw1MzA3OTgyNjMsOTU1ODI1MDEzLC0x
+MDA4MTA5MTcwLDU4NTc1OTI0MywtMTUzMzgxNjQ4MCwtMzI3Nz
+YzMDM1LDE2MDU5MTE2MzIsMTU0MDk4MjA2NiwtNTE4MDY5NjY1
 XX0=
 -->
