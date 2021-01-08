@@ -20,7 +20,7 @@ As the tongue goes numb and all efforts fail to remove the scarlet, sticky subst
 <param ve-storiiies
 	id="8a1g2">
 
-### A tree of legends
+### Sanguine myths and elemental reality
 Members of today’s _Dracaena_ genus have long been valued for their signature red resin, dragon’s blood, that oozes from cuts in the bark of those trees. Though the focus of this article is on _D. draco_ , there are many other species of tree that exude their own forms of dragon’s blood. These include the other 120 members of the _Dracaena_ genus, in addition to several others. While these other trees certainly exude a resin identified as dragon’s blood, a level of botanical and geographical ambiguity that contributes to the mythical status of the substance, _D. draco_ and _D. cinnabari_ are the two species that are most commonly referred to as the source of the resin in historical sources. The first known reports of dragon’s blood were dispersed through Pliny’s [_Naturalis Historia_](https://archive.org/details/OEXV10R/mode/2up), where he recounted the Indian tale of a dragon (representing Brahma) biting a giant elephant (representing Shiva) and their blood mixing into the iconic resin. While this Vedic myth actually originates from Socotra island of Yemen and is based on the resin of _Dracaena cinnabari_, the fascination with dragon’s blood also took a foothold in Europe through the infamous tale of Hercules.[^ref1]
 <param title="Naturalis Historia" eid="Q442">
 <param title="Brahma" eid="Q11389">
@@ -60,6 +60,7 @@ The Guanches used dragon’s blood for a variety of purposes, ranging from embal
 <param ve-storiiies
 	id="751f7">
 
+### Dragon's blood: from herbals to Enlightenment science
 After decades of violent attacks against the Guanches, Spanish conquistadors finally vanquished the last of the Canary Islands in 1496. The Guanche language soon disappeared, with the exception of their distinct whistling language, known as Silbo Gomero <param ve-audio url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/media/Silbo%20(online-audio-converter.com).mp3">. Due to the traditional Western preference for written records rather than oral histories, much of what we now know of pre-Columbian culture on the Canaries comes from European colonial interlocutors.
 <param title="Silbo Gomero language" eid="Q415" aliases="Silbo Gomero">
 <param ve-video
@@ -185,11 +186,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTk4NjMyNzEsMTc5NzMyMDA0NywxNz
-AwNTE5ODkxLDcyMDQ1NjY4OSwtMTQ5ODA1NTQ1NSwxOTQ1ODM5
-NjAwLC0xNzM0MjU1ODIsLTY4Nzc1OTA3NiwxMjQ5MDEyMzk0LD
-E5MDY1MDU4MjQsLTk0NTU0Nzg1LDM0OTAwMDY3LC0xOTYwNDA5
-MjYyLDM2MDE4NTIzMCwzNjAxODUyMzAsLTQ5OTkwMTEyMCwxNT
-U5OTEwMjgzLDE5NDkyNjE1MjMsNDM0NDkwNTk2LDUzMDc5ODI2
-M119
+eyJoaXN0b3J5IjpbOTM0MTE5MTgyLC0xMDU5ODYzMjcxLDE3OT
+czMjAwNDcsMTcwMDUxOTg5MSw3MjA0NTY2ODksLTE0OTgwNTU0
+NTUsMTk0NTgzOTYwMCwtMTczNDI1NTgyLC02ODc3NTkwNzYsMT
+I0OTAxMjM5NCwxOTA2NTA1ODI0LC05NDU1NDc4NSwzNDkwMDA2
+NywtMTk2MDQwOTI2MiwzNjAxODUyMzAsMzYwMTg1MjMwLC00OT
+k5MDExMjAsMTU1OTkxMDI4MywxOTQ5MjYxNTIzLDQzNDQ5MDU5
+Nl19
 -->
