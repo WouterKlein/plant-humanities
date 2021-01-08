@@ -153,7 +153,7 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref6]: “Villa de La Orotava Dragon Tree Tour: The Arautava Giant,” Ayuntamiento: Villa de La Orotava, accessed August 3, 2020. [Click here for full article](https://www.laorotava.es/en/tourism/discover-la-orotava/villa-de-la-orotava-dragon-tree-tour)
 
-[^ref7]: Pierre Bontier, Jean le Verrier, and Richard Henry Major (trans.), _The Canarian: or, Book of the Conquest and Conversion of the Canarians in the year 1402 by Messire Jean de Béthencourt, Kt_, (London: The Hakluyt Society, 1872), 70-71. [Click here for full book](https://archive.org/details/canarianorbookof00bont_0/page/n7/mode/2up)
+[^ref7]: Bontier, Le Verrier, and Major (trans.), _The Canarian_, 70-71. [Click here for full book](https://archive.org/details/canarianorbookof00bont_0/page/n7/mode/2up)
 
 [^ref8]: Rajinder K. Gupta, Bruce Bleakley, Deepika Gupta, “Dragon’s Blood: Botany, chemistry and therapeutic uses,” _Journal of Ethnopharmacology_ 115 (2008), 361.
 
@@ -185,7 +185,7 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzEwNjE1NzAsMTc5NzMyMDA0NywxNz
+eyJoaXN0b3J5IjpbLTEwNTk4NjMyNzEsMTc5NzMyMDA0NywxNz
 AwNTE5ODkxLDcyMDQ1NjY4OSwtMTQ5ODA1NTQ1NSwxOTQ1ODM5
 NjAwLC0xNzM0MjU1ODIsLTY4Nzc1OTA3NiwxMjQ5MDEyMzk0LD
 E5MDY1MDU4MjQsLTk0NTU0Nzg1LDM0OTAwMDY3LC0xOTYwNDA5
