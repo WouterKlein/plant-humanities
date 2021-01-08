@@ -61,7 +61,7 @@ The Guanches used dragon’s blood for a variety of purposes ranging from embalm
 
 Throughout its dissemination into European spaces from the Age of Discovery, dragon’s blood was understood chiefly as a medicament. Soon after its introduction, the sticky scarlet resin became nothing short of a panacea with widespread potential to prevent a host of illnesses.[^ref8] As a result, the so-called ‘_draco arbor_’ features in famous early modern herbals, such as John Gerard’s [_The Herball, or Generall Historie of Plantes_](https://www.biodiversitylibrary.org/item/33580#page/1/mode/1up) (1633) and John Parkinson’s [_Theatrum Botanicum_](https://www.biodiversitylibrary.org/item/256142#page/13/mode/1up) (1640). Both authors pointed to the Atlantic islands (comprised of the Canary Islands, as well as the Portuguese Azores and Madeira) as the tree’s most common habitat. As for _D. draco_’s medical uses, Gerard and Parkinson also agreed: its resin was believed to have effective astringent properties to treat gonorrhea, dysentery, spitting blood, and loose teeth. Gerard noted that “smiths also use it to varnish over their works,” while Parkinson doubted “painters can bring it to be a fit color to be used in their works.”[^ref9]
 <param title="Age of Discovery" eid="Q133641">
-<param title="panacea" eid="Q1048167">
+<param title="panacea" eid="Q910154">
 <param title="John Gerard" eid="Q1333338">
 <param title="John Parkinson" eid="Q256288">
 <param title="Azores" eid="Q4058447">
@@ -180,11 +180,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 oude banner: https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/header%20option%206%20-%20FINAL.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYwMTg1MjMwLDM2MDE4NTIzMCwtNDk5OT
-AxMTIwLDE1NTk5MTAyODMsMTk0OTI2MTUyMyw0MzQ0OTA1OTYs
-NTMwNzk4MjYzLDk1NTgyNTAxMywtMTAwODEwOTE3MCw1ODU3NT
-kyNDMsLTE1MzM4MTY0ODAsLTMyNzc2MzAzNSwxNjA1OTExNjMy
-LDE1NDA5ODIwNjYsLTUxODA2OTY2NSwxNzgwNjQ4Nzc4LDIwMz
-A1MDQ5NzAsLTY3MjgzNjg3MiwxNDkzNzUzNTM5LC0xMDM4MzQx
-MjYxXX0=
+eyJoaXN0b3J5IjpbLTE0MTg0NDY1MjcsMzYwMTg1MjMwLDM2MD
+E4NTIzMCwtNDk5OTAxMTIwLDE1NTk5MTAyODMsMTk0OTI2MTUy
+Myw0MzQ0OTA1OTYsNTMwNzk4MjYzLDk1NTgyNTAxMywtMTAwOD
+EwOTE3MCw1ODU3NTkyNDMsLTE1MzM4MTY0ODAsLTMyNzc2MzAz
+NSwxNjA1OTExNjMyLDE1NDA5ODIwNjYsLTUxODA2OTY2NSwxNz
+gwNjQ4Nzc4LDIwMzA1MDQ5NzAsLTY3MjgzNjg3MiwxNDkzNzUz
+NTM5XX0=
 -->
