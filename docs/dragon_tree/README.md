@@ -74,7 +74,7 @@ Throughout its dissemination into European spaces from the Age of Discovery, dra
 	url="https://www.biodiversitylibrary.org/pageimage/56601428"
 	region="1,478,1831,1297">
 
-After European colonization, interest in the Canaries blossomed, as the Atlantic islands quickly became natural stopping points for travelers of all stripes on their way to the New World as well as Africa. Along with the integration of the Canaries into the burgeoning European sphere of influence, _D. draco_ emerged on the stage of European gardens. Botanical interest in _D. draco_ thrived especially in the latter half of the eighteenth century. German scientist and writer Alexander von Humboldt famously fell prey to the tree’s enchanting appeal. In [_Cosmos: A Sketch of a Physical Description of the Universe_](https://www.biodiversitylibrary.org/item/73496#page/7/mode/1up) (1842), his last work, he still recalled the time when, as a child, he “first saw a colossal dragon tree in an old tower of the Botanical Garden in Berlin.”[^ref10] The experience was so overwhelming that Humboldt even thought of it as “the source from whence sprang my early and fixed desire to visit the lands of the tropics.”[^ref11] A stroll through the botanical garden in his hometown, a virtual travel indeed, prompted Humboldt’s desire for actual travel. The fact that the dragon tree bookended Humboldt’s illustrious career, as both a formative experience of his youth and a notable point in his last great work highlights how the dragon tree itself was at the core of his understanding of nature as one interconnected whole.
+After European colonization, interest in the Canaries blossomed, as the Atlantic islands quickly became natural stopping points for travelers of all stripes on their way to the New World as well as Africa. Along with the integration of the Canaries into the burgeoning European sphere of influence, _D. draco_ emerged on the stage of European gardens. Botanical interest in _D. draco_ thrived especially in the latter half of the eighteenth century. German scientist and writer Alexander von Humboldt famously fell prey to the tree’s enchanting appeal. In [_Cosmos: A Sketch of a Physical Description of the Universe_](https://www.biodiversitylibrary.org/item/73496#page/7/mode/1up) (1842), his last work, he still recalled the time when, as a child, he “first saw a colossal dragon tree in an old tower of the Botanical Garden in Berlin.”[^ref10] The experience was so overwhelming that Humboldt even thought of it as “the source from whence sprang my early and fixed desire to visit the lands of the tropics.”[^ref11] The fact that the dragon tree bookended Humboldt’s illustrious career, as both a formative experience of his youth and a notable point in his last great work highlights how the dragon tree itself was at the core of his understanding of nature as one interconnected whole.
 <param title="Botanical Garden Berlin" eid="Q163255" aliases="Botanical Garden in Berlin">
 <param ve-image
 	title="An 1859 oil painting of Alexander von Humboldt by German painter Julius Schrader  (1815-1900). Julius Schrader, _Baron Alexander von Humboldt (1769-1859)_, oil on canvas, 1859."
@@ -176,11 +176,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNjYyNjc4OSw3MjA0NTY2ODksLTE0OT
-gwNTU0NTUsMTk0NTgzOTYwMCwtMTczNDI1NTgyLC02ODc3NTkw
-NzYsMTI0OTAxMjM5NCwxOTA2NTA1ODI0LC05NDU1NDc4NSwzND
-kwMDA2NywtMTk2MDQwOTI2MiwzNjAxODUyMzAsMzYwMTg1MjMw
-LC00OTk5MDExMjAsMTU1OTkxMDI4MywxOTQ5MjYxNTIzLDQzND
-Q5MDU5Niw1MzA3OTgyNjMsOTU1ODI1MDEzLC0xMDA4MTA5MTcw
-XX0=
+eyJoaXN0b3J5IjpbODg3NDc3NzIyLDcyMDQ1NjY4OSwtMTQ5OD
+A1NTQ1NSwxOTQ1ODM5NjAwLC0xNzM0MjU1ODIsLTY4Nzc1OTA3
+NiwxMjQ5MDEyMzk0LDE5MDY1MDU4MjQsLTk0NTU0Nzg1LDM0OT
+AwMDY3LC0xOTYwNDA5MjYyLDM2MDE4NTIzMCwzNjAxODUyMzAs
+LTQ5OTkwMTEyMCwxNTU5OTEwMjgzLDE5NDkyNjE1MjMsNDM0ND
+kwNTk2LDUzMDc5ODI2Myw5NTU4MjUwMTMsLTEwMDgxMDkxNzBd
+fQ==
 -->
