@@ -128,13 +128,13 @@
 	title=""
 	iiif-url="https://free.iiifhosting.com/iiif/ac36469812ba26bc336649e5aa20da4c6bfbd178d157caf52bbbfba2bd4d6629">
 
-15. Today, _D. draco_ is officially designated as a vulnerable population on the International Union for Conservation of Nature’s _Red List of Threatened Species_ due to its near-extinction in the wild.[^ref20] This is due in part to the fact that the tree relies on animals to disperse its seeds, and the number of animals which are suitable _D. draco_ seed dispersers has substantially decreased over time due to hunting and other forms of habitat destruction.[^ref21] Interestingly, despite the dragon tree’s ecological and socioeconomic value, a plantation system which could ensure that the trees would last indefinitely was never established. Furthermore, as Ledru noted over two centuries ago, this population decline and endangerment is also due to overcultivation of the tree’s valuable resin. The number of wild specimens has never been lower than it is today, and even though there are projects to repopulate the islands through experiments in propagation and acclimatization, one wonders if ever again a _Dracaena draco_ will grow to the size and magnificence of the one that so captivated the minds of travelers like Humboldt and Ledru.[^ref22] Perhaps, after its millennia-long smolder, the dragon’s flame will finally be snuffed out by the twenty-first century Anthropocene. 
+15. Today, _D. draco_ is officially designated as a vulnerable population on the International Union for Conservation of Nature’s _Red List of Threatened Species_ due to its near-extinction in the wild.[^ref20] This is due in part to the fact that the tree relies on animals to disperse its seeds, and the number of animals which are suitable _D. draco_ seed dispersers has substantially decreased over time due to hunting and other forms of habitat destruction.[^ref21] Interestingly, despite the dragon tree’s ecological and socioeconomic value, a plantation system which could ensure that the trees would last indefinitely was never established. Furthermore, as Ledru noted over two centuries ago, this population decline and endangerment is also due to overcultivation of the tree’s valuable resin. The number of wild specimens has never been lower than it is today, and even though there are projects to repopulate the islands through experiments in propagation and acclimatization, one wonders if ever again a _Dracaena draco_ will grow to the size and magnificence of the one that so captivated the minds of travelers like Humboldt and Ledru.[^ref22] Perhaps, after its millennia-long smolder, the dragon’s flame will finally be snuffed out by the twenty-first century Anthropocene. Or, perhaps, modern day ecological preservation projects may reverse the trajectory of this ailing species.
 <param title="International Union for Conservation of Nature" eid="Q48268">
 <param title="Red List of Threatened Species" eid="Q32059">
 <param ve-image
 	iiif-url="https://free.iiifhosting.com/iiif/31fb222aa31e439323c29d61cb363d5c897b02d8cde694ff946f0f6adbb00ad">
 
-[^ref1]: Though the focus of this article is on D. draco, there are many other species of tree that exude their own forms of dragon’s blood. These include the other 120 members of the Dracaena genus, in addition to several others. While these other trees certainly exude a resin identified as dragon’s blood, _D. draco_ and _D. cinnabari_ are the two species the most-commonly referenced as the source of the resin in historical sources”. 
+[^ref1]: Pearson, _The Horticulturist_, “Dragon’s Blood,” Vol. 11, No. 2 (SPRING 2002), 10.
 
 [^ref2]: Fauna & Flora International, “Canary Islands Dragon Tree,” Global Trees.org, accessed August 3, 2020. [Click here for full article](https://globaltrees.org/threatened-trees/trees/dragon-tree/)
 
@@ -176,10 +176,10 @@
 
 [^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYxNDE3MzYxLDE3ODA2NDg3NzgsMjAzMD
-UwNDk3MCwtNjcyODM2ODcyLDE0OTM3NTM1MzksLTEwMzgzNDEy
-NjEsLTE2NDg5MjU5NzMsMzUyMTY4NDg3LC0xNzQ5ODEwNzc3LD
-E4NDYzNDg2NjUsLTE2NzUzMDY1NTksMTUyNjI1NTQ2NywtMTU5
-MDY1ODI2MSwtMTg3MDYzMjkwOSwtMTM2ODE3ODc4NSwzNTEzNj
-g1OTcsOTUzODA3NTM1XX0=
+eyJoaXN0b3J5IjpbLTUxODA2OTY2NSwxNzgwNjQ4Nzc4LDIwMz
+A1MDQ5NzAsLTY3MjgzNjg3MiwxNDkzNzUzNTM5LC0xMDM4MzQx
+MjYxLC0xNjQ4OTI1OTczLDM1MjE2ODQ4NywtMTc0OTgxMDc3Ny
+wxODQ2MzQ4NjY1LC0xNjc1MzA2NTU5LDE1MjYyNTU0NjcsLTE1
+OTA2NTgyNjEsLTE4NzA2MzI5MDksLTEzNjgxNzg3ODUsMzUxMz
+Y4NTk3LDk1MzgwNzUzNV19
 -->
