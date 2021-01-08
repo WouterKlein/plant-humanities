@@ -10,7 +10,7 @@
 <param title="Dracaena" eid="Q158009" article="dragon_tree_species">
 
 ### Introduction: a desensitizing sensory experience
-As the tongue goes numb and all efforts fail to remove the scarlet, sticky substance that binds to one’s teeth like quick-setting epoxy, one starts to panic and wonder if the dragon’s blood they just ingested is truly as noxious as its name suggests. Though the epithet ‘dragon’s blood’ brings forth images of medieval myths and fantastical notions of fire-breathing lizards soaring high in the sky, this ‘blood’ is in fact the resin of a very real tree. Dragon trees have thick trunks and distinctive, umbrella-style crowns. They captured the imaginations of great minds across the ages, from Pliny the Elder (d. 79 CE) in to Alexander von Humboldt (1769-1859). Unlike Pliny, however, who was the lone scholar of his age enthralled by the epic allure of the dragon tree, Enlightenment era European naturalists like Humboldt and André Pierre Ledru (1761-1825) focused on one species, _Dracaena draco_ (L.) L.,  and both flocked to its native Canary Islands to study it around the turn of the nineteenth century. Soon after their initial encounters with dragon’s blood, they all may have realized that this strange sap occupied a liminal space between myth, legend, and scientific botany.
+As the tongue goes numb and all efforts fail to remove the scarlet, sticky substance that binds to one’s teeth like quick-setting epoxy, one starts to panic and wonder if the dragon’s blood they just ingested is truly as noxious as its name suggests. Though the epithet ‘dragon’s blood’ brings forth images of medieval myths and fantastical notions of fire-breathing lizards soaring high in the sky, this ‘blood’ is in fact the resin of a very real tree. Dragon trees have thick trunks and distinctive, umbrella-style crowns. They captured the imaginations of great minds across the ages, from Pliny the Elder (d. 79 CE) in to Alexander von Humboldt (1769-1859). Unlike Pliny, however, who was the lone scholar of his age enthralled by the epic allure of the dragon tree, Enlightenment era European naturalists like Humboldt and André Pierre Ledru (1761-1825) focused on one species, _Dracaena draco_ (L.) L., and both flocked to its native Canary Islands to study it around the turn of the nineteenth century. Soon after their initial encounters with dragon’s blood, they all may have realized that this strange sap occupied a liminal space between myth, legend, and scientific botany.
 <param title="Dragon’s Blood" eid="Q421877" aliases="dragon’s blood">
 <param title="Pliny the Elder" eid="Q82778">
 <param title="Alexander von Humboldt" eid="Q6694">
@@ -177,11 +177,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 oude banner: https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/header%20option%206%20-%20FINAL.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTAxMjM5NCwxOTA2NTA1ODI0LC05ND
-U1NDc4NSwzNDkwMDA2NywtMTk2MDQwOTI2MiwzNjAxODUyMzAs
-MzYwMTg1MjMwLC00OTk5MDExMjAsMTU1OTkxMDI4MywxOTQ5Mj
-YxNTIzLDQzNDQ5MDU5Niw1MzA3OTgyNjMsOTU1ODI1MDEzLC0x
-MDA4MTA5MTcwLDU4NTc1OTI0MywtMTUzMzgxNjQ4MCwtMzI3Nz
-YzMDM1LDE2MDU5MTE2MzIsMTU0MDk4MjA2NiwtNTE4MDY5NjY1
+eyJoaXN0b3J5IjpbLTY4Nzc1OTA3NiwxMjQ5MDEyMzk0LDE5MD
+Y1MDU4MjQsLTk0NTU0Nzg1LDM0OTAwMDY3LC0xOTYwNDA5MjYy
+LDM2MDE4NTIzMCwzNjAxODUyMzAsLTQ5OTkwMTEyMCwxNTU5OT
+EwMjgzLDE5NDkyNjE1MjMsNDM0NDkwNTk2LDUzMDc5ODI2Myw5
+NTU4MjUwMTMsLTEwMDgxMDkxNzAsNTg1NzU5MjQzLC0xNTMzOD
+E2NDgwLC0zMjc3NjMwMzUsMTYwNTkxMTYzMiwxNTQwOTgyMDY2
 XX0=
 -->
