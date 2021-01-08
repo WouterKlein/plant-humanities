@@ -39,9 +39,7 @@
 	url1="https://free.iiifhosting.com/iiif/6f75f8643461e419d28159fdc552cd384cc7aa5bc1ae2e31b9e2c47b91fefd60/info.json"
 	url2="https://free.iiifhosting.com/iiif/7e103f8b67bc1ce1be0a738a6a34265de93fe18ad5978f48c076da1da1fbf636/info.json">
 
-<![endif]-->
-
-As the myths of Antiquity and legends surrounding the dragon tree aged with time, so too did European understandings of the tree evolve as scientific botany developed from the late medieval through the early modern period. Native to the Canary Islands, Cape Verde, Madeira, and recently found growing natively on the West coast of Morocco, _D. draco_ is somewhat ubiquitous along the Northwestern coast of Africa. Evidently, the tree and its resin were an important feature of the economy and magico-medicine of the Canary Islands even before colonial contact. Thus, when French explorer Jean de Béthencourt became the first European to write of _D. draco_ in 1402, he recounted an elaborate trade of fishing hooks, knives, and iron in exchange for figs and dragon’s blood between his crew and 500 Guanches, the indigenous population of the Canary Islands.[^ref4]
+4. As the myths of Antiquity and legends surrounding the dragon tree aged with time, so too did European understandings of the tree evolve as scientific botany developed from the late medieval through the early modern period. Native to the Canary Islands, Cape Verde, Madeira, and recently found growing natively on the West coast of Morocco, _D. draco_ is somewhat ubiquitous along the Northwestern coast of Africa. Evidently, the tree and its resin were an important feature of the economy and magico-medicine of the Canary Islands even before colonial contact. Thus, when French explorer Jean de Béthencourt became the first European to write of _D. draco_ in 1402, he recounted an elaborate trade of fishing hooks, knives, and iron in exchange for figs and dragon’s blood between his crew and 500 Guanches, the indigenous population of the Canary Islands.[^ref4]
 <param title="Cape Verde" eid="Q1011">
 <param title="Madeira" eid="Q26253">
 <param title="Jean de Béthencourt" eid="Q447602">
@@ -183,9 +181,9 @@ As the myths of Antiquity and legends surrounding the dragon tree aged with time
 
 [^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMTg5NDA1MSwtMTY0ODkyNTk3MywzNT
-IxNjg0ODcsLTE3NDk4MTA3NzcsMTg0NjM0ODY2NSwtMTY3NTMw
-NjU1OSwxNTI2MjU1NDY3LC0xNTkwNjU4MjYxLC0xODcwNjMyOT
-A5LC0xMzY4MTc4Nzg1LDM1MTM2ODU5Nyw5NTM4MDc1MzVdfQ==
+eyJoaXN0b3J5IjpbLTExOTA0NzM5NzAsLTE2NDg5MjU5NzMsMz
+UyMTY4NDg3LC0xNzQ5ODEwNzc3LDE4NDYzNDg2NjUsLTE2NzUz
+MDY1NTksMTUyNjI1NTQ2NywtMTU5MDY1ODI2MSwtMTg3MDYzMj
+kwOSwtMTM2ODE3ODc4NSwzNTEzNjg1OTcsOTUzODA3NTM1XX0=
 
 -->
