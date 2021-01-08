@@ -52,7 +52,7 @@
 	geojson url="geojson/Dracaena draco native.json"
 	active>
 
-5. The Guanches used dragon’s blood for a variety of purposes ranging from embalming their dead, to making dyes and varnishes, to even using it as a toothpaste.[^ref5] Believing that, when dragons died, they transformed into the divine trees, Guanches would regularly meet under the Orotava giant dragon tree’s large canopy to enact laws and perform judicial duties, as well as base meteorological predictions on the tree’s bloom.[^ref6] Dragon’s blood was, therefore, immensely valuable, as Béthencourt noted that the resin was, “well worth two hundred ducats, while what was given in exchange was hardly worth two francs.”[^ref7] Several centuries later, scientific expeditions by naturalists Alexander von Humboldt and André Pierre Ledru would bring popular attention back to the islands and _D. draco_, as each traveler marveled at this very same tree in Orotava – a tree impossibly large and old, and still echoing with mystical resonances. 
+5. The Guanches used dragon’s blood for a variety of purposes ranging from embalming their dead, to making dyes and varnishes, to even using it as a toothpaste.[^ref5] Believing that, when dragons died, they transformed into the divine trees, Guanches would regularly meet under the Orotava giant dragon tree’s large canopy to enact laws and perform judicial duties, as well as base meteorological predictions on the tree’s bloom.[^ref6] The tree remained a mythic indicator of foreign land that was both exotically enticing yet materially valuable, as shown, for instance, in Martin Schongauer’s _The Flight to Egypt_ (c. 1470). Dragon’s blood was, therefore, immensely valuable, as Béthencourt noted that the resin was, “well worth two hundred ducats, while what was given in exchange was hardly worth two francs.”[^ref7] Several centuries later, scientific expeditions by naturalists Alexander von Humboldt and André Pierre Ledru would bring popular attention back to the islands and _D. draco_, as each traveler marveled at this very same tree in Orotava – a tree impossibly large and old, and still echoing with mystical resonances. 
 <param title="Guanches" eid="Q219995">
 <param title="Orotava" eid="Q177566" aliases="Orotava">
 <param primary ve-storiiies
@@ -181,9 +181,8 @@
 
 [^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTA0NzM5NzAsLTE2NDg5MjU5NzMsMz
-UyMTY4NDg3LC0xNzQ5ODEwNzc3LDE4NDYzNDg2NjUsLTE2NzUz
-MDY1NTksMTUyNjI1NTQ2NywtMTU5MDY1ODI2MSwtMTg3MDYzMj
-kwOSwtMTM2ODE3ODc4NSwzNTEzNjg1OTcsOTUzODA3NTM1XX0=
-
+eyJoaXN0b3J5IjpbODY4MjA0NDM5LC0xNjQ4OTI1OTczLDM1Mj
+E2ODQ4NywtMTc0OTgxMDc3NywxODQ2MzQ4NjY1LC0xNjc1MzA2
+NTU5LDE1MjYyNTU0NjcsLTE1OTA2NTgyNjEsLTE4NzA2MzI5MD
+ksLTEzNjgxNzg3ODUsMzUxMzY4NTk3LDk1MzgwNzUzNV19
 -->
