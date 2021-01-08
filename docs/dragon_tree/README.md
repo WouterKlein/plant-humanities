@@ -9,7 +9,6 @@
 	author="Thomas C. Anderson, Cati Kalinoski, and Lucas Mertehikian">
 <param title="Dracaena draco" eid="Q157952">
 <param title="Dracaena" eid="Q158009" article="dragon_tree_species" aliases="D. draco">
-<param title="Dumbarton Oaks" eid="Q1264942" aliases="DO">
 
 ### Introduction: a desensitizing sensory experience
 As the tongue goes numb and all efforts fail to remove the scarlet, sticky substance that binds to one’s teeth like quick-setting epoxy, one starts to panic and wonder if the dragon’s blood they just ingested is truly as noxious as its name suggests. Though the epithet ‘dragon’s blood’ brings forth images of medieval myths and fantastical notions of fire-breathing lizards soaring high in the sky, this ‘blood’ is in fact the resin of a very real tree. Dragon trees have thick trunks and distinctive, umbrella-style crowns. They captured the imaginations of great minds across the ages, from Pliny the Elder (d. 79 CE) in to Alexander von Humboldt (1769-1859). Unlike Pliny, however, who was the lone scholar of his age enthralled by the epic allure of the dragon tree, Enlightenment era European naturalists like Humboldt and André Pierre Ledru (1761-1825) focused on one species, _Dracaena draco_,  and both flocked to its native Canary Islands to study it around the turn of the nineteenth century. Soon after their initial encounters with dragon’s blood, they all may have realized that this strange sap occupied a liminal space between myth, legend, and scientific botany.
@@ -176,11 +175,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTU5ODc3MDEsOTU1ODI1MDEzLC0xMD
-A4MTA5MTcwLDU4NTc1OTI0MywtMTUzMzgxNjQ4MCwtMzI3NzYz
-MDM1LDE2MDU5MTE2MzIsMTU0MDk4MjA2NiwtNTE4MDY5NjY1LD
-E3ODA2NDg3NzgsMjAzMDUwNDk3MCwtNjcyODM2ODcyLDE0OTM3
-NTM1MzksLTEwMzgzNDEyNjEsLTE2NDg5MjU5NzMsMzUyMTY4ND
-g3LC0xNzQ5ODEwNzc3LDE4NDYzNDg2NjUsLTE2NzUzMDY1NTks
-MTUyNjI1NTQ2N119
+eyJoaXN0b3J5IjpbNTMwNzk4MjYzLDk1NTgyNTAxMywtMTAwOD
+EwOTE3MCw1ODU3NTkyNDMsLTE1MzM4MTY0ODAsLTMyNzc2MzAz
+NSwxNjA1OTExNjMyLDE1NDA5ODIwNjYsLTUxODA2OTY2NSwxNz
+gwNjQ4Nzc4LDIwMzA1MDQ5NzAsLTY3MjgzNjg3MiwxNDkzNzUz
+NTM5LC0xMDM4MzQxMjYxLC0xNjQ4OTI1OTczLDM1MjE2ODQ4Ny
+wtMTc0OTgxMDc3NywxODQ2MzQ4NjY1LC0xNjc1MzA2NTU5LDE1
+MjYyNTU0NjddfQ==
 -->
