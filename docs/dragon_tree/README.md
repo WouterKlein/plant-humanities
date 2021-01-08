@@ -140,7 +140,7 @@
 
 [^ref3]: J. Francisco-Ortega et al., “Early Cultivation of Macaronesian Plants in Three European Gardens”, _Revista de la Academia Canaria de Ciencias_ 23, no. 3 (April 2012), 113-143.
 
-[^ref4]: Pierre Bontier, Jean le Verrier, and Richard Henry Major (trans.), _The Canarian: or, Book of the Conquest and Conversion of the Canarians in the year 1402 by Messire Jean de Béthencourt, Kt_, (London: The Hakluyt Society, 1872), 70-71. [Click here for full book](https://archive.org/details/canarianorbookof00bont_0/page/n7/mode/2up)On D. draco’s wider significance within Guanche culture, see: Mark Milburn, “Dragon’s Blood in East and West Africa, Arabia and the Canary Islands,” _Africa: Rivista trimestrale di studi e documentazione dell’Istituto italiano per l’Africa e l’Oriente_ 39, no. 3 (1984), 489-90.
+[^ref4]: Pierre Bontier, Jean le Verrier, and Richard Henry Major (trans.), _The Canarian: or, Book of the Conquest and Conversion of the Canarians in the year 1402 by Messire Jean de Béthencourt, Kt_, (London: The Hakluyt Society, 1872), 70-71. [Click here for full book](https://archive.org/details/canarianorbookof00bont_0/page/n7/mode/2up). On D. draco’s wider significance within Guanche culture, see: Mark Milburn, “Dragon’s Blood in East and West Africa, Arabia and the Canary Islands,” _Africa: Rivista trimestrale di studi e documentazione dell’Istituto italiano per l’Africa e l’Oriente_ 39, no. 3 (1984), 489-90.
 
 [^ref5]: Colin Walker, “A tale of dragons – the pachycaul species of Dracaena,” _British Cactus & Succulent Journal_ 17, no. 4 (December, 1999), 171-177; Jane Pearson and Hew D.V. Prendergast, “Daemonorops, Dracaena and Other Dragon’s Blood,” _Economic Botany_ 55, no. 4 (October-December 2001), 474-477.
 
@@ -172,14 +172,14 @@
 
 [^ref19]: “Dracaena draco,” IUCN Red List.org, accessed August 3. 2020, [link](https://www.iucnredlist.org/species/30394/9535771)
 
-[^ref20]: Aaron González-Castro et al., “Unraveling the Seed Dispersal System of an Insular ‘Ghost’ Dragon Tree (_Dracaena draco_) in the Wild,” in _Frontiers in Ecology and Evolution_ 7, no. 39 (February 2019).
+[^ref20]: González-Castro et al., “Unraveling the Seed Dispersal System of an Insular ‘Ghost’ Dragon Tree (_Dracaena draco_) in the Wild,” in _Frontiers in Ecology and Evolution_ 7, no. 39 (February 2019).
 
 [^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODA2OTY2NSwxNzgwNjQ4Nzc4LDIwMz
-A1MDQ5NzAsLTY3MjgzNjg3MiwxNDkzNzUzNTM5LC0xMDM4MzQx
-MjYxLC0xNjQ4OTI1OTczLDM1MjE2ODQ4NywtMTc0OTgxMDc3Ny
-wxODQ2MzQ4NjY1LC0xNjc1MzA2NTU5LDE1MjYyNTU0NjcsLTE1
-OTA2NTgyNjEsLTE4NzA2MzI5MDksLTEzNjgxNzg3ODUsMzUxMz
-Y4NTk3LDk1MzgwNzUzNV19
+eyJoaXN0b3J5IjpbLTEzMjE1NDIxNzQsLTUxODA2OTY2NSwxNz
+gwNjQ4Nzc4LDIwMzA1MDQ5NzAsLTY3MjgzNjg3MiwxNDkzNzUz
+NTM5LC0xMDM4MzQxMjYxLC0xNjQ4OTI1OTczLDM1MjE2ODQ4Ny
+wtMTc0OTgxMDc3NywxODQ2MzQ4NjY1LC0xNjc1MzA2NTU5LDE1
+MjYyNTU0NjcsLTE1OTA2NTgyNjEsLTE4NzA2MzI5MDksLTEzNj
+gxNzg3ODUsMzUxMzY4NTk3LDk1MzgwNzUzNV19
 -->
