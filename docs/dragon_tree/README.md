@@ -58,7 +58,7 @@
 <param primary ve-storiiies
 	id="751f7">
 
-6. Throughout its dissemination into European spaces from the Age of Discovery, dragon’s blood was understood chiefly as a medicament. Soon after its introduction, the sticky scarlet resin became nothing short of a panacea with widespread potential to prevent a host of illnesses.[^ref8] As a result, the so-called ‘_draco arbor_’ features in famous early modern herbals, such as John Gerard’s [_The Herball, or Generall Historie of Plantes_](https://www.biodiversitylibrary.org/item/33580#page/1/mode/1up) (1633) and John Parkinson’s [_Theatrum Botanicum_](https://www.biodiversitylibrary.org/item/256142#page/13/mode/1up) (1640). Both authors pointed to the Atlantic islands (comprised of the Canary Islands, as well as the Portuguese Azores and Madeira) as the tree’s most common habitat; as for _D. draco_’s medical uses, Gerard and Parkinson also agreed —its resin was believed to have effective astringent properties to treat gonorrhea, dysentery, spitting blood, and loose teeth. Gerard noted that “smiths also use it to varnish over their works,” while Parkinson doubted “painters can bring it to be a fit color to be used in their works.”[^ref9]
+6. Throughout its dissemination into European spaces from the Age of Discovery, dragon’s blood was understood chiefly as a medicament. Soon after its introduction, the sticky scarlet resin became nothing short of a panacea with widespread potential to prevent a host of illnesses.[^ref8] As a result, the so-called ‘_draco arbor_’ features in famous early modern herbals, such as John Gerard’s [_The Herball, or Generall Historie of Plantes_](https://www.biodiversitylibrary.org/item/33580#page/1/mode/1up) (1633) and John Parkinson’s [_Theatrum Botanicum_](https://www.biodiversitylibrary.org/item/256142#page/13/mode/1up) (1640). Both authors pointed to the Atlantic islands (comprised of the Canary Islands, as well as the Portuguese Azores and Madeira) as the tree’s most common habitat. As for _D. draco_’s medical uses, Gerard and Parkinson also agreed: its resin was believed to have effective astringent properties to treat gonorrhea, dysentery, spitting blood, and loose teeth. Gerard noted that “smiths also use it to varnish over their works,” while Parkinson doubted “painters can bring it to be a fit color to be used in their works.”[^ref9]
 <param title="Age of Discovery" eid="Q133641">
 <param title="panacea" eid="Q1048167">
 <param title="John Gerard" eid="Q1333338">
@@ -73,17 +73,17 @@
 	url="https://www.biodiversitylibrary.org/pageimage/56601428"
 	fit="contain">
 
+7. After this initial period of European colonization, however, interest in the Canaries blossomed, as the Atlantic islands quickly became natural stopping points for travelers of all stripes on their way to the New World as well as Africa.
 
-
-Several centuries later, scientific expeditions by naturalists Alexander von Humboldt and André Pierre Ledru would bring popular attention back to the islands and _D. draco_, as each traveler marveled at this very same tree in Orotava – a tree impossibly large and old, and still echoing with mystical resonances.
-<param title="Orotava" eid="Q177566" aliases="Orotava">
-
-6. After this initial period of European colonization, however, interest in the Canaries blossomed, as the Atlantic islands quickly became natural stopping points for travelers of all stripes on their way to the New World as well as Africa. It was during this period of integration of the Canaries into the burgeoning European sphere of influence, then, that _D. draco_ emerged on the stage of European gardens.
+It was during this period of integration of the Canaries into the burgeoning European sphere of influence, then, that _D. draco_ emerged on the stage of European gardens.
 <param ve-image static
 	title="Engraving of the dragon trees of the House of Franchy in the Villa de La Orotava. Sabin Berthelot, _Histoire Naturelle des Îles Canaries_, (Paris: 1838)"
 	url="https://upload.wikimedia.org/wikipedia/commons/d/df/Berthelot_drago_franchy.jpg">
 <param primary ve-storiiies
 	id="751f7"> 
+
+Several centuries later, scientific expeditions by naturalists Alexander von Humboldt and André Pierre Ledru would bring popular attention back to the islands and _D. draco_, as each traveler marveled at this very same tree in Orotava – a tree impossibly large and old, and still echoing with mystical resonances.
+<param title="Orotava" eid="Q177566" aliases="Orotava">
 
 
 
@@ -185,9 +185,9 @@ Several centuries later, scientific expeditions by naturalists Alexander von Hum
 
 [^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMjkxMzgyNCwtMTAzODM0MTI2MSwtMT
-Y0ODkyNTk3MywzNTIxNjg0ODcsLTE3NDk4MTA3NzcsMTg0NjM0
-ODY2NSwtMTY3NTMwNjU1OSwxNTI2MjU1NDY3LC0xNTkwNjU4Mj
-YxLC0xODcwNjMyOTA5LC0xMzY4MTc4Nzg1LDM1MTM2ODU5Nyw5
-NTM4MDc1MzVdfQ==
+eyJoaXN0b3J5IjpbMTcwMDAzODk2LC0xMDM4MzQxMjYxLC0xNj
+Q4OTI1OTczLDM1MjE2ODQ4NywtMTc0OTgxMDc3NywxODQ2MzQ4
+NjY1LC0xNjc1MzA2NTU5LDE1MjYyNTU0NjcsLTE1OTA2NTgyNj
+EsLTE4NzA2MzI5MDksLTEzNjgxNzg3ODUsMzUxMzY4NTk3LDk1
+MzgwNzUzNV19
 -->
