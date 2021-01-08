@@ -15,7 +15,7 @@ As the tongue goes numb and all efforts fail to remove the scarlet, sticky subst
 <param title="Dragon’s Blood" eid="Q421877" aliases="dragon’s blood">
 <param title="Pliny the Elder" eid="Q82778">
 <param title="Alexander von Humboldt" eid="Q6694">
-<param title="André Pierre Ledru" eid="Q2848440" article="André_Pierre_Ledru">
+<param title="André Pierre Ledru" eid="Q2848440">
 <param title="Canary Islands" eid="Q5813">
 <param ve-storiiies
 	id="8a1g2">
@@ -175,11 +175,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMwNzk4MjYzLDk1NTgyNTAxMywtMTAwOD
-EwOTE3MCw1ODU3NTkyNDMsLTE1MzM4MTY0ODAsLTMyNzc2MzAz
-NSwxNjA1OTExNjMyLDE1NDA5ODIwNjYsLTUxODA2OTY2NSwxNz
-gwNjQ4Nzc4LDIwMzA1MDQ5NzAsLTY3MjgzNjg3MiwxNDkzNzUz
-NTM5LC0xMDM4MzQxMjYxLC0xNjQ4OTI1OTczLDM1MjE2ODQ4Ny
-wtMTc0OTgxMDc3NywxODQ2MzQ4NjY1LC0xNjc1MzA2NTU5LDE1
-MjYyNTU0NjddfQ==
+eyJoaXN0b3J5IjpbNDU2NzQxODI1LDUzMDc5ODI2Myw5NTU4Mj
+UwMTMsLTEwMDgxMDkxNzAsNTg1NzU5MjQzLC0xNTMzODE2NDgw
+LC0zMjc3NjMwMzUsMTYwNTkxMTYzMiwxNTQwOTgyMDY2LC01MT
+gwNjk2NjUsMTc4MDY0ODc3OCwyMDMwNTA0OTcwLC02NzI4MzY4
+NzIsMTQ5Mzc1MzUzOSwtMTAzODM0MTI2MSwtMTY0ODkyNTk3My
+wzNTIxNjg0ODcsLTE3NDk4MTA3NzcsMTg0NjM0ODY2NSwtMTY3
+NTMwNjU1OV19
 -->
