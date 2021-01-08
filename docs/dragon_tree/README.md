@@ -162,7 +162,7 @@
 
 [^ref14]: André Pierre Ledru, _Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco_, (Paris: Arthus Bertrand, 1810), 93. [Click here for full book](https://archive.org/details/voyageauxlesdet00sonngoog/page/n5/mode/2up)
 
-[^ref15]: André Pierre Ledru, _Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco_, (Paris: Arthus Bertrand, 1810), 93. [Click here for full book](https://archive.org/details/voyageauxlesdet00sonngoog/page/n5/mode/2up)
+[^ref15]: Aaron González-Castro et al., “Unraveling the Seed Dispersal System of an Insular ‘Ghost’ Dragon Tree (_Dracaena draco_) in the Wild,” in _Frontiers in Ecology and Evolution_ 7, no. 39 (February 2019).
 
 [^ref16]: Alice Carter Cook, “The Dragon Tree of Orotava,” _The Plant World_ 4, no. 7 (July 1901), 124.
 
@@ -172,14 +172,14 @@
 
 [^ref19]: “Dracaena draco,” IUCN Red List.org, accessed August 3. 2020, [link](https://www.iucnredlist.org/species/30394/9535771)
 
-[^ref20]: González-Castro et al., “Unraveling the Seed Dispersal System of an Insular ‘Ghost’ Dragon Tree (_Dracaena draco_) in the Wild,” in _Frontiers in Ecology and Evolution_ 7, no. 39 (February 2019).
+[^ref20]: González-Castro et al., “Unraveling the Seed Dispersal System”.
 
 [^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjE1NDIxNzQsLTUxODA2OTY2NSwxNz
-gwNjQ4Nzc4LDIwMzA1MDQ5NzAsLTY3MjgzNjg3MiwxNDkzNzUz
-NTM5LC0xMDM4MzQxMjYxLC0xNjQ4OTI1OTczLDM1MjE2ODQ4Ny
-wtMTc0OTgxMDc3NywxODQ2MzQ4NjY1LC0xNjc1MzA2NTU5LDE1
-MjYyNTU0NjcsLTE1OTA2NTgyNjEsLTE4NzA2MzI5MDksLTEzNj
-gxNzg3ODUsMzUxMzY4NTk3LDk1MzgwNzUzNV19
+eyJoaXN0b3J5IjpbMTU0MDk4MjA2NiwtNTE4MDY5NjY1LDE3OD
+A2NDg3NzgsMjAzMDUwNDk3MCwtNjcyODM2ODcyLDE0OTM3NTM1
+MzksLTEwMzgzNDEyNjEsLTE2NDg5MjU5NzMsMzUyMTY4NDg3LC
+0xNzQ5ODEwNzc3LDE4NDYzNDg2NjUsLTE2NzUzMDY1NTksMTUy
+NjI1NTQ2NywtMTU5MDY1ODI2MSwtMTg3MDYzMjkwOSwtMTM2OD
+E3ODc4NSwzNTEzNjg1OTcsOTUzODA3NTM1XX0=
 -->
