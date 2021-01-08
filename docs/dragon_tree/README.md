@@ -20,6 +20,7 @@ As the tongue goes numb and all efforts fail to remove the scarlet, sticky subst
 <param ve-storiiies
 	id="8a1g2">
 
+
 Members of today’s _Dracaena_ genus have long been valued for their signature red resin, dragon’s blood, that oozes from cuts in the bark of those trees. Though the focus of this article is on _D. draco_ , there are many other species of tree that exude their own forms of dragon’s blood. These include the other 120 members of the _Dracaena_ genus, in addition to several others. While these other trees certainly exude a resin identified as dragon’s blood, a level of botanical and geographical ambiguity that contributes to the mythical status of the substance, _D. draco_ and _D. cinnabari_ are the two species that are most commonly referred to as the source of the resin in historical sources. The first known reports of dragon’s blood were dispersed through Pliny’s [_Naturalis Historia_](https://archive.org/details/OEXV10R/mode/2up), where he recounted the Indian tale of a dragon (representing Brahma) biting a giant elephant (representing Shiva) and their blood mixing into the iconic resin. While this Vedic myth actually originates from Socotra island of Yemen and is based on the resin of _Dracaena cinnabari_, the fascination with dragon’s blood also took a foothold in Europe through the infamous tale of Hercules.[^ref1]
 <param title="Naturalis Historia" eid="Q442">
 <param title="Brahma" eid="Q11389">
@@ -181,11 +182,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NzMyMDA0NywxNzAwNTE5ODkxLDcyMD
-Q1NjY4OSwtMTQ5ODA1NTQ1NSwxOTQ1ODM5NjAwLC0xNzM0MjU1
-ODIsLTY4Nzc1OTA3NiwxMjQ5MDEyMzk0LDE5MDY1MDU4MjQsLT
-k0NTU0Nzg1LDM0OTAwMDY3LC0xOTYwNDA5MjYyLDM2MDE4NTIz
-MCwzNjAxODUyMzAsLTQ5OTkwMTEyMCwxNTU5OTEwMjgzLDE5ND
-kyNjE1MjMsNDM0NDkwNTk2LDUzMDc5ODI2Myw5NTU4MjUwMTNd
-fQ==
+eyJoaXN0b3J5IjpbLTQxODU1ODQ5OSwxNzk3MzIwMDQ3LDE3MD
+A1MTk4OTEsNzIwNDU2Njg5LC0xNDk4MDU1NDU1LDE5NDU4Mzk2
+MDAsLTE3MzQyNTU4MiwtNjg3NzU5MDc2LDEyNDkwMTIzOTQsMT
+kwNjUwNTgyNCwtOTQ1NTQ3ODUsMzQ5MDAwNjcsLTE5NjA0MDky
+NjIsMzYwMTg1MjMwLDM2MDE4NTIzMCwtNDk5OTAxMTIwLDE1NT
+k5MTAyODMsMTk0OTI2MTUyMyw0MzQ0OTA1OTYsNTMwNzk4MjYz
+XX0=
 -->
