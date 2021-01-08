@@ -76,7 +76,7 @@
 7. After this initial period of European colonization, however, interest in the Canaries blossomed, as the Atlantic islands quickly became natural stopping points for travelers of all stripes on their way to the New World as well as Africa. Along with the integration of the Canaries into the burgeoning European sphere of influence, _D. draco_ emerged on the stage of European gardens. Over the several centuries that passed between Béthencourt’s first Canarian contact and the Enlightenment, European voyages of scientific discovery steadily increased in frequency and magnitude. It was during this period, and especially in the latter half of the eighteenth century, that European botanical interest in _D. draco_ resurfaced. German scientist and writer Alexander von Humboldt was the most famous of them all during this period to fall prey to the tree’s enchanting appeal. In [_Cosmos: A Sketch of a Physical Description of the Universe_](https://www.biodiversitylibrary.org/item/73496#page/7/mode/1up) (1842), his last work, he still recalled the time when, as a child, he “first saw a colossal dragon tree in an old tower of the Botanical Garden in Berlin.”[^ref10] The experience was so overwhelming that Humboldt even thought of it as “the source from whence sprang my early and fixed desire to visit the lands of the tropics.”[^ref11] A stroll through the botanical garden in his hometown, a virtual travel indeed, prompted Humboldt’s desire for actual travel. The fact that the dragon tree bookended Humboldt’s illustrious career, as both a formative experience of his youth and a notable point in his last great work highlights how the dragon tree itself was at the core of his understanding of nature as one interconnected whole.
 <param title="Botanical Garden in Berlin" eid="Q163255" aliases="Botanical Garden in Berlin">
 <param ve-image
-	title="An 1859 oil painting of Alexander von Humboldt by German painter Julius Schrader  (1815-1900). Julius Schrader, _Baron Alexander von Humboldt (1769–1859)_, oil on canvas, 1859."
+	title="An 1859 oil painting of Alexander von Humboldt by German painter Julius Schrader  (1815-1900). Julius Schrader, _Baron Alexander von Humboldt (1769-1859)_, oil on canvas, 1859."
 	url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/Humboldt.jpg"
 	fit="contain">
 <param ve-image
@@ -179,9 +179,9 @@ Several centuries later, scientific expeditions by naturalists Alexander von Hum
 
 [^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5Mzc1MzUzOSwtMTAzODM0MTI2MSwtMT
-Y0ODkyNTk3MywzNTIxNjg0ODcsLTE3NDk4MTA3NzcsMTg0NjM0
-ODY2NSwtMTY3NTMwNjU1OSwxNTI2MjU1NDY3LC0xNTkwNjU4Mj
-YxLC0xODcwNjMyOTA5LC0xMzY4MTc4Nzg1LDM1MTM2ODU5Nyw5
-NTM4MDc1MzVdfQ==
+eyJoaXN0b3J5IjpbMTczMzMyMDU0MSwxNDkzNzUzNTM5LC0xMD
+M4MzQxMjYxLC0xNjQ4OTI1OTczLDM1MjE2ODQ4NywtMTc0OTgx
+MDc3NywxODQ2MzQ4NjY1LC0xNjc1MzA2NTU5LDE1MjYyNTU0Nj
+csLTE1OTA2NTgyNjEsLTE4NzA2MzI5MDksLTEzNjgxNzg3ODUs
+MzUxMzY4NTk3LDk1MzgwNzUzNV19
 -->
