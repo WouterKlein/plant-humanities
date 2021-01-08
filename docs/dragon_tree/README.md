@@ -52,11 +52,15 @@
 	geojson url="geojson/Dracaena draco native.json"
 	active>
 
-5. The Guanches used dragon’s blood for a variety of purposes ranging from embalming their dead, to making dyes and varnishes, to even using it as a toothpaste.[^ref5] Believing that, when dragons died, they transformed into the divine trees, Guanches would regularly meet under the Orotava giant dragon tree’s large canopy to enact laws and perform judicial duties, as well as base meteorological predictions on the tree’s bloom.[^ref6] The tree remained a mythic indicator of foreign land that was both exotically enticing yet materially valuable, as shown, for instance, in Martin Schongauer’s engraving _The Flight to Egypt_ (c. 1470). Dragon’s blood was, therefore, immensely valuable, as Béthencourt noted that the resin was, “well worth two hundred ducats, while what was given in exchange was hardly worth two francs.”[^ref7] Several centuries later, scientific expeditions by naturalists Alexander von Humboldt and André Pierre Ledru would bring popular attention back to the islands and _D. draco_, as each traveler marveled at this very same tree in Orotava – a tree impossibly large and old, and still echoing with mystical resonances. 
+5. The Guanches used dragon’s blood for a variety of purposes ranging from embalming their dead, to making dyes and varnishes, to even using it as a toothpaste.[^ref5] Believing that, when dragons died, they transformed into the divine trees, Guanches would regularly meet under the Orotava giant dragon tree’s large canopy to enact laws and perform judicial duties, as well as base meteorological predictions on the tree’s bloom.[^ref6] The tree remained a mythic indicator of foreign land that was both exotically enticing yet materially valuable, as shown, for instance, in Martin Schongauer’s engraving _The Flight to Egypt_ (c. 1470). Dragon’s blood was, therefore, immensely valuable, as Béthencourt noted that the resin was, “well worth two hundred ducats, while what was given in exchange was hardly worth two francs.”[^ref7] In fact, dragon’s blood soon became a European toothpaste, likely indicating a cultural transference of ethnobotanical knowledge between the Guanches and their European neighbors.
 <param title="Guanches" eid="Q219995">
-<param title="Orotava" eid="Q177566" aliases="Orotava">
 <param primary ve-storiiies
 	id="751f7">
+
+
+Several centuries later, scientific expeditions by naturalists Alexander von Humboldt and André Pierre Ledru would bring popular attention back to the islands and _D. draco_, as each traveler marveled at this very same tree in Orotava – a tree impossibly large and old, and still echoing with mystical resonances.
+<param title="Orotava" eid="Q177566" aliases="Orotava">
+
 
 After decades of violent attacks against the Guanches, Spanish conquistadors finally vanquished the last of the Canary Islands in 1496. The Guanche language soon disappeared, with the exception of their distinct whistling language, known as Silbo Gomero <param ve-audio url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/media/Silbo%20(online-audio-converter.com).mp3">. Due to the traditional Western preference for written records rather than oral histories, much of what we now know of pre-Columbian culture on the Canaries comes from European colonial interlocutors.
 
@@ -183,9 +187,8 @@ After decades of violent attacks against the Guanches, Spanish conquistadors fin
 
 [^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNDc4NjMxNiwtMTY0ODkyNTk3MywzNT
-IxNjg0ODcsLTE3NDk4MTA3NzcsMTg0NjM0ODY2NSwtMTY3NTMw
-NjU1OSwxNTI2MjU1NDY3LC0xNTkwNjU4MjYxLC0xODcwNjMyOT
-A5LC0xMzY4MTc4Nzg1LDM1MTM2ODU5Nyw5NTM4MDc1MzVdfQ==
-
+eyJoaXN0b3J5IjpbNDQxODg5NzM0LC0xNjQ4OTI1OTczLDM1Mj
+E2ODQ4NywtMTc0OTgxMDc3NywxODQ2MzQ4NjY1LC0xNjc1MzA2
+NTU5LDE1MjYyNTU0NjcsLTE1OTA2NTgyNjEsLTE4NzA2MzI5MD
+ksLTEzNjgxNzg3ODUsMzUxMzY4NTk3LDk1MzgwNzUzNV19
 -->
