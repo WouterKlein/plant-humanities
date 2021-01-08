@@ -82,7 +82,7 @@ After this initial period of European colonization, however, interest in the Can
 	fit="contain">
 <param ve-image
 	title="Between 1799 and 1804, Alexander Humboldt visited the Canary Islands, Venezuela, Cuba, Peru, Ecuador, Mexico, and the United States."
-	url="https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fa0%2FMap_Alexander_von_Humboldt_expedition-en.svg%2F1200px-Map_Alexander_von_Humboldt_expedition-en.svg.png"
+	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Map_Alexander_von_Humboldt_expedition-en.svg/2844px-Map_Alexander_von_Humboldt_expedition-en.svg.png"
 	fit="contain">
 <param ve-image static
 	title="Engraving of the dragon trees of the House of Franchy in the Villa de La Orotava. Sabin Berthelot, _Histoire Naturelle des Îles Canaries_, (Paris: 1838)."
@@ -177,11 +177,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 oude banner: https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/header%20option%206%20-%20FINAL.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4Nzc1OTA3NiwxMjQ5MDEyMzk0LDE5MD
-Y1MDU4MjQsLTk0NTU0Nzg1LDM0OTAwMDY3LC0xOTYwNDA5MjYy
-LDM2MDE4NTIzMCwzNjAxODUyMzAsLTQ5OTkwMTEyMCwxNTU5OT
-EwMjgzLDE5NDkyNjE1MjMsNDM0NDkwNTk2LDUzMDc5ODI2Myw5
-NTU4MjUwMTMsLTEwMDgxMDkxNzAsNTg1NzU5MjQzLC0xNTMzOD
-E2NDgwLC0zMjc3NjMwMzUsMTYwNTkxMTYzMiwxNTQwOTgyMDY2
+eyJoaXN0b3J5IjpbLTE3MzQyNTU4MiwtNjg3NzU5MDc2LDEyND
+kwMTIzOTQsMTkwNjUwNTgyNCwtOTQ1NTQ3ODUsMzQ5MDAwNjcs
+LTE5NjA0MDkyNjIsMzYwMTg1MjMwLDM2MDE4NTIzMCwtNDk5OT
+AxMTIwLDE1NTk5MTAyODMsMTk0OTI2MTUyMyw0MzQ0OTA1OTYs
+NTMwNzk4MjYzLDk1NTgyNTAxMywtMTAwODEwOTE3MCw1ODU3NT
+kyNDMsLTE1MzM4MTY0ODAsLTMyNzc2MzAzNSwxNjA1OTExNjMy
 XX0=
 -->
