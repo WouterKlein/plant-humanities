@@ -68,11 +68,11 @@ Throughout its dissemination into European spaces from the Age of Discovery, dra
 <param ve-image
 	title="An image of the _draco arbor_. John Gerard, _The Herballe, or Generall Histoire of Plantes_, (London: 1633), 1524."
 	url="https://www.biodiversitylibrary.org/pageimage/51906905"
-	fit="contain">
+	region="2,942,1802,1314">
 <param ve-image
 	title="This image of the _draco arbor_ is the same as in Gerard’s herbal, probably being the only illustration available in England at the time. John Parkinson, _Theatrum Botanicum_, (London, 1640), 1532."
 	url="https://www.biodiversitylibrary.org/pageimage/56601428"
-	fit="contain">
+	region="1,478,1831,1297">
 
 After this initial period of European colonization, however, interest in the Canaries blossomed, as the Atlantic islands quickly became natural stopping points for travelers of all stripes on their way to the New World as well as Africa. Along with the integration of the Canaries into the burgeoning European sphere of influence, _D. draco_ emerged on the stage of European gardens. Over the several centuries that passed between Béthencourt’s first Canarian contact and the Enlightenment, European voyages of scientific discovery steadily increased in frequency and magnitude. It was during this period, and especially in the latter half of the eighteenth century, that European botanical interest in _D. draco_ resurfaced. German scientist and writer Alexander von Humboldt was the most famous of them all during this period to fall prey to the tree’s enchanting appeal. In [_Cosmos: A Sketch of a Physical Description of the Universe_](https://www.biodiversitylibrary.org/item/73496#page/7/mode/1up) (1842), his last work, he still recalled the time when, as a child, he “first saw a colossal dragon tree in an old tower of the Botanical Garden in Berlin.”[^ref10] The experience was so overwhelming that Humboldt even thought of it as “the source from whence sprang my early and fixed desire to visit the lands of the tropics.”[^ref11] A stroll through the botanical garden in his hometown, a virtual travel indeed, prompted Humboldt’s desire for actual travel. The fact that the dragon tree bookended Humboldt’s illustrious career, as both a formative experience of his youth and a notable point in his last great work highlights how the dragon tree itself was at the core of his understanding of nature as one interconnected whole.
 <param title="Botanical Garden Berlin" eid="Q163255" aliases="Botanical Garden in Berlin">
@@ -178,11 +178,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 oude banner: https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/header%20option%206%20-%20FINAL.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTU0Nzg1LDM0OTAwMDY3LC0xOTYwND
-A5MjYyLDM2MDE4NTIzMCwzNjAxODUyMzAsLTQ5OTkwMTEyMCwx
-NTU5OTEwMjgzLDE5NDkyNjE1MjMsNDM0NDkwNTk2LDUzMDc5OD
-I2Myw5NTU4MjUwMTMsLTEwMDgxMDkxNzAsNTg1NzU5MjQzLC0x
-NTMzODE2NDgwLC0zMjc3NjMwMzUsMTYwNTkxMTYzMiwxNTQwOT
-gyMDY2LC01MTgwNjk2NjUsMTc4MDY0ODc3OCwyMDMwNTA0OTcw
+eyJoaXN0b3J5IjpbMTkwNjUwNTgyNCwtOTQ1NTQ3ODUsMzQ5MD
+AwNjcsLTE5NjA0MDkyNjIsMzYwMTg1MjMwLDM2MDE4NTIzMCwt
+NDk5OTAxMTIwLDE1NTk5MTAyODMsMTk0OTI2MTUyMyw0MzQ0OT
+A1OTYsNTMwNzk4MjYzLDk1NTgyNTAxMywtMTAwODEwOTE3MCw1
+ODU3NTkyNDMsLTE1MzM4MTY0ODAsLTMyNzc2MzAzNSwxNjA1OT
+ExNjMyLDE1NDA5ODIwNjYsLTUxODA2OTY2NSwxNzgwNjQ4Nzc4
 XX0=
 -->
