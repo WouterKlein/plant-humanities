@@ -125,7 +125,7 @@ Just as Humboldt and Ledru observed the centenary _D. draco_ at Orotava and pond
 	title=""
 	iiif-url="https://free.iiifhosting.com/iiif/ac36469812ba26bc336649e5aa20da4c6bfbd178d157caf52bbbfba2bd4d6629">
 
-Today, _D. draco_ is officially designated as a vulnerable population on the International Union for Conservation of Nature’s _Red List of Threatened Species_ due to its near-extinction in the wild.[^ref20] This is due in part to the fact that the tree relies on animals to disperse its seeds, and the number of animals which are suitable _D. draco_ seed dispersers has substantially decreased over time due to hunting and other forms of habitat destruction.[^ref21] Interestingly, despite the dragon tree’s ecological and socioeconomic value, a plantation system which could ensure that the trees would last indefinitely was never established. Furthermore, as Ledru noted over two centuries ago, this population decline and endangerment is also due to overcultivation of the tree’s valuable resin. The number of wild specimens has never been lower than it is today, and even though there are projects to repopulate the islands through experiments in propagation and acclimatization, one wonders if ever again a _Dracaena draco_ will grow to the size and magnificence of the one that so captivated the minds of travelers like Humboldt and Ledru.[^ref22] Perhaps, after its millennia-long smolder, the dragon’s flame will finally be snuffed out by the twenty-first century Anthropocene. Or, perhaps, modern day ecological preservation projects may reverse the trajectory of this ailing species.
+Today, _D. draco_ is officially designated as a vulnerable population on the International Union for Conservation of Nature’s _Red List of Threatened Species_ due to its near-extinction in the wild.[^ref20] This is due in part to the fact that the tree relies on animals to disperse its seeds, and the number of suitable animal dispersers has substantially decreased over time due to hunting and other forms of habitat destruction.[^ref21] Furthermore, as Ledru noted over two centuries ago, this population decline and endangerment is also due to overcultivation of the tree’s valuable resin. The number of wild specimens has never been lower than it is today, and even though there are projects to repopulate the islands through experiments in propagation and acclimatization, one wonders if ever again a _Dracaena draco_ will grow to the size and magnificence of the one that so captivated the minds of travelers like Humboldt and Ledru.[^ref22] Perhaps, after its millennia-long smolder, the dragon’s flame will finally be snuffed out by the twenty-first century Anthropocene. Or, perhaps, modern day ecological preservation projects may reverse the trajectory of this ailing species.
 <param title="International Union for Conservation of Nature" eid="Q48268">
 <param title="Red List of Threatened Species" eid="Q32059">
 <param ve-image
@@ -176,11 +176,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTgwNTU0NTUsMTk0NTgzOTYwMCwtMT
-czNDI1NTgyLC02ODc3NTkwNzYsMTI0OTAxMjM5NCwxOTA2NTA1
-ODI0LC05NDU1NDc4NSwzNDkwMDA2NywtMTk2MDQwOTI2MiwzNj
-AxODUyMzAsMzYwMTg1MjMwLC00OTk5MDExMjAsMTU1OTkxMDI4
-MywxOTQ5MjYxNTIzLDQzNDQ5MDU5Niw1MzA3OTgyNjMsOTU1OD
-I1MDEzLC0xMDA4MTA5MTcwLDU4NTc1OTI0MywtMTUzMzgxNjQ4
-MF19
+eyJoaXN0b3J5IjpbNzIwNDU2Njg5LC0xNDk4MDU1NDU1LDE5ND
+U4Mzk2MDAsLTE3MzQyNTU4MiwtNjg3NzU5MDc2LDEyNDkwMTIz
+OTQsMTkwNjUwNTgyNCwtOTQ1NTQ3ODUsMzQ5MDAwNjcsLTE5Nj
+A0MDkyNjIsMzYwMTg1MjMwLDM2MDE4NTIzMCwtNDk5OTAxMTIw
+LDE1NTk5MTAyODMsMTk0OTI2MTUyMyw0MzQ0OTA1OTYsNTMwNz
+k4MjYzLDk1NTgyNTAxMywtMTAwODEwOTE3MCw1ODU3NTkyNDNd
+fQ==
 -->
