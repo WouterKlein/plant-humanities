@@ -52,12 +52,17 @@ As the myths of Antiquity and legends surrounding the dragon tree aged with time
 	geojson url="geojson/Dracaena draco native.json"
 	active>
 
-The Guanches used dragon’s blood for a variety of purposes, ranging from embalming their dead, making dyes and varnishes, to using it as a toothpaste.[^ref5]  Believing that, when dragons died, they transformed into the divine trees, Guanches would regularly meet under the Orotava giant dragon tree’s large canopy to enact laws and perform judicial duties, as well as base meteorological predictions on the tree’s bloom.[^ref6] The tree remained a mythic indicator of foreign land that was both exotically enticing yet materially valuable, as shown, for instance, in Martin Schongauer’s engraving _The Flight to Egypt_ (c. 1470). Dragon’s blood was immensely valuable: Béthencourt noted that the resin was “well worth two hundred ducats, while what was given in exchange was hardly worth two francs.”[^ref7] In fact, dragon’s blood soon became a European toothpaste, likely indicating a cultural transference of ethnobotanical knowledge between the Guanches and their European neighbors. After decades of violent attacks against the Guanches, Spanish conquistadors finally vanquished the last of the Canary Islands in 1496. The Guanche language soon disappeared, with the exception of their distinct whistling language, known as Silbo Gomero <param ve-audio url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/media/Silbo%20(online-audio-converter.com).mp3">. Due to the traditional Western preference for written records rather than oral histories, much of what we now know of pre-Columbian culture on the Canaries comes from European colonial interlocutors.
+The Guanches used dragon’s blood for a variety of purposes, ranging from embalming their dead, making dyes and varnishes, to using it as a toothpaste.[^ref5]  Believing that, when dragons died, they transformed into the divine trees, Guanches would regularly meet under the Orotava giant dragon tree’s large canopy to enact laws and perform judicial duties, as well as base meteorological predictions on the tree’s bloom.[^ref6] The tree remained a mythic indicator of foreign land that was both exotically enticing yet materially valuable, as shown, for instance, in Martin Schongauer’s engraving _The Flight to Egypt_ (c. 1470). Dragon’s blood was immensely valuable: Béthencourt noted that the resin was “well worth two hundred ducats, while what was given in exchange was hardly worth two francs.”[^ref7] In fact, dragon’s blood soon became a European toothpaste, likely indicating a cultural transference of ethnobotanical knowledge between the Guanches and their European neighbors.
 <param title="Guanches" eid="Q219995">
 <param title="Orotava" eid="Q177566" aliases="Orotava">
-<param title="Silbo Gomero" eid="Q415" aliases="Silbo Gomero">
 <param ve-storiiies
 	id="751f7">
+
+After decades of violent attacks against the Guanches, Spanish conquistadors finally vanquished the last of the Canary Islands in 1496. The Guanche language soon disappeared, with the exception of their distinct whistling language, known as Silbo Gomero <param ve-audio url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/media/Silbo%20(online-audio-converter.com).mp3">. Due to the traditional Western preference for written records rather than oral histories, much of what we now know of pre-Columbian culture on the Canaries comes from European colonial interlocutors.
+<param title="Silbo Gomero language" eid="Q415" aliases="Silbo Gomero">
+<param ve-video
+	vid="cmpd58kMl2s"
+	title="Mythbusters Cinnamon Challenge.">
 
 Throughout its dissemination into European spaces from the Age of Discovery, dragon’s blood was understood chiefly as a medicament. Soon after its introduction, the sticky scarlet resin became nothing short of a panacea with widespread potential to prevent a host of illnesses.[^ref8] As a result, the so-called ‘_draco arbor_’ features in famous early modern herbals, such as John Gerard’s [_Herball, or Generall Historie of Plantes_](https://www.biodiversitylibrary.org/item/33580#page/1/mode/1up) (1633) and John Parkinson’s [_Theatrum Botanicum_](https://www.biodiversitylibrary.org/item/256142#page/13/mode/1up) (1640). Both authors pointed to the Atlantic islands (comprised of the Canary Islands, as well as the Portuguese Azores and Madeira) as the tree’s most common habitat. As for _D. draco_’s medical uses, Gerard and Parkinson also agreed: its resin was believed to have effective astringent properties to treat gonorrhea, dysentery, spitting blood, and loose teeth. Gerard noted that “smiths also use it to varnish over their works,” while Parkinson doubted “painters can bring it to be a fit color to be used in their works.”[^ref9]
 <param title="Age of Discovery" eid="Q133641">
@@ -176,11 +181,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMDUxOTg5MSw3MjA0NTY2ODksLTE0OT
-gwNTU0NTUsMTk0NTgzOTYwMCwtMTczNDI1NTgyLC02ODc3NTkw
-NzYsMTI0OTAxMjM5NCwxOTA2NTA1ODI0LC05NDU1NDc4NSwzND
-kwMDA2NywtMTk2MDQwOTI2MiwzNjAxODUyMzAsMzYwMTg1MjMw
-LC00OTk5MDExMjAsMTU1OTkxMDI4MywxOTQ5MjYxNTIzLDQzND
-Q5MDU5Niw1MzA3OTgyNjMsOTU1ODI1MDEzLC0xMDA4MTA5MTcw
-XX0=
+eyJoaXN0b3J5IjpbLTc5NTAzMzA0OCwxNzAwNTE5ODkxLDcyMD
+Q1NjY4OSwtMTQ5ODA1NTQ1NSwxOTQ1ODM5NjAwLC0xNzM0MjU1
+ODIsLTY4Nzc1OTA3NiwxMjQ5MDEyMzk0LDE5MDY1MDU4MjQsLT
+k0NTU0Nzg1LDM0OTAwMDY3LC0xOTYwNDA5MjYyLDM2MDE4NTIz
+MCwzNjAxODUyMzAsLTQ5OTkwMTEyMCwxNTU5OTEwMjgzLDE5ND
+kyNjE1MjMsNDM0NDkwNTk2LDUzMDc5ODI2Myw5NTU4MjUwMTNd
+fQ==
 -->
