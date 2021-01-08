@@ -141,7 +141,7 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 	title=""
 	iiif-url="https://free.iiifhosting.com/iiif/31fb222aa31e439323c29d61cb363d5c897b02d8cde694ff946f0f6adbb00ad">
 
-[^ref1]: Pearson, _The Horticulturist_, “Dragon’s Blood,” Vol. 11, No. 2 (SPRING 2002), 10.
+[^ref1]: Jane Pearson, “Dragon’s Blood,” _The Horticulturist_ 11, no. 2 (Spring 2002), 10.
 
 [^ref2]: Fauna & Flora International, “Canary Islands Dragon Tree,” Global Trees.org, accessed August 3, 2020. [Click here for full article](https://globaltrees.org/threatened-trees/trees/dragon-tree/)
 
@@ -185,11 +185,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMjQyMjE1MywxNzk3MzIwMDQ3LDE3MD
-A1MTk4OTEsNzIwNDU2Njg5LC0xNDk4MDU1NDU1LDE5NDU4Mzk2
-MDAsLTE3MzQyNTU4MiwtNjg3NzU5MDc2LDEyNDkwMTIzOTQsMT
-kwNjUwNTgyNCwtOTQ1NTQ3ODUsMzQ5MDAwNjcsLTE5NjA0MDky
-NjIsMzYwMTg1MjMwLDM2MDE4NTIzMCwtNDk5OTAxMTIwLDE1NT
-k5MTAyODMsMTk0OTI2MTUyMyw0MzQ0OTA1OTYsNTMwNzk4MjYz
-XX0=
+eyJoaXN0b3J5IjpbLTIxMzEwNjE1NzAsMTc5NzMyMDA0NywxNz
+AwNTE5ODkxLDcyMDQ1NjY4OSwtMTQ5ODA1NTQ1NSwxOTQ1ODM5
+NjAwLC0xNzM0MjU1ODIsLTY4Nzc1OTA3NiwxMjQ5MDEyMzk0LD
+E5MDY1MDU4MjQsLTk0NTU0Nzg1LDM0OTAwMDY3LC0xOTYwNDA5
+MjYyLDM2MDE4NTIzMCwzNjAxODUyMzAsLTQ5OTkwMTEyMCwxNT
+U5OTEwMjgzLDE5NDkyNjE1MjMsNDM0NDkwNTk2LDUzMDc5ODI2
+M119
 -->
