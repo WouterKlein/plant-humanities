@@ -129,6 +129,7 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 <param title="International Union for Conservation of Nature" eid="Q48268">
 <param title="Red List of Threatened Species" eid="Q32059">
 <param ve-image
+	title=""
 	iiif-url="https://free.iiifhosting.com/iiif/31fb222aa31e439323c29d61cb363d5c897b02d8cde694ff946f0f6adbb00ad">
 
 [^ref1]: Pearson, _The Horticulturist_, “Dragon’s Blood,” Vol. 11, No. 2 (SPRING 2002), 10.
@@ -177,11 +178,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 oude banner: https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/header%20option%206%20-%20FINAL.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NzQ3OTA2LDE5NDU4Mzk2MDAsLTE3Mz
-QyNTU4MiwtNjg3NzU5MDc2LDEyNDkwMTIzOTQsMTkwNjUwNTgy
-NCwtOTQ1NTQ3ODUsMzQ5MDAwNjcsLTE5NjA0MDkyNjIsMzYwMT
-g1MjMwLDM2MDE4NTIzMCwtNDk5OTAxMTIwLDE1NTk5MTAyODMs
-MTk0OTI2MTUyMyw0MzQ0OTA1OTYsNTMwNzk4MjYzLDk1NTgyNT
-AxMywtMTAwODEwOTE3MCw1ODU3NTkyNDMsLTE1MzM4MTY0ODBd
-fQ==
+eyJoaXN0b3J5IjpbMTk5MzYxMzkxNywxOTQ1ODM5NjAwLC0xNz
+M0MjU1ODIsLTY4Nzc1OTA3NiwxMjQ5MDEyMzk0LDE5MDY1MDU4
+MjQsLTk0NTU0Nzg1LDM0OTAwMDY3LC0xOTYwNDA5MjYyLDM2MD
+E4NTIzMCwzNjAxODUyMzAsLTQ5OTkwMTEyMCwxNTU5OTEwMjgz
+LDE5NDkyNjE1MjMsNDM0NDkwNTk2LDUzMDc5ODI2Myw5NTU4Mj
+UwMTMsLTEwMDgxMDkxNzAsNTg1NzU5MjQzLC0xNTMzODE2NDgw
+XX0=
 -->
