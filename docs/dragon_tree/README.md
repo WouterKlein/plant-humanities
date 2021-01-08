@@ -118,12 +118,12 @@
 <param ve-storiiies
 	id="7b1dr">
 
-13. Unfortunately, the Orotava centenary dragon tree did not outlive Humboldt and Ledru’s visits by too long. In 1819, a storm first cut off one of its branches, and in 1867, a hurricane-like tempest broke them all off.[^ref17] Despite this inauspicious demise, the tree’s image remains associated with the Canary Islands today, and it is still frequently featured prominently in images of Orotava. Furthermore, both naturalists’ accounts of their encounters with the dragon tree in its native environment stand as proof of its power to equally excite scientific and aesthetic imagination, promote environmental concerns, and reinforce colonial dynamics. 
+13. Unfortunately, the Orotava centenary dragon tree did not outlive Humboldt and Ledru’s visits by too long. In 1819, a storm first cut off one of its branches, and in 1867, a hurricane-like tempest broke them all off.[^ref16] Despite this inauspicious demise, the tree’s image remains associated with the Canary Islands today, and it is still frequently featured prominently in images of Orotava. Furthermore, both naturalists’ accounts of their encounters with the dragon tree in its native environment stand as proof of its power to equally excite scientific and aesthetic imagination, promote environmental concerns, and reinforce colonial dynamics. 
 <param ve-image
 	title=""
 	url="https://upload.wikimedia.org/wikipedia/commons/3/38/Orotava_Ayuntamiento_04.jpg">
 
-14. Just as Humboldt and Ledru observed the centenary _D. draco_ at Orotava and pondered the tree’s age, durability, and its potential influence on theories of a global climate, today’s scientists are weighing the tree’s possible medicinal benefits (including potential cancer treatments) and its commercial value in the cosmetics industry as an ingredient in anti-aging creams in relation to the species’ ongoing battle with extinction and its ecological vulnerability.[^ref18] Since many different species make good sources of what is commonly known as dragon’s blood, more comprehensive research still needs to be carried out to fully assess the mythical resin’s true medicinal efficacy.[^ref19]
+14. Just as Humboldt and Ledru observed the centenary _D. draco_ at Orotava and pondered the tree’s age, durability, and its potential influence on theories of a global climate, today’s scientists are weighing the tree’s possible medicinal benefits (including potential cancer treatments) and its commercial value in the cosmetics industry as an ingredient in anti-aging creams in relation to the species’ ongoing battle with extinction and its ecological vulnerability.[^ref17] Since many different species make good sources of what is commonly known as dragon’s blood, more comprehensive research still needs to be carried out to fully assess the mythical resin’s true medicinal efficacy.[^ref18]
 <param ve-image
 	title=""
 	iiif-url="https://free.iiifhosting.com/iiif/ac36469812ba26bc336649e5aa20da4c6bfbd178d157caf52bbbfba2bd4d6629">
@@ -176,11 +176,11 @@
 
 [^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MjAwMjYyLDE2MDU5MTE2MzIsMTU0MD
-k4MjA2NiwtNTE4MDY5NjY1LDE3ODA2NDg3NzgsMjAzMDUwNDk3
-MCwtNjcyODM2ODcyLDE0OTM3NTM1MzksLTEwMzgzNDEyNjEsLT
-E2NDg5MjU5NzMsMzUyMTY4NDg3LC0xNzQ5ODEwNzc3LDE4NDYz
-NDg2NjUsLTE2NzUzMDY1NTksMTUyNjI1NTQ2NywtMTU5MDY1OD
-I2MSwtMTg3MDYzMjkwOSwtMTM2ODE3ODc4NSwzNTEzNjg1OTcs
-OTUzODA3NTM1XX0=
+eyJoaXN0b3J5IjpbLTMyNzc2MzAzNSwxNjA1OTExNjMyLDE1ND
+A5ODIwNjYsLTUxODA2OTY2NSwxNzgwNjQ4Nzc4LDIwMzA1MDQ5
+NzAsLTY3MjgzNjg3MiwxNDkzNzUzNTM5LC0xMDM4MzQxMjYxLC
+0xNjQ4OTI1OTczLDM1MjE2ODQ4NywtMTc0OTgxMDc3NywxODQ2
+MzQ4NjY1LC0xNjc1MzA2NTU5LDE1MjYyNTU0NjcsLTE1OTA2NT
+gyNjEsLTE4NzA2MzI5MDksLTEzNjgxNzg3ODUsMzUxMzY4NTk3
+LDk1MzgwNzUzNV19
 -->
