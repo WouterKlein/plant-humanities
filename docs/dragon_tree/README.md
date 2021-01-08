@@ -164,23 +164,25 @@
 
 [^ref15]: Aaron González-Castro et al., “Unraveling the Seed Dispersal System of an Insular ‘Ghost’ Dragon Tree (_Dracaena draco_) in the Wild,” in _Frontiers in Ecology and Evolution_ 7, no. 39 (February 2019).
 
-[^ref16]: Alice Carter Cook, “The Dragon Tree of Orotava,” _The Plant World_ 4, no. 7 (July 1901), 124.
+[^ref16]: André Pierre Ledru, _Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco_, (Paris: Arthus Bertrand, 1810), 93. [Click here for full book](https://archive.org/details/voyageauxlesdet00sonngoog/page/n5/mode/2up)
 
-[^ref17]: Joanna Jura-Morawiec and Mirela Tulik, “Dragon’s blood secretion and its ecological significance,” in _Chemoecology_ 26, no. 3, (March 2016), [Click here for full article](https://www.researchgate.net/publication/298897759_Dragon’s_blood_secretion_and_its_ecological_significance)
+[^ref17]: Alice Carter Cook, “The Dragon Tree of Orotava,” _The Plant World_ 4, no. 7 (July 1901), 124.
 
-[^ref18]: Deepika Gupta, Bruce Bleakley, Rajinder K. Gupta, “Dragon’s blood: Botany, chemistry and therapeutic uses,” _Journal of Ethnopharmacology_ 115 (2008), 361.
+[^ref18]: Joanna Jura-Morawiec and Mirela Tulik, “Dragon’s blood secretion and its ecological significance,” in _Chemoecology_ 26, no. 3, (March 2016), [Click here for full article](https://www.researchgate.net/publication/298897759_Dragon’s_blood_secretion_and_its_ecological_significance)
 
-[^ref19]: IUCN Red List, “Dracaena draco,” iucnredlist.org, accessed August 3. 2020, [link](https://www.iucnredlist.org/species/30394/9535771)
+[^ref19]: Deepika Gupta, Bruce Bleakley, Rajinder K. Gupta, “Dragon’s blood: Botany, chemistry and therapeutic uses,” _Journal of Ethnopharmacology_ 115 (2008), 361.
 
-[^ref20]: González-Castro et al., “Unraveling the Seed Dispersal System”.
+[^ref20]: IUCN Red List, “Dracaena draco,” iucnredlist.org, accessed August 3. 2020, [link](https://www.iucnredlist.org/species/30394/9535771)
 
-[^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
+[^ref21]: González-Castro et al., “Unraveling the Seed Dispersal System”.
+
+[^ref22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzc2MzAzNSwxNjA1OTExNjMyLDE1ND
-A5ODIwNjYsLTUxODA2OTY2NSwxNzgwNjQ4Nzc4LDIwMzA1MDQ5
-NzAsLTY3MjgzNjg3MiwxNDkzNzUzNTM5LC0xMDM4MzQxMjYxLC
-0xNjQ4OTI1OTczLDM1MjE2ODQ4NywtMTc0OTgxMDc3NywxODQ2
-MzQ4NjY1LC0xNjc1MzA2NTU5LDE1MjYyNTU0NjcsLTE1OTA2NT
-gyNjEsLTE4NzA2MzI5MDksLTEzNjgxNzg3ODUsMzUxMzY4NTk3
-LDk1MzgwNzUzNV19
+eyJoaXN0b3J5IjpbLTE1MzM4MTY0ODAsLTMyNzc2MzAzNSwxNj
+A1OTExNjMyLDE1NDA5ODIwNjYsLTUxODA2OTY2NSwxNzgwNjQ4
+Nzc4LDIwMzA1MDQ5NzAsLTY3MjgzNjg3MiwxNDkzNzUzNTM5LC
+0xMDM4MzQxMjYxLC0xNjQ4OTI1OTczLDM1MjE2ODQ4NywtMTc0
+OTgxMDc3NywxODQ2MzQ4NjY1LC0xNjc1MzA2NTU5LDE1MjYyNT
+U0NjcsLTE1OTA2NTgyNjEsLTE4NzA2MzI5MDksLTEzNjgxNzg3
+ODUsMzUxMzY4NTk3XX0=
 -->
