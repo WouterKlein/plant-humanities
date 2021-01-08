@@ -170,16 +170,17 @@
 
 [^ref18]: Deepika Gupta, Bruce Bleakley, Rajinder K. Gupta, “Dragon’s blood: Botany, chemistry and therapeutic uses,” _Journal of Ethnopharmacology_ 115 (2008), 361.
 
-[^ref19]: “Dracaena draco,” IUCN Red List.org, accessed August 3. 2020, [link](https://www.iucnredlist.org/species/30394/9535771)
+[^ref19]: IUCN Red List, “Dracaena draco,” iucnredlist.org, accessed August 3. 2020, [link](https://www.iucnredlist.org/species/30394/9535771)
 
 [^ref20]: González-Castro et al., “Unraveling the Seed Dispersal System”.
 
 [^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MDk4MjA2NiwtNTE4MDY5NjY1LDE3OD
-A2NDg3NzgsMjAzMDUwNDk3MCwtNjcyODM2ODcyLDE0OTM3NTM1
-MzksLTEwMzgzNDEyNjEsLTE2NDg5MjU5NzMsMzUyMTY4NDg3LC
-0xNzQ5ODEwNzc3LDE4NDYzNDg2NjUsLTE2NzUzMDY1NTksMTUy
-NjI1NTQ2NywtMTU5MDY1ODI2MSwtMTg3MDYzMjkwOSwtMTM2OD
-E3ODc4NSwzNTEzNjg1OTcsOTUzODA3NTM1XX0=
+eyJoaXN0b3J5IjpbMTYwNTkxMTYzMiwxNTQwOTgyMDY2LC01MT
+gwNjk2NjUsMTc4MDY0ODc3OCwyMDMwNTA0OTcwLC02NzI4MzY4
+NzIsMTQ5Mzc1MzUzOSwtMTAzODM0MTI2MSwtMTY0ODkyNTk3My
+wzNTIxNjg0ODcsLTE3NDk4MTA3NzcsMTg0NjM0ODY2NSwtMTY3
+NTMwNjU1OSwxNTI2MjU1NDY3LC0xNTkwNjU4MjYxLC0xODcwNj
+MyOTA5LC0xMzY4MTc4Nzg1LDM1MTM2ODU5Nyw5NTM4MDc1MzVd
+fQ==
 -->
