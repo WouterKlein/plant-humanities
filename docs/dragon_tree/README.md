@@ -13,7 +13,7 @@
 
 ### Introduction: a desensitizing sensory experience
 
-1. As the tongue goes numb and all efforts fail to remove the scarlet, sticky substance that binds to one’s teeth like quick-setting epoxy, one starts to panic and wonder if the dragon’s blood they just ingested is truly as noxious as its name suggests. Though the epithet ‘dragon’s blood’ brings forth images of medieval myths and fantastical notions of fire-breathing lizards soaring high in the sky, this ‘blood’ is in fact the resin of a very real tree. Dragon trees have thick trunks and distinctive, umbrella-style crowns. They captured the imaginations of great minds across the ages, from Pliny the Elder (d. 79 CE) in to Alexander von Humboldt (1769-1859). Unlike Pliny, however, who was the lone scholar of his age enthralled by the epic allure of the dragon tree, Enlightenment era European naturalists like Humboldt and André Pierre Ledru (1761-1825) focused on one species, _Dracaena draco_,  and both flocked to its native Canary Islands to study it around the turn of the nineteenth century. Soon after their initial encounters with Dragon’s Blood, they all may have realized that this strange sap occupied a liminal space between myth, legend, and scientific botany.
+1. As the tongue goes numb and all efforts fail to remove the scarlet, sticky substance that binds to one’s teeth like quick-setting epoxy, one starts to panic and wonder if the dragon’s blood they just ingested is truly as noxious as its name suggests. Though the epithet ‘dragon’s blood’ brings forth images of medieval myths and fantastical notions of fire-breathing lizards soaring high in the sky, this ‘blood’ is in fact the resin of a very real tree. Dragon trees have thick trunks and distinctive, umbrella-style crowns. They captured the imaginations of great minds across the ages, from Pliny the Elder (d. 79 CE) in to Alexander von Humboldt (1769-1859). Unlike Pliny, however, who was the lone scholar of his age enthralled by the epic allure of the dragon tree, Enlightenment era European naturalists like Humboldt and André Pierre Ledru (1761-1825) focused on one species, _Dracaena draco_,  and both flocked to its native Canary Islands to study it around the turn of the nineteenth century. Soon after their initial encounters with dragon’s blood, they all may have realized that this strange sap occupied a liminal space between myth, legend, and scientific botany.
 <param title="Dragon’s Blood" eid="Q421877" aliases="Dragon">
 <param title="Dracaena draco" eid="Q157952">
 <param title="Pliny the Elder" eid="Q82778">
@@ -23,7 +23,10 @@
 <param ve-storiiies
 	id="8a1g2">
 
-2. Members of today’s _Dracaena_ genus have long been valued for their signature red resin, dragon’s blood, that oozes from cuts in the bark of those trees. The first known reports of dragon’s blood were dispersed through Pliny’s [_Naturalis Historia_](https://archive.org/details/OEXV10R/mode/2up), where he recounted the Indian tale of a dragon (representing Brahma) biting a giant elephant (representing Shiva) and their blood mixing into the iconic resin. While this Vedic myth actually originates from Socotra island of Yemen and is based on the resin of _Dracaena cinnabari_, the fascination with dragon’s blood also took a foothold in Europe through the infamous tale of Hercules.[^ref1]
+2. Members of today’s _Dracaena_ genus have long been valued for their signature red resin, dragon’s blood, that oozes from cuts in the bark of those trees. Though the focus of this article is on _D. draco_ , there are many other species of tree that exude their own forms of dragon’s blood. These include the other 120 members of the _Dracaena_ genus, in addition to several others. While these other trees certainly exude a resin identified as Dragon’s Blood, a level of botanical and geographical ambiguity that contributes to Dragon Blood’s mythical status, _D. draco_ and _D. cinnabari_ are the two species that are most commonly referred to as the source of the resin in historical sources.
+
+
+The first known reports of dragon’s blood were dispersed through Pliny’s [_Naturalis Historia_](https://archive.org/details/OEXV10R/mode/2up), where he recounted the Indian tale of a dragon (representing Brahma) biting a giant elephant (representing Shiva) and their blood mixing into the iconic resin. While this Vedic myth actually originates from Socotra island of Yemen and is based on the resin of _Dracaena cinnabari_, the fascination with dragon’s blood also took a foothold in Europe through the infamous tale of Hercules.[^ref1]
 <param title="Naturalis Historia" eid="Q442">
 <param title="Vedic myth" eid="Q2076739" aliases="Vedic myth">
 <param title="Socotra" eid="Q82859">
@@ -181,7 +184,7 @@
 
 [^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQwNDk3MDUxLC0xNjQ4OTI1OTczLDM1Mj
+eyJoaXN0b3J5IjpbNzIyMzQyNTQ3LC0xNjQ4OTI1OTczLDM1Mj
 E2ODQ4NywtMTc0OTgxMDc3NywxODQ2MzQ4NjY1LC0xNjc1MzA2
 NTU5LDE1MjYyNTU0NjcsLTE1OTA2NTgyNjEsLTE4NzA2MzI5MD
 ksLTEzNjgxNzg3ODUsMzUxMzY4NTk3LDk1MzgwNzUzNV19
