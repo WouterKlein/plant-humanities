@@ -60,7 +60,7 @@ The Guanches used dragon’s blood for a variety of purposes, ranging from embal
 <param ve-storiiies
 	id="751f7">
 
-### Dragon's blood: from herbals to Enlightenment science
+### Dragon’s blood: from herbals to Enlightenment science
 After decades of violent attacks against the Guanches, Spanish conquistadors finally vanquished the last of the Canary Islands in 1496. The Guanche language soon disappeared, with the exception of their distinct whistling language, known as Silbo Gomero <param ve-audio url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/media/Silbo%20(online-audio-converter.com).mp3">. Due to the traditional Western preference for written records rather than oral histories, much of what we now know of pre-Columbian culture on the Canaries comes from European colonial interlocutors.
 <param title="Silbo Gomero language" eid="Q415" aliases="Silbo Gomero">
 <param ve-video
@@ -107,7 +107,7 @@ In 1799, as he stopped in Tenerife before his voyage to the Americas that would 
 	url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/DON%20JUAN%20FRANCISCO%20DE%20FRANCHI%20ALFARO.jpg"
 	region="pct:8,5,150,145">
 
-### Smothering the dragon's flame: D. draco and the Anthropocene
+### Smothering the dragon’s flame: D. draco and the Anthropocene
 Humboldt was not the only naturalist of his time attracted to the remarkable centenary dragon tree, as some three years before, in 1796, French naturalist André Pierre Ledru also found himself in M. Franchy’s garden, admiring the very same tree. The scarlet-colored resin was a critical aspect of the Guanche pharmacopoeia and a valuable piece of _naturalia_ that spurred the Canarian economy. By the turn of the nineteenth century, however, due to unsustainable cultivation techniques, the population of trees from which it was sourced was already in decline. This environmental degradation has only increased in intensity in the last two centuries with the intensification of human-driven ecological change, known as the Anthropocene.
 <param title="Anthropocene" eid="Q26841">
 <param ve-image static
@@ -185,11 +185,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg4NjE2NTEyLDE1NDAwMzc0MjAsLTEwNT
-k4NjMyNzEsMTc5NzMyMDA0NywxNzAwNTE5ODkxLDcyMDQ1NjY4
-OSwtMTQ5ODA1NTQ1NSwxOTQ1ODM5NjAwLC0xNzM0MjU1ODIsLT
-Y4Nzc1OTA3NiwxMjQ5MDEyMzk0LDE5MDY1MDU4MjQsLTk0NTU0
-Nzg1LDM0OTAwMDY3LC0xOTYwNDA5MjYyLDM2MDE4NTIzMCwzNj
-AxODUyMzAsLTQ5OTkwMTEyMCwxNTU5OTEwMjgzLDE5NDkyNjE1
-MjNdfQ==
+eyJoaXN0b3J5IjpbLTIwNzI3MDYzMDQsMjg4NjE2NTEyLDE1ND
+AwMzc0MjAsLTEwNTk4NjMyNzEsMTc5NzMyMDA0NywxNzAwNTE5
+ODkxLDcyMDQ1NjY4OSwtMTQ5ODA1NTQ1NSwxOTQ1ODM5NjAwLC
+0xNzM0MjU1ODIsLTY4Nzc1OTA3NiwxMjQ5MDEyMzk0LDE5MDY1
+MDU4MjQsLTk0NTU0Nzg1LDM0OTAwMDY3LC0xOTYwNDA5MjYyLD
+M2MDE4NTIzMCwzNjAxODUyMzAsLTQ5OTkwMTEyMCwxNTU5OTEw
+MjgzXX0=
 -->
