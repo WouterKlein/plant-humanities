@@ -87,8 +87,6 @@ After this initial period of European colonization, however, interest in the Can
 <param ve-image static
 	title="Engraving of the dragon trees of the House of Franchy in the Villa de La Orotava. Sabin Berthelot, _Histoire Naturelle des Îles Canaries_, (Paris: 1838)."
 	url="https://upload.wikimedia.org/wikipedia/commons/d/df/Berthelot_drago_franchy.jpg">
-<param primary ve-storiiies
-	id="751f7">
 
 In 1799, as he stopped in Tenerife before his voyage to the Americas that would make him world-famous, Humboldt found himself in the village of Orotava. There, he entered the garden of a Monsieur Franchy and was immediately awe-struck by the sheer size and magnitude of the dragon tree there – the very same tree that the Guanches had worshipped for centuries. He reported it to measure 60 feet tall and 45 feet in circumference near the roots. “We were told that the trunk of this tree,” Humboldt wrote in his [_Personal Narrative_](https://www.biodiversitylibrary.org/item/228502#page/5/mode/1up), “which is mentioned in several ancient documents as marking the boundaries of a field, was as gigantic in the fifteenth century as it is at the present time.” According to his calculations, the specimen was undoubtedly “one of the oldest inhabitants in our world,” which called for special protection.[^ref12] Humboldt’s experience with the large _D. draco_ at Orotava was far more than the mere realization of a boyish dream, but was instead a pioneering act that that inspired other European travelers to follow in his footsteps and help strengthen a global network of scientific and economic exchanges focused on plants. 
 <param title="Tenerife" eid="Q40846">
@@ -180,11 +178,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 oude banner: https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/header%20option%206%20-%20FINAL.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ5MDAwNjcsLTE5NjA0MDkyNjIsMzYwMT
-g1MjMwLDM2MDE4NTIzMCwtNDk5OTAxMTIwLDE1NTk5MTAyODMs
-MTk0OTI2MTUyMyw0MzQ0OTA1OTYsNTMwNzk4MjYzLDk1NTgyNT
-AxMywtMTAwODEwOTE3MCw1ODU3NTkyNDMsLTE1MzM4MTY0ODAs
-LTMyNzc2MzAzNSwxNjA1OTExNjMyLDE1NDA5ODIwNjYsLTUxOD
-A2OTY2NSwxNzgwNjQ4Nzc4LDIwMzA1MDQ5NzAsLTY3MjgzNjg3
-Ml19
+eyJoaXN0b3J5IjpbLTQxMzgyNTM0MywzNDkwMDA2NywtMTk2MD
+QwOTI2MiwzNjAxODUyMzAsMzYwMTg1MjMwLC00OTk5MDExMjAs
+MTU1OTkxMDI4MywxOTQ5MjYxNTIzLDQzNDQ5MDU5Niw1MzA3OT
+gyNjMsOTU1ODI1MDEzLC0xMDA4MTA5MTcwLDU4NTc1OTI0Mywt
+MTUzMzgxNjQ4MCwtMzI3NzYzMDM1LDE2MDU5MTE2MzIsMTU0MD
+k4MjA2NiwtNTE4MDY5NjY1LDE3ODA2NDg3NzgsMjAzMDUwNDk3
+MF19
 -->
