@@ -134,7 +134,7 @@ Just as Humboldt and Ledru observed the centenary _D. draco_ at Orotava and pond
 	title=""
 	iiif-url="https://free.iiifhosting.com/iiif/ac36469812ba26bc336649e5aa20da4c6bfbd178d157caf52bbbfba2bd4d6629">
 
-Today, _D. draco_ is officially designated as a vulnerable population on the International Union for Conservation of Nature’s _Red List of Threatened Species_ due to its near-extinction in the wild.[^ref20] This is due in part to the fact that the tree relies on animals to disperse its seeds, and the number of suitable animal dispersers has substantially decreased over time due to hunting and other forms of habitat destruction.[^ref21] Furthermore, as Ledru noted over two centuries ago, this population decline and endangerment is also due to overcultivation of the tree’s valuable resin. The number of wild specimens has never been lower than it is today, and even though there are projects to repopulate the islands through experiments in propagation and acclimatization, one wonders if ever again a _Dracaena draco_ will grow to the size and magnificence of the one that so captivated the minds of travelers like Humboldt and Ledru.[^ref22] Perhaps, after its millennia-long smolder, the dragon’s flame will finally be snuffed out by the twenty-first century Anthropocene. Or, perhaps, modern day ecological preservation projects may reverse the trajectory of this ailing species.
+Today, _D. draco_ is officially designated as a vulnerable population on the International Union for Conservation of Nature’s _Red List of Threatened Species_ due to its near-extinction in the wild.[^ref20] This is due in part to the fact that the tree relies on animals to disperse its seeds, and the number of suitable animal dispersers has substantially decreased over time due to hunting and other forms of habitat destruction.[^ref21] Furthermore, as Ledru noted over two centuries ago, this population decline and endangerment is also due to overcultivation of the tree’s valuable resin. The number of wild specimens has never been lower than it is today, and even though there are projects to repopulate the islands through experiments in propagation and acclimatization, one wonders if ever again a _Dracaena draco_ will grow to the size and magnificence of the one that so captivated the minds of travelers like Humboldt and Ledru.[^ref22] Perhaps, after its millennia-long smolder, the dragon’s flame will finally be snuffed out by the twenty-first century Anthropocene. Or, perhaps, ecological preservation projects may reverse the trajectory of this ailing species.
 <param title="International Union for Conservation of Nature" eid="Q48268">
 <param title="Red List of Threatened Species" eid="Q32059">
 <param ve-image
@@ -185,11 +185,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjU3MDQ5MywxNzk3MzIwMDQ3LDE3MD
-A1MTk4OTEsNzIwNDU2Njg5LC0xNDk4MDU1NDU1LDE5NDU4Mzk2
-MDAsLTE3MzQyNTU4MiwtNjg3NzU5MDc2LDEyNDkwMTIzOTQsMT
-kwNjUwNTgyNCwtOTQ1NTQ3ODUsMzQ5MDAwNjcsLTE5NjA0MDky
-NjIsMzYwMTg1MjMwLDM2MDE4NTIzMCwtNDk5OTAxMTIwLDE1NT
-k5MTAyODMsMTk0OTI2MTUyMyw0MzQ0OTA1OTYsNTMwNzk4MjYz
-XX0=
+eyJoaXN0b3J5IjpbLTEwNzc1NjU0MTgsMTc5NzMyMDA0NywxNz
+AwNTE5ODkxLDcyMDQ1NjY4OSwtMTQ5ODA1NTQ1NSwxOTQ1ODM5
+NjAwLC0xNzM0MjU1ODIsLTY4Nzc1OTA3NiwxMjQ5MDEyMzk0LD
+E5MDY1MDU4MjQsLTk0NTU0Nzg1LDM0OTAwMDY3LC0xOTYwNDA5
+MjYyLDM2MDE4NTIzMCwzNjAxODUyMzAsLTQ5OTkwMTEyMCwxNT
+U5OTEwMjgzLDE5NDkyNjE1MjMsNDM0NDkwNTk2LDUzMDc5ODI2
+M119
 -->
