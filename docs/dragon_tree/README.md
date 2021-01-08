@@ -108,7 +108,7 @@
 	title="A _Dracaena draco_ on a mountainside overlooking a twenty-first century industrial agriculture compound near Cenbio de Valerón, Gran Canaria, Spain. Photo taken by Thomas C. Anderson, July 2019."
 	url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/clone stamp craze.jpg">
 
-11. As Ledru remarked in his 1810 [_Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco_](https://archive.org/details/voyageauxlesdet00sonngoog/page/n5/mode/2up), which drew on observations he made during his trip to the Isles of Fortune some fourteen years earlier: “In days gone by, the resin that one extracts from the dragon tree was an important object of commerce for Teneriffe; but since the locals have neglected to replace the old trees that were worn out by too-frequent tapping (of the resin) with young plantations, this source will soon be exhausted. There exist perhaps less than fifty dragon trees left on the island.”[^ref13] This gradual, yet persistent, degradation of the _D. draco_ population was not solely due to Guanche overcultivation, either, as Spanish colonizers inflicted profound ecological changes upon the islands when they razed and destroyed large swaths of forests during their conquest and settlement of the Canaries three centuries earlier.[^ref1
+11. As Ledru remarked in his 1810 [_Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco_](https://archive.org/details/voyageauxlesdet00sonngoog/page/n5/mode/2up), which drew on observations he made during his trip to the Isles of Fortune some fourteen years earlier: “In days gone by, the resin that one extracts from the dragon tree was an important object of commerce for Teneriffe; but since the locals have neglected to replace the old trees that were worn out by too-frequent tapping (of the resin) with young plantations, this source will soon be exhausted. There exist perhaps less than fifty dragon trees left on the island.”[^ref13] This gradual, yet persistent, degradation of the _D. draco_ population was not solely due to Guanche overcultivation, either, as Spanish colonizers inflicted profound ecological changes upon the islands when they razed and destroyed large swaths of forests during their conquest and settlement of the Canaries three centuries earlier.[^ref14]
 <param title="Isles of Fortune" eid="Q19211357" aliases="Isles of Fortune" article="Isles_of_Fortune"> 
 <param ve-image static
 	title="A small outcrop of Dracaena draco trees at the oldest botanical garden on the Canary Islands, the Jardin Botanico Canario Viera y Clavijo in Gran Canaria, Spain. Photo taken by Thomas C. Anderson, July 2019."
@@ -176,9 +176,10 @@
 
 [^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMDUwNDk3MCwtNjcyODM2ODcyLDE0OT
-M3NTM1MzksLTEwMzgzNDEyNjEsLTE2NDg5MjU5NzMsMzUyMTY4
-NDg3LC0xNzQ5ODEwNzc3LDE4NDYzNDg2NjUsLTE2NzUzMDY1NT
-ksMTUyNjI1NTQ2NywtMTU5MDY1ODI2MSwtMTg3MDYzMjkwOSwt
-MTM2ODE3ODc4NSwzNTEzNjg1OTcsOTUzODA3NTM1XX0=
+eyJoaXN0b3J5IjpbLTE1MzkyNTQwMjksMjAzMDUwNDk3MCwtNj
+cyODM2ODcyLDE0OTM3NTM1MzksLTEwMzgzNDEyNjEsLTE2NDg5
+MjU5NzMsMzUyMTY4NDg3LC0xNzQ5ODEwNzc3LDE4NDYzNDg2Nj
+UsLTE2NzUzMDY1NTksMTUyNjI1NTQ2NywtMTU5MDY1ODI2MSwt
+MTg3MDYzMjkwOSwtMTM2ODE3ODc4NSwzNTEzNjg1OTcsOTUzOD
+A3NTM1XX0=
 -->
