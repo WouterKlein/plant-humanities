@@ -102,7 +102,7 @@
 	url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/DON%20JUAN%20FRANCISCO%20DE%20FRANCHI%20ALFARO.jpg"
 	region="pct:8,5,150,145">
 
-10. Humboldt was not the only naturalist of his time attracted to the remarkable centenary dragon tree, as some three years before, in 1796, French naturalist André Pierre Ledru also found himself in M. Franchy’s garden, admiring the very same tree. The scarlet-colored resin was a critical aspect of the Guanche pharmacopoeia and a valuable piece of _naturalia_ that spurred the Canarian economy. By the turn of the nineteenth century due to unsustainable cultivation techniques. This environmental degradation has only increased in intensity in the last two centuries with the intensification of human-driven ecological change, known as the Anthropocene.
+10. Humboldt was not the only naturalist of his time attracted to the remarkable centenary dragon tree, as some three years before, in 1796, French naturalist André Pierre Ledru also found himself in M. Franchy’s garden, admiring the very same tree. The scarlet-colored resin was a critical aspect of the Guanche pharmacopoeia and a valuable piece of _naturalia_ that spurred the Canarian economy. By the turn of the nineteenth century, however, due to unsustainable cultivation techniques, the population of trees from which it was sourced was already in decline. This environmental degradation has only increased in intensity in the last two centuries with the intensification of human-driven ecological change, known as the Anthropocene.
 <param title="Anthropocene" eid="Q26841">
 <param ve-image static
 	title="A _Dracaena draco_ on a mountainside overlooking a twenty-first century industrial agriculture compound near Cenbio de Valerón, Gran Canaria, Spain. Photo taken by Thomas C. Anderson, July 2019."
@@ -176,9 +176,9 @@
 
 [^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDk2OTY5ODgsLTY3MjgzNjg3MiwxND
-kzNzUzNTM5LC0xMDM4MzQxMjYxLC0xNjQ4OTI1OTczLDM1MjE2
-ODQ4NywtMTc0OTgxMDc3NywxODQ2MzQ4NjY1LC0xNjc1MzA2NT
-U5LDE1MjYyNTU0NjcsLTE1OTA2NTgyNjEsLTE4NzA2MzI5MDks
-LTEzNjgxNzg3ODUsMzUxMzY4NTk3LDk1MzgwNzUzNV19
+eyJoaXN0b3J5IjpbMjAzMDUwNDk3MCwtNjcyODM2ODcyLDE0OT
+M3NTM1MzksLTEwMzgzNDEyNjEsLTE2NDg5MjU5NzMsMzUyMTY4
+NDg3LC0xNzQ5ODEwNzc3LDE4NDYzNDg2NjUsLTE2NzUzMDY1NT
+ksMTUyNjI1NTQ2NywtMTU5MDY1ODI2MSwtMTg3MDYzMjkwOSwt
+MTM2ODE3ODc4NSwzNTEzNjg1OTcsOTUzODA3NTM1XX0=
 -->
