@@ -117,7 +117,7 @@ But even in the face of this acute anthropogenic pressure, the great dragon tree
 
 Unfortunately, the Orotava centenary dragon tree did not outlive Humboldt and Ledru’s visits by too long. In 1819, a storm first cut off one of its branches, and in 1867, a hurricane-like tempest broke them all off.[^ref17] Despite this inauspicious demise, the tree’s image remains associated with the Canary Islands today, and it is still frequently featured prominently in images of Orotava. Furthermore, both naturalists’ accounts of their encounters with the dragon tree in its native environment stand as proof of its power to equally excite scientific and aesthetic imagination, promote environmental concerns, and reinforce colonial dynamics. 
 <param ve-image
-	title=""
+	title="Window in th town hall of Orotava, showing the dragon tree for which it is famous."
 	url="https://upload.wikimedia.org/wikipedia/commons/3/38/Orotava_Ayuntamiento_04.jpg">
 
 Just as Humboldt and Ledru observed the centenary _D. draco_ at Orotava and pondered the tree’s age, durability, and its potential influence on theories of a global climate, today’s scientists are weighing the tree’s possible medicinal benefits (including potential cancer treatments) and its commercial value in the cosmetics industry as an ingredient in anti-aging creams in relation to the species’ ongoing battle with extinction and its ecological vulnerability.[^ref18] Since many different species make good sources of what is commonly known as dragon’s blood, more comprehensive research still needs to be carried out to fully assess the mythical resin’s true medicinal efficacy.[^ref19]
@@ -177,11 +177,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 oude banner: https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/header%20option%206%20-%20FINAL.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzQyNTU4MiwtNjg3NzU5MDc2LDEyND
-kwMTIzOTQsMTkwNjUwNTgyNCwtOTQ1NTQ3ODUsMzQ5MDAwNjcs
-LTE5NjA0MDkyNjIsMzYwMTg1MjMwLDM2MDE4NTIzMCwtNDk5OT
-AxMTIwLDE1NTk5MTAyODMsMTk0OTI2MTUyMyw0MzQ0OTA1OTYs
-NTMwNzk4MjYzLDk1NTgyNTAxMywtMTAwODEwOTE3MCw1ODU3NT
-kyNDMsLTE1MzM4MTY0ODAsLTMyNzc2MzAzNSwxNjA1OTExNjMy
-XX0=
+eyJoaXN0b3J5IjpbMTQ4NzQ3OTA2LC0xNzM0MjU1ODIsLTY4Nz
+c1OTA3NiwxMjQ5MDEyMzk0LDE5MDY1MDU4MjQsLTk0NTU0Nzg1
+LDM0OTAwMDY3LC0xOTYwNDA5MjYyLDM2MDE4NTIzMCwzNjAxOD
+UyMzAsLTQ5OTkwMTEyMCwxNTU5OTEwMjgzLDE5NDkyNjE1MjMs
+NDM0NDkwNTk2LDUzMDc5ODI2Myw5NTU4MjUwMTMsLTEwMDgxMD
+kxNzAsNTg1NzU5MjQzLC0xNTMzODE2NDgwLC0zMjc3NjMwMzVd
+fQ==
 -->
