@@ -75,7 +75,7 @@ Throughout its dissemination into European spaces from the Age of Discovery, dra
 	fit="contain">
 
 After this initial period of European colonization, however, interest in the Canaries blossomed, as the Atlantic islands quickly became natural stopping points for travelers of all stripes on their way to the New World as well as Africa. Along with the integration of the Canaries into the burgeoning European sphere of influence, _D. draco_ emerged on the stage of European gardens. Over the several centuries that passed between Béthencourt’s first Canarian contact and the Enlightenment, European voyages of scientific discovery steadily increased in frequency and magnitude. It was during this period, and especially in the latter half of the eighteenth century, that European botanical interest in _D. draco_ resurfaced. German scientist and writer Alexander von Humboldt was the most famous of them all during this period to fall prey to the tree’s enchanting appeal. In [_Cosmos: A Sketch of a Physical Description of the Universe_](https://www.biodiversitylibrary.org/item/73496#page/7/mode/1up) (1842), his last work, he still recalled the time when, as a child, he “first saw a colossal dragon tree in an old tower of the Botanical Garden in Berlin.”[^ref10] The experience was so overwhelming that Humboldt even thought of it as “the source from whence sprang my early and fixed desire to visit the lands of the tropics.”[^ref11] A stroll through the botanical garden in his hometown, a virtual travel indeed, prompted Humboldt’s desire for actual travel. The fact that the dragon tree bookended Humboldt’s illustrious career, as both a formative experience of his youth and a notable point in his last great work highlights how the dragon tree itself was at the core of his understanding of nature as one interconnected whole.
-<param title="Botanical Garden in Berlin" eid="Q163255" aliases="Botanical Garden in Berlin">
+<param title="Botanical Garden in Berlin" eid="Q163255">
 <param ve-image
 	title="An 1859 oil painting of Alexander von Humboldt by German painter Julius Schrader  (1815-1900). Julius Schrader, _Baron Alexander von Humboldt (1769-1859)_, oil on canvas, 1859."
 	url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/Humboldt.jpg"
@@ -180,11 +180,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 oude banner: https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/header%20option%206%20-%20FINAL.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjA0MDkyNjIsMzYwMTg1MjMwLDM2MD
-E4NTIzMCwtNDk5OTAxMTIwLDE1NTk5MTAyODMsMTk0OTI2MTUy
-Myw0MzQ0OTA1OTYsNTMwNzk4MjYzLDk1NTgyNTAxMywtMTAwOD
-EwOTE3MCw1ODU3NTkyNDMsLTE1MzM4MTY0ODAsLTMyNzc2MzAz
-NSwxNjA1OTExNjMyLDE1NDA5ODIwNjYsLTUxODA2OTY2NSwxNz
-gwNjQ4Nzc4LDIwMzA1MDQ5NzAsLTY3MjgzNjg3MiwxNDkzNzUz
-NTM5XX0=
+eyJoaXN0b3J5IjpbMjA0NjM3NDE1NiwtMTk2MDQwOTI2MiwzNj
+AxODUyMzAsMzYwMTg1MjMwLC00OTk5MDExMjAsMTU1OTkxMDI4
+MywxOTQ5MjYxNTIzLDQzNDQ5MDU5Niw1MzA3OTgyNjMsOTU1OD
+I1MDEzLC0xMDA4MTA5MTcwLDU4NTc1OTI0MywtMTUzMzgxNjQ4
+MCwtMzI3NzYzMDM1LDE2MDU5MTE2MzIsMTU0MDk4MjA2NiwtNT
+E4MDY5NjY1LDE3ODA2NDg3NzgsMjAzMDUwNDk3MCwtNjcyODM2
+ODcyXX0=
 -->
