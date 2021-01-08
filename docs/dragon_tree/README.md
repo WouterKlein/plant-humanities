@@ -107,7 +107,7 @@ In 1799, as he stopped in Tenerife before his voyage to the Americas that would 
 	url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/DON%20JUAN%20FRANCISCO%20DE%20FRANCHI%20ALFARO.jpg"
 	region="pct:8,5,150,145">
 
-### Smothering the dragon's flame: _D. draco_ and the Anthropocene
+### Smothering the dragon's flame: D. draco and the Anthropocene
 Humboldt was not the only naturalist of his time attracted to the remarkable centenary dragon tree, as some three years before, in 1796, French naturalist André Pierre Ledru also found himself in M. Franchy’s garden, admiring the very same tree. The scarlet-colored resin was a critical aspect of the Guanche pharmacopoeia and a valuable piece of _naturalia_ that spurred the Canarian economy. By the turn of the nineteenth century, however, due to unsustainable cultivation techniques, the population of trees from which it was sourced was already in decline. This environmental degradation has only increased in intensity in the last two centuries with the intensification of human-driven ecological change, known as the Anthropocene.
 <param title="Anthropocene" eid="Q26841">
 <param ve-image static
@@ -185,11 +185,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTEzMjI4OTgsMTU0MDAzNzQyMCwtMT
-A1OTg2MzI3MSwxNzk3MzIwMDQ3LDE3MDA1MTk4OTEsNzIwNDU2
-Njg5LC0xNDk4MDU1NDU1LDE5NDU4Mzk2MDAsLTE3MzQyNTU4Mi
-wtNjg3NzU5MDc2LDEyNDkwMTIzOTQsMTkwNjUwNTgyNCwtOTQ1
-NTQ3ODUsMzQ5MDAwNjcsLTE5NjA0MDkyNjIsMzYwMTg1MjMwLD
-M2MDE4NTIzMCwtNDk5OTAxMTIwLDE1NTk5MTAyODMsMTk0OTI2
-MTUyM119
+eyJoaXN0b3J5IjpbMjg4NjE2NTEyLDE1NDAwMzc0MjAsLTEwNT
+k4NjMyNzEsMTc5NzMyMDA0NywxNzAwNTE5ODkxLDcyMDQ1NjY4
+OSwtMTQ5ODA1NTQ1NSwxOTQ1ODM5NjAwLC0xNzM0MjU1ODIsLT
+Y4Nzc1OTA3NiwxMjQ5MDEyMzk0LDE5MDY1MDU4MjQsLTk0NTU0
+Nzg1LDM0OTAwMDY3LC0xOTYwNDA5MjYyLDM2MDE4NTIzMCwzNj
+AxODUyMzAsLTQ5OTkwMTEyMCwxNTU5OTEwMjgzLDE5NDkyNjE1
+MjNdfQ==
 -->
