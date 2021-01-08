@@ -73,9 +73,7 @@
 	url="https://www.biodiversitylibrary.org/pageimage/56601428"
 	fit="contain">
 
-7. After this initial period of European colonization, however, interest in the Canaries blossomed, as the Atlantic islands quickly became natural stopping points for travelers of all stripes on their way to the New World as well as Africa.
-
-It was during this period of integration of the Canaries into the burgeoning European sphere of influence, then, that _D. draco_ emerged on the stage of European gardens.
+7. After this initial period of European colonization, however, interest in the Canaries blossomed, as the Atlantic islands quickly became natural stopping points for travelers of all stripes on their way to the New World as well as Africa. Along with the integration of the Canaries into the burgeoning European sphere of influence, _D. draco_ emerged on the stage of European gardens. Over the several centuries that passed between Béthencourt’s first Canarian contact and the Enlightenment, European voyages of scientific discovery steadily increased in frequency and magnitude. It was during this period, and especially in the latter half of the eighteenth century, that European botanical interest in _D. draco_ resurfaced.
 <param ve-image static
 	title="Engraving of the dragon trees of the House of Franchy in the Villa de La Orotava. Sabin Berthelot, _Histoire Naturelle des Îles Canaries_, (Paris: 1838)"
 	url="https://upload.wikimedia.org/wikipedia/commons/d/df/Berthelot_drago_franchy.jpg">
@@ -185,9 +183,9 @@ Several centuries later, scientific expeditions by naturalists Alexander von Hum
 
 [^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMDAzODk2LC0xMDM4MzQxMjYxLC0xNj
-Q4OTI1OTczLDM1MjE2ODQ4NywtMTc0OTgxMDc3NywxODQ2MzQ4
-NjY1LC0xNjc1MzA2NTU5LDE1MjYyNTU0NjcsLTE1OTA2NTgyNj
-EsLTE4NzA2MzI5MDksLTEzNjgxNzg3ODUsMzUxMzY4NTk3LDk1
-MzgwNzUzNV19
+eyJoaXN0b3J5IjpbMTE1MjY3OTIzOCwtMTAzODM0MTI2MSwtMT
+Y0ODkyNTk3MywzNTIxNjg0ODcsLTE3NDk4MTA3NzcsMTg0NjM0
+ODY2NSwtMTY3NTMwNjU1OSwxNTI2MjU1NDY3LC0xNTkwNjU4Mj
+YxLC0xODcwNjMyOTA5LC0xMzY4MTc4Nzg1LDM1MTM2ODU5Nyw5
+NTM4MDc1MzVdfQ==
 -->
