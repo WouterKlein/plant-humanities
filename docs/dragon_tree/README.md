@@ -168,7 +168,7 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref17]: Alice Carter Cook, “The Dragon Tree of Orotava,” _The Plant World_ 4, no. 7 (July 1901), 124.
 
-[^ref18]: Joanna Jura-Morawiec and Mirela Tulik, “Dragon’s blood secretion and its ecological significance,” in _Chemoecology_ 26, no. 3, (March 2016), [Click here for full article](https://www.researchgate.net/publication/298897759_Dragon’s_blood_secretion_and_its_ecological_significance)
+[^ref18]: Joanna Jura-Morawiec and Mirela Tulik, “Dragon’s blood secretion and its ecological significance,” in _Chemoecology_ 26, no. 3, (March 2016), 101-105. [Click here for full article](https://www.researchgate.net/publication/298897759_Dragon’s_blood_secretion_and_its_ecological_significance)
 
 [^ref19]: Deepika Gupta, Bruce Bleakley, Rajinder K. Gupta, “Dragon’s blood: Botany, chemistry and therapeutic uses,” _Journal of Ethnopharmacology_ 115 (2008), 361.
 
@@ -178,11 +178,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDgxMDkxNzAsNTg1NzU5MjQzLC0xNT
-MzODE2NDgwLC0zMjc3NjMwMzUsMTYwNTkxMTYzMiwxNTQwOTgy
-MDY2LC01MTgwNjk2NjUsMTc4MDY0ODc3OCwyMDMwNTA0OTcwLC
-02NzI4MzY4NzIsMTQ5Mzc1MzUzOSwtMTAzODM0MTI2MSwtMTY0
-ODkyNTk3MywzNTIxNjg0ODcsLTE3NDk4MTA3NzcsMTg0NjM0OD
-Y2NSwtMTY3NTMwNjU1OSwxNTI2MjU1NDY3LC0xNTkwNjU4MjYx
-LC0xODcwNjMyOTA5XX0=
+eyJoaXN0b3J5IjpbOTU1ODI1MDEzLC0xMDA4MTA5MTcwLDU4NT
+c1OTI0MywtMTUzMzgxNjQ4MCwtMzI3NzYzMDM1LDE2MDU5MTE2
+MzIsMTU0MDk4MjA2NiwtNTE4MDY5NjY1LDE3ODA2NDg3NzgsMj
+AzMDUwNDk3MCwtNjcyODM2ODcyLDE0OTM3NTM1MzksLTEwMzgz
+NDEyNjEsLTE2NDg5MjU5NzMsMzUyMTY4NDg3LC0xNzQ5ODEwNz
+c3LDE4NDYzNDg2NjUsLTE2NzUzMDY1NTksMTUyNjI1NTQ2Nywt
+MTU5MDY1ODI2MV19
 -->
