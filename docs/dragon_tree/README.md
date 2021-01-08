@@ -118,7 +118,7 @@
 <param ve-storiiies
 	id="7b1dr">
 
-13. Unfortunately, the Orotava centenary dragon tree did not outlive Humboldt and Ledru’s visits by too long. In 1819, a storm first cut off one of its branches, and in 1867, a hurricane-like tempest broke them all off.[^ref17] Despite this inauspicious demise, the tree’s image remains associated with the Canary Islands through today, and it is still frequently featured prominently in images of Orotava. Furthermore, both naturalists’ accounts of their encounters with the dragon tree in its native environment stand as proof of its power to equally excite scientific and aesthetic imagination, promote environmental concerns, and reinforce colonial dynamics. 
+13. Unfortunately, the Orotava centenary dragon tree did not outlive Humboldt and Ledru’s visits by too long. In 1819, a storm first cut off one of its branches, and in 1867, a hurricane-like tempest broke them all off.[^ref17] Despite this inauspicious demise, the tree’s image remains associated with the Canary Islands today, and it is still frequently featured prominently in images of Orotava. Furthermore, both naturalists’ accounts of their encounters with the dragon tree in its native environment stand as proof of its power to equally excite scientific and aesthetic imagination, promote environmental concerns, and reinforce colonial dynamics. 
 <param ve-image
 	title=""
 	url="https://upload.wikimedia.org/wikipedia/commons/3/38/Orotava_Ayuntamiento_04.jpg">
@@ -176,10 +176,10 @@
 
 [^ref21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MDY0ODc3OCwyMDMwNTA0OTcwLC02Nz
-I4MzY4NzIsMTQ5Mzc1MzUzOSwtMTAzODM0MTI2MSwtMTY0ODky
-NTk3MywzNTIxNjg0ODcsLTE3NDk4MTA3NzcsMTg0NjM0ODY2NS
-wtMTY3NTMwNjU1OSwxNTI2MjU1NDY3LC0xNTkwNjU4MjYxLC0x
-ODcwNjMyOTA5LC0xMzY4MTc4Nzg1LDM1MTM2ODU5Nyw5NTM4MD
-c1MzVdfQ==
+eyJoaXN0b3J5IjpbOTg3NDU0OTQ5LDE3ODA2NDg3NzgsMjAzMD
+UwNDk3MCwtNjcyODM2ODcyLDE0OTM3NTM1MzksLTEwMzgzNDEy
+NjEsLTE2NDg5MjU5NzMsMzUyMTY4NDg3LC0xNzQ5ODEwNzc3LD
+E4NDYzNDg2NjUsLTE2NzUzMDY1NTksMTUyNjI1NTQ2NywtMTU5
+MDY1ODI2MSwtMTg3MDYzMjkwOSwtMTM2ODE3ODc4NSwzNTEzNj
+g1OTcsOTUzODA3NTM1XX0=
 -->
