@@ -218,15 +218,15 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 [^ref2]: Ibid., with reference to USDA-National Agricultural Statistics Service Census of Agriculture 2014 reports, https://www.agcensus.usda.gov. English or European boxwood is the same species (_Buxus sempervirens_) as American boxwood. There are no boxwood species native to the United States. The centers of diversity for the genus are in Western Europe, Northern Africa, and Asia (_Buxus microphylla_).
 
-[^ref3]: _Beatrix Farrand’s Plant Book for Dumbarton Oaks_, ed. Diane Kostial McGuire (Washington, DC: Dumbarton Oaks, 1980), xiii.
+[^ref3]: Diane Kostial McGuire, ed., _Beatrix Farrand’s Plant Book for Dumbarton Oaks_ (Washington, DC: Dumbarton Oaks, 1980), xiii.
 
-[^ref4]: Daniela Bleichmar, “Botanical conquistadors: the promises and challenges of imperial botany in the Hispanic Enlightenment,” _The Botany of Empire in the Long Eighteenth Century_, ed. Yota Batsaki, Sarah Burke Cahalan, and Anatole Tchikine (Washington, DC: Dumbarton Oaks, 2016), 35.
+[^ref4]: Daniela Bleichmar, “Botanical conquistadors: the promises and challenges of imperial botany in the Hispanic Enlightenment,” in _The Botany of Empire in the Long Eighteenth century,_ ed. Yota Batsaki, Sarah Burke Cahalan, and Anatole Tchikine (Washington, DC: Dumbarton Oaks, 2016), 35.
 
 [^ref5]: Pietro Andrea Mattioli, _Discorsi_ (Venice: Valgrisi, 1563), 138; John Gerard, _Herball_ (London: Norton, 1595), 1225.
 
-[^ref6]: Pliny the Younger, _Letters_, V.6.
+[^ref6]: Pliny the Younger, _Letters,_ V.6.
 
-[^ref7]: Girolamo Firenzuola, “La grande arte della agricoltura,” in Alessandro Tagliolini, “Girolamo Firenzuola e il giardino nelle fonti della metà del Cinquecento,” in _Il giardino storico italiano_, ed. Giovanna Ragionieri (Florence: Olschki, 1981), 304.
+[^ref7]: Girolamo Firenzuola, “La grande arte della agricoltura,” in Alessandro Tagliolini, “Girolamo Firenzuola e il giardino nelle fonti della metà del Cinquecento,” in _Il giardino storico italiano,_ ed. Giovanna Ragionieri (Florence: Olschki, 1981), 304.
 
 [^ref8]: Giovan Vettorio Soderini, _Opere_, ed. Alberto Bacchi della Lega (Bologna: Romagnoli dall’Acqua, 1902–07), III:52, 245, 251, 254, 343.
 
@@ -262,7 +262,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 [^ref24]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MTc2NjEwOCw1MjE0NDEzNTUsOTk5Nz
-AzOTI5LC0xMDA1OTcxNjUsOTk5NzAzOTI5LC0xODM4OTQ1NDMs
-MTU4NDY0NjAyM119
+eyJoaXN0b3J5IjpbLTE1MTMwMzk2OTEsNTIxNDQxMzU1LDk5OT
+cwMzkyOSwtMTAwNTk3MTY1LDk5OTcwMzkyOSwtMTgzODk0NTQz
+LDE1ODQ2NDYwMjNdfQ==
 -->
