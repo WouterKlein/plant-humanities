@@ -1,12 +1,12 @@
 <param ve-config
-       title="Watermelon: 'What the angels eat'"
-       banner="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
-       layout="vtl"
-       num-maps="3"
-       num-specimens="3"
-       num-images="29"
-       num-primary-sources="6"
-       author="Anna Lawrence, Camilo Uribe Botta, May Wang">
+	title="Watermelon: 'What the angels eat'"
+	banner="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
+	layout="vtl"
+	num-maps="3"
+	num-specimens="3"
+	num-images="29"
+	num-primary-sources="6"
+	author="Anna Lawrence, Camilo Uribe Botta, May Wang">
 
 <param title="Watermelon" eid="Q17507129">
 <param title="Citrullus lanatus" eid="Q17507129" aliases="Citrullus lanatus">
@@ -42,18 +42,18 @@ Mark Twain once said that watermelon “is the chief of this world's luxuries, k
 <param ve-vis-network file="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/graphs/watermelon.csv">
 <param ve-image
 title="Watermelon" url="https://upload.wikimedia.org/wikipedia/commons/4/4d/Bulgarian_watermelon.JPG"
-       fit="cover"
-       attribution="Wikimedia Commons">
+	fit="cover"
+	attribution="Wikimedia Commons">
 
 ### Whose Vine Is It Anyway?
 Ironically, the origins and history of the watermelon are obscured by its commonness, diversity, and its most iconic component — the tender, watery flesh, which does not survive well in the archaeological record. “Watermelon” today often refers specifically to the “sweet dessert” cultivars of the _Citrullus lanatus_ species, but the _Citrullus_ genus includes at least six other species of watermelons, including the citron _(C. caffer)_, egusi _(C. mucosospermus)_ and colocynth _(C. colocynthis)_ watermelons, which at one time were variously called or classified as subspecies of _C. lanatus_.[^ref2] Past taxonomies of the sweet dessert watermelon are therefore of minimal use for tracing its origins until further genetic analysis is undertaken; instead, literary references and visual depictions of watermelons stretching back millennia have been used to identify and trace the evolving phenotypes of the modern watermelon.
 <param ve-plant-specimen eid="Q30160603" max="2">
 
-Species in the genus _Citrullus_ characteristically grow on vines with pinnatifid (feather-like) leaves and only a few pale-yellow flowers. The glossy, outermost rind is often distinctly patterned with jagged stripes of two shades of green, covering a thicker, white inner rind that encases the softer flesh that, when ripe, ranges from red to yellow to green and white.[^ref3] Though its origin is still in contention and has been located throughout the African continent, current hypotheses point to its origin and first domestication in north-eastern Africa around six thousand years ago. Wild dessert watermelons have been found throughout Sudan, Egypt, Ethiopia, Libya, and Kenya, adjacent to the Nile Valley[^ref4] and some of the earliest iconography of oblong melons — an indication of domestication — can be found in Egyptian tombs and Mediterranean and Byzantine mosaics, and seeds were found in the famous King Tutankhamen's tomb.[^ref5]  
+Species in the genus _Citrullus_ characteristically grow on vines with pinnatifid (feather-like) leaves and only a few pale-yellow flowers. The glossy, outermost rind is often distinctly patterned with jagged stripes of two shades of green, covering a thicker, white inner rind that encases the softer flesh that, when ripe, ranges from red to yellow to green and white.[^ref3] Though its origin is still in contention and has been located throughout the African continent, current hypotheses point to its origin and first domestication in north-eastern Africa around six thousand years ago. Wild dessert watermelons have been found throughout Sudan, Egypt, Ethiopia, Libya, and Kenya, adjacent to the Nile Valley[^ref4] and some of the earliest iconography of oblong melons — an indication of domestication — can be found in Egyptian tombs and Mediterranean and Byzantine mosaics, and seeds were found in the famous King Tutankhamen's tomb.[^ref5]
 <param ve-image
-title="Representations of watermelon in Egyptian tombs" url="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/aob/116/2/10.1093_aob_mcv077/2/mcv077f2p.png?Expires=1599137500&Signature=R-SPwg8TMVoQjtTuWH~HxugVkhIGbt6Jbh~qJv9YIzrz8CKD2JJUkfkcfZgF6N1mEmDkiXwIdyBr7IN8O8cIVvXJyeQFqr5G7gb~8ZvMRo1O0SPU4md~VWlToHpEklMkrX1qXbf-hrk0E-pgjjUT~jZbxp~wxd56NOV8-Xx7OhD~Kf4q0UuI6I81CFwO7aAzWfFtfbgscQTKquRGow81UBR9aNJJ5gh7jpOGZ3nr9A1~fUDuSmnqr1DbTZ67CjsLmb3qSEsw5ReuBqlUJJUEIaYUGstmRegjrnhrPpF9zhIZ13ats0ADxNeubChfhUte22fulFhjYxTaGbJN2DS04Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-       fit="contain"
-       attribution="Annals of Botany">
+	title="Representations of watermelon in Egyptian tombs" url="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/aob/116/2/10.1093_aob_mcv077/2/mcv077f2p.png?Expires=1599137500&Signature=R-SPwg8TMVoQjtTuWH~HxugVkhIGbt6Jbh~qJv9YIzrz8CKD2JJUkfkcfZgF6N1mEmDkiXwIdyBr7IN8O8cIVvXJyeQFqr5G7gb~8ZvMRo1O0SPU4md~VWlToHpEklMkrX1qXbf-hrk0E-pgjjUT~jZbxp~wxd56NOV8-Xx7OhD~Kf4q0UuI6I81CFwO7aAzWfFtfbgscQTKquRGow81UBR9aNJJ5gh7jpOGZ3nr9A1~fUDuSmnqr1DbTZ67CjsLmb3qSEsw5ReuBqlUJJUEIaYUGstmRegjrnhrPpF9zhIZ13ats0ADxNeubChfhUte22fulFhjYxTaGbJN2DS04Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+	fit="contain"
+	attribution="Annals of Botany">
 <param ve-image
 title="Round cucurbits, possibly watermelons, found in different Roman and Byzantine mosaics dated 425-600 CE in Israel" url="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/aob/114/2/10.1093_aob_mcu106/3/mcu10606.jpeg?Expires=1599137594&Signature=bQYlzxcLbJtkOGTL6A7WM0WCyGwkZuHfT1I1zKUSbjxnn0OQVUQvlewQ~l3QGANeVt~Y9tZUFSFImcd7XVKgdZJbwIqOrmuODRnbNn5wXJGWlTMKCfZBwoE9mI78CvMeGFfSoD5bJgnlNWrkBJT4nrLkFYvGuopdQqmSpDKi9PvtgThhV~6RSh1ALDIwf59aS~I4VeOmQotBrg9EwD~2RwYGYvIyOa1u2BWgEgoDd9k96eaGwP73p6-soaCjrfLAlAG0yUcHa1~7HmuCTOaJ-0SX5Y2ONYHj4u0Rr7lSV4V8fAGysp7PuiEIZp7Y5C12GadGxuzvqcr6z9w3WZN5OQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
        fit="contain"
@@ -232,5 +232,5 @@ title="Square watermelon from Japan" url="https://upload.wikimedia.org/wikipedia
 [^ref22]: Deal Saxon, H. (2018) ‘Bees and watermelons’, The Statesboro Herald, [online], https://www.statesboroherald.com/local/bees-and-watermelons/, [Accessed: 24/07/20]; Melicher, D. (2019) ‘Road Trip: How Hive Transportation Puts Stress on Honey Bees’, Entomology Today, [online], https://entomologytoday.org/2019/04/01/road-trip-hive-transportation-stress-honey-bees/, [Accessed: 24/07/20]
 [^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NDUyMTk1OV19
+eyJoaXN0b3J5IjpbLTE0MDM3NjkwODksLTQ3NDUyMTk1OV19
 -->
