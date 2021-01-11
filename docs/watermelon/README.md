@@ -173,7 +173,8 @@ Watermelons were brought to the Americas in the sixteenth century, introduced by
 	title="Distribution"
 	url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/geojson/watermelon_distribution.json">
 <param ve-image
-	title="African-Americans dancing around a pile of watermelons" url="https://upload.wikimedia.org/wikipedia/commons/3/35/African_Americans_dancing_around_a_pile_of_watermelons_%28cropped%29.jpg"
+	title="African-Americans dancing around a pile of watermelons"
+	url="https://upload.wikimedia.org/wikipedia/commons/3/35/African_Americans_dancing_around_a_pile_of_watermelons_%28cropped%29.jpg"
 	fit="contain"
 	attribution="Wikimedia commons">
 
@@ -189,7 +190,7 @@ Certain characteristics of the watermelon made it conducive to racializing: its 
 	fit="contain"
 	attribution="National Museum of African American History & Culture">
 <param ve-image
-	title="“Whether chickens or watermelons exercise the stronger fascination upon the colored mind is an uncertain question … it must be remembered that there is far more difficulty in entering a locked chicken-house than there is in climbing the fence of the melon-patch.” (The New York Times, 1882)"
+	title="“Whether chickens or watermelons exercise the stronger fascination upon the colored mind is an uncertain question […] it must be remembered that there is far more difficulty in entering a locked chicken-house than there is in climbing the fence of the melon-patch.” (The New York Times, 1882)"
 	url="https://cdn.loc.gov/service/pnp/cph/3b40000/3b48000/3b48900/3b48980r.jpg"
 	fit="contain"
 	attribution="Library of Congress">
@@ -202,15 +203,15 @@ Certain characteristics of the watermelon made it conducive to racializing: its 
 Stories of stolen watermelons similarly contributed to establishing the perception of Black criminality following the 13th Amendment. The irresistible lure of the watermelon suggested that it did “more to tempt the colored race to steal than all other fruit combined," with countless anecdotes supposedly citing the words of African-Americans claiming that stolen watermelons tasted better than bought.[^ref16] The narrative of African-American watermelon-stealing was so entrenched that in Tennessee, the state bill that criminalized trespass in 1870 was commonly known as the ‘watermelon bill’, serving to disenfranchise convicted trespassers. The popularity of such cultural tropes became important tools in exclusionary racial politics well into the twentieth century and [are still pervasive today](https://www.vox.com/first-person/2019/8/29/20836933/watermelon-racist-history-black-people).[^ref17]
 <param ve-storiiies id="0d1fv">
 
-
-### “Cholera Bombshells”
+### “Cholera bombshells”
 The racist belief in the unhealthy habits of African-Americans also featured in nineteenth-century associations between watermelons and disease. The common belief that eating too much watermelon, especially when overripe, could lead to cholera led some cities to ban the fruit’s sale during epidemics, watermelons referred to as “cholera bombshells.”[^ref18] Whilst it is unclear whether such direct lines of causality between watermelons and cholera were accurate, contemporary evidence has shown that raw fruits and vegetables can be a frequent source of cholera infection, especially if fields are fertilized with uncomposted manure, or irrigated with contaminated water. The significance of watermelons specifically, rather than other types of fruit, in terms of cholera infections was almost certainly exaggerated to serve popular narratives in America at the time, but the association was also present in other parts of the world.
 <param ve-image
-	title="Cholera Intelligence" url="images/054de03b-d835-43ba-a445-3f0e1024551e.jpeg"
+	title="Cholera Intelligence"
+	url="images/054de03b-d835-43ba-a445-3f0e1024551e.jpeg"
 	fit="contain"
 	attribution="The National Intelligencer. 1832, Gale Primary Sources, Nineteenth Century U.S. Newspapers">
 <param ve-image
-title="Carried the cholera" url="images/watermelon-poem.jpeg"
+	title="Carried the cholera" url="images/watermelon-poem.jpeg"
 	fit="contain"
 	attribution="The Macon Telegraph. 1884, The Milwaukee Daily Sentinel, Aug. 19, p. 4, Gale Primary Sources, Nineteenth Century U.S. Newspapers">
 
@@ -293,6 +294,6 @@ As we have seen throughout this essay, the watermelon has undergone significant 
 
 [^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQwOTYyMzM0LC0yMDg1ODYzNTExLC00Nz
-Q1MjE5NTldfQ==
+eyJoaXN0b3J5IjpbLTU4OTY0MDIxMCwtMjA4NTg2MzUxMSwtND
+c0NTIxOTU5XX0=
 -->
