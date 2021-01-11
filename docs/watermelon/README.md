@@ -148,13 +148,19 @@ title="'Melon d'Eau,' Metamorphosis, Maria Sybilla Merian (1719)" url=" "
 	fit="contain"
 	attribution="Dumbarton Oaks">
 
-### Watermelons, Race, and the American South 
-
+### Watermelons, race, and the American South 
 Watermelons were brought to the Americas in the sixteenth century, introduced by colonists and African slaves and cultivated widely by indigenous populations and in slave gardens. After the 1863 Emancipation Proclamation, the watermelon briefly became a tool of black citizenship; the ease with which watermelons could be grown and sold meant that they became a source of income for freed slaves.[^ref15] Although the watermelon initially held a certain amount of emancipatory potential for African-Americans both through their sale enabling the escape of the plantation economy and through the consumption of watermelons as a public and communal activity enacting newfound freedoms, the watermelon soon became perceived as a threat by white southerners who proceeded to transform the fruit into a symbol of black people’s unfitness for freedom and citizenship.
-<param ve-map time-selector="1400:2000" basemap="Esri_WorldPhysical" center="27.6648, -81.5158" zoom="">
-<param ve-map-layer geojson active url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/geojson/watermelon_distribution.json" title="Distribution"> 
+<param ve-map
+	time-selector="1400:2000"
+	basemap="Esri_WorldPhysical"
+	center="27.6648, -81.5158"
+	zoom="">
+<param ve-map-layer
+	geojson active
+	title="Distribution"
+	url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/geojson/watermelon_distribution.json">
 <param ve-image
-title="African-Americans dancing around a pile of watermelons" url="https://upload.wikimedia.org/wikipedia/commons/3/35/African_Americans_dancing_around_a_pile_of_watermelons_%28cropped%29.jpg"
+	title="African-Americans dancing around a pile of watermelons" url="https://upload.wikimedia.org/wikipedia/commons/3/35/African_Americans_dancing_around_a_pile_of_watermelons_%28cropped%29.jpg"
        fit="contain"
        attribution="Wikimedia commons">
        
@@ -246,5 +252,5 @@ title="Square watermelon from Japan" url="https://upload.wikimedia.org/wikipedia
 [^ref22]: Deal Saxon, H. (2018) ‘Bees and watermelons’, The Statesboro Herald, [online], https://www.statesboroherald.com/local/bees-and-watermelons/, [Accessed: 24/07/20]; Melicher, D. (2019) ‘Road Trip: How Hive Transportation Puts Stress on Honey Bees’, Entomology Today, [online], https://entomologytoday.org/2019/04/01/road-trip-hive-transportation-stress-honey-bees/, [Accessed: 24/07/20]
 [^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNjAwOTQ1NywtNDc0NTIxOTU5XX0=
+eyJoaXN0b3J5IjpbNjY1MjU0MzI5LC00NzQ1MjE5NTldfQ==
 -->
