@@ -93,14 +93,16 @@ By the ninth and twelfth centuries CE respectively, watermelons had arrived in I
 	zoom="3">
 <param ve-map-layer
 	geojson active 
-	title="Distribution"> url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/geojson/watermelon_distribution.json" 
+	title="Distribution"
+	url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/geojson/watermelon_distribution.json">
 <param ve-image
-	title="'Satsubari, the Second of the Sixteen Arhats.' Japan. Early 14th century."
+	title="‘Satsubari, the Second of the Sixteen Arhats.’ Japan. Early 14th century."
 	url="https://images.metmuseum.org/CRDImages/as/original/DP-12232-006.jpg"
 	fit="contain"
 	attribution="The Metropolitan Museum of Art">
 <param ve-image
-title="'Plants and insects' by Shin Saimdang" url="https://ids.lib.harvard.edu/ids/view/18731783?width=3000&height=3000"
+	title="‘Plants and insects’ by Shin Saimdang"
+	url="https://ids.lib.harvard.edu/ids/view/18731783?width=3000&height=3000"
 	fit="contain"
 	attribution="Harvard Art Museums">
 <param ve-image
@@ -111,7 +113,8 @@ title="'Plants and insects' by Shin Saimdang" url="https://ids.lib.harvard.edu/i
 
 Moorish conquerors of Spain left agricultural evidence of the watermelon, mostly in the shape of seeds, in the tenth century CE, and illuminated manuscripts shed light on the varieties of watermelons grown in southern Italy. The watermelon appearing in subsequent European manuscripts seemed to be more palatable than Pliny’s pepones: early health treatises (_Tacuinum Sanitatis_) often commissioned by Italian nobility in the 14th century show that they may have been so delectable that harvesters [would taste test them](http://visualiseur.bnf.fr/ConsulterElementNum?O=08100553&E=JPEG&Deb=75&Fin=75&Param=C) in the fields. However, the sweetness — related to the redness of the flesh — of the melons does not appear to be consistent. Writing in the late 16th century, John Gerard, in his [_Herball_](https://www.biodiversitylibrary.org/item/109874#page/789/mode/1up), described the flesh as “spungie and of a flimsie substance” which can be “eaten rawe, but more commonly boiled” and was still more notable for its healthful properties: “it ingendereth a waterish bloud, mitigateth the extremitie of heat of the inner parts, and tempereth the sharpness and fervent heat of choler.”[^ref14] 
 <param ve-image
-title="Watermelon in the Tacuinum Sanitatis, c. 1390-1400" url="http://visualiseur.bnf.fr/ConsulterElementNum?O=08100553&E=JPEG&Deb=74&Fin=74&Param=C"
+	title="Watermelon in the Tacuinum Sanitatis, c. 1390-1400"
+	url="http://visualiseur.bnf.fr/ConsulterElementNum?O=08100553&E=JPEG&Deb=74&Fin=74&Param=C"
 	fit="contain"
 	attribution="Bibliothèque Nationale de France">
 <param ve-image
@@ -120,7 +123,8 @@ title="Watermelon in the Tacuinum Sanitatis, c. 1390-1400" url="http://visualise
 	fit="cover"
 	attribution="British Library. Egerton MS 2020">
 <param ve-image
-title="'Anguriae' in Mathiolli's Dioscorides."M url="https://www.archive.org/download/mobot31753000819224/page/n512_w299"
+	title="‘Anguriae’ in Mathiolli’s Dioscorides."
+	url="https://www.archive.org/download/mobot31753000819224/page/n512_w299"
 	fit="contain"
 	attribution="BHL">
 <param ve-image
@@ -287,6 +291,6 @@ As we have seen throughout this essay, the watermelon has undergone significant 
 
 [^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNzUyNjQ2MSwtMjA4NTg2MzUxMSwtND
-c0NTIxOTU5XX0=
+eyJoaXN0b3J5IjpbLTE0NzM0NzkyMTMsLTIwODU4NjM1MTEsLT
+Q3NDUyMTk1OV19
 -->
