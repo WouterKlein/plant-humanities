@@ -64,7 +64,7 @@
 	fill="red"
 	auto-play="true">
 <param ve-map-layer
-	url="https://github.com/WouterKlein/plant-humanities/blob/develop/docs/boxwood/us-states.json">
+	url="https://github.com/WouterKlein/plant-humanities/docs/boxwood/us-states.json">
 
 Boxwood, with which this disease is associated, is a genus of evergreen shrubs that enjoy great commercial success as ornamental garden plants. Among its varieties and cultivars, the most popular is arguably English or common boxwood (_Buxus sempervirens ‘Suffruticosa’_) native to western and southern Europe, northwest Africa, and southwest Asia. In the United States—where this cultivated variety had been mass introduced on the wave of the early twentieth-century interest in European gardens—its sales, until recently, represented the greatest proportion (around 15%) among broadleaf evergreens, reaching an annual revenue of 126 million dollars in 2014.[^ref2] A boxwood-flanked promenade, in the words of landscape architect Diane McGuire, was historically “the most common element found in almost every garden in the southern United States.”
 <param title="Buxus" eid="Q158703" aliases="Boxwood">
@@ -275,9 +275,9 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^ref30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii,_ both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NTgzNDMyNSwtMTg0Mzc3MDk5NCw5OT
-M1ODEwODIsOTkzNTgxMDgyLDk5MzU4MTA4MiwtMTQ3NTM2ODQ2
-MywxNDg2MTQ3MjIxLDUyMTQ0MTM1NSw5OTk3MDM5MjksLTEwMD
-U5NzE2NSw5OTk3MDM5MjksLTE4Mzg5NDU0MywxNTg0NjQ2MDIz
-XX0=
+eyJoaXN0b3J5IjpbLTIwMDc5ODU5NzEsLTE4NDM3NzA5OTQsOT
+kzNTgxMDgyLDk5MzU4MTA4Miw5OTM1ODEwODIsLTE0NzUzNjg0
+NjMsMTQ4NjE0NzIyMSw1MjE0NDEzNTUsOTk5NzAzOTI5LC0xMD
+A1OTcxNjUsOTk5NzAzOTI5LC0xODM4OTQ1NDMsMTU4NDY0NjAy
+M119
 -->
