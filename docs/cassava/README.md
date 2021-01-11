@@ -146,22 +146,39 @@ Today, cassava is still grown in Java, and in other regions around the globe. Th
 ## References
 
 [^1]:  “Manihot esculenta Crantz,” _Plants of the World Online_, accessed July 22, 2020, http://plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:351790-1 
+
 [^2]: Donald Ugent, Shelia Pozorski, and Thomas Pozorski, "Archaeological Manioc (Manihot) from Coastal Peru," _Economic Botany_ 40, no. 1 (1986): 99, accessed July 28, 2020, www.jstor.org/stable/4254832 
+
 [^3]: Ibid
+
 [^4]: “Manihot esculenta Crantz,” _Plants of the World Online_, accessed July 22, 2020, http://plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:351790-1
+
 [^5]: Donald Ugent, Shelia Pozorski, and Thomas Pozorski, "Archaeological Manioc (Manihot) from Coastal Peru," _Economic Botany_ 40, no. 1 (1986): 80, accessed July 28, 2020, www.jstor.org/stable/4254832 
+
 [^6]: “Stirrup Spout Bottle with Manioc Form,” _The Metropolitan Museum of Art_, accessed July 20, 2020, https://www.metmuseum.org/art/collection/search/308558 
+
 [^7]:  “Vessel Forms,” _Dumbarton Oaks_, accessed July 28, 2020, https://www.doaks.org/resources/moche-iconography/vessel-forms
+
 [^8]: Hélène Bernier, “Moche Decorated Ceramics,” _The Metropolitan Museum of Art_, last modified August 2009, https://www.metmuseum.org/toah/hd/moch/hd_moch.htm; “Lords, Warriors, and Priests,” _Peabody Museum_, accessed July 20, 2020, https://www.peabody.harvard.edu/node/2499
+
 [^9]: George B. Griffenhagen, “The Materia Medica of Christopher Columbus,” _Pharmacy in History_, 34 no. 3 (1992): 136-137 https://www.jstor.com/stable/41111458; Snait B. Gissis, “Visualising ‘Race’ in the Eighteenth Century,” _Historical Studies in the Natural Sciences_, 41 no. 1 (2011): 90-91. https://www.jstor.org/stable/10.1525/hsns.2011.41.1.41
+
 [^10]: Jean de Léry, _History of a Voyage to the Land of Brazil, Otherwise Called America_(Berkeley: University of California Press, n.d.) https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/1feg4j8/alma991012177589704436
+
 [^11]: Antonio de León Pinelo,_Question moral si el chocolate quebranta el ayuno eclesiastico: Tratase de otras bebidas i confecciones que se vsan en varias provincias._(Madrid: Por la viuda de Iuan Gonçalez., 1636), https://www.biodiversitylibrary.org/page/55670844; Bedford Pim and Berthold Seemann, _Dottings on the roadside, in Panama, Nicaragua, and Mosquito_(London: Chapman and Hall, 1869), 405-406. http://mertzdigital.nybg.org/cdm/ref/collection/p9016coll23/id/30871
+
 [^12]: Ana Lucia Barretto Penna, Luis A. Nero and Svetoslav D. Todorov, _Fermented Foods of Latin America: From Traditional Knowledge to Innovative Applications._ (Boca Raton: CRC Press, 2017), 233.  https://doi-org.proxy.libraries.uc.edu/10.1201/9781315369433; Bedford Pim and Berthold Seemann, Dottings on the roadside, in Panama, Nicaragua, and Mosquito (London: Chapman and Hall, 1869), 405. http://mertzdigital.nybg.org/cdm/ref/collection/p9016coll23/id/30871
+
 [^13]: Jean de Léry, _History of a Voyage to the Land of Brazil, Otherwise Called America_(Berkeley: University of California Press, n.d.) https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/1feg4j8/alma991012177589704436
+
 [^14]: Ana Lucia Barretto Penna, Luis A. Nero and Svetoslav D. Todorov, _Fermented Foods of Latin America: From Traditional Knowledge to Innovative Applications._ (Boca Raton: CRC Press, 2017), 238.  https://doi-org.proxy.libraries.uc.edu/10.1201/9781315369433
+
 [^15]: Kaori O’Connor, “Beyond ‘Exotic Groceries’: Tapioca/Cassava/Manioc, a Hidden Commodity of Empires and Globalisation,” in _Global Histories, Imperial Commodities, Local Interactions,_ ed. Jonathan Curry-Machado (Hampshire and New York: Palgrave Macmillan, 2013), 227. https://doi.org/10.1057/9781137283603_12
+
 [^16]: Maria Sibylla Merian, _Metamorphosis insectorum Surinamensium_ (Amstelaedami : Joannem Oosterwyk, 1719), 4. https://nrs.harvard.edu/urn-3:DOAK.RESLIB:41825989?n=16
+
 [^17]: Ibid, 5.
+
 [^18]: Judith Ann Carney and Richard Nicholas Rosomoff, _In the Shadow of Slavery_, (Berkeley and Los Angeles: University of California Press, 2009), 54.
 [^19]: Ibid, 178
 [^20]: Ibid, 180.
@@ -347,5 +364,5 @@ Code to add a specimen from Global Plants. Lorem ipsum dolor sit amet, consectet
 This example also displays a type specimen from the Global Plants site for the species _Agave americana_.  In this example the Global Plants identifier ([10.5555/al.ap.specimen.us00092112](https://plants.jstor.org/stable/10.5555/al.ap.specimen.us00092112)) is used to display the image for a specific specimen.
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.m0233266">dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5OTM0NTY0MV19
+eyJoaXN0b3J5IjpbNDQzNjk3ODMxLDE5OTkzNDU2NDFdfQ==
 -->
