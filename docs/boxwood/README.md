@@ -204,13 +204,13 @@ Closely connected with these expatriate circles was British landscape architect 
 Deeply invested with cultural symbolism, boxwood represents the rich legacy of the formal gardens of Europe characterized by geometric layout, controlling vistas, and ambitious scale. Characterized by climate resistance in addition to malleability, it became a means of exporting this prestigious horticultural tradition that claimed its origins in antiquity across the entire globe, serving not merely as a plant material, but a key medium of stylistic expression. The story of boxwood is that of a humble yet resilient plant, which, after centuries of disparagement and neglect, succeeded in taking over the garden world. Whether or not it would be able retain this hard-earned preeminence as the most sought-after ornamental shrub, only time can tell.[^ref30]
 <param ve-image
 	title="Boxwood in the Dumbarton Oaks garden, before removal."
-	url="https://github.com/WouterKlein/plant-humanities/docs/blob/master/boxwood/Boxwood-blight-in-Dumbarton-Oaks-garden_pre-removal1.jpg">
+	url="https://github.com/WouterKlein/plant-humanities/blob/develop/docs/boxwood/Boxwood-blight-in-Dumbarton-Oaks-garden_pre-removal1.jpg">
 <param ve-image
 	title="Boxwood blight at the Dumbarton Oaks garden."
-	url="https://github.com/WouterKlein/plant-humanities/docs/blob/master/boxwood/Boxwood-blight-in-Dumbarton-Oaks-garden_pre-removal2.jpg">
+	url="https://github.com/WouterKlein/plant-humanities/blob/develop/docs/boxwood/Boxwood-blight-in-Dumbarton-Oaks-garden_pre-removal2.jpg">
 <param ve-image
 	title="Boxwood in the Dumbarton Oaks garden, after removal."
-	url="https://github.com/WouterKlein/plant-humanities/docs/blob/master/boxwood/Boxwood-blight-in-Dumbarton-Oaks-garden_post-removal.jpg">
+	url="https://github.com/WouterKlein/plant-humanities/blob/develop/docs/boxwood/Boxwood-blight-in-Dumbarton-Oaks-garden_post-removal.jpg">
 
 ### References
 
@@ -275,9 +275,9 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^ref30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii,_ both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzE0OTE1MjYsLTE4NDM3NzA5OTQsOT
-kzNTgxMDgyLDk5MzU4MTA4Miw5OTM1ODEwODIsLTE0NzUzNjg0
-NjMsMTQ4NjE0NzIyMSw1MjE0NDEzNTUsOTk5NzAzOTI5LC0xMD
-A1OTcxNjUsOTk5NzAzOTI5LC0xODM4OTQ1NDMsMTU4NDY0NjAy
-M119
+eyJoaXN0b3J5IjpbLTYxMzAyMTIzMSwtMTg0Mzc3MDk5NCw5OT
+M1ODEwODIsOTkzNTgxMDgyLDk5MzU4MTA4MiwtMTQ3NTM2ODQ2
+MywxNDg2MTQ3MjIxLDUyMTQ0MTM1NSw5OTk3MDM5MjksLTEwMD
+U5NzE2NSw5OTk3MDM5MjksLTE4Mzg5NDU0MywxNTg0NjQ2MDIz
+XX0=
 -->
