@@ -260,9 +260,22 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 [^ref23]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 
-[^ref24]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.dus
+[^ref24]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
+
+[^ref25]: 
+
+[^ref26]: 
+
+[^ref27]: 
+
+[^ref28]: Edith Wharton, _A backward glance_ (New York, London: D. Appleton-Century Company, 1934), 130.
+
+[^ref29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts, 101_ (1953): 182. (http://www.jstor.org/stable/41365015)
+
+[^ref30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii,_ both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NjE0NzIyMSw1MjE0NDEzNTUsOTk5Nz
-AzOTI5LC0xMDA1OTcxNjUsOTk5NzAzOTI5LC0xODM4OTQ1NDMs
-MTU4NDY0NjAyM119
+eyJoaXN0b3J5IjpbMTE3MjM1MzM1MywxNDg2MTQ3MjIxLDUyMT
+Q0MTM1NSw5OTk3MDM5MjksLTEwMDU5NzE2NSw5OTk3MDM5Mjks
+LTE4Mzg5NDU0MywxNTg0NjQ2MDIzXX0=
 -->
