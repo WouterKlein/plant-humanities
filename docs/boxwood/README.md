@@ -226,9 +226,9 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 [^ref6]: Pliny the Younger, _Letters,_ V.6.
 
-[^ref7]: <![endif]--> Girolamo Firenzuola, “La grande arte della agricoltura,” in Alessandro Tagliolini, “Girolamo Firenzuola e il giardino nelle fonti della metà del Cinquecento,” in _Il giardino storico italiano,_ ed. Giovanna Ragionieri (Florence: Olschki, 1981), 304.
+[^ref7]: Girolamo Firenzuola, “La grande arte della agricoltura,” in Alessandro Tagliolini, “Girolamo Firenzuola e il giardino nelle fonti della metà del Cinquecento,” in _Il giardino storico italiano,_ ed. Giovanna Ragionieri (Florence: Olschki, 1981), 304.
 
-[^ref8]: Giovan Vettorio Soderini, _Opere_, ed. Alberto Bacchi della Lega (Bologna: Romagnoli dall’Acqua, 1902–07), III:52, 245, 251, 254, 343.
+[^ref8]: Giovan Vettorio Soderini, _Opere,_ ed. Alberto Bacchi della Lega (Bologna: Romagnoli dall’Acqua, 1902–07), III:52, 245, 251, 343.
 
 [^ref9]: Firenzuola, “La grande arte della agricoltura,” 304; Soderini, _Opere_, III:254.
 
@@ -262,7 +262,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 [^ref24]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTA2MTYyMTYsNTIxNDQxMzU1LDk5OT
-cwMzkyOSwtMTAwNTk3MTY1LDk5OTcwMzkyOSwtMTgzODk0NTQz
-LDE1ODQ2NDYwMjNdfQ==
+eyJoaXN0b3J5IjpbLTMzMDc2ODc5OCw1MjE0NDEzNTUsOTk5Nz
+AzOTI5LC0xMDA1OTcxNjUsOTk5NzAzOTI5LC0xODM4OTQ1NDMs
+MTU4NDY0NjAyM119
 -->
