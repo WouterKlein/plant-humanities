@@ -128,29 +128,31 @@ Moorish conquerors of Spain left agricultural evidence of the watermelon, mostly
 	fit="contain"
 	attribution="BHL">
 <param ve-image
-	title="Citrull cocumber in Gerard's Herball"
+	title="Citrull cocumber in Gerard’s Herball"
 	url="https://www.archive.org/download/mobot31753000817756/page/n949_w320"
 	fit="contain"
 	attribution="BHL">
 
 In the seventeenth to nineteenth centuries, the watermelon became a common minor crop in European gardens and began to appear frequently in European and American still lifes, providing a diverse visual archive of watermelon varieties. The seventeenth century watermelons of Albert Eckhout and Giovanni Stanchi, for example, exhibit whorls of red flesh amongst white rind and give us a sense of how much the watermelon has changed even in the last few hundred years. The inclusion of watermelons in still lifes also provides an insight into the multitude of cultural values associated with the fruit at the time. Whilst American still lifes, such as those of the prolific Peale family in the early nineteenth century, placed the melon amidst almost nauseating abundance and plenty, European artists would often [cut through that fantasy](https://www.flickr.com/photos/104901827@N06/46017346544) quite literally with the abrupt imposition of a knife as a harsh reminder of the fleeting nature of life.
 <param ve-image
-	title="'Pineapple, watermelons and other fruits (Brazilian fruits)' by Albert Eckhout (1610-1666)"	url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
+	title="'Pineapple, watermelons and other fruits (Brazilian fruits)' by Albert Eckhout (1610-1666)"
+	url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
 	fit="contain"
 	attribution="Wikimedia Commons">
 <param ve-image
-title="'Watermelons, peaches, pears and other fruit in a landscape' by Giovanni Stanchi (1608–1675)" url="https://upload.wikimedia.org/wikipedia/commons/0/00/Giovanni_Stanchi%2C_Watermelons%2C_Peaches%2C_Pears%2C_and_Other_Fruit_in_a_Landscape.jpg"
+	title="‘Watermelons, peaches, pears and other fruit in a landscape’ by Giovanni Stanchi (1608-1675)" url="https://upload.wikimedia.org/wikipedia/commons/0/00/Giovanni_Stanchi%2C_Watermelons%2C_Peaches%2C_Pears%2C_and_Other_Fruit_in_a_Landscape.jpg"
 	fit="contain"
 	attribution="Wikimedia Commons">
 <param ve-image
-	title="'Still life with watermelons' by Sarah Miriam Peale (1800–1855)"
+	title="‘Still life with watermelons’ by Sarah Miriam Peale (1800-1855)"
 	url="https://upload.wikimedia.org/wikipedia/commons/f/f6/Still_Life_with_Watermelon%2C_by_Sarah_Miriam_Peale%2C_1822%2C_oil_on_panel_-_Fogg_Art_Museum%2C_Harvard_University_-_DSC01409.jpg"
 	fit="contain"
 	attribution="Wikimedia Commons">
 
 Diverse types of watermelon are also represented in styles commonly associated with European botanical specimens with the fruits sitting in isolation, such as in Maria Sybilla Merian’s [_Metamorphosis insectorum Surinamesium_](https://www.doaks.org/resources/online-exhibits/maria-sibylla-merian/dissertatio-de-generatione-et-metamorphosibus-insectorum-surinamensium) and the nineteenth-century illustration shown to the right. This latter painting is taken from an [album of Asian fruits](https://www.doaks.org/resources/rare-books/album-of-chinese-watercolors-of-asian-fruits/) held by Dumbarton Oaks, likely executed by a Chinese artist working in Malaysia or Sumatra. In it, different stages in the growth of the flower and the fruit are shown alongside the seeds and a vivid cross-section, again echoing the whorls of earlier dSepictions. The bright and appealingly visual nature of the modern watermelon left it uniquely open to enrolment into the racist visual tropes of nineteenth-century America. 
 <param ve-image
-title="'Melon d'Eau,' Metamorphosis, Maria Sybilla Merian (1719)" url=" "
+title="‘Melon d’Eau,’ Metamorphosis, Maria Sybilla Merian (1719)"
+	url=""
 	fit="contain"
 	attribution="Dumbarton Oaks">
 <param ve-image
@@ -162,8 +164,8 @@ title="'Melon d'Eau,' Metamorphosis, Maria Sybilla Merian (1719)" url=" "
 ### Watermelons, race, and the American South 
 Watermelons were brought to the Americas in the sixteenth century, introduced by colonists and African slaves and cultivated widely by indigenous populations and in slave gardens. After the 1863 Emancipation Proclamation, the watermelon briefly became a tool of black citizenship; the ease with which watermelons could be grown and sold meant that they became a source of income for freed slaves.[^ref15] Although the watermelon initially held a certain amount of emancipatory potential for African-Americans both through their sale enabling the escape of the plantation economy and through the consumption of watermelons as a public and communal activity enacting newfound freedoms, the watermelon soon became perceived as a threat by white southerners who proceeded to transform the fruit into a symbol of black people’s unfitness for freedom and citizenship.
 <param ve-map
-	time-selector="1400:2000"
 	basemap="Esri_WorldPhysical"
+	time-selector="1400:2000"
 	center="27.6648, -81.5158"
 	zoom="">
 <param ve-map-layer
@@ -291,6 +293,6 @@ As we have seen throughout this essay, the watermelon has undergone significant 
 
 [^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzM0NzkyMTMsLTIwODU4NjM1MTEsLT
-Q3NDUyMTk1OV19
+eyJoaXN0b3J5IjpbMzQwOTYyMzM0LC0yMDg1ODYzNTExLC00Nz
+Q1MjE5NTldfQ==
 -->
