@@ -230,9 +230,9 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 [^ref8]: Giovan Vettorio Soderini, _Opere,_ ed. Alberto Bacchi della Lega (Bologna: Romagnoli dall’Acqua, 1902–07), III:52, 245, 251, 343.
 
-[^ref9]: Firenzuola, “La grande arte della agricoltura,” 304; Soderini, _Opere,_ III:254.
+[^ref9]: Soderini, _Opere,_ III:254.
 
-[^ref10]: <![endif]--> Firenzuola, “La grande arte della agricoltura,” 304; Soderini, _Opere,_ III:254.
+[^ref10]: Firenzuola, “La grande arte della agricoltura,” 304; Soderini, _Opere,_ III:254.
 
 [^ref11]: Gerard, _Herball,_ 1226; Soderini, _Opere,_ III:343.
 
@@ -275,7 +275,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^ref30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii,_ both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTIzNzA4MjUsMTQ4NjE0NzIyMSw1Mj
+eyJoaXN0b3J5IjpbLTE1NzY4MTUyMTEsMTQ4NjE0NzIyMSw1Mj
 E0NDEzNTUsOTk5NzAzOTI5LC0xMDA1OTcxNjUsOTk5NzAzOTI5
 LC0xODM4OTQ1NDMsMTU4NDY0NjAyM119
 -->
