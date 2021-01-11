@@ -54,7 +54,7 @@ As the myths of Antiquity and legends surrounding the dragon tree aged with time
 	geojson url="geojson/Dracaena draco native.json"
 	active>
 
-The Guanches used dragon’s blood for a variety of purposes, ranging from embalming their dead, making dyes and varnishes, to using it as a toothpaste.[^ref5]  Believing that, when dragons died, they transformed into the divine trees, Guanches would regularly meet under the Orotava giant dragon tree’s large canopy to enact laws and perform judicial duties, as well as base meteorological predictions on the tree’s bloom.[^ref6] The tree remained a mythic indicator of foreign land that was both exotically enticing yet materially valuable, as shown, for instance, in Martin Schongauer’s engraving _The Flight to Egypt_ (c. 1470). Dragon’s blood was immensely valuable: Béthencourt noted that the resin was “well worth two hundred ducats, while what was given in exchange was hardly worth two francs.”[^ref7] In fact, dragon’s blood soon became a European toothpaste, likely indicating a cultural transference of ethnobotanical knowledge between the Guanches and their European neighbors.
+The Guanches used dragon’s blood for a variety of purposes, ranging from embalming their dead, making dyes and varnishes, to using it as a toothpaste.[^ref5] Believing that, when dragons died, they transformed into the divine trees, Guanches would regularly meet under the Orotava giant dragon tree’s large canopy to enact laws and perform judicial duties, as well as base meteorological predictions on the tree’s bloom.[^ref6] The tree remained a mythic indicator of foreign land that was both exotically enticing yet materially valuable, as shown, for instance, in Martin Schongauer’s engraving _The Flight to Egypt_ (c. 1470). Dragon’s blood was immensely valuable: Béthencourt noted that the resin was “well worth two hundred ducats, while what was given in exchange was hardly worth two francs.”[^ref7] In fact, dragon’s blood soon became a European toothpaste, likely indicating a cultural transference of ethnobotanical knowledge between the Guanches and their European neighbors.
 <param title="Guanches" eid="Q219995">
 <param title="Orotava" eid="Q177566" aliases="Orotava">
 <param ve-storiiies
@@ -185,11 +185,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzI3MDYzMDQsMjg4NjE2NTEyLDE1ND
-AwMzc0MjAsLTEwNTk4NjMyNzEsMTc5NzMyMDA0NywxNzAwNTE5
-ODkxLDcyMDQ1NjY4OSwtMTQ5ODA1NTQ1NSwxOTQ1ODM5NjAwLC
-0xNzM0MjU1ODIsLTY4Nzc1OTA3NiwxMjQ5MDEyMzk0LDE5MDY1
-MDU4MjQsLTk0NTU0Nzg1LDM0OTAwMDY3LC0xOTYwNDA5MjYyLD
-M2MDE4NTIzMCwzNjAxODUyMzAsLTQ5OTkwMTEyMCwxNTU5OTEw
-MjgzXX0=
+eyJoaXN0b3J5IjpbLTEwODk3MzMzMTIsLTIwNzI3MDYzMDQsMj
+g4NjE2NTEyLDE1NDAwMzc0MjAsLTEwNTk4NjMyNzEsMTc5NzMy
+MDA0NywxNzAwNTE5ODkxLDcyMDQ1NjY4OSwtMTQ5ODA1NTQ1NS
+wxOTQ1ODM5NjAwLC0xNzM0MjU1ODIsLTY4Nzc1OTA3NiwxMjQ5
+MDEyMzk0LDE5MDY1MDU4MjQsLTk0NTU0Nzg1LDM0OTAwMDY3LC
+0xOTYwNDA5MjYyLDM2MDE4NTIzMCwzNjAxODUyMzAsLTQ5OTkw
+MTEyMF19
 -->
