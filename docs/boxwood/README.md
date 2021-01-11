@@ -131,7 +131,7 @@ The real issue with boxwood was what sixteenth-century English physician John Ge
 	url="https://www.archive.org/download/herballorgeneral00gera_2/page/n1250_w648"
 	region="-24,334,699,518">
 
-Bopotential medicinal applications met with a similar lack of enthusiasm. Despite an attempt by Amato Lusitano, sixteenth-century Portuguese Jewish physician, to prove that boxwood was a native European analogue of guaiacum and could, therefore, potentially cure syphilis, the general consensus—endorsed by the leading writer on _materia medica_, Pietro Andrea Mattioli—was that it “had no use in medicine.” Lusitano’s claim was dismissed as “vain and foolish,” which “could in no way be acceptable to doctors.”[^ref15] Such pronouncements against boxwood, which was considered of “no physical use among the most and best physicians,” were sustained by the Englishman John Parkinson (who, however, noted that its leaves could be given to horses as a cure for botfly larvae); while Gerard raged against “foolish empirics and women leeches” who “minister it against apoplexy and such diseases.”[^ref16] This negative opinion continued to pervade early modern medical thought, while boxwood’s known curative properties, especially as a styptic, generally remained ignored. 
+Boxwood's potential medicinal applications met with a similar lack of enthusiasm. Despite an attempt by Amato Lusitano, a sixteenth-century Portuguese Jewish physician, to prove that boxwood was a native European analogue of guaiacum and could, therefore, potentially cure syphilis, the general consensus—endorsed by the leading writer on _materia medica_, Pietro Andrea Mattioli—was that it “had no use in medicine.” Lusitano’s claim was dismissed as “vain and foolish,” which “could in no way be acceptable to doctors.”[^ref15] Such pronouncements against boxwood, which was considered of “no physical use among the most and best physicians,” were sustained by the Englishman John Parkinson (who, however, noted that its leaves could be given to horses as a cure for botfly larvae); Gerard raged against “foolish empirics and women leeches” who “minister it against apoplexy and such diseases.”[^ref16] This negative opinion continued to pervade early modern medical thought, while boxwood’s known curative properties, especially as a styptic, generally remained ignored. 
 <param ve-image
 	title="Boxwood image in Parkinson’s _Paradisi in sole paradisus terrestris_ (1629)"
 	url="https://ia801309.us.archive.org/BookReader/BookReaderImages.php?id=gri_33125012606931&itemPath=%2F6%2Fitems%2Fgri_33125012606931&server=ia801309.us.archive.org&page=n620_w1136"
@@ -275,9 +275,9 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^ref30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii,_ both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjgxMDA5NDAsMjAwNTc3MDk5MiwtMj
-AwNzk4NTk3MSwtMTg0Mzc3MDk5NCw5OTM1ODEwODIsOTkzNTgx
-MDgyLDk5MzU4MTA4MiwtMTQ3NTM2ODQ2MywxNDg2MTQ3MjIxLD
-UyMTQ0MTM1NSw5OTk3MDM5MjksLTEwMDU5NzE2NSw5OTk3MDM5
-MjksLTE4Mzg5NDU0MywxNTg0NjQ2MDIzXX0=
+eyJoaXN0b3J5IjpbLTI2MTE0MDUyMSwyMDA1NzcwOTkyLC0yMD
+A3OTg1OTcxLC0xODQzNzcwOTk0LDk5MzU4MTA4Miw5OTM1ODEw
+ODIsOTkzNTgxMDgyLC0xNDc1MzY4NDYzLDE0ODYxNDcyMjEsNT
+IxNDQxMzU1LDk5OTcwMzkyOSwtMTAwNTk3MTY1LDk5OTcwMzky
+OSwtMTgzODk0NTQzLDE1ODQ2NDYwMjNdfQ==
 -->
