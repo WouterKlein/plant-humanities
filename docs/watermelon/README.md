@@ -7,7 +7,6 @@
 	num-images="29"
 	num-primary-sources="6"
 	author="Anna Lawrence, Camilo Uribe Botta, and May Wang">
-
 <param title="Watermelon" eid="Q17507129">
 <param title="Citrullus lanatus" eid="Q17507129" aliases="Citrullus lanatus">
 <param title="Mark Twain" eid="Q7245">
@@ -298,6 +297,6 @@ As we have seen throughout this essay, the watermelon has undergone significant 
 
 [^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjYxNTcwNjEsLTIwODU4NjM1MTEsLT
-Q3NDUyMTk1OV19
+eyJoaXN0b3J5IjpbLTE3NDY2Mjc0MTUsLTE0MjYxNTcwNjEsLT
+IwODU4NjM1MTEsLTQ3NDUyMTk1OV19
 -->
