@@ -250,23 +250,23 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 [^ref18]: Olivier de Serres, _Théatre d’agriculture_ (Paris: Saugrain, 1617), 506, 529; Jacques Boyceau, _Traite du jardinage_ (Paris: Vanlochom, 1638), 66.
 
-[^ref19]: De Serres, _Théatre d’agriculture_, 529.
+[^ref19]: <![endif]--> Soderini, _Opere,_ I:151, 175.
 
-[^ref20]: Claude Mollet, _Théatre des jardinage_ (Paris: De Sercy, 1663), 201-203.
+[^ref20]: Gerard, _Herball,_ 1225.
 
-[^ref21]: Marco Lastri and Giuseppe Del Rosso, _L’Osservatore fiorentino sugli edifizj della sua patria_ (Florence: Ricci, 1821), III:106 (orig. ed. 1797); Edith Wharton, _Italian villas and their gardens_ (New York: The Century Co., 1904), 13 and passim.
+[^ref21]: Olivier de Serres, _Théatre d’agriculture_ (Paris: Saugrain, 1617), 506, 529; Jacques Boyceau, _Traite du jardinage_ (Paris: Vanlochom, 1638), 66.
 
-[^ref22]: Edith Wharton, _A backward glance_ (New York, London: D. Appleton-Century Company, 1934), 130.
+[^ref22]: De Serres, _Théatre d’agriculture,_ 506, 529.
 
-[^ref23]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
+[^ref23]: De Serres, _Théatre d’agriculture,_ 529.
 
-[^ref24]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
+[^ref24]: Claude Mollet, _Théatre des jardinage_ (Paris: De Sercy, 1663), 201–02.
 
-[^ref25]: 
+[^ref25]: Mollet, _Théatre des jardinage,_ 202–03.
 
-[^ref26]: 
+[^ref26]: Mollet, _Théatre des jardinage,_ 203.
 
-[^ref27]: 
+[^ref27]: Marco Lastri and Giuseppe Del Rosso, _L’Osservatore fiorentino sugli edifizj della sua patria_ (Florence: Ricci, 1821), III:106 (orig. ed. 1797); Edith Wharton, _Italian villas and their gardens_ (New York: The Century Co., 1904), 13 and _passim._
 
 [^ref28]: Edith Wharton, _A backward glance_ (New York, London: D. Appleton-Century Company, 1934), 130.
 
@@ -275,7 +275,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^ref30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii,_ both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MjM1MzM1MywxNDg2MTQ3MjIxLDUyMT
-Q0MTM1NSw5OTk3MDM5MjksLTEwMDU5NzE2NSw5OTk3MDM5Mjks
-LTE4Mzg5NDU0MywxNTg0NjQ2MDIzXX0=
+eyJoaXN0b3J5IjpbNzMwOTQ4NjM0LDE0ODYxNDcyMjEsNTIxND
+QxMzU1LDk5OTcwMzkyOSwtMTAwNTk3MTY1LDk5OTcwMzkyOSwt
+MTgzODk0NTQzLDE1ODQ2NDYwMjNdfQ==
 -->
