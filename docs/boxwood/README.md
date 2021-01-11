@@ -236,7 +236,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 [^ref11]: Soderini, _Opere,_ III:254, 255; Firenzuola, “La grande arte della agricoltura,” 304. Cf. Claudia Lazzaro, _The Italian Renaissance garden: from the conventions of planting, design, and ornament to the grand gardens of sixteenth-century Italy_ (New Haven and London: Yale University Press, 1990), 26, 291–292n.17.
 
-[^ref12]: <![endif]--> Soderini, _Opere,_ III:295, 303, 343; Bernardo Davanzati, _Toscana coltivazione delle viti e delli arbori_ (Florence: Giunti, 1622), 32.
+[^ref12]: Soderini, _Opere,_ III:295, 303, 343; Bernardo Davanzati, _Toscana coltivazione delle viti e delli arbori_ (Florence: Giunti, 1622), 32.
 
 [^ref13]: Mattioli, _Discorsi_, 138; John Parkinson, _Paradisi in sole paradisus terrestris_ (London: Lownes and Young, 1629), 606, reporting the same opinion; cf. Amato Lusitano, _Curationem medicinaliam centuriae septem_ (Bordeaux: Vernot, 1620), 639-40.
 
@@ -262,7 +262,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 [^ref24]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTI3ODI4LDUyMTQ0MTM1NSw5OTk3MD
-M5MjksLTEwMDU5NzE2NSw5OTk3MDM5MjksLTE4Mzg5NDU0Mywx
-NTg0NjQ2MDIzXX0=
+eyJoaXN0b3J5IjpbMTQ4NjE0NzIyMSw1MjE0NDEzNTUsOTk5Nz
+AzOTI5LC0xMDA1OTcxNjUsOTk5NzAzOTI5LC0xODM4OTQ1NDMs
+MTU4NDY0NjAyM119
 -->
