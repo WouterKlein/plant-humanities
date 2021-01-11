@@ -161,41 +161,44 @@ Watermelons were brought to the Americas in the sixteenth century, introduced by
 	url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/geojson/watermelon_distribution.json">
 <param ve-image
 	title="African-Americans dancing around a pile of watermelons" url="https://upload.wikimedia.org/wikipedia/commons/3/35/African_Americans_dancing_around_a_pile_of_watermelons_%28cropped%29.jpg"
-       fit="contain"
-       attribution="Wikimedia commons">
-       
-Certain characteristics of the watermelon made it conducive to racializing: its messiness when being eaten supposedly connoted uncleanliness, its easiness to grow implied laziness, its sweetness and color connoted childishness. These aspects of the fruit were bound up with representations of African-Americans whose taste for the melon were exaggerated to the point of naturalisation; the watermelon’s African origins were cited as an explanation for Black Americans’ apparently insatiable appetite for the fruit. Nineteenth-century newspapers were filled with anecdotes and reports which repeated these racial tropes until they masqueraded as truth. 
+	fit="contain"
+	attribution="Wikimedia commons">
+
+Certain characteristics of the watermelon made it conducive to racializing: its messiness when being eaten supposedly connoted uncleanliness, its easiness to grow implied laziness, its sweetness and color connoted childishness. These aspects of the fruit were bound up with representations of African-Americans whose taste for the melon were exaggerated to the point of naturalisation; the watermelon’s African origins were cited as an explanation for Black Americans’ apparently insatiable appetite for the fruit. Nineteenth-century newspapers were filled with anecdotes and reports which repeated these racial tropes until they masqueraded as truth.
 <param ve-image
-title="“In the earliest study of the natural history of the African his absorptive powers in the matter of watermelons came to the front and has always staid there. It is one of his most salient characteristics.” (The New York Times, 1904)" url="https://ids.si.edu/ids/deliveryService?max_w=700&id=NMAAHC-6A6EEDA3268C2_2001"
-       fit="contain"
-       attribution="National Museum of African American History & Culture">
+	title="“In the earliest study of the natural history of the African his absorptive powers in the matter of watermelons came to the front and has always staid there. It is one of his most salient characteristics.” (The New York Times, 1904)"
+	url="https://ids.si.edu/ids/deliveryService?max_w=700&id=NMAAHC-6A6EEDA3268C2_2001"
+	fit="contain"
+	attribution="National Museum of African American History & Culture">
 <param ve-image
-title="“No negro who has any pride of race or respect for himself would hesitate one instant in taking the contract to eat his weight in melons any day of the season.” (The Galveston Daily News, 1886)" url="https://ids.si.edu/ids/deliveryService?max_w=700&id=NMAAHC-E57085A629442_4002-000002"
-       fit="contain"
-       attribution="National Museum of African American History & Culture">
+	title="“No negro who has any pride of race or respect for himself would hesitate one instant in taking the contract to eat his weight in melons any day of the season.” (The Galveston Daily News, 1886)"
+	url="https://ids.si.edu/ids/deliveryService?max_w=700&id=NMAAHC-E57085A629442_4002-000002"
+	fit="contain"
+	attribution="National Museum of African American History & Culture">
 <param ve-image
-title="“Whether chickens or watermelons exercise the stronger fascination upon the colored mind is an uncertain question … it must be remembered that there is far more difficulty in entering a locked chicken-house than there is in climbing the fence of the melon-patch.” (The New York Times, 1882)" url="https://cdn.loc.gov/service/pnp/cph/3b40000/3b48000/3b48900/3b48980r.jpg"
-       fit="contain"
-       attribution="Library of Congress">
+	title="“Whether chickens or watermelons exercise the stronger fascination upon the colored mind is an uncertain question … it must be remembered that there is far more difficulty in entering a locked chicken-house than there is in climbing the fence of the melon-patch.” (The New York Times, 1882)"
+	url="https://cdn.loc.gov/service/pnp/cph/3b40000/3b48000/3b48900/3b48980r.jpg"
+	fit="contain"
+	attribution="Library of Congress">
 <param ve-image
-title="“The negro’s fondness for the watermelon is nothing short of a racial weakness. They seem to be born with a hunger or a thirst for the fruit”. (The Atchison Globe, 1896" url="https://upload.wikimedia.org/wikipedia/commons/1/11/3_African_American_boys_eating_watermelon_LCCN2004672359.jpg"
-       fit="contain"
-       attribution="Wikimedia Commons">
+	title="“The negro’s fondness for the watermelon is nothing short of a racial weakness. They seem to be born with a hunger or a thirst for the fruit”. (The Atchison Globe, 1896"
+	url="https://upload.wikimedia.org/wikipedia/commons/1/11/3_African_American_boys_eating_watermelon_LCCN2004672359.jpg"
+	fit="contain"
+	attribution="Wikimedia Commons">
 
 Stories of stolen watermelons similarly contributed to establishing the perception of Black criminality following the 13th Amendment. The irresistible lure of the watermelon suggested that it did “more to tempt the colored race to steal than all other fruit combined," with countless anecdotes supposedly citing the words of African-Americans claiming that stolen watermelons tasted better than bought.[^ref16] The narrative of African-American watermelon-stealing was so entrenched that in Tennessee, the state bill that criminalized trespass in 1870 was commonly known as the ‘watermelon bill’, serving to disenfranchise convicted trespassers. The popularity of such cultural tropes became important tools in exclusionary racial politics well into the twentieth century and [are still pervasive today](https://www.vox.com/first-person/2019/8/29/20836933/watermelon-racist-history-black-people).[^ref17]
 <param ve-storiiies id="0d1fv">
-       
+
 
 ### “Cholera Bombshells”
-
 The racist belief in the unhealthy habits of African-Americans also featured in nineteenth-century associations between watermelons and disease. The common belief that eating too much watermelon, especially when overripe, could lead to cholera led some cities to ban the fruit’s sale during epidemics, watermelons referred to as “cholera bombshells.”[^ref18] Whilst it is unclear whether such direct lines of causality between watermelons and cholera were accurate, contemporary evidence has shown that raw fruits and vegetables can be a frequent source of cholera infection, especially if fields are fertilized with uncomposted manure, or irrigated with contaminated water. The significance of watermelons specifically, rather than other types of fruit, in terms of cholera infections was almost certainly exaggerated to serve popular narratives in America at the time, but the association was also present in other parts of the world.
 <param ve-image
-title="Cholera Intelligence" url="images/054de03b-d835-43ba-a445-3f0e1024551e.jpeg"
-    fit="contain"
-    attribution="The National Intelligencer. 1832, Gale Primary Sources, Nineteenth Century U.S. Newspapers">
+	title="Cholera Intelligence" url="images/054de03b-d835-43ba-a445-3f0e1024551e.jpeg"
+	fit="contain"
+	attribution="The National Intelligencer. 1832, Gale Primary Sources, Nineteenth Century U.S. Newspapers">
 <param ve-image
 title="Carried the cholera" url="images/watermelon-poem.jpeg"
-    fit="contain"
+	fit="contain"
     attribution="The Macon Telegraph. 1884, The Milwaukee Daily Sentinel, Aug. 19, p. 4, Gale Primary Sources, Nineteenth Century U.S. Newspapers">
 
 In Korea at the turn of the twentieth century, for instance, British mine-owners [banned watermelons]( http://www.koreatimes.co.kr/www/nation/2018/07/721_251812.html) from the camps of their workers in order to prevent outbreaks of cholera. The logic behind this seemed to lay in the “immense quantities” of watermelons consumed by Korean workers, including the “rind” (probably the white pith, thought good for indigestion), again suggesting a continuity between a racialized critique of excess indulgence and the moralizing of disease. The campaign turned out to be successful, although whether or not that was due to the lack of watermelons is unclear.[^ref19] Similarly, posters such as that shown here from the USSR in 1921 used watermelons to illustrate how various acts of poor hygiene could lead to cholera, from drinking unboiled water to eating unwashed fruit.
@@ -252,5 +255,5 @@ title="Square watermelon from Japan" url="https://upload.wikimedia.org/wikipedia
 [^ref22]: Deal Saxon, H. (2018) ‘Bees and watermelons’, The Statesboro Herald, [online], https://www.statesboroherald.com/local/bees-and-watermelons/, [Accessed: 24/07/20]; Melicher, D. (2019) ‘Road Trip: How Hive Transportation Puts Stress on Honey Bees’, Entomology Today, [online], https://entomologytoday.org/2019/04/01/road-trip-hive-transportation-stress-honey-bees/, [Accessed: 24/07/20]
 [^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY1MjU0MzI5LC00NzQ1MjE5NTldfQ==
+eyJoaXN0b3J5IjpbMTM0MjQxNDQ3MSwtNDc0NTIxOTU5XX0=
 -->
