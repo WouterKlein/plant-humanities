@@ -199,7 +199,7 @@ The racist belief in the unhealthy habits of African-Americans also featured in 
 <param ve-image
 title="Carried the cholera" url="images/watermelon-poem.jpeg"
 	fit="contain"
-    attribution="The Macon Telegraph. 1884, The Milwaukee Daily Sentinel, Aug. 19, p. 4, Gale Primary Sources, Nineteenth Century U.S. Newspapers">
+	attribution="The Macon Telegraph. 1884, The Milwaukee Daily Sentinel, Aug. 19, p. 4, Gale Primary Sources, Nineteenth Century U.S. Newspapers">
 
 In Korea at the turn of the twentieth century, for instance, British mine-owners [banned watermelons]( http://www.koreatimes.co.kr/www/nation/2018/07/721_251812.html) from the camps of their workers in order to prevent outbreaks of cholera. The logic behind this seemed to lay in the “immense quantities” of watermelons consumed by Korean workers, including the “rind” (probably the white pith, thought good for indigestion), again suggesting a continuity between a racialized critique of excess indulgence and the moralizing of disease. The campaign turned out to be successful, although whether or not that was due to the lack of watermelons is unclear.[^ref19] Similarly, posters such as that shown here from the USSR in 1921 used watermelons to illustrate how various acts of poor hygiene could lead to cholera, from drinking unboiled water to eating unwashed fruit.
 <param ve-storiiies id="831fg">
@@ -208,52 +208,77 @@ In Korea at the turn of the twentieth century, for instance, British mine-owners
 Since the twentieth century, the intensified commodification of the watermelon has transformed the fruit’s form. In many countries around the world (but not all), since the 2000s, watermelons have grown smaller, rounder, and more uniform in size in order to stack better for transit and sale. These so-called “personal melons” are more practical for transporting and storing in fridges, and importantly bring farmers bigger profits per acre, heralding a shift away from the watermelon as a communally consumed fruit.[^ref20] The other major transformation in watermelons has been the success of the seedless melon. The commercial production of seedless watermelons began in the 1990s, using colchicine – a chemical derived from crocuses – to produce a sterile seedless hybrid, crossbred to have three sets of chromosomes instead of two.[^ref21]
 <param ve-image
 title="Varieties of watermelons" url="https://scx2.b-cdn.net/gfx/news/hires/2019/harvestingge.jpg"
-       fit="contain"
-       attribution="Science X">
-<param ve-plant-specimen eid="Q17507129" max="2">
+	fit="contain"
+	attribution="Science X">
+<param ve-plant-specimen
+	eid="Q17507129"
+	max="2">
 
-Whilst the seedless watermelon now dominates the market, its hybridized sterility presents new challenges for farmers. Watermelon plants are bee-pollinated, and since bees foraging in seedless watermelon plantings carry a mixture of viable and non-viable pollen, more bees are required for effective pollination. Without sufficient pollination, watermelons may grow with a [“hollow heart”]( https://www.vox.com/2015/7/28/9050469/watermelon-breeding-paintings)  and cannot be sold. Watermelon farmers in the US have turned to renting bees to meet their pollination needs, especially since the decline of the wild bee population from mass colony collapse disorder in recent years. There is increasing evidence that the transportation of bees for such purposes [causes significant stress]( https://entomologytoday.org/2019/04/01/road-trip-hive-transportation-stress-honey-bees/) on the colonies due to, for example, changes in temperature, humidity, and vibration.[^ref21] The market demand for convenience in the shape of seedless watermelons may therefore [come at a considerable ecological cost]( https://www.nationalgeographic.com/culture/food/the-plate/2015/08/07/watermelon-may-be-the-most-unnatural-yet-delicious-fruit/).
+Whilst the seedless watermelon now dominates the market, its hybridized sterility presents new challenges for farmers. Watermelon plants are bee-pollinated, and since bees foraging in seedless watermelon plantings carry a mixture of viable and non-viable pollen, more bees are required for effective pollination. Without sufficient pollination, watermelons may grow with a [“hollow heart”]( https://www.vox.com/2015/7/28/9050469/watermelon-breeding-paintings) and cannot be sold. Watermelon farmers in the US have turned to renting bees to meet their pollination needs, especially since the decline of the wild bee population from mass colony collapse disorder in recent years. There is increasing evidence that the transportation of bees for such purposes [causes significant stress]( https://entomologytoday.org/2019/04/01/road-trip-hive-transportation-stress-honey-bees/) on the colonies due to, for example, changes in temperature, humidity, and vibration.[^ref21] The market demand for convenience in the shape of seedless watermelons may therefore [come at a considerable ecological cost]( https://www.nationalgeographic.com/culture/food/the-plate/2015/08/07/watermelon-may-be-the-most-unnatural-yet-delicious-fruit/).
 <param ve-image
-title="Hollow heart watermelon" url="https://i.imgur.com/meq0u1f.jpg?1"
-       fit="contain"
-       attribution="Vox">
+	title="Hollow heart watermelon"
+	url="https://i.imgur.com/meq0u1f.jpg?1"
+	fit="contain"
+	attribution="Vox">
 <para ve-image
 title="Watermelon then and now" url="https://cdn.vox-cdn.com/uploads/chorus_asset/file/3910892/watermelonthenandnow.jpg"
-       fit="contain"
-       attribution="Vox, Christie's and Shutterstock">
+	fit="contain"
+	attribution="Vox, Christie's and Shutterstock">
 
 ### Conclusion
-
 As we have seen throughout this essay, the watermelon has undergone significant transformation since it was first cultivated in northern Africa six thousand years ago. Throughout its history, the watermelon has been valued variously for its size, its sweetness, its health-giving properties, its appearance. Watermelons today vary significantly around the world in shape and size. Novelty square and heart-shaped watermelons developed in 1980s Japan for easy fridge storage are sold today at high prices almost exclusively for decorative purposes, as they are necessarily underripe due to the constrictive molds in which they are grown.[^ref23] With consumer taste and market value governing the taste and form of watermelons grown, who knows what the future might hold… 
 <param ve-image
-title="Square watermelon from Japan" url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Square_watermelon.jpg"
-       fit="contain"
-       attribution="Wikimedia commons">
+	title="Square watermelon from Japan"
+	url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Square_watermelon.jpg"
+	fit="contain"
+	attribution="Wikimedia commons">
 
 ### References
 [^ref1]: Mark Twain. _Pudd’nhead Wilson._ Charles L. Webster & Company. 1894.
+
 [^ref2]: Harry S. Paris, “Origin and Emergence of the Sweet Dessert Watermelon, Citrullus Lanatus,” Annals of Botany 116, no. 2 (August 2015): 139, https://doi.org/10.1093/aob/mcv077.
+
 [^ref3]: Guillaume Chomicki and Susanne S. Renner, “Watermelon Origin Solved with Molecular Phylogenetics Including Linnaean Material: Another Example of Museomics,” New Phytologist 205, no. 2 (2015): 526–32, https://doi.org/10.1111/nph.13163.
+
 [^ref4]: Paris, “Origin and Emergence of the Sweet Dessert Watermelon, Citrullus Lanatus,” 134–35.
+
 [^ref5]: Abdalbasit Adam Mariod et al., “A Comparative Study of the Properties of Six Sudanese Cucurbit Seeds and Seed Oils,” Journal of the American Oil Chemists’ Society 86, no. 12 (August 20, 2009): 1181, https://doi.org/10.1007/s11746-009-1459-3.
+
 [^ref6]: Christian de Vartavan, Hidden Fields of Tutankhamun: From Identification to Interpretation of Newly Discovered Plant Material from the Pharaoh’s Grave, 2nd rev. ed., Triade Exploration’s Opus Magnum Series in the Field of Egyptology 2 (London: Triade Exploration, 2002), 22.
+
 [^ref7]: David Maynard and Donald Maynard, “Cucumbers, Melons, and Watermelons,” in The Cambridge World History of Food, ed. Kenneth F. Kiple and Kriemhild Coneè Ornelas (Cambridge: Cambridge University Press, 2000), 307, https://doi.org/10.1017/CHOL9780521402149.032.
+
 [^ref8]: Paris, “Origin and Emergence of the Sweet Dessert Watermelon, Citrullus Lanatus,” 136.
+
 [^ref9]: Jeffrey Henderson, “Pliny Natural History: Book XX: Chapter VI,” Loeb Classical Library, accessed July 28, 2020, http://www.loebclassics.com/view/pliny_elder-natural_history/1938/pb_LCL392.9.xml.
+
 [^ref10]: St Louis Globe-Democrat (1888) ‘Watermelon Juice for the Complexion’, Daily Evening Bulletin (San Francisco), Sept. 8, 66(131), Accessed online at Gale Primary Sources, Nineteenth Century U.S. Newspapers
+
 [^ref11]: Maynard and Maynard, “Cucumbers, Melons, and Watermelons,” 306.
+
 [^ref12]: https://artsandculture.google.com/culturalinstitute/beta/exhibit/animals-and-plants-in-korean-traditional-paintings-i-%C2%A0plants-and-insects/8ALCU0JJWG92Lg
+
 [^ref13]: https://notescollector.eu/pages/en/notes.php?noteId=1394
+
 [^ref14]: John Gerard, The Herball Or Generall Historie of Plantes (Norton, John, 1597), 768.
+
 [^ref15]: Black, W.R. (2018) ‘How Watermelons Became Black’, Journal of the Civil War Era, 8(1), pp. 64-86
+
 [^ref16]: Detroit Free Press (1880) ‘The Influence of the Watermelon’, St Louis Globe-Democrat, Aug. 21, 6(93), p. 6, accessed online at Gale Primary Sources, Nineteenth Century U.S. Newspapers
+
 [^ref17]: Greenlee, C. (2019) ‘On eating watermelon in front of white people: “I’m not as free as I thought”’, Vox, [online], 29/08/19, https://www.vox.com/first-person/2019/8/29/20836933/watermelon-racist-history-black-people, [Accessed: 23/07/20]
-[^ref18]: "Cholera Intelligence." National Intelligencer, 30 Aug. 1832. Nineteenth Century U.S. Newspapers;  ‘Watermelons’ (1847) The Vermont Watchman, Aug. 26, 41(41), accessed online at Gale Primary Sources, Nineteenth Century U.S. Newspapers; ‘A western paper’ (1873) The Morning Republican, 7(131), accessed online at Gale Primary Sources, Nineteenth Century U.S. Newspapers
+
+[^ref18]: "Cholera Intelligence." National Intelligencer, 30 Aug. 1832. Nineteenth Century U.S. Newspapers; ‘Watermelons’ (1847) The Vermont Watchman, Aug. 26, 41(41), accessed online at Gale Primary Sources, Nineteenth Century U.S. Newspapers; ‘A western paper’ (1873) The Morning Republican, 7(131), accessed online at Gale Primary Sources, Nineteenth Century U.S. Newspapers
+
 [^ref19]: Neff, R. (2018) ‘Watermelons: A forbidden pleasure in cholera-hit Korea’, The Korea Times, [online], 08/07/18, http://www.koreatimes.co.kr/www/nation/2018/07/721_251812.html, [Accessed: 23/07/20]
+
 [^ref20]: https://www.nytimes.com/2010/08/18/dining/18melons.html
+
 [^ref21]: Goldy, R. (2012) ‘Seedless watermelon – how do they do that?’, Michigan State University Extension, [online], https://www.canr.msu.edu/news/seedless_watermelon_how_do_they_do_that, [Accessed: 24/07/20]; Rupp, R. (2015) ‘Watermelon May Be the Most Unnatural, Yet Delicious Fruit’, National Geographic, [online], https://www.nationalgeographic.com/culture/food/the-plate/2015/08/07/watermelon-may-be-the-most-unnatural-yet-delicious-fruit/, [Accessed: 24/07/20]
+
 [^ref22]: Deal Saxon, H. (2018) ‘Bees and watermelons’, The Statesboro Herald, [online], https://www.statesboroherald.com/local/bees-and-watermelons/, [Accessed: 24/07/20]; Melicher, D. (2019) ‘Road Trip: How Hive Transportation Puts Stress on Honey Bees’, Entomology Today, [online], https://entomologytoday.org/2019/04/01/road-trip-hive-transportation-stress-honey-bees/, [Accessed: 24/07/20]
+
 [^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MjQxNDQ3MSwtNDc0NTIxOTU5XX0=
+eyJoaXN0b3J5IjpbLTIwODU4NjM1MTEsLTQ3NDUyMTk1OV19
 -->
