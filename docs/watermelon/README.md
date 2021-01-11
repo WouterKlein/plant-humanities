@@ -57,12 +57,13 @@ Species in the genus _Citrullus_ characteristically grow on vines with pinnatifi
 	fit="contain"
 	attribution="Annals of Botany">
 <param ve-image
-title="Round cucurbits, possibly watermelons, found in different Roman and Byzantine mosaics dated 425-600 CE in Israel" url="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/aob/114/2/10.1093_aob_mcu106/3/mcu10606.jpeg?Expires=1599137594&Signature=bQYlzxcLbJtkOGTL6A7WM0WCyGwkZuHfT1I1zKUSbjxnn0OQVUQvlewQ~l3QGANeVt~Y9tZUFSFImcd7XVKgdZJbwIqOrmuODRnbNn5wXJGWlTMKCfZBwoE9mI78CvMeGFfSoD5bJgnlNWrkBJT4nrLkFYvGuopdQqmSpDKi9PvtgThhV~6RSh1ALDIwf59aS~I4VeOmQotBrg9EwD~2RwYGYvIyOa1u2BWgEgoDd9k96eaGwP73p6-soaCjrfLAlAG0yUcHa1~7HmuCTOaJ-0SX5Y2ONYHj4u0Rr7lSV4V8fAGysp7PuiEIZp7Y5C12GadGxuzvqcr6z9w3WZN5OQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+	title="Round cucurbits, possibly watermelons, found in different Roman and Byzantine mosaics dated 425-600 CE in Israel"
+	url="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/aob/114/2/10.1093_aob_mcu106/3/mcu10606.jpeg?Expires=1599137594&Signature=bQYlzxcLbJtkOGTL6A7WM0WCyGwkZuHfT1I1zKUSbjxnn0OQVUQvlewQ~l3QGANeVt~Y9tZUFSFImcd7XVKgdZJbwIqOrmuODRnbNn5wXJGWlTMKCfZBwoE9mI78CvMeGFfSoD5bJgnlNWrkBJT4nrLkFYvGuopdQqmSpDKi9PvtgThhV~6RSh1ALDIwf59aS~I4VeOmQotBrg9EwD~2RwYGYvIyOa1u2BWgEgoDd9k96eaGwP73p6-soaCjrfLAlAG0yUcHa1~7HmuCTOaJ-0SX5Y2ONYHj4u0Rr7lSV4V8fAGysp7PuiEIZp7Y5C12GadGxuzvqcr6z9w3WZN5OQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
 	fit="contain"
 	attribution="Annals of Botany">
 <param ve-map
-	time-selector="3000 BCE:0"
 	basemap="Esri_WorldPhysical"
+	time-selector="3000 BCE:0"
 	center="34.5531, 18.0480"
 	zoom="3.5">
 <param ve-map-layer
@@ -76,18 +77,23 @@ In the arid savanna regions of Africa, watermelons were welcomed as sources of w
 	fit="contain"
 	attribution="GBIF">
 
-
-### Seeing Red...Eventually
-
+### Seeing red... eventually
 Watermelon-like fruit were referenced in ancient texts using a variety of terms including _pepon_, _melopepon_ and _kolokynte_, suggesting some kinds of watermelon had proliferated to the Mediterranean region by the common era. Around 77 CE, Pliny dedicated a section of his [_Natural History_](https://www.loebclassics.com/view/pliny_elder-natural_history/1938/pb_LCL392.9.xml) to _pepones_, which, he wrote, made a very refreshing food, but also had a laxative effect. Various parts of the fruit were used to alleviate pain, to induce vomiting, and even to cleanse the skin and clear spots.[^ref9] In this era, these "watermelons" likely still had quite sturdy and pale flesh, not quite red and soft. Two thousand years later in 1888, watermelon was still being promoted as a face cleanser in reports by a Miss Carrie Townsend from St. Louis carried in US newspapers. Townsend, who felt sorry for girls with freckles who looked “as if they had been about when a bran bin had exploded,” claimed that no matter what was wrong with the face, the juice of the watermelon would rectify it.[^ref10] Although perhaps not quite as powerful as Townsend suggests, components of the watermelon are re-emerging as a natural skin cleanser today, such kalahari or ootanga oil traditionally extracted from the seeds in West Africa. 
 <param ve-image
-title="Cucurbits on the Juliana Anicia Codex known as Vienna Dioscorides. Number C is Citrullus colocynthis, the bitter watermelon, the close relative to watermelon used as laxative and diuretic." url="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/aob/100/7/10.1093/aob/mcm242/2/mcm24201.jpeg?Expires=1599152059&Signature=uPLyghEFxoPNUp8Bl7c-mT7iQ1W~Vy~voNczo6PqfdEMJ5AVzGOp6XpmFbAm7wrO3f4l0fF-941C9t-471o-otlXzw7OQvxAiN-Axh-DI2Rhvk5ldA4AdSV0hZG-d7il~xO7xeBxDm6hcfWM~uDu9uF5-c-hezzb6CAAxi2RqijxttXO6TSyOSlwUPnWUL7YJTl5y9S7cwulGYA9Wo23ukLP9sy1L0Q~O78iXt1TpCVwvPGgJDbkgwLvuAuqHsxAAQvP3HYnZyfwAPuLFB1sU52SHuNrhBIi0xbSGgj54Nmpcwvz6qvSpPPmPm8toDKk1rdAFSLiNikq1xL8ZHqD~Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+	title="Cucurbits on the Juliana Anicia Codex known as Vienna Dioscorides. Number C is Citrullus colocynthis, the bitter watermelon, the close relative to watermelon used as laxative and diuretic."
+	url="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/aob/100/7/10.1093/aob/mcm242/2/mcm24201.jpeg?Expires=1599152059&Signature=uPLyghEFxoPNUp8Bl7c-mT7iQ1W~Vy~voNczo6PqfdEMJ5AVzGOp6XpmFbAm7wrO3f4l0fF-941C9t-471o-otlXzw7OQvxAiN-Axh-DI2Rhvk5ldA4AdSV0hZG-d7il~xO7xeBxDm6hcfWM~uDu9uF5-c-hezzb6CAAxi2RqijxttXO6TSyOSlwUPnWUL7YJTl5y9S7cwulGYA9Wo23ukLP9sy1L0Q~O78iXt1TpCVwvPGgJDbkgwLvuAuqHsxAAQvP3HYnZyfwAPuLFB1sU52SHuNrhBIi0xbSGgj54Nmpcwvz6qvSpPPmPm8toDKk1rdAFSLiNikq1xL8ZHqD~Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
 	fit="contain"
 	attribution="Annals of Botany">
 
 By the ninth and twelfth centuries CE respectively, watermelons had arrived in India and China via regional routes.[^ref11] The watermelon and its sinewy vines soon became a decorative icon, with associations of vitality and playfulness that persist today. In fourteenth-century Japanese Buddhist representations of arhats (those reaching nirvana in Buddhist tradition), watermelons appear in spiritual terms as a religious offering. Early Korean paintings from the Joseon Dynasty by the female artist Shin Saimdang (1504–1551) also [depicted](https://www.museum.go.kr/site/eng/relic/represent/view?relicId=2061) watermelons, symbolically alongside flowers, butterflies and mice.[^ref12] The arching vines of the watermelon plant and seeds exposed by the mice symbolized wishes for healthy and abundant children, echoed in the nearby dianthus flower which represented a wish for “no white hairs,” or lasting youth. Another one of Shin’s depictions of watermelons appears on the 5000 won banknote today, as a reminder of Shin’s dedication to art, family, civic virtue and gender equality.[^ref13]
-<param ve-map time-selector="1000 BCE:1400" basemap="Esri_WorldPhysical" center="38.9637, 35.2433" zoom="3">
-<param ve-map-layer geojson active url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/geojson/watermelon_distribution.json" title="Distribution"> 
+<param ve-map
+	basemap="Esri_WorldPhysical"
+	time-selector="1000 BCE:1400"
+	center="38.9637, 35.2433"
+	zoom="3">
+<param ve-map-layer
+	geojson active 
+	title="Distribution"> url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/geojson/watermelon_distribution.json" 
 <param ve-image
 	title="'Satsubari, the Second of the Sixteen Arhats.' Japan. Early 14th century."
 	url="https://images.metmuseum.org/CRDImages/as/original/DP-12232-006.jpg"
@@ -281,6 +287,6 @@ As we have seen throughout this essay, the watermelon has undergone significant 
 
 [^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY5ODI5MTA3LC0yMDg1ODYzNTExLC00Nz
-Q1MjE5NTldfQ==
+eyJoaXN0b3J5IjpbMTExNzUyNjQ2MSwtMjA4NTg2MzUxMSwtND
+c0NTIxOTU5XX0=
 -->
