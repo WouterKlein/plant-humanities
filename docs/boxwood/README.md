@@ -232,25 +232,25 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 [^ref9]: Firenzuola, “La grande arte della agricoltura,” 304; Soderini, _Opere,_ III:254.
 
-[^ref10]: Gerard, _Herball,_ 1226; Soderini, _Opere,_ III:343.
+[^ref10]: <![endif]--> Firenzuola, “La grande arte della agricoltura,” 304; Soderini, _Opere,_ III:254.
 
-[^ref11]: Soderini, _Opere,_ III:254, 255; Firenzuola, “La grande arte della agricoltura,” 304. Cf. Claudia Lazzaro, _The Italian Renaissance garden: from the conventions of planting, design, and ornament to the grand gardens of sixteenth-century Italy_ (New Haven and London: Yale University Press, 1990), 26, 291–292n.17.
+[^ref11]: Gerard, _Herball,_ 1226; Soderini, _Opere,_ III:343.
 
-[^ref12]: Soderini, _Opere,_ III:295, 303, 343; Bernardo Davanzati, _Toscana coltivazione delle viti e delli arbori_ (Florence: Giunti, 1622), 32.
+[^ref12]: Soderini, _Opere,_ III:254, 255; Firenzuola, “La grande arte della agricoltura,” 304. Cf. Claudia Lazzaro, _The Italian Renaissance garden: from the conventions of planting, design, and ornament to the grand gardens of sixteenth-century Italy_ (New Haven and London: Yale University Press, 1990), 26, 291–292n.17.
 
-[^ref13]: Mattioli, _Discorsi_, 138; John Parkinson, _Paradisi in sole paradisus terrestris_ (London: Lownes and Young, 1629), 606, reporting the same opinion; cf. Amato Lusitano, _Curationem medicinaliam centuriae septem_ (Bordeaux: Vernot, 1620), 639-40.
+[^ref13]: Soderini, _Opere,_ III:295, 303, 343; Bernardo Davanzati, _Toscana coltivazione delle viti e delli arbori_ (Florence: Giunti, 1622), 32.
 
-[^ref14]: Parkinson, _Paradisi in sole_, 606; Gerard, _Herball_, 1225.
+[^ref14]: Soderini, _Opere,_ III:255.
 
-[^ref15]: Mattioli, _Discorsi_, 138; cf. Parkinson, _Paradisi in sole _, 606-7.
+[^ref15]: Mattioli, _Discorsi,_ 138; John Parkinson, _Paradisi in sole paradisus terrestris_ (London: Lownes and Young, 1629), 606, reporting the same opinion; cf. Amato Lusitano, _Curationem medicinaliam centuriae septem_ (Bordeaux: Vernot, 1620), 639–40.
 
-[^ref16]: Soderini, _Opere_, I:151, 175, 182.
+[^ref16]: Parkinson, 606; Gerard, _Herball,_ 1225.
 
-[^ref17]: Gerard, _Herball_, 1225.
+[^ref17]: Mattioli, _Discorsi,_ 138; cf. Parkinson, _Paradisi in sole,_ 606–07.
 
-[^ref18]: Olivier de Serres, _Théatre d’agriculture_ (Paris: Saugrain, 1617), 506, 529; Jacques Boyceau, _Traite du jardinage_ (Paris: Vanlochom, 1638), 66.
+[^ref18]: Soderini, _Opere,_ I:182.
 
-[^ref19]: <![endif]--> Soderini, _Opere,_ I:151, 175.
+[^ref19]: Soderini, _Opere,_ I:151, 175.
 
 [^ref20]: Gerard, _Herball,_ 1225.
 
@@ -275,7 +275,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^ref30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii,_ both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTQ4NjM0LDE0ODYxNDcyMjEsNTIxND
-QxMzU1LDk5OTcwMzkyOSwtMTAwNTk3MTY1LDk5OTcwMzkyOSwt
-MTgzODk0NTQzLDE1ODQ2NDYwMjNdfQ==
+eyJoaXN0b3J5IjpbLTExNTIzNzA4MjUsMTQ4NjE0NzIyMSw1Mj
+E0NDEzNTUsOTk5NzAzOTI5LC0xMDA1OTcxNjUsOTk5NzAzOTI5
+LC0xODM4OTQ1NDMsMTU4NDY0NjAyM119
 -->
