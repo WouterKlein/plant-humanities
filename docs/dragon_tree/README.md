@@ -151,7 +151,7 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref4]: Pierre Bontier, Jean le Verrier, and Richard Henry Major (trans.), _The Canarian: or, Book of the Conquest and Conversion of the Canarians in the year 1402 by Messire Jean de Béthencourt, Kt_, (London: The Hakluyt Society, 1872), 70-71. [Click here for full book](https://archive.org/details/canarianorbookof00bont_0/page/n7/mode/2up). On D. draco’s wider significance within Guanche culture, see: Mark Milburn, “Dragon’s Blood in East and West Africa, Arabia and the Canary Islands,” _Africa: Rivista trimestrale di studi e documentazione dell’Istituto italiano per l’Africa e l’Oriente_ 39, no. 3 (1984), 489-90.
 
-[^ref5]: Colin Walker, “A tale of dragons – the pachycaul species of Dracaena,” _British Cactus & Succulent Journal_ 17, no. 4 (December, 1999), 171-177; Jane Pearson and Hew D.V. Prendergast, “Daemonorops, Dracaena and Other Dragon’s Blood,” _Economic Botany_ 55, no. 4 (October-December 2001), 474-477.
+[^ref5]: Colin Walker, “A tale of dragons – the pachycaul species of Dracaena,” _British Cactus & Succulent Journal_ 17, no. 4 (December, 1999), 171-177; Jane Pearson and Hew D.V. Prendergast, “Daemonorops, Dracaena and Other Dragon’s Blood,” _Economic Botany_ 55, no. 4 (October-December 2001), 474-477, [https://doi.org/10.1007/BF02871711](https://doi.org/10.1007/BF02871711)
 
 [^ref6]: “Villa de La Orotava Dragon Tree Tour: The Arautava Giant,” Ayuntamiento: Villa de La Orotava, accessed August 3, 2020. [Click here for full article](https://www.laorotava.es/en/tourism/discover-la-orotava/villa-de-la-orotava-dragon-tree-tour)
 
@@ -187,11 +187,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYwMjg5MTYxLC0xMDg5NzMzMzEyLC0yMD
-cyNzA2MzA0LDI4ODYxNjUxMiwxNTQwMDM3NDIwLC0xMDU5ODYz
-MjcxLDE3OTczMjAwNDcsMTcwMDUxOTg5MSw3MjA0NTY2ODksLT
-E0OTgwNTU0NTUsMTk0NTgzOTYwMCwtMTczNDI1NTgyLC02ODc3
-NTkwNzYsMTI0OTAxMjM5NCwxOTA2NTA1ODI0LC05NDU1NDc4NS
-wzNDkwMDA2NywtMTk2MDQwOTI2MiwzNjAxODUyMzAsMzYwMTg1
-MjMwXX0=
+eyJoaXN0b3J5IjpbLTM3MzA0MTEwMiw3NjAyODkxNjEsLTEwOD
+k3MzMzMTIsLTIwNzI3MDYzMDQsMjg4NjE2NTEyLDE1NDAwMzc0
+MjAsLTEwNTk4NjMyNzEsMTc5NzMyMDA0NywxNzAwNTE5ODkxLD
+cyMDQ1NjY4OSwtMTQ5ODA1NTQ1NSwxOTQ1ODM5NjAwLC0xNzM0
+MjU1ODIsLTY4Nzc1OTA3NiwxMjQ5MDEyMzk0LDE5MDY1MDU4Mj
+QsLTk0NTU0Nzg1LDM0OTAwMDY3LC0xOTYwNDA5MjYyLDM2MDE4
+NTIzMF19
 -->
