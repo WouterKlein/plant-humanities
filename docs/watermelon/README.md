@@ -97,51 +97,56 @@ title="'Plants and insects' by Shin Saimdang" url="https://ids.lib.harvard.edu/i
 	fit="contain"
 	attribution="Harvard Art Museums">
 <param ve-image
-title="5000 Won Banknote, Bank of Korea" url="https://upload.wikimedia.org/wikipedia/commons/d/d7/5000_won_serieV_reverse.jpeg"
+	title="5000 Won Banknote, Bank of Korea"
+	url="https://upload.wikimedia.org/wikipedia/commons/d/d7/5000_won_serieV_reverse.jpeg"
 	fit="fit"
-       attribution="Wikimedia Commons"> 
+	attribution="Wikimedia Commons"> 
 
 Moorish conquerors of Spain left agricultural evidence of the watermelon, mostly in the shape of seeds, in the tenth century CE, and illuminated manuscripts shed light on the varieties of watermelons grown in southern Italy. The watermelon appearing in subsequent European manuscripts seemed to be more palatable than Pliny’s pepones: early health treatises (_Tacuinum Sanitatis_) often commissioned by Italian nobility in the 14th century show that they may have been so delectable that harvesters [would taste test them](http://visualiseur.bnf.fr/ConsulterElementNum?O=08100553&E=JPEG&Deb=75&Fin=75&Param=C) in the fields. However, the sweetness — related to the redness of the flesh — of the melons does not appear to be consistent. Writing in the late 16th century, John Gerard, in his [_Herball_](https://www.biodiversitylibrary.org/item/109874#page/789/mode/1up), described the flesh as “spungie and of a flimsie substance” which can be “eaten rawe, but more commonly boiled” and was still more notable for its healthful properties: “it ingendereth a waterish bloud, mitigateth the extremitie of heat of the inner parts, and tempereth the sharpness and fervent heat of choler.”[^ref14] 
 <param ve-image
 title="Watermelon in the Tacuinum Sanitatis, c. 1390-1400" url="http://visualiseur.bnf.fr/ConsulterElementNum?O=08100553&E=JPEG&Deb=74&Fin=74&Param=C"
-       fit="contain"
-       attribution="Bibliothèque Nationale de France">
+	fit="contain"
+	attribution="Bibliothèque Nationale de France">
 <param ve-image
-title="Watermelon in the Carrara Herbal" url="https://github.com/JSTOR-Labs/plant-humanities/blob/master/images/Watermelon_carrara_herbal.jpg"
-    fit="cover"
-    attribution="British Library. Egerton MS 2020">
+	title="Watermelon in the Carrara Herbal"
+	url="https://github.com/JSTOR-Labs/plant-humanities/blob/master/images/Watermelon_carrara_herbal.jpg"
+	fit="cover"
+	attribution="British Library. Egerton MS 2020">
 <param ve-image
 title="'Anguriae' in Mathiolli's Dioscorides."M url="https://www.archive.org/download/mobot31753000819224/page/n512_w299"
-       fit="contain"
-       attribution="BHL">
+	fit="contain"
+	attribution="BHL">
 <param ve-image
-title="Citrull cocumber in Gerard's Herball" url="https://www.archive.org/download/mobot31753000817756/page/n949_w320"
-       fit="contain"
-       attribution="BHL">
+	title="Citrull cocumber in Gerard's Herball"
+	url="https://www.archive.org/download/mobot31753000817756/page/n949_w320"
+	fit="contain"
+	attribution="BHL">
 
 In the seventeenth to nineteenth centuries, the watermelon became a common minor crop in European gardens and began to appear frequently in European and American still lifes, providing a diverse visual archive of watermelon varieties. The seventeenth century watermelons of Albert Eckhout and Giovanni Stanchi, for example, exhibit whorls of red flesh amongst white rind and give us a sense of how much the watermelon has changed even in the last few hundred years. The inclusion of watermelons in still lifes also provides an insight into the multitude of cultural values associated with the fruit at the time. Whilst American still lifes, such as those of the prolific Peale family in the early nineteenth century, placed the melon amidst almost nauseating abundance and plenty, European artists would often [cut through that fantasy](https://www.flickr.com/photos/104901827@N06/46017346544) quite literally with the abrupt imposition of a knife as a harsh reminder of the fleeting nature of life.
 <param ve-image
-title="'Pineapple, watermelons and other fruits (Brazilian fruits)' by Albert Eckhout (1610–1666)" url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
-       fit="contain"
-       attribution="Wikimedia Commons">
+	title="'Pineapple, watermelons and other fruits (Brazilian fruits)' by Albert Eckhout (1610-1666)"	url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
+	fit="contain"
+	attribution="Wikimedia Commons">
 <param ve-image
 title="'Watermelons, peaches, pears and other fruit in a landscape' by Giovanni Stanchi (1608–1675)" url="https://upload.wikimedia.org/wikipedia/commons/0/00/Giovanni_Stanchi%2C_Watermelons%2C_Peaches%2C_Pears%2C_and_Other_Fruit_in_a_Landscape.jpg"
-       fit="contain"
-       attribution="Wikimedia Commons">
+	fit="contain"
+	attribution="Wikimedia Commons">
 <param ve-image
-title="'Still life with watermelons' by Sarah Miriam Peale (1800–1855)" url="https://upload.wikimedia.org/wikipedia/commons/f/f6/Still_Life_with_Watermelon%2C_by_Sarah_Miriam_Peale%2C_1822%2C_oil_on_panel_-_Fogg_Art_Museum%2C_Harvard_University_-_DSC01409.jpg"
-       fit="contain"
-       attribution="Wikimedia Commons">
+	title="'Still life with watermelons' by Sarah Miriam Peale (1800–1855)"
+	url="https://upload.wikimedia.org/wikipedia/commons/f/f6/Still_Life_with_Watermelon%2C_by_Sarah_Miriam_Peale%2C_1822%2C_oil_on_panel_-_Fogg_Art_Museum%2C_Harvard_University_-_DSC01409.jpg"
+	fit="contain"
+	attribution="Wikimedia Commons">
 
 Diverse types of watermelon are also represented in styles commonly associated with European botanical specimens with the fruits sitting in isolation, such as in Maria Sybilla Merian’s [_Metamorphosis insectorum Surinamesium_](https://www.doaks.org/resources/online-exhibits/maria-sibylla-merian/dissertatio-de-generatione-et-metamorphosibus-insectorum-surinamensium) and the nineteenth-century illustration shown to the right. This latter painting is taken from an [album of Asian fruits](https://www.doaks.org/resources/rare-books/album-of-chinese-watercolors-of-asian-fruits/) held by Dumbarton Oaks, likely executed by a Chinese artist working in Malaysia or Sumatra. In it, different stages in the growth of the flower and the fruit are shown alongside the seeds and a vivid cross-section, again echoing the whorls of earlier dSepictions. The bright and appealingly visual nature of the modern watermelon left it uniquely open to enrolment into the racist visual tropes of nineteenth-century America. 
 <param ve-image
 title="'Melon d'Eau,' Metamorphosis, Maria Sybilla Merian (1719)" url=" "
-       fit="contain"
-       attribution="Dumbarton Oaks">
+	fit="contain"
+	attribution="Dumbarton Oaks">
 <param ve-image
-title="Watercolours of fruits from Asia, early 19th century. South East Asia. Dumbarton Oaks collection." url="https://www.doaks.org/resources/rare-books/album-of-chinese-watercolors-of-asian-fruits/013717125-album-pl-0015.jpg/@@images/image/zoom"
-       fit="contain"
-       attribution="Dumbarton Oaks">
+	title="Watercolours of fruits from Asia, early 19th century. South East Asia. Dumbarton Oaks collection."
+	url="https://www.doaks.org/resources/rare-books/album-of-chinese-watercolors-of-asian-fruits/013717125-album-pl-0015.jpg/@@images/image/zoom"
+	fit="contain"
+	attribution="Dumbarton Oaks">
 
 ### Watermelons, Race, and the American South 
 
@@ -241,5 +246,5 @@ title="Square watermelon from Japan" url="https://upload.wikimedia.org/wikipedia
 [^ref22]: Deal Saxon, H. (2018) ‘Bees and watermelons’, The Statesboro Herald, [online], https://www.statesboroherald.com/local/bees-and-watermelons/, [Accessed: 24/07/20]; Melicher, D. (2019) ‘Road Trip: How Hive Transportation Puts Stress on Honey Bees’, Entomology Today, [online], https://entomologytoday.org/2019/04/01/road-trip-hive-transportation-stress-honey-bees/, [Accessed: 24/07/20]
 [^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjY3MjEyNDMsLTQ3NDUyMTk1OV19
+eyJoaXN0b3J5IjpbMjEwNjAwOTQ1NywtNDc0NTIxOTU5XX0=
 -->
