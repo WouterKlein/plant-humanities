@@ -230,4 +230,7 @@ title="Square watermelon from Japan" url="https://upload.wikimedia.org/wikipedia
 [^ref20]: https://www.nytimes.com/2010/08/18/dining/18melons.html
 [^ref21]: Goldy, R. (2012) ‘Seedless watermelon – how do they do that?’, Michigan State University Extension, [online], https://www.canr.msu.edu/news/seedless_watermelon_how_do_they_do_that, [Accessed: 24/07/20]; Rupp, R. (2015) ‘Watermelon May Be the Most Unnatural, Yet Delicious Fruit’, National Geographic, [online], https://www.nationalgeographic.com/culture/food/the-plate/2015/08/07/watermelon-may-be-the-most-unnatural-yet-delicious-fruit/, [Accessed: 24/07/20]
 [^ref22]: Deal Saxon, H. (2018) ‘Bees and watermelons’, The Statesboro Herald, [online], https://www.statesboroherald.com/local/bees-and-watermelons/, [Accessed: 24/07/20]; Melicher, D. (2019) ‘Road Trip: How Hive Transportation Puts Stress on Honey Bees’, Entomology Today, [online], https://entomologytoday.org/2019/04/01/road-trip-hive-transportation-stress-honey-bees/, [Accessed: 24/07/20]
-[^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]
+[^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]dus
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ3NDUyMTk1OV19
+-->
