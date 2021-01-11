@@ -84,7 +84,7 @@ Watermelon-like fruit were referenced in ancient texts using a variety of terms 
 	fit="contain"
 	attribution="Annals of Botany">
 
-By the ninth and twelfth centuries CE respectively, watermelons had arrived in India and China via regional routes.[^ref11] The watermelon and its sinewy vines soon became a decorative icon, with associations of vitality and playfulness that persist today. In fourteenth-century Japanese Buddhist representations of arhats (those reaching nirvana in Buddhist tradition), watermelons appear in spiritual terms as a religious offering. Early Korean paintings from the Joseon Dynasty by the female artist Shin Saimdang (1504–1551) also [depicted](https://www.museum.go.kr/site/eng/relic/represent/view?relicId=2061) watermelons, symbolically alongside flowers, butterflies and mice.[^ref12] The arching vines of the watermelon plant and seeds exposed by the mice symbolized wishes for healthy and abundant children, echoed in the nearby dianthus flower which represented a wish for “no white hairs,” or lasting youth. Another one of Shin’s depictions of watermelons appears on the 5000 won banknote today, as a reminder of Shin’s dedication to art, family, civic virtue and gender equality.[^ref13]
+By the ninth and twelfth centuries CE respectively, watermelons had arrived in India and China via regional routes.[^ref11] The watermelon and its sinewy vines soon became a decorative icon, with associations of vitality and playfulness that persist today. In fourteenth-century Japanese Buddhist representations of arhats (those reaching nirvana in Buddhist tradition), watermelons appear in spiritual terms as a religious offering. Early Korean paintings from the Joseon Dynasty by the female artist Shin Saimdang (1504-1551) also [depicted](https://www.museum.go.kr/site/eng/relic/represent/view?relicId=2061) watermelons, symbolically alongside flowers, butterflies and mice.[^ref12] The arching vines of the watermelon plant and seeds exposed by the mice symbolized wishes for healthy and abundant children, echoed in the nearby dianthus flower which represented a wish for “no white hairs,” or lasting youth. Another one of Shin’s depictions of watermelons appears on the 5000 won banknote today, as a reminder of Shin’s dedication to art, family, civic virtue and gender equality.[^ref13]
 <param ve-map
 	basemap="Esri_WorldPhysical"
 	time-selector="1000 BCE:1400"
@@ -255,9 +255,9 @@ As we have seen throughout this essay, the watermelon has undergone significant 
 
 [^ref2]: Harry S. Paris, “Origin and Emergence of the Sweet Dessert Watermelon, Citrullus Lanatus,” Annals of Botany 116, no. 2 (August 2015): 139, https://doi.org/10.1093/aob/mcv077.
 
-[^ref3]: Guillaume Chomicki and Susanne S. Renner, “Watermelon Origin Solved with Molecular Phylogenetics Including Linnaean Material: Another Example of Museomics,” New Phytologist 205, no. 2 (2015): 526–32, https://doi.org/10.1111/nph.13163.
+[^ref3]: Guillaume Chomicki and Susanne S. Renner, “Watermelon Origin Solved with Molecular Phylogenetics Including Linnaean Material: Another Example of Museomics,” New Phytologist 205, no. 2 (2015): 526-532, https://doi.org/10.1111/nph.13163.
 
-[^ref4]: Paris, “Origin and Emergence of the Sweet Dessert Watermelon, Citrullus Lanatus,” 134–35.
+[^ref4]: Paris, “Origin and Emergence of the Sweet Dessert Watermelon, Citrullus Lanatus,” 134-135.
 
 [^ref5]: Abdalbasit Adam Mariod et al., “A Comparative Study of the Properties of Six Sudanese Cucurbit Seeds and Seed Oils,” Journal of the American Oil Chemists’ Society 86, no. 12 (August 20, 2009): 1181, https://doi.org/10.1007/s11746-009-1459-3.
 
@@ -297,6 +297,6 @@ As we have seen throughout this essay, the watermelon has undergone significant 
 
 [^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDY2Mjc0MTUsLTE0MjYxNTcwNjEsLT
+eyJoaXN0b3J5IjpbLTE3MjY4NjAwOTEsLTE0MjYxNTcwNjEsLT
 IwODU4NjM1MTEsLTQ3NDUyMTk1OV19
 -->
