@@ -51,45 +51,54 @@ Ironically, the origins and history of the watermelon are obscured by its common
 
 Species in the genus _Citrullus_ characteristically grow on vines with pinnatifid (feather-like) leaves and only a few pale-yellow flowers. The glossy, outermost rind is often distinctly patterned with jagged stripes of two shades of green, covering a thicker, white inner rind that encases the softer flesh that, when ripe, ranges from red to yellow to green and white.[^ref3] Though its origin is still in contention and has been located throughout the African continent, current hypotheses point to its origin and first domestication in north-eastern Africa around six thousand years ago. Wild dessert watermelons have been found throughout Sudan, Egypt, Ethiopia, Libya, and Kenya, adjacent to the Nile Valley[^ref4] and some of the earliest iconography of oblong melons — an indication of domestication — can be found in Egyptian tombs and Mediterranean and Byzantine mosaics, and seeds were found in the famous King Tutankhamen's tomb.[^ref5]
 <param ve-image
-	title="Representations of watermelon in Egyptian tombs" url="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/aob/116/2/10.1093_aob_mcv077/2/mcv077f2p.png?Expires=1599137500&Signature=R-SPwg8TMVoQjtTuWH~HxugVkhIGbt6Jbh~qJv9YIzrz8CKD2JJUkfkcfZgF6N1mEmDkiXwIdyBr7IN8O8cIVvXJyeQFqr5G7gb~8ZvMRo1O0SPU4md~VWlToHpEklMkrX1qXbf-hrk0E-pgjjUT~jZbxp~wxd56NOV8-Xx7OhD~Kf4q0UuI6I81CFwO7aAzWfFtfbgscQTKquRGow81UBR9aNJJ5gh7jpOGZ3nr9A1~fUDuSmnqr1DbTZ67CjsLmb3qSEsw5ReuBqlUJJUEIaYUGstmRegjrnhrPpF9zhIZ13ats0ADxNeubChfhUte22fulFhjYxTaGbJN2DS04Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+	title="Representations of watermelon in Egyptian tombs"
+	url="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/aob/116/2/10.1093_aob_mcv077/2/mcv077f2p.png?Expires=1599137500&Signature=R-SPwg8TMVoQjtTuWH~HxugVkhIGbt6Jbh~qJv9YIzrz8CKD2JJUkfkcfZgF6N1mEmDkiXwIdyBr7IN8O8cIVvXJyeQFqr5G7gb~8ZvMRo1O0SPU4md~VWlToHpEklMkrX1qXbf-hrk0E-pgjjUT~jZbxp~wxd56NOV8-Xx7OhD~Kf4q0UuI6I81CFwO7aAzWfFtfbgscQTKquRGow81UBR9aNJJ5gh7jpOGZ3nr9A1~fUDuSmnqr1DbTZ67CjsLmb3qSEsw5ReuBqlUJJUEIaYUGstmRegjrnhrPpF9zhIZ13ats0ADxNeubChfhUte22fulFhjYxTaGbJN2DS04Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
 	fit="contain"
 	attribution="Annals of Botany">
 <param ve-image
 title="Round cucurbits, possibly watermelons, found in different Roman and Byzantine mosaics dated 425-600 CE in Israel" url="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/aob/114/2/10.1093_aob_mcu106/3/mcu10606.jpeg?Expires=1599137594&Signature=bQYlzxcLbJtkOGTL6A7WM0WCyGwkZuHfT1I1zKUSbjxnn0OQVUQvlewQ~l3QGANeVt~Y9tZUFSFImcd7XVKgdZJbwIqOrmuODRnbNn5wXJGWlTMKCfZBwoE9mI78CvMeGFfSoD5bJgnlNWrkBJT4nrLkFYvGuopdQqmSpDKi9PvtgThhV~6RSh1ALDIwf59aS~I4VeOmQotBrg9EwD~2RwYGYvIyOa1u2BWgEgoDd9k96eaGwP73p6-soaCjrfLAlAG0yUcHa1~7HmuCTOaJ-0SX5Y2ONYHj4u0Rr7lSV4V8fAGysp7PuiEIZp7Y5C12GadGxuzvqcr6z9w3WZN5OQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-       fit="contain"
-       attribution="Annals of Botany">
-<param ve-map time-selector="3000 BCE:0" basemap="Esri_WorldPhysical" center="34.5531, 18.0480" zoom="3.5">
-<param ve-map-layer geojson active url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/geojson/watermelon_distribution.json" title="Distribution">
+	fit="contain"
+	attribution="Annals of Botany">
+<param ve-map
+	time-selector="3000 BCE:0"
+	basemap="Esri_WorldPhysical"
+	center="34.5531, 18.0480"
+	zoom="3.5">
+<param ve-map-layer
+	geojson active
+	url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/geojson/watermelon_distribution.json" title="Distribution">
 
 In the arid savanna regions of Africa, watermelons were welcomed as sources of water, the flesh generally being cooked or beaten to a pulp to extract the water. In southern Africa’s Kalahari Desert, for example, the multiple uses of the flesh, rind, and seeds in their fresh, cooked, and dried forms helped some groups to remain sedentary and hydrated throughout the wet and dry seasons.[^ref7] As they became domesticated, watermelons were bred to yield softer and sweeter flesh, excluding traits like the mucilaginous egusi seeds or the hard, bitter flesh of the citron melon, although western and southern African cuisines still make use of these elements today.[^ref8] 
 <param ve-image
-title="Kalahari watermelon" url="https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F69718619%2Foriginal.jpg%3F1588016254"
-       fit="contain"
-       attribution="GBIF">
+	title="Kalahari watermelon"
+	url="https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F69718619%2Foriginal.jpg%3F1588016254"
+	fit="contain"
+	attribution="GBIF">
 
-    
+
 ### Seeing Red...Eventually
 
 Watermelon-like fruit were referenced in ancient texts using a variety of terms including _pepon_, _melopepon_ and _kolokynte_, suggesting some kinds of watermelon had proliferated to the Mediterranean region by the common era. Around 77 CE, Pliny dedicated a section of his [_Natural History_](https://www.loebclassics.com/view/pliny_elder-natural_history/1938/pb_LCL392.9.xml) to _pepones_, which, he wrote, made a very refreshing food, but also had a laxative effect. Various parts of the fruit were used to alleviate pain, to induce vomiting, and even to cleanse the skin and clear spots.[^ref9] In this era, these "watermelons" likely still had quite sturdy and pale flesh, not quite red and soft. Two thousand years later in 1888, watermelon was still being promoted as a face cleanser in reports by a Miss Carrie Townsend from St. Louis carried in US newspapers. Townsend, who felt sorry for girls with freckles who looked “as if they had been about when a bran bin had exploded,” claimed that no matter what was wrong with the face, the juice of the watermelon would rectify it.[^ref10] Although perhaps not quite as powerful as Townsend suggests, components of the watermelon are re-emerging as a natural skin cleanser today, such kalahari or ootanga oil traditionally extracted from the seeds in West Africa. 
 <param ve-image
 title="Cucurbits on the Juliana Anicia Codex known as Vienna Dioscorides. Number C is Citrullus colocynthis, the bitter watermelon, the close relative to watermelon used as laxative and diuretic." url="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/aob/100/7/10.1093/aob/mcm242/2/mcm24201.jpeg?Expires=1599152059&Signature=uPLyghEFxoPNUp8Bl7c-mT7iQ1W~Vy~voNczo6PqfdEMJ5AVzGOp6XpmFbAm7wrO3f4l0fF-941C9t-471o-otlXzw7OQvxAiN-Axh-DI2Rhvk5ldA4AdSV0hZG-d7il~xO7xeBxDm6hcfWM~uDu9uF5-c-hezzb6CAAxi2RqijxttXO6TSyOSlwUPnWUL7YJTl5y9S7cwulGYA9Wo23ukLP9sy1L0Q~O78iXt1TpCVwvPGgJDbkgwLvuAuqHsxAAQvP3HYnZyfwAPuLFB1sU52SHuNrhBIi0xbSGgj54Nmpcwvz6qvSpPPmPm8toDKk1rdAFSLiNikq1xL8ZHqD~Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-       fit="contain"
-       attribution="Annals of Botany">
+	fit="contain"
+	attribution="Annals of Botany">
 
 By the ninth and twelfth centuries CE respectively, watermelons had arrived in India and China via regional routes.[^ref11] The watermelon and its sinewy vines soon became a decorative icon, with associations of vitality and playfulness that persist today. In fourteenth-century Japanese Buddhist representations of arhats (those reaching nirvana in Buddhist tradition), watermelons appear in spiritual terms as a religious offering. Early Korean paintings from the Joseon Dynasty by the female artist Shin Saimdang (1504–1551) also [depicted](https://www.museum.go.kr/site/eng/relic/represent/view?relicId=2061) watermelons, symbolically alongside flowers, butterflies and mice.[^ref12] The arching vines of the watermelon plant and seeds exposed by the mice symbolized wishes for healthy and abundant children, echoed in the nearby dianthus flower which represented a wish for “no white hairs,” or lasting youth. Another one of Shin’s depictions of watermelons appears on the 5000 won banknote today, as a reminder of Shin’s dedication to art, family, civic virtue and gender equality.[^ref13]
 <param ve-map time-selector="1000 BCE:1400" basemap="Esri_WorldPhysical" center="38.9637, 35.2433" zoom="3">
 <param ve-map-layer geojson active url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/geojson/watermelon_distribution.json" title="Distribution"> 
 <param ve-image
-title="'Satsubari, the Second of the Sixteen Arhats.' Japan. Early 14th century." url="https://images.metmuseum.org/CRDImages/as/original/DP-12232-006.jpg"
-       fit="contain"
-       attribution="The Metropolitan Museum of Art">
+	title="'Satsubari, the Second of the Sixteen Arhats.' Japan. Early 14th century."
+	url="https://images.metmuseum.org/CRDImages/as/original/DP-12232-006.jpg"
+	fit="contain"
+	attribution="The Metropolitan Museum of Art">
 <param ve-image
 title="'Plants and insects' by Shin Saimdang" url="https://ids.lib.harvard.edu/ids/view/18731783?width=3000&height=3000"
-       fit="contain"
-       attribution="Harvard Art Museums">
+	fit="contain"
+	attribution="Harvard Art Museums">
 <param ve-image
 title="5000 Won Banknote, Bank of Korea" url="https://upload.wikimedia.org/wikipedia/commons/d/d7/5000_won_serieV_reverse.jpeg"
-       fit="fit"
+	fit="fit"
        attribution="Wikimedia Commons"> 
 
 Moorish conquerors of Spain left agricultural evidence of the watermelon, mostly in the shape of seeds, in the tenth century CE, and illuminated manuscripts shed light on the varieties of watermelons grown in southern Italy. The watermelon appearing in subsequent European manuscripts seemed to be more palatable than Pliny’s pepones: early health treatises (_Tacuinum Sanitatis_) often commissioned by Italian nobility in the 14th century show that they may have been so delectable that harvesters [would taste test them](http://visualiseur.bnf.fr/ConsulterElementNum?O=08100553&E=JPEG&Deb=75&Fin=75&Param=C) in the fields. However, the sweetness — related to the redness of the flesh — of the melons does not appear to be consistent. Writing in the late 16th century, John Gerard, in his [_Herball_](https://www.biodiversitylibrary.org/item/109874#page/789/mode/1up), described the flesh as “spungie and of a flimsie substance” which can be “eaten rawe, but more commonly boiled” and was still more notable for its healthful properties: “it ingendereth a waterish bloud, mitigateth the extremitie of heat of the inner parts, and tempereth the sharpness and fervent heat of choler.”[^ref14] 
@@ -232,5 +241,5 @@ title="Square watermelon from Japan" url="https://upload.wikimedia.org/wikipedia
 [^ref22]: Deal Saxon, H. (2018) ‘Bees and watermelons’, The Statesboro Herald, [online], https://www.statesboroherald.com/local/bees-and-watermelons/, [Accessed: 24/07/20]; Melicher, D. (2019) ‘Road Trip: How Hive Transportation Puts Stress on Honey Bees’, Entomology Today, [online], https://entomologytoday.org/2019/04/01/road-trip-hive-transportation-stress-honey-bees/, [Accessed: 24/07/20]
 [^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDM3NjkwODksLTQ3NDUyMTk1OV19
+eyJoaXN0b3J5IjpbLTEwNjY3MjEyNDMsLTQ3NDUyMTk1OV19
 -->
