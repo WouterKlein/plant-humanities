@@ -74,7 +74,7 @@ Boxwood, with which this disease is associated, is a genus of evergreen shrubs t
 	url="https://www.doaks.org/visit/garden/explore/box-walk/@@images/image"
 	region="154,53,900,667">
 
-One of the finest among these, Dumbarton Oaks—designed by Beatrix Farrand beginning in 1921—includes three areas originally named after this shrub: the Box Walk, the Box Terrace (now called Urn Terrace), and the <span data-mouseover-map-flyto="38.914959, -77.062772, 18" zoom="19">Box Ellipse</span> (later replanted with hornbeam). According to McGuire, boxwood—along with yew and holly—was one of the most characteristic plants in Farrand’s palette, serving as “the embodiment of our deepest associations with the gardens of the Old World and with the cottage gardens of England.”[^ref3] It was precisely these historical roots of North American garden culture, not just the commercial future of a ubiquitous ornamental shrub, that the spread of boxwood blight put under threat.
+One of the finest among these, Dumbarton Oaks—designed by Beatrix Farrand beginning in 1921—includes three areas originally named after this shrub: the Box Walk, the Box Terrace (now called Urn Terrace), and the <span data-mouseover-map-flyto="38.914959, -77.062772, 18">Box Ellipse</span> (later replanted with hornbeam). According to McGuire, boxwood—along with yew and holly—was one of the most characteristic plants in Farrand’s palette, serving as “the embodiment of our deepest associations with the gardens of the Old World and with the cottage gardens of England.”[^ref3] It was precisely these historical roots of North American garden culture, not just the commercial future of a ubiquitous ornamental shrub, that the spread of boxwood blight put under threat.
 <param title="Dumbarton Oaks" eid="Q1264942">
 <param ve-map
 	prefer-geojson
@@ -204,7 +204,7 @@ Closely connected with these expatriate circles was British landscape architect 
 Deeply invested with cultural symbolism, boxwood represents the rich legacy of the formal gardens of Europe characterized by geometric layout, controlling vistas, and ambitious scale. Characterized by climate resistance in addition to malleability, it became a means of exporting this prestigious horticultural tradition that claimed its origins in antiquity across the entire globe, serving not merely as a plant material, but a key medium of stylistic expression. The story of boxwood is that of a humble yet resilient plant, which, after centuries of disparagement and neglect, succeeded in taking over the garden world. Whether or not it would be able retain this hard-earned preeminence as the most sought-after ornamental shrub, only time can tell.[^ref30]
 <param ve-image
 	title="Boxwood in the Dumbarton Oaks garden, before removal."
-	url="https://github.com/WouterKlein/boxwoodtest/blob/master/images/Boxwood-blight-in-Dumbarton-Oaks-garden_pre-removal1.jpg">
+	url="https://github.com/WouterKlein/plant-humanities/docs/boxwood/Boxwood-blight-in-Dumbarton-Oaks-garden_pre-removal1.jpg">
 <param ve-image
 	title="Boxwood blight at the Dumbarton Oaks garden."
 	url="https://github.com/WouterKlein/boxwoodtest/blob/master/images/Boxwood-blight-in-Dumbarton-Oaks-garden_pre-removal2.jpg">
@@ -275,8 +275,8 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^ref30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii,_ both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDk2NzkzMiw5OTM1ODEwODIsOTkzNT
-gxMDgyLDk5MzU4MTA4MiwtMTQ3NTM2ODQ2MywxNDg2MTQ3MjIx
-LDUyMTQ0MTM1NSw5OTk3MDM5MjksLTEwMDU5NzE2NSw5OTk3MD
-M5MjksLTE4Mzg5NDU0MywxNTg0NjQ2MDIzXX0=
+eyJoaXN0b3J5IjpbLTE4NDM3NzA5OTQsOTkzNTgxMDgyLDk5Mz
+U4MTA4Miw5OTM1ODEwODIsLTE0NzUzNjg0NjMsMTQ4NjE0NzIy
+MSw1MjE0NDEzNTUsOTk5NzAzOTI5LC0xMDA1OTcxNjUsOTk5Nz
+AzOTI5LC0xODM4OTQ1NDMsMTU4NDY0NjAyM119
 -->
