@@ -1,12 +1,12 @@
 <param ve-config
-	title="Watermelon: 'What the angels eat'"
+	title="Watermelon: ‘What the angels eat’"
 	banner="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
 	layout="vtl"
 	num-maps="3"
 	num-specimens="3"
 	num-images="29"
 	num-primary-sources="6"
-	author="Anna Lawrence, Camilo Uribe Botta, May Wang">
+	author="Anna Lawrence, Camilo Uribe Botta, and May Wang">
 
 <param title="Watermelon" eid="Q17507129">
 <param title="Citrullus lanatus" eid="Q17507129" aliases="Citrullus lanatus">
@@ -36,8 +36,7 @@
 <param title="Colocynth" eid="Q913609" aliases="C. colocynthis" aliases="colocynth">
 <param title="Atlantic slave trade" eid="Q10701282" aliases="slaves">
 
-### Watermelon, The Food Of Angels
-
+### Watermelon, the food of angels
 Mark Twain once said that watermelon “is the chief of this world's luxuries, king by the grace of God over all the fruits of the earth. When one has tasted it, he knows what the angels eat.”[^ref1] Though today “watermelon” calls to mind a sturdy melon with refreshing, sweet, red flesh, for most of its millennia-long history as a cultivated crop it was known as a pale, hard, sometimes bitter fruit with relatively tender rind. Not until the sixth century CE were watermelons associated with sweet fruits like figs and grapes, and it was not until well into the 1400s that the uniformly red, thick-rinded watermelons that we recognize today began to appear. Throughout its history, the watermelon has been associated with medicine, vitality, racism, and disease, revealing a darker side to the sweet summer fruit that we know and love. 
 <param ve-vis-network file="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/graphs/watermelon.csv">
 <param ve-image
@@ -45,9 +44,11 @@ title="Watermelon" url="https://upload.wikimedia.org/wikipedia/commons/4/4d/Bulg
 	fit="cover"
 	attribution="Wikimedia Commons">
 
-### Whose Vine Is It Anyway?
+### Whose vine is it anyway?
 Ironically, the origins and history of the watermelon are obscured by its commonness, diversity, and its most iconic component — the tender, watery flesh, which does not survive well in the archaeological record. “Watermelon” today often refers specifically to the “sweet dessert” cultivars of the _Citrullus lanatus_ species, but the _Citrullus_ genus includes at least six other species of watermelons, including the citron _(C. caffer)_, egusi _(C. mucosospermus)_ and colocynth _(C. colocynthis)_ watermelons, which at one time were variously called or classified as subspecies of _C. lanatus_.[^ref2] Past taxonomies of the sweet dessert watermelon are therefore of minimal use for tracing its origins until further genetic analysis is undertaken; instead, literary references and visual depictions of watermelons stretching back millennia have been used to identify and trace the evolving phenotypes of the modern watermelon.
-<param ve-plant-specimen eid="Q30160603" max="2">
+<param ve-plant-specimen
+	eid="Q30160603"
+	max="2">
 
 Species in the genus _Citrullus_ characteristically grow on vines with pinnatifid (feather-like) leaves and only a few pale-yellow flowers. The glossy, outermost rind is often distinctly patterned with jagged stripes of two shades of green, covering a thicker, white inner rind that encases the softer flesh that, when ripe, ranges from red to yellow to green and white.[^ref3] Though its origin is still in contention and has been located throughout the African continent, current hypotheses point to its origin and first domestication in north-eastern Africa around six thousand years ago. Wild dessert watermelons have been found throughout Sudan, Egypt, Ethiopia, Libya, and Kenya, adjacent to the Nile Valley[^ref4] and some of the earliest iconography of oblong melons — an indication of domestication — can be found in Egyptian tombs and Mediterranean and Byzantine mosaics, and seeds were found in the famous King Tutankhamen's tomb.[^ref5]
 <param ve-image
@@ -280,5 +281,6 @@ As we have seen throughout this essay, the watermelon has undergone significant 
 
 [^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODU4NjM1MTEsLTQ3NDUyMTk1OV19
+eyJoaXN0b3J5IjpbNjY5ODI5MTA3LC0yMDg1ODYzNTExLC00Nz
+Q1MjE5NTldfQ==
 -->
