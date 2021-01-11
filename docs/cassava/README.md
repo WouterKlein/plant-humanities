@@ -345,4 +345,7 @@ Code to add a specimen from Global Plants. Lorem ipsum dolor sit amet, consectet
 <param ve-plant-specimen eid="Q12844029" max="1" reverse="true">
 
 This example also displays a type specimen from the Global Plants site for the species _Agave americana_.  In this example the Global Plants identifier ([10.5555/al.ap.specimen.us00092112](https://plants.jstor.org/stable/10.5555/al.ap.specimen.us00092112)) is used to display the image for a specific specimen.
-<param ve-plant-specimen jpid="10.5555/al.ap.specimen.m0233266">
+<param ve-plant-specimen jpid="10.5555/al.ap.specimen.m0233266">dus
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk5OTM0NTY0MV19
+-->
