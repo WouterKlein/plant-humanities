@@ -50,7 +50,7 @@
 
 ### Boxwood under threat
 
-“Boxwood blight invades North America,” read the heading of an article that appeared in _Science News_ in January 2012. Caused by _Cylindrocladium buxicola_—a fungus whose spores remain viable for several years and are easily dispersed by birds, moving visitors<![if !supportAnnotations]>[[AP1]](#_msocom_1)<![endif]> <![if !supportAnnotations]>[[TA2]](#_msocom_2)<![endif]> , wind, or even sprinklers—the disease manifests itself by dark or light brown spots or lesions on the leaves that eventually fall off. First reported in southern England in 1994, boxwood blight has since been devastating gardens across the world, from Europe to New Zealand. Recently, it has been described as “a significant concern for the ornamental horticulture industry” as well as “a growing threat to established landscapes and native ecosystems alike.”[^ref1]
+“Boxwood blight invades North America,” read the heading of an article that appeared in _Science News_ in January 2012. Caused by _Cylindrocladium buxicola_—a fungus whose spores remain viable for several years and are easily dispersed by birds, moving visitors, wind, or even sprinklers—the disease manifests itself by dark or light brown spots or lesions on the leaves that eventually fall off. First reported in southern England in 1994, boxwood blight has since been devastating gardens across the world, from Europe to New Zealand. Recently, it has been described as “a significant concern for the ornamental horticulture industry” as well as “a growing threat to established landscapes and native ecosystems alike.”[^ref1]
 <param ve-map
 	title="Occurence of boxwood blight in America, 2010-2018"
 	center="39.812733, -97.042653"
@@ -275,9 +275,9 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^ref30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii,_ both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkwMDMyMjEsLTIwMDc5ODU5NzEsLTE4ND
-M3NzA5OTQsOTkzNTgxMDgyLDk5MzU4MTA4Miw5OTM1ODEwODIs
-LTE0NzUzNjg0NjMsMTQ4NjE0NzIyMSw1MjE0NDEzNTUsOTk5Nz
-AzOTI5LC0xMDA1OTcxNjUsOTk5NzAzOTI5LC0xODM4OTQ1NDMs
-MTU4NDY0NjAyM119
+eyJoaXN0b3J5IjpbNDcxMjk5MTIzLC0yMDA3OTg1OTcxLC0xOD
+QzNzcwOTk0LDk5MzU4MTA4Miw5OTM1ODEwODIsOTkzNTgxMDgy
+LC0xNDc1MzY4NDYzLDE0ODYxNDcyMjEsNTIxNDQxMzU1LDk5OT
+cwMzkyOSwtMTAwNTk3MTY1LDk5OTcwMzkyOSwtMTgzODk0NTQz
+LDE1ODQ2NDYwMjNdfQ==
 -->
