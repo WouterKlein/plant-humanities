@@ -150,7 +150,7 @@ If Mattioli and Parkinson considered boxwood primarily an ornamental plant “we
 <param ve-image
 	title="Sixteenth-century Netherlandish rosary bead (interior)"
 	url="https://images.metmuseum.org/CRDImages/md/original/DP371962.jpg"
-	region="-3,42,1000,751">
+	region="133,185,2777,2083">
 
 ### Boxwood reinstated
 
@@ -275,7 +275,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^ref30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii,_ both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MTU4NzQ3MSwtMTQ3NTM2ODQ2MywxND
-g2MTQ3MjIxLDUyMTQ0MTM1NSw5OTk3MDM5MjksLTEwMDU5NzE2
-NSw5OTk3MDM5MjksLTE4Mzg5NDU0MywxNTg0NjQ2MDIzXX0=
+eyJoaXN0b3J5IjpbOTkzNTgxMDgyLC0xNDc1MzY4NDYzLDE0OD
+YxNDcyMjEsNTIxNDQxMzU1LDk5OTcwMzkyOSwtMTAwNTk3MTY1
+LDk5OTcwMzkyOSwtMTgzODk0NTQzLDE1ODQ2NDYwMjNdfQ==
 -->
