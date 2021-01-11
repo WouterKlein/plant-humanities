@@ -180,22 +180,40 @@ Today, cassava is still grown in Java, and in other regions around the globe. Th
 [^17]: Ibid, 5.
 
 [^18]: Judith Ann Carney and Richard Nicholas Rosomoff, _In the Shadow of Slavery_, (Berkeley and Los Angeles: University of California Press, 2009), 54.
+
 [^19]: Ibid, 178
+
 [^20]: Ibid, 180.
+
 [^21]: Ibid.
+
 [^22]: A. Parmer, B. Sturm, and O. Hensel, “Crops that Feed the World: Production and Improvement of Cassava for Food, Feed, and Industrial Uses,” _Food Security_ 9, (2017): 914. doi: 10.1007/s12571-017-0717-8
+
 [^23]: Wyndham R. Dunstan, T. A. Henry, and S. J. M. Auld, “Cyanogenesis in Plants: Part V – The Occurrence of Phaseolunatin in Cassava (Manihot Aipi and Manihot utilissima)” _Proceedings of the Royal Society of London_ (1906): 152-158. https://www.biodiversitylibrary.org/page/43363072
+
 [^24]: Antoine-François de Fourcroy and Jean-Michel Papillon, _Élémens d’histoire naturelle et de chemie_ (Paris: Chez Cuchet, 1786), 106. https://www.biodiversitylibrary.org/page/57980618
+
 [^25]: William Tufts Brigham and Jay I. Kislak Collection (Library of Congress), _Guatemala, the Land of the Quetzal: A Sketch,_ xv, 453 p., [28] leaves of plates (some folded) (New York: Charles Scribner’s Sons, 1887): 32.
+
 [^26]: Ibid.
+
 [^27]: Ibid.
+
 [^28]: Ibid.
+
+
 [^29]: Ibid.
+
 [^30]: I. H. Burkill et al., _A Dictionary of the Economic Products of the Malay Peninsula,_ 2 v. (London: Published on behalf of the governments of the Straits settlements and Federated Malay states by the Crown agents for the colonies, 1935): 1414.
+
 [^31]: Ibid.
+
 [^32]: Ibid, 1412.
+
 [^33]: Ibid, 1418.
+
 [^34]: MOCA, Njideka Akunyili Crosby, 2018, https://www.youtube.com/watch?v=pUZijlho9CM.
+
 [^35]: Ibid.github.com/melindasusanto/demo1/blob/master/Crosby.jpg"
        layout="vtl"
        num-maps="x"
@@ -364,5 +382,5 @@ Code to add a specimen from Global Plants. Lorem ipsum dolor sit amet, consectet
 This example also displays a type specimen from the Global Plants site for the species _Agave americana_.  In this example the Global Plants identifier ([10.5555/al.ap.specimen.us00092112](https://plants.jstor.org/stable/10.5555/al.ap.specimen.us00092112)) is used to display the image for a specific specimen.
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.m0233266">dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzNjk3ODMxLDE5OTkzNDU2NDFdfQ==
+eyJoaXN0b3J5IjpbLTM4NzU4OTI4OSwxOTk5MzQ1NjQxXX0=
 -->
