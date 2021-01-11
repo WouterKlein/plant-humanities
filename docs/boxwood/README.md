@@ -91,7 +91,7 @@ One of the finest among these, Dumbarton Oaks—designed by Beatrix Farrand begi
 
 ### “A plant known to everybody”
 
-How did boxwood come to represent the lasting legacy of the European garden tradition? Its historical fortunes hardly amount to a dazzling story of oversees exploration, important discoveries, and economic exploitation—the “big business” of early modern botany, to use Daniela Bleichmar’s phrase.[^ref4] An integral element in the Mediterranean maquis, boxwood has been familiar to Europeans for many centuries. Sixteenth-century Italians considered it “a plant that is known to everybody, since it abundantly grows all over Italy”; while in England it was habitually found among “sundry waste and barren hills.”[^ref5] Boxwood’s adaptation to garden design went back to antiquity. Roman author and politician Pliny the Younger mentions its use in his villa “in Tuscis,” where, cut into various shapes representing figures and letters, it served as the main material for elaborate topiary work.[^ref6] This malleability of boxwood, the ease with which it lent itself to pruning, was particularly valued by the ancients, making it an indispensable and versatile medium for the creation of green architecture and sculpture.
+How did boxwood come to represent the lasting legacy of the European garden tradition? Its historical fortunes hardly amount to a dazzling story of oversees exploration, important discoveries, and economic exploitation—the “big business” of early modern botany, to use Daniela Bleichmar’s phrase.[^ref4] An integral element in the Mediterranean maquis—scrubland vegetation—boxwood has been familiar to Europeans for many centuries. Sixteenth-century Italians considered it “a plant that is known to everybody, since it abundantly grows all over Italy”; while in England it was habitually found among “sundry waste and barren hills.”[^ref5] Boxwood’s adaptation to garden design went back to antiquity. Roman author and politician Pliny the Younger mentions its use in his villa “in Tuscis,” where, cut into various shapes representing figures and letters, it served as the main material for elaborate topiary work.[^ref6] This malleability of boxwood, the ease with which it lent itself to pruning, was particularly valued by the ancients, making it an indispensable and versatile medium for the creation of green architecture and sculpture.
 <param ve-map
 	title="Modern European distribution of common boxwood (_Buxus sempervirens_)"
 	center="47.192704, 23.108475"
@@ -275,7 +275,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^ref30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii,_ both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDIxMzQxNiwtMjAwNzk4NTk3MSwtMT
+eyJoaXN0b3J5IjpbMjAwNTc3MDk5MiwtMjAwNzk4NTk3MSwtMT
 g0Mzc3MDk5NCw5OTM1ODEwODIsOTkzNTgxMDgyLDk5MzU4MTA4
 MiwtMTQ3NTM2ODQ2MywxNDg2MTQ3MjIxLDUyMTQ0MTM1NSw5OT
 k3MDM5MjksLTEwMDU5NzE2NSw5OTk3MDM5MjksLTE4Mzg5NDU0
