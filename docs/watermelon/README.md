@@ -211,17 +211,20 @@ The racist belief in the unhealthy habits of African-Americans also featured in 
 	fit="contain"
 	attribution="The National Intelligencer. 1832, Gale Primary Sources, Nineteenth Century U.S. Newspapers">
 <param ve-image
-	title="Carried the cholera" url="images/watermelon-poem.jpeg"
+	title="Carried the cholera"
+	url="images/watermelon-poem.jpeg"
 	fit="contain"
 	attribution="The Macon Telegraph. 1884, The Milwaukee Daily Sentinel, Aug. 19, p. 4, Gale Primary Sources, Nineteenth Century U.S. Newspapers">
 
 In Korea at the turn of the twentieth century, for instance, British mine-owners [banned watermelons]( http://www.koreatimes.co.kr/www/nation/2018/07/721_251812.html) from the camps of their workers in order to prevent outbreaks of cholera. The logic behind this seemed to lay in the “immense quantities” of watermelons consumed by Korean workers, including the “rind” (probably the white pith, thought good for indigestion), again suggesting a continuity between a racialized critique of excess indulgence and the moralizing of disease. The campaign turned out to be successful, although whether or not that was due to the lack of watermelons is unclear.[^ref19] Similarly, posters such as that shown here from the USSR in 1921 used watermelons to illustrate how various acts of poor hygiene could lead to cholera, from drinking unboiled water to eating unwashed fruit.
-<param ve-storiiies id="831fg">
+<param ve-storiiies
+	id="831fg">
 
 ### Capitalism and the commodification of fruit 
 Since the twentieth century, the intensified commodification of the watermelon has transformed the fruit’s form. In many countries around the world (but not all), since the 2000s, watermelons have grown smaller, rounder, and more uniform in size in order to stack better for transit and sale. These so-called “personal melons” are more practical for transporting and storing in fridges, and importantly bring farmers bigger profits per acre, heralding a shift away from the watermelon as a communally consumed fruit.[^ref20] The other major transformation in watermelons has been the success of the seedless melon. The commercial production of seedless watermelons began in the 1990s, using colchicine – a chemical derived from crocuses – to produce a sterile seedless hybrid, crossbred to have three sets of chromosomes instead of two.[^ref21]
 <param ve-image
-title="Varieties of watermelons" url="https://scx2.b-cdn.net/gfx/news/hires/2019/harvestingge.jpg"
+	title="Varieties of watermelons"
+	url="https://scx2.b-cdn.net/gfx/news/hires/2019/harvestingge.jpg"
 	fit="contain"
 	attribution="Science X">
 <param ve-plant-specimen
@@ -235,7 +238,8 @@ Whilst the seedless watermelon now dominates the market, its hybridized sterilit
 	fit="contain"
 	attribution="Vox">
 <para ve-image
-title="Watermelon then and now" url="https://cdn.vox-cdn.com/uploads/chorus_asset/file/3910892/watermelonthenandnow.jpg"
+	title="Watermelon then and now"
+	url="https://cdn.vox-cdn.com/uploads/chorus_asset/file/3910892/watermelonthenandnow.jpg"
 	fit="contain"
 	attribution="Vox, Christie's and Shutterstock">
 
@@ -294,6 +298,6 @@ As we have seen throughout this essay, the watermelon has undergone significant 
 
 [^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4OTY0MDIxMCwtMjA4NTg2MzUxMSwtND
-c0NTIxOTU5XX0=
+eyJoaXN0b3J5IjpbLTkzMzkyNzMwLC0yMDg1ODYzNTExLC00Nz
+Q1MjE5NTldfQ==
 -->
