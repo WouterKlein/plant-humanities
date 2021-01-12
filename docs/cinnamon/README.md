@@ -81,7 +81,8 @@ Once ‘true’ cinnamon had begun to be understood as cinnamon from Sri Lanka, 
 	title="Sri Lanka in the sixteenth century (after 1521). [Note: I have to create a ve-map tag based on a map in Wagenaar, p. 32, and a map from Wikimedia Commons (https://upload.wikimedia.org/wikipedia/commons/d/d7/Sri_Lanka_geopolitics_-_after_%22Spoiling_of_Vijayabahu%22.png).]"
 	center="8.050740, 80.654834"
 	zoom="7.4">
-{#paragraph5}]
+{#paragraph7}
+
 ### Optimizing the monopoly
 
 The Dutch made even stronger, concerted efforts to get a hold on cinnamon. They signed a treaty with the king of Kandy in 1638, hoping this would give them a share of the cinnamon trade, which was still dominated by the Portuguese at the time. After the Portuguese were defeated in Colombo (1656) and Jaffnapatnam (1658), the Dutch controlled many coastal areas of the island, while the kingdom of Kandy ruled the island’s interior. The relation between the Dutch and the king of Kandy was strained. Cinnamon trees were scattered throughout the forests of the island, so groups of peelers who worked for the Dutch often had to cross Portuguese and, later, Kandian territory to reach the areas where the trees grew. As it was impossible for the Dutch to keep a military grip on this enormous territory, or on individual groups of peelers, there was little they could do when peelers chose, or were forced, to switch allegiance. Therefore, bribing the king of Kandy was a recurring means to leave peelers alone, in order not to interrupt the supply of cinnamon.
@@ -92,6 +93,7 @@ The Dutch made even stronger, concerted efforts to get a hold on cinnamon. They 
 	title="Sri Lanka during the Dutch period. [Note: I have to create a ve-map tag based on a map in Wagenaar, p. 32.]"
 	center="8.050740, 80.654834"
 	zoom="7.4">
+{#paragraph8}
 
 Peelers were specialized laborers from the Sinhalese caste _Salagama_ (also known as _Saliya_ or _Chaliya_). Although their skills were indispensable for the cinnamon trade, they were treated harshly by the Dutch. Each year, the peelers gathered in Colombo for a ceremony where they pledged loyalty to the Dutch governor. There was a long peeling season for cinnamon between May and August, and a short season in January and February. On both occasions, groups of men were sent off into the woods with nothing but paring knives and an amount of rice. Adult men were obliged to bring back 12 _robes_ (of 56 pounds each) at the end of the summer season. Boys from 12 years of age had to contribute proportionally. Dutch sources often complained about peelers as lazy and unreliable, but the peelers had a hard life. They were away from home for months, had to provide for themselves while working in the forests, where they were subject to diseases, and they were severely punished if they did not meet their quotum.[^ref9]
 <param title="Sinhalese people" eid="Q932244" aliases="Sinhalese">
@@ -103,6 +105,7 @@ Peelers were specialized laborers from the Sinhalese caste _Salagama_ (also know
 	title="‘How cinnamon is peeled on the island of Ceylon’. Anonymous copperplate print, from Philippus Baldaeus, _Naauwkeurige beschryvinge van Malabar en Choromandel, derzelver aangrenzende ryken en het machtige eyland Ceylon_ (Amsterdam: Johannes Janssonius van Waasberge 1672) 195."
 	url="https://upload.wikimedia.org/wikipedia/commons/7/75/AMH-7014-KB_Peeling_cinnamon_on_Ceylon.jpg"
 	fit="contain">
+{#paragraph9}
 
 The restrictions of the Dutch on cinnamon exports made it the only real monopoly on Sri Lanka in the early modern period. Smuggling was severely punished. In 1704, Bengal traders were allowed to export small amounts of cinnamon, which would not affect the monopoly of the Dutch East India Company (VOC) too much. In the 1720s, export restrictions were loosened for several products, but not cinnamon.[^ref10] The tight grip of the Dutch was also felt internally. Cinnamon harvesters had long been accustomed to clearing plots of forest to create temporary cultivated fields, called _chenas_. Under Dutch rule, they were no longer allowed to practice species circulation on a plot once it was planted with cinnamon, so as not to diminish the total acreage. But Pieter van Dam, long-term secretary of the VOC, calculated around 1700 that Sri Lanka produced more than enough cinnamon to supply European and international markets. This makes the suppression of _chena_ practices seem all the more exploitative.[^ref11]
 <param title="Dutch East India Company" eid="Q159766" aliases="Dutch East India Company (VOC)">
@@ -110,6 +113,7 @@ The restrictions of the Dutch on cinnamon exports made it the only real monopoly
 <param ve-image
 	title="Image from 1720, showing the benefits that could be made from monocultures of cinnamon on temporary cleared fields (_chenas_). The image on the left shows a demarcated area of forest to be cultivated; the image in the middle shows the same field after the original vegetation was cleared; and the image on the right shows the _chena_ as a monoculture of cinnamon. The text at the bottom is a calculation of the expected returns. A field with only five cinnamon trees could contain 135 trees after cultivation: a 27-fold increase. When this image was produced, however, the VOC was still very reluctant to abandon the wild harvest approach it had always adopted, and _chena_ practices were dicouraged."
 	url="NL-HaNA_4.VEL_939A-groot_cropped.jpg">
+{#paragraph10}
 
 Local grievances about the VOC policy for _chenas_, and about extortion of peelers by Sinhalese and Dutch officials, exploded in 1760. Backed by the king of Kandy, the peelers rebelled, leading to a war that lasted until 1766. The war finally may have caused the Dutch to rethink their approach for cinnamon production. Starting in 1769, governor Iman Willem Falck (in office 1765-1785) began to experiment with ‘cinnamon gardens’ (_kaneeltuinen_), which amounted to nothing less than a successful colonial plantation mechanism. By the end of his governorship, there were 24 million cinnamon trees growing in gardens, which increased to 609 million trees (!) by 1794.[^ref12]
 <param title="Iman Willem Falck" eid="Q16836179">
@@ -119,11 +123,13 @@ Local grievances about the VOC policy for _chenas_, and about extortion of peele
 	attribution="Nationaal Archief, The Hague, 4.VEL ‘Inventaris van de verzameling buitenlandse kaarten Leupe, 1584-1865’, inv.no. 935 ‘Kaart van de Salpittie Korls Kanneeltuynen, met dies Hoofdwegens, geleegen in het district Kaliture’."
 	url="NL-HaNA_4.VEL_935-groot.jpg"
 	region="2226,1064,839,630">
+{#paragraph11}
 
 The success was short-lived, however. When the British took over control of the Dutch territories on Sri Lanka in 1796, they failed to maintain the success of the cinnamon plantation economy. Calls for free trade and better working conditions for peelers, high export duties, and competition of cheaper _cassia_ cinnamon from Java finally led to reforms in 1833. But the measures came too late and were counterproductive: Britain sold many plantations to private owners, who switched to coffee and tea production, thus ending the success of cinnamon production for years to come.[^ref13]
 <param ve-image
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
+{#paragraph12}
 
 ### A tool of empire or a tool of science?
 
@@ -135,6 +141,7 @@ Although cinnamon was a successful monopoly during the Dutch period, was it pure
 <param ve-image
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
+{#paragraph13}
 
 Interests of empire and a disinterested search for knowledge could go hand in hand. The botanist Paul Hermann was employed by the VOC between 1672 and 1677 to gather botanical knowledge on Sri Lanka. Although Hermann barely made it out of Colombo, he managed to collect an impressive amount of material, including many cinnamon specimens.[^ref15] Hermann’s collections offered input for decades of scholarly interest in Sri Lankan flora. Many specimens served indirectly as type specimens for the _Species Plantarum_ (1753) of Carl Linnaeus, who dreamed of transplanting cinnamon to Lapland.[^ref16] But Hermann already knew that northern Europe was too cold for cinnamon: in spite of the VOC ban on exporting living plants, he sent trees to several acquaintances in the Dutch Republic, none of which survived the cold winters.[^ref17] Exchange of knowledge and goods was evidently possible: an extensive, first-hand account of all the cinnamon varieties on Sri Lanka even made it into the _Philosophical Transactions_ of the Royal Society in 1730.[^ref18]
 <param title="Paul Hermann" eid="Q66569">
@@ -149,6 +156,7 @@ Interests of empire and a disinterested search for knowledge could go hand in ha
 _Cinnamomum verum_ J.Presl, from Paul Hermanns herbarium of plants from Sri Lanka in Leiden, specimen no. L.2070171. [This is currently a downloaded image, because the Leiden volumes of Hermann’'s herbarium are not in JSTOR’s Global Plants database. The London volumes are.]"
 	attribution="https://data.biodiversitydata.nl/naturalis/specimen/L.2070171"
 	url="007714869-L.2070171.jpg">
+{#paragraph14}
 
 ### Cinnamon and the imagination of empire
 
@@ -162,6 +170,7 @@ Meanwhile, other states were desperate to have cinnamon for themselves. This was
 	title="[Might be cool to include a map here, of the Pizarro and Orellana expedition. There is reusable geodata avilable on http://sharemap.org/public/Francisco_de_Orellana_Amazon_River_voyage_(1541-1542)#!webgl]"
 	center="-1.961220, -63.523771"
 	zoom="4.9">
+{#paragraph15}
 
 The Spanish efforts to find cinnamon in the New World were not only intended to compete with the ‘true’ cinnamon of the Portuguese and the Dutch on Sri Lanka. There was more at stake. The commercial successes of Spain’s European rivals in the East Indies made the Cape of Good Hope the principal shipping route to get there. The promise of South American riches could transform Cape Horn into an attractive alternative route, which would benefit Spain. This was an important aim for men like Alonso de Ovalle, a Chilean Jesuit. His _Histórica Relación del Reyno de Chile_ (1646) was accompanied by a detailed map, which served as a visual propaganda tool for Spanish South America. The map highlights the assets of the continent, including the presence of _canela_ and _cynamomum_ areas along the east coast.[^ref21] This was one strategy to emphasize the possibilities of cinnamon production for the Spanish global empire.
 <param title="Cape of Good Hope" eid="Q4092">
@@ -171,6 +180,7 @@ The Spanish efforts to find cinnamon in the New World were not only intended to 
 <param ve-image
 	title="bla bla bla"
 	manifest="https://jcb.lunaimaging.com/luna/servlet/iiif/m/JCBMAPS~1~1~1314~115900932/manifest">
+{#paragraph16}
 
 And Spain really needed cinnamon. One eighteenth-century report estimated that two-thirds of the Dutch cinnamon exports from Sri Lanka to Europe was consumed by Spain and its colonies.[^ref22] It still wasn’t enough. Cinnamon was used, for instance, as a flavoring ingredient in chocolate drinks, which were very popular in the Spanish Atlantic world.[^ref23] To supplement the supply of cinnamon, Spain embarked on a second strategy of producing cinnamon itself, from other _Cinnamomum_ species in the East Indies. Thus, plantations were created in the Philippines, planted with local species like _Cinnamomum burmanni_ (Nees & T.Nees) Blume and _Cinnamomum cebuense_ Kosterm.[^ref24] The Spanish pharmacist and botanist Juan de Cuéllar went at lengths to convince his superiors in Madrid that cinnamon from the Philippines was identical to cinnamon from Sri Lanka. This was not only a scholarly motivated exercise: there were important commercial interests at stake if Spanish cinnamon could be equated with Dutch cinnamon.[^ref25]
 <param title="Cinnamomum burmanni" eid="Q4115136">
@@ -179,6 +189,7 @@ And Spain really needed cinnamon. One eighteenth-century report estimated that t
 <param ve-image
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
+{#paragraph17}
 
 A third, and most daring strategy, was to transplant the ‘true’ cinnamon to Spanish territories. This was an important objective for men like Casimiro Gómez Ortega, director of the Royal Botanical Garden of Madrid between 1771 and 1801, and José Celestino Mutis, the Spanish botanist who initiated the Royal Botanical Expedition to New Granada from 1783 onwards. Gómez Ortega published an instruction in 1779, which invited naturalists everywhere to contribute plants and plant knowledge for the Spanish empire. Cinnamon was explicitly mentioned as one of the target species. Similarly, Mutis addressed the Spanish crown in the 1760s to support his plans for botanical expeditions in South America. New plant knowledge would greatly benefit the empire, and again cinnamon was explicitly mentioned.[^ref26] However, Spain never succeeded in growing ‘true’ cinnamon in South America, contrary to the French on Guadeloupe (1762) and the British on Saint Vincent (1768).[^ref27]
 <param title="Casimiro Gómez Ortega" eid="Q957993">
@@ -190,6 +201,7 @@ A third, and most daring strategy, was to transplant the ‘true’ cinnamon to 
 <param ve-image
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
+{#paragraph18}
 
 Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of cinnamon](http://www.worldstopexports.com/cinnamon-exporters/). But confusion still remains: _Cinnamomum verum_ J.Presl is now grown in many countries in the tropical zone, but the quality of the product differs for each region.[^ref28] Moreover, commercial statistics usually generalize all market variations under the header ‘cinnamon, without differentiating between _Cinnamomum_ species. This issue is even more pertinent in medicine. Cinnamon has a lot of potential therapeutic applications that have been studied, but many studies fail to clarify which species of _Cinnamomum_ was/were used, making it difficult to generalize the results.[^ref29] The species epithet _verum_ may sound like an obsolete name in a globalized world, where everyone has access to cinnamon and where cinnamon is grown in many tropical areas. But it still captures the essence of what cinnamon has always been about: distinguishing between what is ‘true’ and what is not.
 <param title="cinnamon" eid="Q370239">
@@ -201,6 +213,7 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 <param ve-image
 	title="‘Forming the cinnamon quills, Ceylon’. Image from Artemas Ward, _The Encyclopedia of Food_ (New York: self-published, 1923), 110."
 	url="https://upload.wikimedia.org/wikipedia/commons/e/e7/Forming_the_cinnamon_quills%2C_Ceylon%2C_photo_from_The_Encyclopedia_of_Food_by_Artemas_Ward.jpg">
+{#paragraph19}
 
 ### References
 
@@ -262,11 +275,11 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘True’ Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTg3ODAxNCwyMjkwNzk5MTgsLTE0OT
-k0NTE4ODQsLTExNTMxNTgwMywxMzkxODQxMzMwLC0yNzc3ODc2
-MDcsLTE2NTMyODU1MDYsLTE5ODMyNDYyNywxMTY3ODgzNzc1LC
-0xNDIwMDc4ODMxLC00OTgyNjEyMzQsLTE3ODkzOTEyNjQsLTM0
-NzQ4MzE3NCwtMzQ3NDgzMTc0LC0yNzM4NDE2MzgsOTQwMTk3ND
-g5LDE3ODQ0NDc0NCwtMjUzMTk3MDQzLDE1MDU2OTI4MzIsMTY2
-MTI2MDg0OF19
+eyJoaXN0b3J5IjpbNzk3OTQzNzM1LDIyOTA3OTkxOCwtMTQ5OT
+Q1MTg4NCwtMTE1MzE1ODAzLDEzOTE4NDEzMzAsLTI3Nzc4NzYw
+NywtMTY1MzI4NTUwNiwtMTk4MzI0NjI3LDExNjc4ODM3NzUsLT
+E0MjAwNzg4MzEsLTQ5ODI2MTIzNCwtMTc4OTM5MTI2NCwtMzQ3
+NDgzMTc0LC0zNDc0ODMxNzQsLTI3Mzg0MTYzOCw5NDAxOTc0OD
+ksMTc4NDQ0NzQ0LC0yNTMxOTcwNDMsMTUwNTY5MjgzMiwxNjYx
+MjYwODQ4XX0=
 -->
