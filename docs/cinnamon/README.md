@@ -189,6 +189,11 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 <param title="cinnamon" eid="Q370239">
 <param ve-map
 	title="[I would like to include a map here with the current distribution of Cinnamomum verum. I have two sources for that: the data differ quite a bit, and I don’t know if I can simply extract it from the sources: https://www.cabi.org/isc/datasheet/13573 (CABI), and http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:463752-1 (Kew, Plants of the World Online)]">
+<param ve-image
+	title="[No visualization here yet.]"
+	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
+https://upload.wikimedia.org/wikipedia/commons/e/e7/Forming_the_cinnamon_quills%2C_Ceylon%2C_photo_from_The_Encyclopedia_of_Food_by_Artemas_Ward.jpg
+https://upload.wikimedia.org/wikipedia/commons/0/0d/Skinning_the_cinnamon_sticks%2C_Ceylon%2C_photo_from_The_Encyclopedia_of_Food_by_Artemas_Ward.jpg
 
 ### References
 
@@ -250,11 +255,11 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘True’ Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTMxNTgwMywxMzkxODQxMzMwLC0yNz
-c3ODc2MDcsLTE2NTMyODU1MDYsLTE5ODMyNDYyNywxMTY3ODgz
-Nzc1LC0xNDIwMDc4ODMxLC00OTgyNjEyMzQsLTE3ODkzOTEyNj
-QsLTM0NzQ4MzE3NCwtMzQ3NDgzMTc0LC0yNzM4NDE2MzgsOTQw
-MTk3NDg5LDE3ODQ0NDc0NCwtMjUzMTk3MDQzLDE1MDU2OTI4Mz
-IsMTY2MTI2MDg0OCwxMDE1MTYxNjMxLC0xNTU4NzY2NDA4LDE0
-MTA4MTE1OTNdfQ==
+eyJoaXN0b3J5IjpbNTEyMTg3NDE5LC0xMTUzMTU4MDMsMTM5MT
+g0MTMzMCwtMjc3Nzg3NjA3LC0xNjUzMjg1NTA2LC0xOTgzMjQ2
+MjcsMTE2Nzg4Mzc3NSwtMTQyMDA3ODgzMSwtNDk4MjYxMjM0LC
+0xNzg5MzkxMjY0LC0zNDc0ODMxNzQsLTM0NzQ4MzE3NCwtMjcz
+ODQxNjM4LDk0MDE5NzQ4OSwxNzg0NDQ3NDQsLTI1MzE5NzA0My
+wxNTA1NjkyODMyLDE2NjEyNjA4NDgsMTAxNTE2MTYzMSwtMTU1
+ODc2NjQwOF19
 -->
