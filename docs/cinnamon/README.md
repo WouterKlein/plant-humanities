@@ -96,8 +96,7 @@ Peelers were specialized laborers from the Sinhalese caste _Salagama_ (also know
 <param ve-image
 	title="‘How cinnamon is peeled on the island of Ceylon’. Anonymous copperplate print, from Philippus Baldaeus, _Naauwkeurige beschryvinge van Malabar en Choromandel, derzelver aangrenzende ryken en het machtige eyland Ceylon_ (Amsterdam: Johannes Janssonius van Waasberge 1672) 195."
 	url="https://upload.wikimedia.org/wikipedia/commons/7/75/AMH-7014-KB_Peeling_cinnamon_on_Ceylon.jpg"
-	fit="contain"
-	url="NL-HaNA_4.VEL_939A-klein.jpg">
+	fit="contain">
 
 The restrictions of the Dutch on cinnamon exports made it the only real monopoly on Sri Lanka in the early modern period. Smuggling was severely punished. In 1704, Bengal traders were allowed to export small amounts of cinnamon, which would not affect the monopoly of the Dutch East India Company (VOC) too much. In the 1720s, export restrictions were loosened for several products, but not cinnamon.[^ref10] The tight grip of the Dutch was also felt internally. Cinnamon harvesters had long been accustomed to clearing plots of forest to create temporary cultivated fields, called _chenas_. Under Dutch rule, they were no longer allowed to practice species circulation on a plot once it was planted with cinnamon, so as not to diminish the total acreage. But Pieter van Dam, long-term secretary of the VOC, calculated around 1700 that Sri Lanka produced more than enough cinnamon to supply European and international markets. This makes the suppression of _chena_ practices seem all the more exploitative.[^ref11]
 <param title="Dutch East India Company" eid="Q159766" aliases="Dutch East India Company (VOC)">
@@ -251,11 +250,11 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘'True’' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTMyODU1MDYsLTE5ODMyNDYyNywxMT
-Y3ODgzNzc1LC0xNDIwMDc4ODMxLC00OTgyNjEyMzQsLTE3ODkz
-OTEyNjQsLTM0NzQ4MzE3NCwtMzQ3NDgzMTc0LC0yNzM4NDE2Mz
-gsOTQwMTk3NDg5LDE3ODQ0NDc0NCwtMjUzMTk3MDQzLDE1MDU2
-OTI4MzIsMTY2MTI2MDg0OCwxMDE1MTYxNjMxLC0xNTU4NzY2ND
-A4LDE0MTA4MTE1OTMsLTE1NTUxMDA0OTcsOTE5OTM0NTI5LC0y
-MDY2ODAxODk3XX0=
+eyJoaXN0b3J5IjpbLTI3Nzc4NzYwNywtMTY1MzI4NTUwNiwtMT
+k4MzI0NjI3LDExNjc4ODM3NzUsLTE0MjAwNzg4MzEsLTQ5ODI2
+MTIzNCwtMTc4OTM5MTI2NCwtMzQ3NDgzMTc0LC0zNDc0ODMxNz
+QsLTI3Mzg0MTYzOCw5NDAxOTc0ODksMTc4NDQ0NzQ0LC0yNTMx
+OTcwNDMsMTUwNTY5MjgzMiwxNjYxMjYwODQ4LDEwMTUxNjE2Mz
+EsLTE1NTg3NjY0MDgsMTQxMDgxMTU5MywtMTU1NTEwMDQ5Nyw5
+MTk5MzQ1MjldfQ==
 -->
