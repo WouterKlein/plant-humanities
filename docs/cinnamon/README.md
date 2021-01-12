@@ -1,5 +1,5 @@
 <param ve-config
-	title="Cinnamomum verum: two thousand years of discovering ‘true’ cinnamon"
+	title="Cinnamomum verum: two thousand years of discovering ‘true cinnamon"
 	banner="https://free.iiifhosting.com/iiif/dce243e93c83f5c437ebe4c4b3025b1824db07aeef46c580742fb3aa85d72ac9/pct:0,40,100,40/full/0/color.jpg"
 	layout="vtl"
 	num-maps="0"
@@ -7,6 +7,7 @@
 	num-specimens="0"
 	num-primary-sources="0"
 	author="Wouter Klein, PhD">
+<param title="" eid="" aliases-"Boxwood">
 
 ### The cinnamon challenge
 In 2012-2013, the ‘cinnamon challenge’ was a short-lived internet hype. Although the instruction is simple enough – try to swallow a tablespoon of cinnamon at once – it proves to be virtually impossible in practice. Trying to ingest dry, ground cinnamon bark initially causes a severe choke reaction, characterised by extreme exhalation of cinnamon powder (known as ‘dragon breath’). Subsequently, the cinnamon combines with saliva in the mouth to produce an indigestible clutter in the back of the throat. Thankfully, this [quite dangerous assignment](https://doi.org/10.1542/peds.2012-3418) will only be a marginal footnote in the history of cinnamon. Those who know cinnamon only from an endless series of ridiculous YouTube videos, or as a quotidian kitchen spice, will be surprised to learn that the real challenge of cinnamon has been an ongoing effort for 2000 years, to find out what cinnamon actually is, as a plant and as a medicine.
@@ -16,7 +17,7 @@ In 2012-2013, the ‘cinnamon challenge’ was a short-lived internet hype. Alth
 	title="Mythbusters Cinnamon Challenge.">
 	
 ### Forgotten knowledge and fabricated history
-Cinnamon had a long history before any European ever saw ‘true’ cinnamon (_Cinnamomum verum_ J.Presl), which originally grew only on Sri Lanka. Here immediately lies the key to understanding the history of cinnamon: it is mostly about a plant-based product carrying that name, not about any particular plant species like the one mentioned above. This is a crucial observation, because a lot of confusion about cinnamon emanates from the incorrect equation of _names_ with _plants_. To be more precise: in the Latin west, it has long been assumed that the plants _cinnamomum_ (κιννάμωμον in Greek) and _cassia_ (κασία), as described by ancient medical authorities (notably Dioscorides), are the same plants as those found in the East Indies in the sixteenth century. A recent revision of archaeological, historical, linguistic and botanical evidence, however, has suggested that the cinnamon of ancient history was probably an East-African plant, _Cassia abbreviata_ Oliv., which is not related to the genus _Cinnamomum_.[^ref1]
+Cinnamon had a long history before any European ever saw ‘true cinnamon (_Cinnamomum verum_ J.Presl), which originally grew only on Sri Lanka. Here immediately lies the key to understanding the history of cinnamon: it is mostly about a plant-based product carrying that name, not about any particular plant species like the one mentioned above. This is a crucial observation, because a lot of confusion about cinnamon emanates from the incorrect equation of _names_ with _plants_. To be more precise: in the Latin west, it has long been assumed that the plants _cinnamomum_ (κιννάμωμον in Greek) and _cassia_ (κασία), as described by ancient medical authorities (notably Dioscorides), are the same plants as those found in the East Indies in the sixteenth century. A recent revision of archaeological, historical, linguistic and botanical evidence, however, has suggested that the cinnamon of ancient history was probably an East-African plant, _Cassia abbreviata_ Oliv., which is not related to the genus _Cinnamomum_.[^ref1]
 <param title="Sri Lanka" eid="Q854">
 <param title="Pedanius Dioscorides" eid="Q297776" aliases="Dioscorides">
 <param title="East Indies" eid="Q213137">
@@ -44,7 +45,7 @@ A second, and much more surprising reason for the long-lasting confusion over ci
 	url="Indian_Ocean_Spice_route_(Riddle 1985p99_from Miller_1969).bmp">
 
 ### Cinnamon as a tool of empire
-The attraction of cinnamon – ‘true’ or other – as a means to enhance the power of a state, by displaying its control over exotic riches, predates the early modern period. For example, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), showing a personification of Arabia, who holds a bundle of cinnamon sticks. The motif can be associated with Trajan’s conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda, to emphasize the relation between the authority of the empire and the conquered lands.[^ref7]
+The attraction of cinnamon – ‘true or other – as a means to enhance the power of a state, by displaying its control over exotic riches, predates the early modern period. For example, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), showing a personification of Arabia, who holds a bundle of cinnamon sticks. The motif can be associated with Trajan’s conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda, to emphasize the relation between the authority of the empire and the conquered lands.[^ref7]
 <param title="Trajan" eid="Q1425">
 <param title="Persian Gulf" eid="Q34675">
 <param ve-image
@@ -61,11 +62,11 @@ The quest for spices, cinnamon among them, was one of the most important aims th
 <param title="Syzygium aromaticum" eid="Q26736" aliases="cloves">
 <param title="nutmeg" eid="Q83165">
 <param ve-image
-	title="Coat of arms of Juan Sebastián Elcano. At the bottom are two crossed cinnamon sticks, three nutmegs and a bunch of cloves. The banner covering the globe reads in Latin ‘Primus circumdedisti me’ (‘You first encircled me’)."
+	title="Coat of arms of Juan Sebastián Elcano. At the bottom are two crossed cinnamon sticks, three nutmegs and a bunch of cloves. The banner covering the globe reads in Latin ‘Primus circumdedisti me’ (You first encircled me’)."
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg/585px-Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg.png"
 	fit="contain">
 
-Once ‘true’ cinnamon had begun to be understood as cinnamon from Sri Lanka, European states strove to gain a foothold on the island, to get access to the cinnamon trade. From the sixteenth century onwards, local rulers bargained with the Portuguese, and later the Dutch, for a share in the cinnamon trade, in exchange for political and/or military assistance against their rivals. The Portuguese made humble attempts to create a monopoly after they first arrived on Sri Lanka in 1505. They soon realized that this was impossible without getting involved in local politics on the island. Therefore, they engaged in ‘reluctant imperialism’ to get access to cinnamon: they needed a permanent presence on the island, and eventually signed an agreement with the king of Kotte in 1533 to buy large amounts of cinnamon.[^ref8]
+Once ‘true cinnamon had begun to be understood as cinnamon from Sri Lanka, European states strove to gain a foothold on the island, to get access to the cinnamon trade. From the sixteenth century onwards, local rulers bargained with the Portuguese, and later the Dutch, for a share in the cinnamon trade, in exchange for political and/or military assistance against their rivals. The Portuguese made humble attempts to create a monopoly after they first arrived on Sri Lanka in 1505. They soon realized that this was impossible without getting involved in local politics on the island. Therefore, they engaged in ‘reluctant imperialism’ to get access to cinnamon: they needed a permanent presence on the island, and eventually signed an agreement with the king of Kotte in 1533 to buy large amounts of cinnamon.[^ref8]
 <param title="Kingdom of Kotte" eid="Q1589163" aliases="Kotte">
 <param ve-map
 	title="Sri Lanka in the sixteenth century (after 1521). [Note: I have to create a ve-map tag based on a map in Wagenaar, p. 32, and a map from Wikimedia Commons (https://upload.wikimedia.org/wikipedia/commons/d/d7/Sri_Lanka_geopolitics_-_after_%22Spoiling_of_Vijayabahu%22.png).]"
@@ -116,11 +117,11 @@ The success was short-lived, however. When the British took over control of the 
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
 ### A tool of empire or a tool of science?
-Although cinnamon was a successful monopoly during the Dutch period, was it purely a tool of empire? Production and export were guarded as closely as possible, smuggling was prohibited, and living trees could not leave the island. The Dutch monopoly was about retaining commercial interests above anything else, but not all restrictions were commercially motivated. When the commander of the Dutch possessions on the Malabar coast, Hendrik Adriaan van Rheede tot Drakenstein, experimented with the oil of local cinnamon species as a medicine in 1675, he was reprimanded by Rijckloff van Goens, the governor of Sri Lanka, for breaking the monopoly. The colonial government in Batavia agreed, but Van Rheede justified his actions by letter and continued his work. Here, the motivation of both men was to demonstrate that the medicines from ‘their’ respective regions were superior. In such instances, interests of empire and personal rivalry intertwined.[^ref14]
+Although cinnamon was a successful monopoly during the Dutch period, was it purely a tool of empire? Production and export were guarded as closely as possible, smuggling was prohibited, and living trees could not leave the island. The Dutch monopoly was about retaining commercial interests above anything else, but not all restrictions were commercially motivated. When the commander of the Dutch possessions on the Malabar coast, Hendrik Adriaan van Rheede tot Drakenstein, experimented with the oil of local cinnamon species as a medicine in 1675, he was reprimanded by Rijckloff van Goens, the governor of Sri Lanka, for breaking the monopoly. The colonial government in Batavia agreed, but Van Rheede justified his actions by letter and continued his work. Here, the motivation of both men was to demonstrate that the medicines from ‘their respective regions were superior. In such instances, interests of empire and personal rivalry intertwined.[^ref14]
 <param title="Malabar Coast" eid="Q473181">
 <param title="Hendrik van Rheede" eid="Q741104" aliases="Hendrik Adriaan van Rheede tot Drakenstein">
 <param title="Rijckloff van Goens" eid="Q1392981">
-<param title="Batavia" eid="Q1199713">
+<param title="Batavia" eid="Q1199713"> 
 <param ve-image
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
@@ -135,7 +136,7 @@ Interests of empire and a disinterested search for knowledge could go hand in ha
 <param title="Royal Society" eid="Q123885">
 <param ve-image
 	title="‘Cinnamon from Ceylon with flowers’. Specimen of   
-_Cinnamomum verum_ J.Presl, from Paul Hermann’s herbarium of plants from Sri Lanka in Leiden, specimen no. L.2070171. [This is currently a downloaded image, because the Leiden volumes of Hermann’s herbarium are not in JSTOR’s Global Plants database. The London volumes are.]"
+_Cinnamomum verum_ J.Presl, from Paul Hermanns herbarium of plants from Sri Lanka in Leiden, specimen no. L.2070171. [This is currently a downloaded image, because the Leiden volumes of Hermann’'s herbarium are not in JSTOR’s Global Plants database. The London volumes are.]"
 	attribution="https://data.biodiversitydata.nl/naturalis/specimen/L.2070171"
 	url="007714869-L.2070171.jpg">
 
@@ -152,7 +153,7 @@ Meanwhile, other states were desperate to have cinnamon for themselves. This was
 	center="-1.961220, -63.523771"
 	zoom="4.9">
 
-The Spanish efforts to find cinnamon in the New World were not only intended to compete with the ‘true’ cinnamon of the Portuguese and the Dutch on Sri Lanka. There was more at stake. The commercial successes of Spain’s European rivals in the East Indies made the Cape of Good Hope the principal shipping route to get there. The promise of South American riches could transform Cape Horn into an attractive alternative route, which would benefit Spain. This was an important aim for men like Alonso de Ovalle, a Chilean Jesuit. His _Histórica Relación del Reyno de Chile_ (1646) was accompanied by a detailed map, which served as a visual propaganda tool for Spanish South America. The map highlights the assets of the continent, including the presence of _canela_ and _cynamomum_ areas along the east coast.[^ref21] This was one strategy to emphasize the possibilities of cinnamon production for the Spanish global empire.
+The Spanish efforts to find cinnamon in the New World were not only intended to compete with the ‘true cinnamon of the Portuguese and the Dutch on Sri Lanka. There was more at stake. The commercial successes of Spain’s European rivals in the East Indies made the Cape of Good Hope the principal shipping route to get there. The promise of South American riches could transform Cape Horn into an attractive alternative route, which would benefit Spain. This was an important aim for men like Alonso de Ovalle, a Chilean Jesuit. His _Histórica Relación del Reyno de Chile_ (1646) was accompanied by a detailed map, which served as a visual propaganda tool for Spanish South America. The map highlights the assets of the continent, including the presence of _canela_ and _cynamomum_ areas along the east coast.[^ref21] This was one strategy to emphasize the possibilities of cinnamon production for the Spanish global empire.
 <param title="Cape of Good Hope" eid="Q4092">
 <param title="Cape Horn" eid="Q4078">
 <param title="Alonso de Ovalle" eid="Q2839275">
@@ -169,7 +170,7 @@ And Spain really needed cinnamon. One eighteenth-century report estimated that t
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
-A third, and most daring strategy, was to transplant the ‘true’ cinnamon to Spanish territories. This was an important objective for men like Casimiro Gómez Ortega, director of the Royal Botanical Garden of Madrid between 1771 and 1801, and José Celestino Mutis, the Spanish botanist who initiated the Royal Botanical Expedition to New Granada from 1783 onwards. Gómez Ortega published an instruction in 1779, which invited naturalists everywhere to contribute plants and plant knowledge for the Spanish empire. Cinnamon was explicitly mentioned as one of the target species. Similarly, Mutis addressed the Spanish crown in the 1760s to support his plans for botanical expeditions in South America. New plant knowledge would greatly benefit the empire, and again cinnamon was explicitly mentioned.[^ref26] However, Spain never succeeded in growing ‘true’ cinnamon in South America, contrary to the French on Guadeloupe (1762) and the British on Saint Vincent (1768).[^ref27]
+A third, and most daring strategy, was to transplant the ‘true cinnamon to Spanish territories. This was an important objective for men like Casimiro Gómez Ortega, director of the Royal Botanical Garden of Madrid between 1771 and 1801, and José Celestino Mutis, the Spanish botanist who initiated the Royal Botanical Expedition to New Granada from 1783 onwards. Gómez Ortega published an instruction in 1779, which invited naturalists everywhere to contribute plants and plant knowledge for the Spanish empire. Cinnamon was explicitly mentioned as one of the target species. Similarly, Mutis addressed the Spanish crown in the 1760s to support his plans for botanical expeditions in South America. New plant knowledge would greatly benefit the empire, and again cinnamon was explicitly mentioned.[^ref26] However, Spain never succeeded in growing ‘true cinnamon in South America, contrary to the French on Guadeloupe (1762) and the British on Saint Vincent (1768).[^ref27]
 <param title="Casimiro Gómez Ortega" eid="Q957993">
 <param title="Real Jardín Botánico de Madrid" eid="Q1794858" aliases="Royal Botanical Garden of Madrid">
 <param title="José Celestino Mutis y Bosio" eid="Q731937" aliases="José Celestino Mutis">
@@ -180,7 +181,7 @@ A third, and most daring strategy, was to transplant the ‘true’ cinnamon to 
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
-Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of cinnamon](http://www.worldstopexports.com/cinnamon-exporters/). But confusion still remains: _Cinnamomum verum_ J.Presl is now grown in many countries in the tropical zone, but the quality of the product differs for each region.[^ref28] Moreover, commercial statistics usually generalize all market variations under the header ‘cinnamon’, without differentiating between _Cinnamomum_ species. This issue is even more pertinent in medicine. Cinnamon has a lot of potential therapeutic applications that have been studied, but many studies fail to clarify which species of _Cinnamomum_ was/were used, making it difficult to generalize the results.[^ref29] The species epithet _verum_ may sound like an obsolete name in a globalized world, where everyone has access to cinnamon and where cinnamon is grown in many tropical areas. But it still captures the essence of what cinnamon has always been about: distinguishing between what is ‘true’ and what is not.
+Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of cinnamon](http://www.worldstopexports.com/cinnamon-exporters/). But confusion still remains: _Cinnamomum verum_ J.Presl is now grown in many countries in the tropical zone, but the quality of the product differs for each region.[^ref28] Moreover, commercial statistics usually generalize all market variations under the header ‘cinnamon, without differentiating between _Cinnamomum_ species. This issue is even more pertinent in medicine. Cinnamon has a lot of potential therapeutic applications that have been studied, but many studies fail to clarify which species of _Cinnamomum_ was/were used, making it difficult to generalize the results.[^ref29] The species epithet _verum_ may sound like an obsolete name in a globalized world, where everyone has access to cinnamon and where cinnamon is grown in many tropical areas. But it still captures the essence of what cinnamon has always been about: distinguishing between what is ‘true and what is not.
 <param title="cinnamon" eid="Q370239">
 <param ve-map
 	title="[I would like to include a map here with the current distribution of Cinnamomum verum. I have two sources for that: the data differ quite a bit, and I don’t know if I can simply extract it from the sources: https://www.cabi.org/isc/datasheet/13573 (CABI), and http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:463752-1 (Kew, Plants of the World Online)]">
@@ -189,11 +190,11 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref1]: Stephen G. Haw, “Cinnamon, Cassia and Ancient Trade”, _Journal of Ancient History and Archaeology_, 4:1 (2017) 5-18.
 
-[^ref2]: Haw, “Cinnamon”, 10-11.
+[^ref2]: Haw, “Cinnamon, 10-11.
 
-[^ref3]: Inês de Ornellas e Castro, “A ‘Pleasant Banquet of Words’: Therapeutic Virtues and Alimentary Consumption in Garcia de Orta’s _Colloquies on the Simples and Drugs of India_”, in: Palmira Fontes da Costa (ed.), _Medicine, Trade, and Empire: Garcia de Orta’s_ Colloquies on the Simples and Drugs of India _(1563) in Context_ (Farnham and Burlington: Ashgate 2015) 67-88, there 84, 85.
+[^ref3]: Inês de Ornellas e Castro, “A Pleasant Banquet of Words’: Therapeutic Virtues and Alimentary Consumption in Garcia de Orta’s _Colloquies on the Simples and Drugs of India_”, in: Palmira Fontes da Costa (ed.), _Medicine, Trade, and Empire: Garcia de Orta’s_ Colloquies on the Simples and Drugs of India _(1563) in Context_ (Farnham and Burlington: Ashgate 2015) 67-88, there 84, 85.
 
-[^ref4]: Vijaya Samaraweera, “The Cinnamon Trade of Ceylon”, _Indian Economic & Social History Review_, 8:4 (1971) 415-442, there 416.
+[^ref4]: Vijaya Samaraweera, The Cinnamon Trade of Ceylon”, _Indian Economic & Social History Review_, 8:4 (1971) 415-442, there 416.
 
 [^ref5]: J. Innes Miller, _The Spice Trade of the Roman Empire, 29 B.C. to A.D. 641_ (Oxford: Clarendon Press 1969). The Spice Route thesis was embraced by Lionel Casson, _Ancient Trade and Society_ (Detroit: Wayne State University Press 1984) 225-246; and by John M. Riddle, _Dioscorides on Pharmacy and Medicine_. Forew. by J. Scarborough (Austin: University of Texas Press 1985) 98-104. It was refuted by Manfred G. Raschke, “New Studies in Roman Commerce with the East”, in: H. Temporini (ed.), _Aufstieg und Niedergang der Römischen Welt: Geschichte und Kultur Roms in der neueren Forschung, II Principat / Rise and Fall of the Roman World: History and Culture of Rome in Recent Research, 2nd Principat_ (Berlin and New York: Walter de Gruyter 1978), vol. 9, part 2, 604-1361; and by Patricia Crone, _Meccan Trade and the Rise of Islam_ (Princeton (NJ): Princeton University Press 1987) 37.
 
@@ -203,7 +204,7 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref8]: Zoltán Biedermann, “The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)”, _Journal of Early Modern History_, 13:4 (2009) 265-310.
 
-[^ref9]: Lodewijk Wagenaar, _Cinnamon & Elephants: Sri Lanka and The Netherlands from 1600_. Transl. by Steve Green and Michael Blass (Amsterdam: Rijksmuseum / Nijmegen: Vantilt Publishers 2016) 149-157.
+[^ref9]: Lodewijk Wagenaar, Cinnamon & Elephants: Sri Lanka and The Netherlands from 1600_. Transl. by Steve Green and Michael Blass (Amsterdam: Rijksmuseum / Nijmegen: Vantilt Publishers 2016) 149-157.
 
 [^ref10]: S. Arasaratnam, “Dutch Commercial Policy in Ceylon and its Effects on the Indo-Ceylon Trade (1690-1750)”, _Indian Economic & Social History Review_, 4:2 (1967) 109-130.
 
@@ -211,7 +212,7 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref12]: Wagenaar, _Cinnamon & Elephants_, 155.
 
-[^ref13]: Samaraweera, “The Cinnamon Trade of Ceylon”.
+[^ref13]: Samaraweera, “"The Cinnamon Trade of Ceylon”.
 
 [^ref14]: Johan Heniger, _Hendrik Adriaan van Reede tot Drakenstein (1636-1691) and Hortus Malabaricus: A Contribution to the History of Dutch Colonial Botany_ (Rotterdam and Boston: A.A. Balkema 1986) 37-38; and Harold J. Cook, _Matters of Exchange: Commerce, Medicine, and Science in the Dutch Golden Age_ (New Haven: Yale University Press 2007) 310-317.
 
@@ -221,7 +222,7 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref17]: Paul Hermann, _Horti academici Lugduno-Batavi catalogus exhibens Plantarum omnium Nomina, quibus ab anno MDCLXXXI ad annum MDCLXXXVI Hortus fuit instructus ut & Plurimarum in eodem cultarum & à nemine hucusque editarum Descriptiones & Icones_ (Lugduni Batavorum: Apud Cornelium Boutesteyn 1687) 130; quoted in Heniger, _Hendrik Adriaan van Reede tot Drakenstein_, 155.
 
-[^ref18]: Albertus Seba, “An Account of the Cinnamon Tree in Ceylon, and its several Sorts. Communicated by the Chief Inspector of the Cinnamon Trade and Manufacture in that Island to Albertus Seba, a Noted Druggist at Amsterdam. Translated by the late Dr. Scheuchzer, F. R. S.”, _Philosophical Transactions_, 36:409 (1730) I, 97-109.
+[^ref18]: Albertus Seba, “An Account of th Cinnamon Tree in Ceylon, and its several Sorts. Communicated by the Chief Inspector of the Cinnamon Trade and Manufacture in that Island to Albertus Seba, a Noted Druggist at Amsterdam. Translated by the late Dr. Scheuchzer, F. R. S.”, _Philosophical Transactions_, 36:409 (1730) I, 97-109.
 
 [^ref19]: Daniela Bleichmar, “Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment”, in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 
@@ -233,7 +234,7 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref23]: Irene Fattacciu, “The Resilience and Boomerang Effect of Chocolate: A Product’s Globalization and Commodification”, in: Bethany Aram and Bartolomé Yun-Casalilla (eds.), _Global Goods and the Spanish Empire, 1492-1824: Circulation, Resistance and Diversity_ (Houndmills and Basingstoke: Palgrave Macmillan 2014) 255-273.
 
-[^ref24]: Francisco Mallari, S.J., “The Mindanao Cinnamon”, _Philippine Quarterly of Culture and Society_, 2:4 (1974) 190-194; and Russell K. Skowronek, “Cinnamon, Ceramics, and Silks: Tracking the Manila Galleon Trade in the Creation of the World Economy”, in: Chunming Wu (ed.), _Early Navigation in the Asia-Pacific Region: A Maritime Archaeological Perspective_ (Singapore: Springer Science+Business Media 2016) 59-74.
+[^ref24]: Francisco Mallari, S.J., “The Mindanao Cinnamon”, _Philippine Quarterly of Culture and Society_, 2:4 (1974) 190-194; and Russell K. Skowronek, “"Cinnamon, Ceramics, and Silks: Tracking the Manila Galleon Trade in the Creation of the World Economy”, in: Chunming Wu (ed.), _Early Navigation in the Asia-Pacific Region: A Maritime Archaeological Perspective_ (Singapore: Springer Science+Business Media 2016) 59-74.
 
 [^ref25]: Bleichmar, _Visible Empire_, 123-126.
 
@@ -243,13 +244,13 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref28]: U.M. Senanayake and R.O.B. Wijesekera, “Cinnamon and Cassia – The Future Vision”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 327-329.
 
-[^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘True’ Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
+[^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘'True’' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODMyNDYyNywxMTY3ODgzNzc1LC0xND
-IwMDc4ODMxLC00OTgyNjEyMzQsLTE3ODkzOTEyNjQsLTM0NzQ4
-MzE3NCwtMzQ3NDgzMTc0LC0yNzM4NDE2MzgsOTQwMTk3NDg5LD
-E3ODQ0NDc0NCwtMjUzMTk3MDQzLDE1MDU2OTI4MzIsMTY2MTI2
-MDg0OCwxMDE1MTYxNjMxLC0xNTU4NzY2NDA4LDE0MTA4MTE1OT
-MsLTE1NTUxMDA0OTcsOTE5OTM0NTI5LC0yMDY2ODAxODk3LC0x
-MTA1MDQ2NTQxXX0=
+eyJoaXN0b3J5IjpbMTA1MDg4OTEyLC0xOTgzMjQ2MjcsMTE2Nz
+g4Mzc3NSwtMTQyMDA3ODgzMSwtNDk4MjYxMjM0LC0xNzg5Mzkx
+MjY0LC0zNDc0ODMxNzQsLTM0NzQ4MzE3NCwtMjczODQxNjM4LD
+k0MDE5NzQ4OSwxNzg0NDQ3NDQsLTI1MzE5NzA0MywxNTA1Njky
+ODMyLDE2NjEyNjA4NDgsMTAxNTE2MTYzMSwtMTU1ODc2NjQwOC
+wxNDEwODExNTkzLC0xNTU1MTAwNDk3LDkxOTkzNDUyOSwtMjA2
+NjgwMTg5N119
 -->
