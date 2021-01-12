@@ -154,7 +154,7 @@ If Mattioli and Parkinson considered boxwood primarily an ornamental plant “we
 
 ### Boxwood reinstated
 
-The vindication of boxwood as an essential garden plant took place in late sixteenth-century France, almost a millennium and a half after its enthusiastic mention by Pliny. In horticulture, this moment marked the introduction of _parterres de broderie_ characterized by low manicured hedges that imitated embroidery patterns. Boxwood—along with myrtle, lavender, juniper, and rosemary—was deemed particularly well adapted to making the borders of such compartments, while their inside was filled with marjoram, thyme, hyssop, pennyroyal, sage, chamomile, mint, violets, marguerites, basil, and other herbs and flowers.[^ref21] Horticultural theorist Olivier de Serres emphasized boxwood’s resistance to the effects of weather and time and its need for little care, favorably contrasting it with myrtle, which was less suitable for colder climates. These properties, he believed, would have made boxwood a perfect garden shrub if not for the lack of “good scent,” having instead an odor “strong, unwelcome, and unpleasant, which causes headaches.”[^ref22]
+The vindication of boxwood as an essential garden plant took place in late sixteenth-century France, almost a millennium-and-a-half after its enthusiastic mention by Pliny. In horticulture, this moment marked the introduction of _parterres de broderie_ characterized by low, manicured hedges that imitated embroidery patterns. Boxwood—along with myrtle, lavender, juniper, and rosemary—was deemed particularly well-adapted to making the borders of plant beds, within which were planted marjoram, thyme, hyssop, pennyroyal, sage, chamomile, mint, violets, marguerites, basil, and other herbs and flowers.[^ref21] Horticultural theorist Olivier de Serres emphasized boxwood’s resistance to the effects of weather and time and its need for little care, favorably contrasting it with myrtle, which was less suitable for colder climates. These properties, he believed, would have made boxwood a perfect garden shrub if not for the lack of “good scent,” having instead an odor “strong, unwelcome, and unpleasant, which causes headaches.”[^ref22]
 <param ve-image
 	title="Front page of Claude Mollet (c. 1564-c. 1649), _Theatre des plans et iardinages_, 1652."
 	manifest="https://iiif.lib.harvard.edu/manifests/drs:47289351"
@@ -275,10 +275,10 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^ref30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii,_ both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzgxMzQ4MzcsLTI2MTE0MDUyMSwyMD
-A1NzcwOTkyLC0yMDA3OTg1OTcxLC0xODQzNzcwOTk0LDk5MzU4
-MTA4Miw5OTM1ODEwODIsOTkzNTgxMDgyLC0xNDc1MzY4NDYzLD
-E0ODYxNDcyMjEsNTIxNDQxMzU1LDk5OTcwMzkyOSwtMTAwNTk3
-MTY1LDk5OTcwMzkyOSwtMTgzODk0NTQzLDE1ODQ2NDYwMjNdfQ
-==
+eyJoaXN0b3J5IjpbLTEyMTgxNzc3MzksLTE0MzgxMzQ4MzcsLT
+I2MTE0MDUyMSwyMDA1NzcwOTkyLC0yMDA3OTg1OTcxLC0xODQz
+NzcwOTk0LDk5MzU4MTA4Miw5OTM1ODEwODIsOTkzNTgxMDgyLC
+0xNDc1MzY4NDYzLDE0ODYxNDcyMjEsNTIxNDQxMzU1LDk5OTcw
+MzkyOSwtMTAwNTk3MTY1LDk5OTcwMzkyOSwtMTgzODk0NTQzLD
+E1ODQ2NDYwMjNdfQ==
 -->
