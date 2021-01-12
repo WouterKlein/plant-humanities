@@ -4,19 +4,20 @@
 	layout="vtl"
 	num-maps="5"
 	num-specimens="1"
-       num-images="7"
-       num-primary-sources="9"
-       author="Christina Emery, Rachel Hirsch, and Melinda Susanto">
+	num-images="7"
+	num-primary-sources="9"
+	author="Christina Emery, Rachel Hirsch, and Melinda Susanto">
 
-## Introduction 
-The native distribution of cassava spans from western South America to Brazil.[^1] Based on archaeological evidence, it is thought that cassava was domesticated in small garden plots around 8,000 B.C.E.[^2] From there, domesticated _Manihot esculenta_ spread through short-distance trade of seeds or stem cuttings from the plant.[^3] Although cassava roots are the most commonly eaten part of the plant, they are perishable and less likely to survive long-distance travel. Because cassava prefers warm and hot climates, today it can be found successfully growing in parts of North America, South America, Africa, the Mediterranean, Southeast Asia and islands in the Pacific Ocean.[^4] In our map of cassava distribution, the plant’s native regions are marked in green and regions to which cassava was introduced by humans are marked in purple.
+### Introduction
+
+The native distribution of cassava spans from western South America to Brazil.[^ref1] Based on archaeological evidence, it is thought that cassava was domesticated in small garden plots around 8,000 B.C.E.[^ref2] From there, domesticated _Manihot esculenta_ spread through short-distance trade of seeds or stem cuttings from the plant.[^ref3] Although cassava roots are the most commonly eaten part of the plant, they are perishable and less likely to survive long-distance travel. Because cassava prefers warm and hot climates, today it can be found successfully growing in parts of North America, South America, Africa, the Mediterranean, Southeast Asia and islands in the Pacific Ocean.[^ref4] In our map of cassava distribution, the plant’s native regions are marked in green and regions to which cassava was introduced by humans are marked in purple.
 <param title="Manihot esculenta" eid="Q83124">
 <param ve-map center="Q974" zoom="2">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/cassava_americas.json" title="Americas" marker-symbol="landmark" active>
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/rphirsch/cassava/master/styleafrica.json" title="Africa" fill="#92086D" marker-symbol="landmark" active>
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/melindasusanto/demo1/master/AsiaPacific.json" title="SE Asia" marker-symbol="landmark" active>
 
-## The Ancient Value of Cassava
+### The ancient value of cassava
 In Peru, there is evidence from ancient textiles, pottery and archaeobotanical findings that the Nazca (200 B.C.E.-600 C.E.), Moche (250-750 C.E.) and Chimú (1000-1470 C.E.) cultures all used and valued cassava.[^5]
 <param ve-map center="Q419" zoom="6">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/cassava_americas.json" title="Americas" marker-symbol="landmark" active>
@@ -25,17 +26,17 @@ In Peru, there is evidence from ancient textiles, pottery and archaeobotanical f
 To the right is an earthenware ceramic dating between the 5th and 7th centuries C.E. produced by the [Moche people](https://www.peabody.harvard.edu/node/2505) on the northern Peruvian coast.[^6] The mouth has [a stirrup-spout](https://www.metmuseum.org/toah/hd/moch/hd_moch.htm) form and features a human-like head and neck protruding from the ceramic’s front.The form of the vessel’s legs and body resembles cassava tubers. This [work of art](https://www.metmuseum.org/art/collection/search/308558) carries significant insight into just how highly the Moche valued cassava. Bottles with the stirrup-spout opening are thought to have been used in a non-utilitarian way. It is likely that they had effigy, ritual or decorative purposes as it is hard to use vessels for practical purposes with this type of opening.[^7] The iconography evident in the anthropomorphic aspect of this vessel indicates that it is of a high ranking deity. The fangs curling out of the mouth indicate godly status, and the half-crescent headdress implies a high rank.[^8] All of these details, accompanied by the fact that the body, tail and limbs of this figure are all modeled after cassava tubers, leads to the conclusion that cassava had a high status and was important to daily life in Moche civilization.
 <param ve-storiiies id="a11gl" title="Moche Stirrup-Spout Bottle, Cassava">
 
-## Indigenous Food Uses
+### Indigenous food uses
 The high value placed upon cassava can be explained by its great utility as a food source.Cassava is a starchy tuber and can be used to make a variety of dishes and beverages. Most commonly it is made into a starchy flour to produce breads and cakes, or it can be used to make fermented beverages.  
 <param ve-image
 title="Cassava roots" url="https://raw.githubusercontent.com/melindasusanto/demo1/master/Cassavaroots.jpg" fit="cover"
        attribution="Wikimedia Commons">
 
-## Making Cassava Breads and Cakes
+### Making cassava breads and cakes
 Some of the earliest descriptions of cassava as a food source are found in books written by European travelers to South America. The method of preparing flour from cassava is typically described as follows. First, the cassava root is grated, then it is soaked in liquid. Thereafter, the pulp is hung in a pleated basket or put under pressure to remove the liquid. The final step involves heating the pulp upon a hot surface. Images of indigenous peoples preparing cassava root or making bread would recur in European texts from the [16th century](https://archive.org/details/dli.granth.89488/page/84/mode/2up) through to the [18th century](https://archive.org/details/cihm_42239/page/n361/mode/2up).[^9]
 <param ve-storiiies id="861e9">
 
-## Fermented Beverages
+### Fermented beverages
 Accounts of native peoples in South America and Latin America producing fermented beverages also permeate the records kept by European travellers, missionaries and conquerors. In the 16th century, a detailed account of the preparation of a fermented alcoholic drink was made by a Frenchman Jean de Léry who visited Brazil.[^10] In the early 17th century a Spaniard, [Antonio de León Pinelo](https://www.biodiversitylibrary.org/page/55670844), kept a  similar account of the process in Peru, and a British duo by the names of Bedford Pim and Berthold Seemann encountered the same process of cassava fermentation in the 19th century in Nicaragua.[^11]  Depending on the location, the beverage can be called _chicha_, _massato_ (a non-alcoholic variant mixed with honey), _acca_, _kufa_ or _mushla_.[^12]  
 <param ve-image
 title="Antonio de León Pinelo (1636)" url="https://www.biodiversitylibrary.org/pageimage/55670844" fit="cover"
@@ -47,11 +48,12 @@ title="Chicha Production, de Léry" url="https://raw.githubusercontent.com/melin
 
 The preparation process for _chicha_ uses several tools.  The basic process is that cassava is either turned into flour or cut into pieces, then boiled, chewed and combined with saliva in the mouth for some time, then boiled again in a different vessel, then it is left to ferment for several days until it is ready for consumption.[^13] To the right are modern tools used to create _chicha_ in Argentina.[^14] This shows that even today people continue to follow the traditional methods established by their ancestors to create fermented cassava beverages.
 <param ve-image
-title="Pots" url="https://raw.githubusercontent.com/melindasusanto/demo1/master/Pots.jpg"
+	title="Pots"
+	url="https://raw.githubusercontent.com/melindasusanto/demo1/master/Pots.jpg"
        fit="cover"
        attribution="tbc">
 
-## Subsistence in Plantation Economies
+### Subsistence in plantation economies
 Cassava played an important role as a food source for slave labour in plantations in 16th century Portuguese Brazil and the Spanish colonies in the Caribbean.[^15] It was becoming established as a staple in the West Indies by the 17th century, as illustrated in Maria Sybilla Merian’s [_Metamorphosis insectorum Surinamensium_](https://nrs.harvard.edu/urn-3:DOAK.RESLIB:41825989?n=16) (1719). Merian’s book describes plants and insects she encountered during her stay in Dutch Surinam between 1699 and 1701. Her first entry on cassava notes insect activities revolving around the plant she encountered in June 1700.[^16] Her second entry describes cassava root as the ingredient for bread, a common food for both the indigenous peoples and Europeans living in America at this time.[^17] 
 <param ve-image
 title="Maria Sybilla Merian, 17th century" url="https://ids.lib.harvard.edu/ids/iiif/481769556/full/full/0/default.jpg"
@@ -382,6 +384,6 @@ Code to add a specimen from Global Plants. Lorem ipsum dolor sit amet, consectet
 This example also displays a type specimen from the Global Plants site for the species _Agave americana_.  In this example the Global Plants identifier ([10.5555/al.ap.specimen.us00092112](https://plants.jstor.org/stable/10.5555/al.ap.specimen.us00092112)) is used to display the image for a specific specimen.
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.m0233266">dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NjU0MTQzOSwtMzg3NTg5Mjg5LDE5OT
+eyJoaXN0b3J5IjpbMTcyOTU3Mzk3NywtMzg3NTg5Mjg5LDE5OT
 kzNDU2NDFdfQ==
 -->
