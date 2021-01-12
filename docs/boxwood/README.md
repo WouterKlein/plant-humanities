@@ -88,7 +88,7 @@ One of the finest among these, Dumbarton Oaks—designed by Beatrix Farrand begi
 	data-type="geojson"
 	data-url=""
 	data-active="true">
-	{paragraph1}
+	{#paragraph1}
 
 ### “A plant known to everybody”
 
@@ -276,10 +276,10 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^ref30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii,_ both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY0Mzg5NTQ1LDQ0OTgyOTg3NCwtMTQzOD
-EzNDgzNywtMjYxMTQwNTIxLDIwMDU3NzA5OTIsLTIwMDc5ODU5
-NzEsLTE4NDM3NzA5OTQsOTkzNTgxMDgyLDk5MzU4MTA4Miw5OT
-M1ODEwODIsLTE0NzUzNjg0NjMsMTQ4NjE0NzIyMSw1MjE0NDEz
-NTUsOTk5NzAzOTI5LC0xMDA1OTcxNjUsOTk5NzAzOTI5LC0xOD
-M4OTQ1NDMsMTU4NDY0NjAyM119
+eyJoaXN0b3J5IjpbMTc4NjkzNDMyNiwyNjQzODk1NDUsNDQ5OD
+I5ODc0LC0xNDM4MTM0ODM3LC0yNjExNDA1MjEsMjAwNTc3MDk5
+MiwtMjAwNzk4NTk3MSwtMTg0Mzc3MDk5NCw5OTM1ODEwODIsOT
+kzNTgxMDgyLDk5MzU4MTA4MiwtMTQ3NTM2ODQ2MywxNDg2MTQ3
+MjIxLDUyMTQ0MTM1NSw5OTk3MDM5MjksLTEwMDU5NzE2NSw5OT
+k3MDM5MjksLTE4Mzg5NDU0MywxNTg0NjQ2MDIzXX0=
 -->
