@@ -102,7 +102,7 @@ The restrictions of the Dutch on cinnamon exports made it the only real monopoly
 <param title="Dutch East India Company" eid="Q159766" aliases="Dutch East India Company (VOC)">
 <param title="shifting cultivation" eid="Q287854" aliases="species circulation">
 <param ve-image
-	title="Image from 1720, showing the benefits that could be made from monocultures of cinnamon on temporary cleared fields (_chenas_). The image on the left shows a demarcated area of forest to be cultivated; the image on the middle shows the same field after the original vegetation was cleared; and the image on the right shows the _chena_ as a monoculture of cinnamon. The text at the bottom is a calculation of the expected returns. A field with only five cinnamon trees could contain 135 trees after cultivation: a 27-fold increase. When this image was produced, however, the VOC was still very reluctant to abandon the wild harvest approach it had always adopted, and _chena_ practices were dicouraged."
+	title="Image from 1720, showing the benefits that could be made from monocultures of cinnamon on temporary cleared fields (_chenas_). The image on the left shows a demarcated area of forest to be cultivated; the image in the middle shows the same field after the original vegetation was cleared; and the image on the right shows the _chena_ as a monoculture of cinnamon. The text at the bottom is a calculation of the expected returns. A field with only five cinnamon trees could contain 135 trees after cultivation: a 27-fold increase. When this image was produced, however, the VOC was still very reluctant to abandon the wild harvest approach it had always adopted, and _chena_ practices were dicouraged."
 	url="NL-HaNA_4.VEL_939A-groot_cropped.jpg">
 
 Local grievances about the VOC policy for _chenas_, and about extortion of peelers by Sinhalese and Dutch officials, exploded in 1760. Backed by the king of Kandy, the peelers rebelled, leading to a war that lasted until 1766. The war finally may have caused the Dutch to rethink their approach for cinnamon production. Starting in 1769, governor Iman Willem Falck (in office 1765-1785) began to experiment with ‘cinnamon gardens’ (_kaneeltuinen_), which amounted to nothing less than a successful colonial plantation mechanism. By the end of his governorship, there were 24 million cinnamon trees growing in gardens, which increased to 609 million trees (!) by 1794.[^ref12]
@@ -250,11 +250,11 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘'True’' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3Nzc4NzYwNywtMTY1MzI4NTUwNiwtMT
-k4MzI0NjI3LDExNjc4ODM3NzUsLTE0MjAwNzg4MzEsLTQ5ODI2
-MTIzNCwtMTc4OTM5MTI2NCwtMzQ3NDgzMTc0LC0zNDc0ODMxNz
-QsLTI3Mzg0MTYzOCw5NDAxOTc0ODksMTc4NDQ0NzQ0LC0yNTMx
-OTcwNDMsMTUwNTY5MjgzMiwxNjYxMjYwODQ4LDEwMTUxNjE2Mz
-EsLTE1NTg3NjY0MDgsMTQxMDgxMTU5MywtMTU1NTEwMDQ5Nyw5
-MTk5MzQ1MjldfQ==
+eyJoaXN0b3J5IjpbNDQ1NTg1MzkxLC0yNzc3ODc2MDcsLTE2NT
+MyODU1MDYsLTE5ODMyNDYyNywxMTY3ODgzNzc1LC0xNDIwMDc4
+ODMxLC00OTgyNjEyMzQsLTE3ODkzOTEyNjQsLTM0NzQ4MzE3NC
+wtMzQ3NDgzMTc0LC0yNzM4NDE2MzgsOTQwMTk3NDg5LDE3ODQ0
+NDc0NCwtMjUzMTk3MDQzLDE1MDU2OTI4MzIsMTY2MTI2MDg0OC
+wxMDE1MTYxNjMxLC0xNTU4NzY2NDA4LDE0MTA4MTE1OTMsLTE1
+NTUxMDA0OTddfQ==
 -->
