@@ -208,7 +208,7 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref8]: Zoltán Biedermann, “The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)”, _Journal of Early Modern History_, 13:4 (2009) 265-310.
 
-[^ref9]: Lodewijk Wagenaar, Cinnamon & Elephants: Sri Lanka and The Netherlands from 1600_. Transl. by Steve Green and Michael Blass (Amsterdam: Rijksmuseum / Nijmegen: Vantilt Publishers 2016) 149-157.
+[^ref9]: Lodewijk Wagenaar, _Cinnamon & Elephants: Sri Lanka and The Netherlands from 1600_. Transl. by Steve Green and Michael Blass (Amsterdam: Rijksmuseum / Nijmegen: Vantilt Publishers 2016) 149-157.
 
 [^ref10]: S. Arasaratnam, “Dutch Commercial Policy in Ceylon and its Effects on the Indo-Ceylon Trade (1690-1750)”, _Indian Economic & Social History Review_, 4:2 (1967) 109-130.
 
@@ -250,11 +250,11 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘True’ Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTA0NTQ1OTAsMTM5MTg0MTMzMCwtMj
-c3Nzg3NjA3LC0xNjUzMjg1NTA2LC0xOTgzMjQ2MjcsMTE2Nzg4
-Mzc3NSwtMTQyMDA3ODgzMSwtNDk4MjYxMjM0LC0xNzg5MzkxMj
-Y0LC0zNDc0ODMxNzQsLTM0NzQ4MzE3NCwtMjczODQxNjM4LDk0
-MDE5NzQ4OSwxNzg0NDQ3NDQsLTI1MzE5NzA0MywxNTA1NjkyOD
-MyLDE2NjEyNjA4NDgsMTAxNTE2MTYzMSwtMTU1ODc2NjQwOCwx
-NDEwODExNTkzXX0=
+eyJoaXN0b3J5IjpbLTExNTMxNTgwMywxMzkxODQxMzMwLC0yNz
+c3ODc2MDcsLTE2NTMyODU1MDYsLTE5ODMyNDYyNywxMTY3ODgz
+Nzc1LC0xNDIwMDc4ODMxLC00OTgyNjEyMzQsLTE3ODkzOTEyNj
+QsLTM0NzQ4MzE3NCwtMzQ3NDgzMTc0LC0yNzM4NDE2MzgsOTQw
+MTk3NDg5LDE3ODQ0NDc0NCwtMjUzMTk3MDQzLDE1MDU2OTI4Mz
+IsMTY2MTI2MDg0OCwxMDE1MTYxNjMxLC0xNTU4NzY2NDA4LDE0
+MTA4MTE1OTNdfQ==
 -->
