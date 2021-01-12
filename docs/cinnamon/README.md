@@ -1,5 +1,5 @@
 <param ve-config
-	title="Cinnamomum verum: two thousand years of discovering ‘true cinnamon"
+	title="Cinnamomum verum: two thousand years of discovering ‘true’ cinnamon"
 	banner="https://free.iiifhosting.com/iiif/dce243e93c83f5c437ebe4c4b3025b1824db07aeef46c580742fb3aa85d72ac9/pct:0,40,100,40/full/0/color.jpg"
 	layout="vtl"
 	num-maps="0"
@@ -19,7 +19,7 @@ In 2012-2013, the ‘cinnamon challenge’ was a short-lived internet hype. Alth
 	
 ### Forgotten knowledge and fabricated history
 
-Cinnamon had a long history before any European ever saw ‘true cinnamon (_Cinnamomum verum_ J.Presl), which originally grew only on Sri Lanka. Here immediately lies the key to understanding the history of cinnamon: it is mostly about a plant-based product carrying that name, not about any particular plant species like the one mentioned above. This is a crucial observation, because a lot of confusion about cinnamon emanates from the incorrect equation of _names_ with _plants_. To be more precise: in the Latin west, it has long been assumed that the plants _cinnamomum_ (κιννάμωμον in Greek) and _cassia_ (κασία), as described by ancient medical authorities (notably Dioscorides), are the same plants as those found in the East Indies in the sixteenth century. A recent revision of archaeological, historical, linguistic and botanical evidence, however, has suggested that the cinnamon of ancient history was probably an East-African plant, _Cassia abbreviata_ Oliv., which is not related to the genus _Cinnamomum_.[^ref1]
+Cinnamon had a long history before any European ever saw ‘true’ cinnamon (_Cinnamomum verum_ J.Presl), which originally grew only on Sri Lanka. Here immediately lies the key to understanding the history of cinnamon: it is mostly about a plant-based product carrying that name, not about any particular plant species like the one mentioned above. This is a crucial observation, because a lot of confusion about cinnamon emanates from the incorrect equation of _names_ with _plants_. To be more precise: in the Latin west, it has long been assumed that the plants _cinnamomum_ (κιννάμωμον in Greek) and _cassia_ (κασία), as described by ancient medical authorities (notably Dioscorides), are the same plants as those found in the East Indies in the sixteenth century. A recent revision of archaeological, historical, linguistic and botanical evidence, however, has suggested that the cinnamon of ancient history was probably an East-African plant, _Cassia abbreviata_ Oliv., which is not related to the genus _Cinnamomum_.[^ref1]
 <param title="Sri Lanka" eid="Q854">
 <param title="Pedanius Dioscorides" eid="Q297776" aliases="Dioscorides">
 <param title="East Indies" eid="Q213137">
@@ -48,7 +48,7 @@ A second, and much more surprising reason for the long-lasting confusion over ci
 
 ### Cinnamon as a tool of empire
 
-The attraction of cinnamon – ‘true or other – as a means to enhance the power of a state, by displaying its control over exotic riches, predates the early modern period. For example, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), showing a personification of Arabia, who holds a bundle of cinnamon sticks. The motif can be associated with Trajan’s conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda, to emphasize the relation between the authority of the empire and the conquered lands.[^ref7]
+The attraction of cinnamon – ‘true’ or other – as a means to enhance the power of a state, by displaying its control over exotic riches, predates the early modern period. For example, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), showing a personification of Arabia, who holds a bundle of cinnamon sticks. The motif can be associated with Trajan’s conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda, to emphasize the relation between the authority of the empire and the conquered lands.[^ref7]
 <param title="Trajan" eid="Q1425">
 <param title="Persian Gulf" eid="Q34675">
 <param ve-image
@@ -69,7 +69,7 @@ The quest for spices, cinnamon among them, was one of the most important aims th
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg/585px-Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg.png"
 	fit="contain">
 
-Once ‘true cinnamon had begun to be understood as cinnamon from Sri Lanka, European states strove to gain a foothold on the island, to get access to the cinnamon trade. From the sixteenth century onwards, local rulers bargained with the Portuguese, and later the Dutch, for a share in the cinnamon trade, in exchange for political and/or military assistance against their rivals. The Portuguese made humble attempts to create a monopoly after they first arrived on Sri Lanka in 1505. They soon realized that this was impossible without getting involved in local politics on the island. Therefore, they engaged in ‘reluctant imperialism’ to get access to cinnamon: they needed a permanent presence on the island, and eventually signed an agreement with the king of Kotte in 1533 to buy large amounts of cinnamon.[^ref8]
+Once ‘true’ cinnamon had begun to be understood as cinnamon from Sri Lanka, European states strove to gain a foothold on the island, to get access to the cinnamon trade. From the sixteenth century onwards, local rulers bargained with the Portuguese, and later the Dutch, for a share in the cinnamon trade, in exchange for political and/or military assistance against their rivals. The Portuguese made humble attempts to create a monopoly after they first arrived on Sri Lanka in 1505. They soon realized that this was impossible without getting involved in local politics on the island. Therefore, they engaged in ‘reluctant imperialism’ to get access to cinnamon: they needed a permanent presence on the island, and eventually signed an agreement with the king of Kotte in 1533 to buy large amounts of cinnamon.[^ref8]
 <param title="Kingdom of Kotte" eid="Q1589163" aliases="Kotte">
 <param ve-map
 	title="Sri Lanka in the sixteenth century (after 1521). [Note: I have to create a ve-map tag based on a map in Wagenaar, p. 32, and a map from Wikimedia Commons (https://upload.wikimedia.org/wikipedia/commons/d/d7/Sri_Lanka_geopolitics_-_after_%22Spoiling_of_Vijayabahu%22.png).]"
@@ -157,7 +157,7 @@ Meanwhile, other states were desperate to have cinnamon for themselves. This was
 	center="-1.961220, -63.523771"
 	zoom="4.9">
 
-The Spanish efforts to find cinnamon in the New World were not only intended to compete with the ‘true cinnamon of the Portuguese and the Dutch on Sri Lanka. There was more at stake. The commercial successes of Spain’s European rivals in the East Indies made the Cape of Good Hope the principal shipping route to get there. The promise of South American riches could transform Cape Horn into an attractive alternative route, which would benefit Spain. This was an important aim for men like Alonso de Ovalle, a Chilean Jesuit. His _Histórica Relación del Reyno de Chile_ (1646) was accompanied by a detailed map, which served as a visual propaganda tool for Spanish South America. The map highlights the assets of the continent, including the presence of _canela_ and _cynamomum_ areas along the east coast.[^ref21] This was one strategy to emphasize the possibilities of cinnamon production for the Spanish global empire.
+The Spanish efforts to find cinnamon in the New World were not only intended to compete with the ‘true’ cinnamon of the Portuguese and the Dutch on Sri Lanka. There was more at stake. The commercial successes of Spain’s European rivals in the East Indies made the Cape of Good Hope the principal shipping route to get there. The promise of South American riches could transform Cape Horn into an attractive alternative route, which would benefit Spain. This was an important aim for men like Alonso de Ovalle, a Chilean Jesuit. His _Histórica Relación del Reyno de Chile_ (1646) was accompanied by a detailed map, which served as a visual propaganda tool for Spanish South America. The map highlights the assets of the continent, including the presence of _canela_ and _cynamomum_ areas along the east coast.[^ref21] This was one strategy to emphasize the possibilities of cinnamon production for the Spanish global empire.
 <param title="Cape of Good Hope" eid="Q4092">
 <param title="Cape Horn" eid="Q4078">
 <param title="Alonso de Ovalle" eid="Q2839275">
@@ -174,7 +174,7 @@ And Spain really needed cinnamon. One eighteenth-century report estimated that t
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
-A third, and most daring strategy, was to transplant the ‘true cinnamon to Spanish territories. This was an important objective for men like Casimiro Gómez Ortega, director of the Royal Botanical Garden of Madrid between 1771 and 1801, and José Celestino Mutis, the Spanish botanist who initiated the Royal Botanical Expedition to New Granada from 1783 onwards. Gómez Ortega published an instruction in 1779, which invited naturalists everywhere to contribute plants and plant knowledge for the Spanish empire. Cinnamon was explicitly mentioned as one of the target species. Similarly, Mutis addressed the Spanish crown in the 1760s to support his plans for botanical expeditions in South America. New plant knowledge would greatly benefit the empire, and again cinnamon was explicitly mentioned.[^ref26] However, Spain never succeeded in growing ‘true cinnamon in South America, contrary to the French on Guadeloupe (1762) and the British on Saint Vincent (1768).[^ref27]
+A third, and most daring strategy, was to transplant the ‘true’ cinnamon to Spanish territories. This was an important objective for men like Casimiro Gómez Ortega, director of the Royal Botanical Garden of Madrid between 1771 and 1801, and José Celestino Mutis, the Spanish botanist who initiated the Royal Botanical Expedition to New Granada from 1783 onwards. Gómez Ortega published an instruction in 1779, which invited naturalists everywhere to contribute plants and plant knowledge for the Spanish empire. Cinnamon was explicitly mentioned as one of the target species. Similarly, Mutis addressed the Spanish crown in the 1760s to support his plans for botanical expeditions in South America. New plant knowledge would greatly benefit the empire, and again cinnamon was explicitly mentioned.[^ref26] However, Spain never succeeded in growing ‘true’ cinnamon in South America, contrary to the French on Guadeloupe (1762) and the British on Saint Vincent (1768).[^ref27]
 <param title="Casimiro Gómez Ortega" eid="Q957993">
 <param title="Real Jardín Botánico de Madrid" eid="Q1794858" aliases="Royal Botanical Garden of Madrid">
 <param title="José Celestino Mutis y Bosio" eid="Q731937" aliases="José Celestino Mutis">
@@ -185,7 +185,7 @@ A third, and most daring strategy, was to transplant the ‘true cinnamon to Spa
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
-Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of cinnamon](http://www.worldstopexports.com/cinnamon-exporters/). But confusion still remains: _Cinnamomum verum_ J.Presl is now grown in many countries in the tropical zone, but the quality of the product differs for each region.[^ref28] Moreover, commercial statistics usually generalize all market variations under the header ‘cinnamon, without differentiating between _Cinnamomum_ species. This issue is even more pertinent in medicine. Cinnamon has a lot of potential therapeutic applications that have been studied, but many studies fail to clarify which species of _Cinnamomum_ was/were used, making it difficult to generalize the results.[^ref29] The species epithet _verum_ may sound like an obsolete name in a globalized world, where everyone has access to cinnamon and where cinnamon is grown in many tropical areas. But it still captures the essence of what cinnamon has always been about: distinguishing between what is ‘true and what is not.
+Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of cinnamon](http://www.worldstopexports.com/cinnamon-exporters/). But confusion still remains: _Cinnamomum verum_ J.Presl is now grown in many countries in the tropical zone, but the quality of the product differs for each region.[^ref28] Moreover, commercial statistics usually generalize all market variations under the header ‘cinnamon, without differentiating between _Cinnamomum_ species. This issue is even more pertinent in medicine. Cinnamon has a lot of potential therapeutic applications that have been studied, but many studies fail to clarify which species of _Cinnamomum_ was/were used, making it difficult to generalize the results.[^ref29] The species epithet _verum_ may sound like an obsolete name in a globalized world, where everyone has access to cinnamon and where cinnamon is grown in many tropical areas. But it still captures the essence of what cinnamon has always been about: distinguishing between what is ‘true’ and what is not.
 <param title="cinnamon" eid="Q370239">
 <param ve-map
 	title="[I would like to include a map here with the current distribution of Cinnamomum verum. I have two sources for that: the data differ quite a bit, and I don’t know if I can simply extract it from the sources: https://www.cabi.org/isc/datasheet/13573 (CABI), and http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:463752-1 (Kew, Plants of the World Online)]">
@@ -248,13 +248,13 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref28]: U.M. Senanayake and R.O.B. Wijesekera, “Cinnamon and Cassia – The Future Vision”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 327-329.
 
-[^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘'True’' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
+[^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘True’ Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTg0MTMzMCwtMjc3Nzg3NjA3LC0xNj
-UzMjg1NTA2LC0xOTgzMjQ2MjcsMTE2Nzg4Mzc3NSwtMTQyMDA3
-ODgzMSwtNDk4MjYxMjM0LC0xNzg5MzkxMjY0LC0zNDc0ODMxNz
-QsLTM0NzQ4MzE3NCwtMjczODQxNjM4LDk0MDE5NzQ4OSwxNzg0
-NDQ3NDQsLTI1MzE5NzA0MywxNTA1NjkyODMyLDE2NjEyNjA4ND
-gsMTAxNTE2MTYzMSwtMTU1ODc2NjQwOCwxNDEwODExNTkzLC0x
-NTU1MTAwNDk3XX0=
+eyJoaXN0b3J5IjpbLTE4MTA0NTQ1OTAsMTM5MTg0MTMzMCwtMj
+c3Nzg3NjA3LC0xNjUzMjg1NTA2LC0xOTgzMjQ2MjcsMTE2Nzg4
+Mzc3NSwtMTQyMDA3ODgzMSwtNDk4MjYxMjM0LC0xNzg5MzkxMj
+Y0LC0zNDc0ODMxNzQsLTM0NzQ4MzE3NCwtMjczODQxNjM4LDk0
+MDE5NzQ4OSwxNzg0NDQ3NDQsLTI1MzE5NzA0MywxNTA1NjkyOD
+MyLDE2NjEyNjA4NDgsMTAxNTE2MTYzMSwtMTU1ODc2NjQwOCwx
+NDEwODExNTkzXX0=
 -->
