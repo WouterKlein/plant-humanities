@@ -11,7 +11,7 @@
 <param title="fungus" eid="Q764">
 <param title="spore" eid="Q177332" aliases="spores">
 <param title="Buxus sempervirens" eid="Q27344" aliases="common boxwood">
-<param title="Maquis shrubland" eid="Q667552" aliases= "maquis">
+<param title="Maquis shrubland" eid="Q667552" aliases="maquis">
 <param title="Pliny the Younger" eid="Q168707" aliases="Pliny">
 <param title="pruning" eid="Q500094">
 <param title="Giovan Vettorio Soderini" eid="Q1102344">
@@ -275,9 +275,10 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^ref30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii,_ both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MTE0MDUyMSwyMDA1NzcwOTkyLC0yMD
-A3OTg1OTcxLC0xODQzNzcwOTk0LDk5MzU4MTA4Miw5OTM1ODEw
-ODIsOTkzNTgxMDgyLC0xNDc1MzY4NDYzLDE0ODYxNDcyMjEsNT
-IxNDQxMzU1LDk5OTcwMzkyOSwtMTAwNTk3MTY1LDk5OTcwMzky
-OSwtMTgzODk0NTQzLDE1ODQ2NDYwMjNdfQ==
+eyJoaXN0b3J5IjpbLTE0MzgxMzQ4MzcsLTI2MTE0MDUyMSwyMD
+A1NzcwOTkyLC0yMDA3OTg1OTcxLC0xODQzNzcwOTk0LDk5MzU4
+MTA4Miw5OTM1ODEwODIsOTkzNTgxMDgyLC0xNDc1MzY4NDYzLD
+E0ODYxNDcyMjEsNTIxNDQxMzU1LDk5OTcwMzkyOSwtMTAwNTk3
+MTY1LDk5OTcwMzkyOSwtMTgzODk0NTQzLDE1ODQ2NDYwMjNdfQ
+==
 -->
