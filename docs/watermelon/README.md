@@ -36,6 +36,7 @@
 <param title="Atlantic slave trade" eid="Q10701282" aliases="slaves">
 
 ### Watermelon, the food of angels
+
 Mark Twain once said that watermelon “is the chief of this world’s luxuries, king by the grace of God over all the fruits of the earth. When one has tasted it, he knows what the angels eat.”[^ref1] Though today “watermelon” calls to mind a sturdy melon with refreshing, sweet, red flesh, for most of its millennia-long history as a cultivated crop it was known as a pale, hard, sometimes bitter fruit with relatively tender rind. Not until the sixth century CE were watermelons associated with sweet fruits like figs and grapes, and it was not until well into the 1400s that the uniformly red, thick-rinded watermelons that we recognize today began to appear. Throughout its history, the watermelon has been associated with medicine, vitality, racism, and disease, revealing a darker side to the sweet summer fruit that we know and love. 
 <param ve-vis-network file="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/graphs/watermelon.csv">
 <param ve-image
@@ -44,6 +45,7 @@ title="Watermelon" url="https://upload.wikimedia.org/wikipedia/commons/4/4d/Bulg
 	attribution="Wikimedia Commons">
 
 ### Whose vine is it anyway?
+
 Ironically, the origins and history of the watermelon are obscured by its commonness, diversity, and its most iconic component — the tender, watery flesh, which does not survive well in the archaeological record. “Watermelon” today often refers specifically to the “sweet dessert” cultivars of the _Citrullus lanatus_ species, but the _Citrullus_ genus includes at least six other species of watermelons, including the citron _(C. caffer)_, egusi _(C. mucosospermus)_ and colocynth _(C. colocynthis)_ watermelons, which at one time were variously called or classified as subspecies of _C. lanatus_.[^ref2] Past taxonomies of the sweet dessert watermelon are therefore of minimal use for tracing its origins until further genetic analysis is undertaken; instead, literary references and visual depictions of watermelons stretching back millennia have been used to identify and trace the evolving phenotypes of the modern watermelon.
 <param ve-plant-specimen
 	eid="Q30160603"
@@ -77,6 +79,7 @@ In the arid savanna regions of Africa, watermelons were welcomed as sources of w
 	attribution="GBIF">
 
 ### Seeing red... eventually
+
 Watermelon-like fruit were referenced in ancient texts using a variety of terms including _pepon_, _melopepon_ and _kolokynte_, suggesting some kinds of watermelon had proliferated to the Mediterranean region by the common era. Around 77 CE, Pliny dedicated a section of his [_Natural History_](https://www.loebclassics.com/view/pliny_elder-natural_history/1938/pb_LCL392.9.xml) to _pepones_, which, he wrote, made a very refreshing food, but also had a laxative effect. Various parts of the fruit were used to alleviate pain, to induce vomiting, and even to cleanse the skin and clear spots.[^ref9] In this era, these "watermelons" likely still had quite sturdy and pale flesh, not quite red and soft. Two thousand years later in 1888, watermelon was still being promoted as a face cleanser in reports by a Miss Carrie Townsend from St. Louis carried in US newspapers. Townsend, who felt sorry for girls with freckles who looked “as if they had been about when a bran bin had exploded,” claimed that no matter what was wrong with the face, the juice of the watermelon would rectify it.[^ref10] Although perhaps not quite as powerful as Townsend suggests, components of the watermelon are re-emerging as a natural skin cleanser today, such kalahari or ootanga oil traditionally extracted from the seeds in West Africa. 
 <param ve-image
 	title="Cucurbits on the Juliana Anicia Codex known as Vienna Dioscorides. Number C is Citrullus colocynthis, the bitter watermelon, the close relative to watermelon used as laxative and diuretic."
@@ -161,6 +164,7 @@ title="‘Melon d’Eau,’ Metamorphosis, Maria Sybilla Merian (1719)"
 	attribution="Dumbarton Oaks">
 
 ### Watermelons, race, and the American South 
+
 Watermelons were brought to the Americas in the sixteenth century, introduced by colonists and African slaves and cultivated widely by indigenous populations and in slave gardens. After the 1863 Emancipation Proclamation, the watermelon briefly became a tool of black citizenship; the ease with which watermelons could be grown and sold meant that they became a source of income for freed slaves.[^ref15] Although the watermelon initially held a certain amount of emancipatory potential for African-Americans both through their sale enabling the escape of the plantation economy and through the consumption of watermelons as a public and communal activity enacting newfound freedoms, the watermelon soon became perceived as a threat by white southerners who proceeded to transform the fruit into a symbol of black people’s unfitness for freedom and citizenship.
 <param ve-map
 	basemap="Esri_WorldPhysical"
@@ -203,6 +207,7 @@ Stories of stolen watermelons similarly contributed to establishing the percepti
 <param ve-storiiies id="0d1fv">
 
 ### “Cholera bombshells”
+
 The racist belief in the unhealthy habits of African-Americans also featured in nineteenth-century associations between watermelons and disease. The common belief that eating too much watermelon, especially when overripe, could lead to cholera led some cities to ban the fruit’s sale during epidemics, watermelons referred to as “cholera bombshells.”[^ref18] Whilst it is unclear whether such direct lines of causality between watermelons and cholera were accurate, contemporary evidence has shown that raw fruits and vegetables can be a frequent source of cholera infection, especially if fields are fertilized with uncomposted manure, or irrigated with contaminated water. The significance of watermelons specifically, rather than other types of fruit, in terms of cholera infections was almost certainly exaggerated to serve popular narratives in America at the time, but the association was also present in other parts of the world.
 <param ve-image
 	title="Cholera Intelligence"
@@ -220,6 +225,7 @@ In Korea at the turn of the twentieth century, for instance, British mine-owners
 	id="831fg">
 
 ### Capitalism and the commodification of fruit 
+
 Since the twentieth century, the intensified commodification of the watermelon has transformed the fruit’s form. In many countries around the world (but not all), since the 2000s, watermelons have grown smaller, rounder, and more uniform in size in order to stack better for transit and sale. These so-called “personal melons” are more practical for transporting and storing in fridges, and importantly bring farmers bigger profits per acre, heralding a shift away from the watermelon as a communally consumed fruit.[^ref20] The other major transformation in watermelons has been the success of the seedless melon. The commercial production of seedless watermelons began in the 1990s, using colchicine – a chemical derived from crocuses – to produce a sterile seedless hybrid, crossbred to have three sets of chromosomes instead of two.[^ref21]
 <param ve-image
 	title="Varieties of watermelons"
@@ -243,6 +249,7 @@ Whilst the seedless watermelon now dominates the market, its hybridized sterilit
 	attribution="Vox, Christie’s and Shutterstock">
 
 ### Conclusion
+
 As we have seen throughout this essay, the watermelon has undergone significant transformation since it was first cultivated in northern Africa six thousand years ago. Throughout its history, the watermelon has been valued variously for its size, its sweetness, its health-giving properties, its appearance. Watermelons today vary significantly around the world in shape and size. Novelty square and heart-shaped watermelons developed in 1980s Japan for easy fridge storage are sold today at high prices almost exclusively for decorative purposes, as they are necessarily underripe due to the constrictive molds in which they are grown.[^ref23] With consumer taste and market value governing the taste and form of watermelons grown, who knows what the future might hold… 
 <param ve-image
 	title="Square watermelon from Japan"
@@ -251,6 +258,7 @@ As we have seen throughout this essay, the watermelon has undergone significant 
 	attribution="Wikimedia commons">
 
 ### References
+
 [^ref1]: Mark Twain. _Pudd’nhead Wilson._ Charles L. Webster & Company. 1894.
 
 [^ref2]: Harry S. Paris, “Origin and Emergence of the Sweet Dessert Watermelon, Citrullus Lanatus,” Annals of Botany 116, no. 2 (August 2015): 139, https://doi.org/10.1093/aob/mcv077.
@@ -297,6 +305,6 @@ As we have seen throughout this essay, the watermelon has undergone significant 
 
 [^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjY4NjAwOTEsLTE0MjYxNTcwNjEsLT
-IwODU4NjM1MTEsLTQ3NDUyMTk1OV19
+eyJoaXN0b3J5IjpbMTQwNTk1NjkzMywtMTcyNjg2MDA5MSwtMT
+QyNjE1NzA2MSwtMjA4NTg2MzUxMSwtNDc0NTIxOTU5XX0=
 -->
