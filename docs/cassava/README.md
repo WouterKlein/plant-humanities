@@ -1,9 +1,9 @@
 <param ve-config
-       title="Cooking with Cassava"
-       banner="https://raw.githubusercontent.com/melindasusanto/demo1/master/Crosby.jpg"
-       layout="vtl"
-       num-maps="5"
-       num-specimens="1"
+	title="Cooking with cassava"
+	banner="https://raw.githubusercontent.com/melindasusanto/demo1/master/Crosby.jpg"
+	layout="vtl"
+	num-maps="5"
+	num-specimens="1"
        num-images="7"
        num-primary-sources="9"
        author="Christina Emery, Rachel Hirsch, and Melinda Susanto">
@@ -382,5 +382,6 @@ Code to add a specimen from Global Plants. Lorem ipsum dolor sit amet, consectet
 This example also displays a type specimen from the Global Plants site for the species _Agave americana_.  In this example the Global Plants identifier ([10.5555/al.ap.specimen.us00092112](https://plants.jstor.org/stable/10.5555/al.ap.specimen.us00092112)) is used to display the image for a specific specimen.
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.m0233266">dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NzU4OTI4OSwxOTk5MzQ1NjQxXX0=
+eyJoaXN0b3J5IjpbLTY5NjU0MTQzOSwtMzg3NTg5Mjg5LDE5OT
+kzNDU2NDFdfQ==
 -->
