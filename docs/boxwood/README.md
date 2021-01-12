@@ -201,7 +201,7 @@ Closely connected with these expatriate circles was British landscape architect 
 
 ### Humble yet resilient
 
-Deeply invested with cultural symbolism, boxwood represents the rich legacy of the formal gardens of Europe characterized by geometric layout, controlling vistas, and ambitious scale. Characterized by climate resistance in addition to malleability, it became a means of exporting this prestigious horticultural tradition that claimed its origins in antiquity across the entire globe, serving not merely as a plant material, but a key medium of stylistic expression. The story of boxwood is that of a humble yet resilient plant, which, after centuries of disparagement and neglect, succeeded in taking over the garden world. Whether or not it would be able retain this hard-earned preeminence as the most sought-after ornamental shrub, only time can tell.[^ref30]
+Deeply invested with cultural symbolism, boxwood represents the rich legacy of the formal gardens of Europe characterized by geometric layout, controlling vistas, and ambitious scale. Characterized by climate resistance and malleability, it has served not merely as plant material, but a key medium of stylistic expression across the globe, reflecting a gious horticultural tradition that claimed its origins in antiquity across the entire globe,. The story of boxwood is that of a humble yet resilient plant, which, after centuries of disparagement and neglect, succeeded in taking over the garden world. Whether or not it would be able retain this hard-earned preeminence as the most sought-after ornamental shrub, only time can tell.[^ref30]
 <param ve-image
 	title="Boxwood in the Dumbarton Oaks garden, before removal."
 	url="https://github.com/WouterKlein/plant-humanities/docs/boxwood/Boxwood-blight-in-Dumbarton-Oaks-garden_pre-removal1.jpg">
@@ -275,10 +275,10 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^ref30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii,_ both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcwMDk5OTQ5LC0xNDM4MTM0ODM3LC0yNj
-ExNDA1MjEsMjAwNTc3MDk5MiwtMjAwNzk4NTk3MSwtMTg0Mzc3
-MDk5NCw5OTM1ODEwODIsOTkzNTgxMDgyLDk5MzU4MTA4MiwtMT
-Q3NTM2ODQ2MywxNDg2MTQ3MjIxLDUyMTQ0MTM1NSw5OTk3MDM5
-MjksLTEwMDU5NzE2NSw5OTk3MDM5MjksLTE4Mzg5NDU0MywxNT
-g0NjQ2MDIzXX0=
+eyJoaXN0b3J5IjpbMTQ4ODA1NDIwNywtMTQzODEzNDgzNywtMj
+YxMTQwNTIxLDIwMDU3NzA5OTIsLTIwMDc5ODU5NzEsLTE4NDM3
+NzA5OTQsOTkzNTgxMDgyLDk5MzU4MTA4Miw5OTM1ODEwODIsLT
+E0NzUzNjg0NjMsMTQ4NjE0NzIyMSw1MjE0NDEzNTUsOTk5NzAz
+OTI5LC0xMDA1OTcxNjUsOTk5NzAzOTI5LC0xODM4OTQ1NDMsMT
+U4NDY0NjAyM119
 -->
