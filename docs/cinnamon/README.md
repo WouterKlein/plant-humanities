@@ -121,6 +121,7 @@ The success was short-lived, however. When the British took over control of the 
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
 ### A tool of empire or a tool of science?
+
 Although cinnamon was a successful monopoly during the Dutch period, was it purely a tool of empire? Production and export were guarded as closely as possible, smuggling was prohibited, and living trees could not leave the island. The Dutch monopoly was about retaining commercial interests above anything else, but not all restrictions were commercially motivated. When the commander of the Dutch possessions on the Malabar coast, Hendrik Adriaan van Rheede tot Drakenstein, experimented with the oil of local cinnamon species as a medicine in 1675, he was reprimanded by Rijckloff van Goens, the governor of Sri Lanka, for breaking the monopoly. The colonial government in Batavia agreed, but Van Rheede justified his actions by letter and continued his work. Here, the motivation of both men was to demonstrate that the medicines from ‘their respective regions were superior. In such instances, interests of empire and personal rivalry intertwined.[^ref14]
 <param title="Malabar Coast" eid="Q473181">
 <param title="Hendrik van Rheede" eid="Q741104" aliases="Hendrik Adriaan van Rheede tot Drakenstein">
@@ -250,11 +251,11 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘'True’' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MTA5MDM4OCwtMTk4MzI0NjI3LDExNj
-c4ODM3NzUsLTE0MjAwNzg4MzEsLTQ5ODI2MTIzNCwtMTc4OTM5
-MTI2NCwtMzQ3NDgzMTc0LC0zNDc0ODMxNzQsLTI3Mzg0MTYzOC
-w5NDAxOTc0ODksMTc4NDQ0NzQ0LC0yNTMxOTcwNDMsMTUwNTY5
-MjgzMiwxNjYxMjYwODQ4LDEwMTUxNjE2MzEsLTE1NTg3NjY0MD
-gsMTQxMDgxMTU5MywtMTU1NTEwMDQ5Nyw5MTk5MzQ1MjksLTIw
-NjY4MDE4OTddfQ==
+eyJoaXN0b3J5IjpbLTE2NTMyODU1MDYsLTE5ODMyNDYyNywxMT
+Y3ODgzNzc1LC0xNDIwMDc4ODMxLC00OTgyNjEyMzQsLTE3ODkz
+OTEyNjQsLTM0NzQ4MzE3NCwtMzQ3NDgzMTc0LC0yNzM4NDE2Mz
+gsOTQwMTk3NDg5LDE3ODQ0NDc0NCwtMjUzMTk3MDQzLDE1MDU2
+OTI4MzIsMTY2MTI2MDg0OCwxMDE1MTYxNjMxLC0xNTU4NzY2ND
+A4LDE0MTA4MTE1OTMsLTE1NTUxMDA0OTcsOTE5OTM0NTI5LC0y
+MDY2ODAxODk3XX0=
 -->
