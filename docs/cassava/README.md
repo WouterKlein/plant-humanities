@@ -76,21 +76,21 @@ The increasingly global spread of cassava took place alongside the forced moveme
 <param title="Dominican Republic" eid="Q786">
 <param title="Puerto Rico" eid="Q1183">
 
-## …and Experimentation
-Cassava exists in two varieties: sweet and bitter cassava. In their raw forms, both sweet and bitter cassava contain hydrocyanic compounds, which are toxic to humans.[^22] The more bitter the cassava is, the higher the concentration of hydrocyanic compounds. Today, both varieties exist for the same species of cultivated cassava, _Manihot esculenta_. In the past, however, scientists such as [Johann Baptist Pohl](https://plants.jstor.org/stable/10.5555/al.ap.person.bm000006597) thought they were two different species. A [1906 article on cyanogenesis](https://www.biodiversitylibrary.org/page/43363072) outlines various experiments which had been conducted on the cassava root to determine its composition.[^23] The article’s authors were still in favour of Pohl’s identification of bitter cassava as _Manihot utilissima_, and sweet cassava as _Manihot aipi_. 
+## … and experimentation
+Cassava exists in two varieties: sweet and bitter cassava. In their raw forms, both sweet and bitter cassava contain hydrocyanic compounds, which are toxic to humans.[^ref22] The more bitter the cassava is, the higher the concentration of hydrocyanic compounds. Today, both varieties exist for the same species of cultivated cassava, _Manihot esculenta_. In the past, however, scientists such as [Johann Baptist Pohl](https://plants.jstor.org/stable/10.5555/al.ap.person.bm000006597) thought they were two different species. A [1906 article on cyanogenesis](https://www.biodiversitylibrary.org/page/43363072) outlines various experiments which had been conducted on the cassava root to determine its composition.[^ref23] The article’s authors were still in favour of Pohl’s identification of bitter cassava as _Manihot utilissima_, and sweet cassava as _Manihot aipi_. 
 <param ve-image
 title="_Proceedings of the Royal Society London_(1906)" url="https://www.biodiversitylibrary.org/pageimage/43363072" fit="cover"
        attribution="Biodiversity Heritage Library">
 
-The botanical specimen on the right was collected by Pohl himself in Brazil. One inscription shows its earlier identification as _Manihot utilissima_, while a later label updates the scientific classification to the name it is known today, _Manihot esculenta_ [Crantz](https://www.biodiversitylibrary.org/bibliography/72216). Experiments to understand the natural world through chemical means can be traced back as early as [the 18th century](https://www.biodiversitylibrary.org/page/57980618), when Europeans began to write about methods of extracting the starch from cassava.[^24] The potential of cassava for industrial production would become more apparent in the 19th and 20th centuries.
+The botanical specimen on the right was collected by Pohl himself in Brazil. One inscription shows its earlier identification as _Manihot utilissima_, while a later label updates the scientific classification to the name it is known today, _Manihot esculenta_ [Crantz](https://www.biodiversitylibrary.org/bibliography/72216). Experiments to understand the natural world through chemical means can be traced back as early as [the 18th century](https://www.biodiversitylibrary.org/page/57980618), when Europeans began to write about methods of extracting the starch from cassava.[^ref24] The potential of cassava for industrial production would become more apparent in the 19th and 20th centuries.
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.m0233267">
 
-## Popularizing Cassava Overseas
+### Popularizing cassava overseas
 <param ve-image
 title="William Tufts Brigham,_Guatemala, The Land of the Quetzal_(1887)" url="https://raw.githubusercontent.com/melindasusanto/demo1/master/Guatemala.jpg"
        fit="cover"
        attribution="Wikimedia Commons">
-In 1887, American botanist, geologist, and ethnologist [William Tufts Brigham](https://archive.org/search.php?query=%28%28subject%3A%22Brigham%2C+William+Tufts%22+OR+subject%3A%22Brigham%2C+William+T.%22+OR+subject%3A%22Brigham%2C+W.+T.%22+OR+subject%3A%22William+Tufts+Brigham%22+OR+subject%3A%22William+T.+Brigham%22+OR+subject%3A%22W.+T.+Brigham%22+OR+creator%3A%22William+Tufts+Brigham%22+OR+creator%3A%22William+T.+Brigham%22+OR+creator%3A%22W.+T.+Brigham%22+OR+creator%3A%22W.+Tufts+Brigham%22+OR+creator%3A%22Brigham%2C+William+Tufts%22+OR+creator%3A%22Brigham%2C+William+T.%22+OR+creator%3A%22Brigham%2C+W.+T.%22+OR+creator%3A%22Brigham%2C+W.+Tufts%22+OR+title%3A%22William+Tufts+Brigham%22+OR+title%3A%22William+T.+Brigham%22+OR+title%3A%22W.+T.+Brigham%22+OR+description%3A%22William+Tufts+Brigham%22+OR+description%3A%22William+T.+Brigham%22+OR+description%3A%22W.+T.+Brigham%22+OR+description%3A%22Brigham%2C+William+Tufts%22+OR+description%3A%22Brigham%2C+William+T.%22%29+OR+%28%221841-1926%22+AND+Brigham%29%29+AND+%28-mediatype%3Asoftware%29&page=2])  published _Guatemala, The Land of the Quetzal_, in which he reported observations from his time in the book’s eponymous region.[^25] While visiting the town of Livingston, he describes being invited into people’s homes and witnessing the process of making cassava bread. The instructions for Livingston Cassava Bread shows that the method of making cassava bread retains elements similar to those described in earlier European texts. He first notes the size of the cassava roots (twenty or thirty pounds) and their poisonous juice, before explaining how the bread is made:
+In 1887, American botanist, geologist, and ethnologist [William Tufts Brigham](https://archive.org/search.php?query=%28%28subject%3A%22Brigham%2C+William+Tufts%22+OR+subject%3A%22Brigham%2C+William+T.%22+OR+subject%3A%22Brigham%2C+W.+T.%22+OR+subject%3A%22William+Tufts+Brigham%22+OR+subject%3A%22William+T.+Brigham%22+OR+subject%3A%22W.+T.+Brigham%22+OR+creator%3A%22William+Tufts+Brigham%22+OR+creator%3A%22William+T.+Brigham%22+OR+creator%3A%22W.+T.+Brigham%22+OR+creator%3A%22W.+Tufts+Brigham%22+OR+creator%3A%22Brigham%2C+William+Tufts%22+OR+creator%3A%22Brigham%2C+William+T.%22+OR+creator%3A%22Brigham%2C+W.+T.%22+OR+creator%3A%22Brigham%2C+W.+Tufts%22+OR+title%3A%22William+Tufts+Brigham%22+OR+title%3A%22William+T.+Brigham%22+OR+title%3A%22W.+T.+Brigham%22+OR+description%3A%22William+Tufts+Brigham%22+OR+description%3A%22William+T.+Brigham%22+OR+description%3A%22W.+T.+Brigham%22+OR+description%3A%22Brigham%2C+William+Tufts%22+OR+description%3A%22Brigham%2C+William+T.%22%29+OR+%28%221841-1926%22+AND+Brigham%29%29+AND+%28-mediatype%3Asoftware%29&page=2])  published _Guatemala, The Land of the Quetzal_, in which he reported observations from his time in the book’s eponymous region.[^ref25] While visiting the town of Livingston, he describes being invited into people’s homes and witnessing the process of making cassava bread. The instructions for Livingston Cassava Bread shows that the method of making cassava bread retains elements similar to those described in earlier European texts. He first notes the size of the cassava roots (twenty or thirty pounds) and their poisonous juice, before explaining how the bread is made:
 <param ve-image
 title="William Tufts Brigham,_Guatemala, The Land of the Quetzal_(1887)" url="https://raw.githubusercontent.com/melindasusanto/demo1/master/Guatemala.jpg"
        fit="cover"
@@ -150,53 +150,53 @@ Today, cassava is still grown in Java, and in other regions around the globe. Th
 
 ## References
 
-[^1]:  “Manihot esculenta Crantz,” _Plants of the World Online_, accessed July 22, 2020, http://plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:351790-1 
+[^ref1]:   “Manihot esculenta Crantz,” _Plants of the World Online_, accessed July 22, 2020, http://plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:351790-1 
 
-[^2]: Donald Ugent, Shelia Pozorski, and Thomas Pozorski, "Archaeological Manioc (Manihot) from Coastal Peru," _Economic Botany_ 40, no. 1 (1986): 99, accessed July 28, 2020, www.jstor.org/stable/4254832 
+[^ref2]: Donald Ugent, Shelia Pozorski, and Thomas Pozorski, "Archaeological Manioc (Manihot) from Coastal Peru," _Economic Botany_ 40, no. 1 (1986): 99, accessed July 28, 2020, www.jstor.org/stable/4254832 
 
-[^3]: Ibid
+[^ref3]: Ibid
 
-[^4]: “Manihot esculenta Crantz,” _Plants of the World Online_, accessed July 22, 2020, http://plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:351790-1
+[^ref4]: “Manihot esculenta Crantz,” _Plants of the World Online_, accessed July 22, 2020, http://plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:351790-1
 
-[^5]: Donald Ugent, Shelia Pozorski, and Thomas Pozorski, "Archaeological Manioc (Manihot) from Coastal Peru," _Economic Botany_ 40, no. 1 (1986): 80, accessed July 28, 2020, www.jstor.org/stable/4254832 
+[^ref5]: Donald Ugent, Shelia Pozorski, and Thomas Pozorski, "Archaeological Manioc (Manihot) from Coastal Peru," _Economic Botany_ 40, no. 1 (1986): 80, accessed July 28, 2020, www.jstor.org/stable/4254832 
 
-[^6]: “Stirrup Spout Bottle with Manioc Form,” _The Metropolitan Museum of Art_, accessed July 20, 2020, https://www.metmuseum.org/art/collection/search/308558 
+[^ref6]: “Stirrup Spout Bottle with Manioc Form,” _The Metropolitan Museum of Art_, accessed July 20, 2020, https://www.metmuseum.org/art/collection/search/308558 
 
-[^7]:  “Vessel Forms,” _Dumbarton Oaks_, accessed July 28, 2020, https://www.doaks.org/resources/moche-iconography/vessel-forms
+[^ref7]:  “Vessel Forms,” _Dumbarton Oaks_, accessed July 28, 2020, https://www.doaks.org/resources/moche-iconography/vessel-forms
 
-[^8]: Hélène Bernier, “Moche Decorated Ceramics,” _The Metropolitan Museum of Art_, last modified August 2009, https://www.metmuseum.org/toah/hd/moch/hd_moch.htm; “Lords, Warriors, and Priests,” _Peabody Museum_, accessed July 20, 2020, https://www.peabody.harvard.edu/node/2499
+[^ref8]: Hélène Bernier, “Moche Decorated Ceramics,” _The Metropolitan Museum of Art_, last modified August 2009, https://www.metmuseum.org/toah/hd/moch/hd_moch.htm; “Lords, Warriors, and Priests,” _Peabody Museum_, accessed July 20, 2020, https://www.peabody.harvard.edu/node/2499
 
-[^9]: George B. Griffenhagen, “The Materia Medica of Christopher Columbus,” _Pharmacy in History_, 34 no. 3 (1992): 136-137 https://www.jstor.com/stable/41111458; Snait B. Gissis, “Visualising ‘Race’ in the Eighteenth Century,” _Historical Studies in the Natural Sciences_, 41 no. 1 (2011): 90-91. https://www.jstor.org/stable/10.1525/hsns.2011.41.1.41
+[^ref9]: George B. Griffenhagen, “The Materia Medica of Christopher Columbus,” _Pharmacy in History_, 34 no. 3 (1992): 136-137 https://www.jstor.com/stable/41111458; Snait B. Gissis, “Visualising ‘Race’ in the Eighteenth Century,” _Historical Studies in the Natural Sciences_, 41 no. 1 (2011): 90-91. https://www.jstor.org/stable/10.1525/hsns.2011.41.1.41
 
-[^10]: Jean de Léry, _History of a Voyage to the Land of Brazil, Otherwise Called America_(Berkeley: University of California Press, n.d.) https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/1feg4j8/alma991012177589704436
+[^ref10]: Jean de Léry, _History of a Voyage to the Land of Brazil, Otherwise Called America_(Berkeley: University of California Press, n.d.) https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/1feg4j8/alma991012177589704436
 
-[^11]: Antonio de León Pinelo,_Question moral si el chocolate quebranta el ayuno eclesiastico: Tratase de otras bebidas i confecciones que se vsan en varias provincias._(Madrid: Por la viuda de Iuan Gonçalez., 1636), https://www.biodiversitylibrary.org/page/55670844; Bedford Pim and Berthold Seemann, _Dottings on the roadside, in Panama, Nicaragua, and Mosquito_(London: Chapman and Hall, 1869), 405-406. http://mertzdigital.nybg.org/cdm/ref/collection/p9016coll23/id/30871
+[^ref11]: Antonio de León Pinelo,_Question moral si el chocolate quebranta el ayuno eclesiastico: Tratase de otras bebidas i confecciones que se vsan en varias provincias._(Madrid: Por la viuda de Iuan Gonçalez., 1636), https://www.biodiversitylibrary.org/page/55670844; Bedford Pim and Berthold Seemann, _Dottings on the roadside, in Panama, Nicaragua, and Mosquito_(London: Chapman and Hall, 1869), 405-406. http://mertzdigital.nybg.org/cdm/ref/collection/p9016coll23/id/30871
 
-[^12]: Ana Lucia Barretto Penna, Luis A. Nero and Svetoslav D. Todorov, _Fermented Foods of Latin America: From Traditional Knowledge to Innovative Applications._ (Boca Raton: CRC Press, 2017), 233.  https://doi-org.proxy.libraries.uc.edu/10.1201/9781315369433; Bedford Pim and Berthold Seemann, Dottings on the roadside, in Panama, Nicaragua, and Mosquito (London: Chapman and Hall, 1869), 405. http://mertzdigital.nybg.org/cdm/ref/collection/p9016coll23/id/30871
+[^ref12]: Ana Lucia Barretto Penna, Luis A. Nero and Svetoslav D. Todorov, _Fermented Foods of Latin America: From Traditional Knowledge to Innovative Applications._ (Boca Raton: CRC Press, 2017), 233.  https://doi-org.proxy.libraries.uc.edu/10.1201/9781315369433; Bedford Pim and Berthold Seemann, Dottings on the roadside, in Panama, Nicaragua, and Mosquito (London: Chapman and Hall, 1869), 405. http://mertzdigital.nybg.org/cdm/ref/collection/p9016coll23/id/30871
 
-[^13]: Jean de Léry, _History of a Voyage to the Land of Brazil, Otherwise Called America_(Berkeley: University of California Press, n.d.) https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/1feg4j8/alma991012177589704436
+[^ref13]: Jean de Léry, _History of a Voyage to the Land of Brazil, Otherwise Called America_(Berkeley: University of California Press, n.d.) https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/1feg4j8/alma991012177589704436
 
-[^14]: Ana Lucia Barretto Penna, Luis A. Nero and Svetoslav D. Todorov, _Fermented Foods of Latin America: From Traditional Knowledge to Innovative Applications._ (Boca Raton: CRC Press, 2017), 238.  https://doi-org.proxy.libraries.uc.edu/10.1201/9781315369433
+[^ref14]: Ana Lucia Barretto Penna, Luis A. Nero and Svetoslav D. Todorov, _Fermented Foods of Latin America: From Traditional Knowledge to Innovative Applications._ (Boca Raton: CRC Press, 2017), 238.  https://doi-org.proxy.libraries.uc.edu/10.1201/9781315369433
 
-[^15]: Kaori O’Connor, “Beyond ‘Exotic Groceries’: Tapioca/Cassava/Manioc, a Hidden Commodity of Empires and Globalisation,” in _Global Histories, Imperial Commodities, Local Interactions,_ ed. Jonathan Curry-Machado (Hampshire and New York: Palgrave Macmillan, 2013), 227. https://doi.org/10.1057/9781137283603_12
+[^ref15]: Kaori O’Connor, “Beyond ‘Exotic Groceries’: Tapioca/Cassava/Manioc, a Hidden Commodity of Empires and Globalisation,” in _Global Histories, Imperial Commodities, Local Interactions,_ ed. Jonathan Curry-Machado (Hampshire and New York: Palgrave Macmillan, 2013), 227. https://doi.org/10.1057/9781137283603_12
 
-[^16]: Maria Sibylla Merian, _Metamorphosis insectorum Surinamensium_ (Amstelaedami : Joannem Oosterwyk, 1719), 4. https://nrs.harvard.edu/urn-3:DOAK.RESLIB:41825989?n=16
+[^ref16]: Maria Sibylla Merian, _Metamorphosis insectorum Surinamensium_ (Amstelaedami : Joannem Oosterwyk, 1719), 4. https://nrs.harvard.edu/urn-3:DOAK.RESLIB:41825989?n=16
 
-[^17]: Ibid, 5.
+[^ref17]: Ibid, 5.
 
-[^18]: Judith Ann Carney and Richard Nicholas Rosomoff, _In the Shadow of Slavery_, (Berkeley and Los Angeles: University of California Press, 2009), 54.
+[^ref18]: Judith Ann Carney and Richard Nicholas Rosomoff, _In the Shadow of Slavery_, (Berkeley and Los Angeles: University of California Press, 2009), 54.
 
-[^19]: Ibid, 178
+[^ref19]: Ibid, 178
 
-[^20]: Ibid, 180.
+[^ref20]: Ibid, 180.
 
-[^21]: Ibid.
+[^ref21]: Ibid.
 
-[^22]: A. Parmer, B. Sturm, and O. Hensel, “Crops that Feed the World: Production and Improvement of Cassava for Food, Feed, and Industrial Uses,” _Food Security_ 9, (2017): 914. doi: 10.1007/s12571-017-0717-8
+[^ref22]: A. Parmer, B. Sturm, and O. Hensel, “Crops that Feed the World: Production and Improvement of Cassava for Food, Feed, and Industrial Uses,” _Food Security_ 9, (2017): 914. doi: 10.1007/s12571-017-0717-8
 
-[^23]: Wyndham R. Dunstan, T. A. Henry, and S. J. M. Auld, “Cyanogenesis in Plants: Part V – The Occurrence of Phaseolunatin in Cassava (Manihot Aipi and Manihot utilissima)” _Proceedings of the Royal Society of London_ (1906): 152-158. https://www.biodiversitylibrary.org/page/43363072
+[^ref23]: Wyndham R. Dunstan, T. A. Henry, and S. J. M. Auld, “Cyanogenesis in Plants: Part V – The Occurrence of Phaseolunatin in Cassava (Manihot Aipi and Manihot utilissima)” _Proceedings of the Royal Society of London_ (1906): 152-158. https://www.biodiversitylibrary.org/page/43363072
 
-[^24]: Antoine-François de Fourcroy and Jean-Michel Papillon, _Élémens d’histoire naturelle et de chemie_ (Paris: Chez Cuchet, 1786), 106. https://www.biodiversitylibrary.org/page/57980618
+[^ref24]: Antoine-François de Fourcroy and Jean-Michel Papillon, _Élémens d’histoire naturelle et de chemie_ (Paris: Chez Cuchet, 1786), 106. https://www.biodiversitylibrary.org/page/57980618
 
 [^25]: William Tufts Brigham and Jay I. Kislak Collection (Library of Congress), _Guatemala, the Land of the Quetzal: A Sketch,_ xv, 453 p., [28] leaves of plates (some folded) (New York: Charles Scribner’s Sons, 1887): 32.
 
@@ -387,6 +387,6 @@ Code to add a specimen from Global Plants. Lorem ipsum dolor sit amet, consectet
 This example also displays a type specimen from the Global Plants site for the species _Agave americana_.  In this example the Global Plants identifier ([10.5555/al.ap.specimen.us00092112](https://plants.jstor.org/stable/10.5555/al.ap.specimen.us00092112)) is used to display the image for a specific specimen.
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.m0233266">dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMTQ5MDc5MCwtMzg3NTg5Mjg5LDE5OT
+eyJoaXN0b3J5IjpbMjEwMDE0OTQwNSwtMzg3NTg5Mjg5LDE5OT
 kzNDU2NDFdfQ==
 -->
