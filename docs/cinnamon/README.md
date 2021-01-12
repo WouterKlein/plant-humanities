@@ -10,6 +10,7 @@
 <param title="" eid="" aliases-"Boxwood">
 
 ### The cinnamon challenge
+
 In 2012-2013, the ‘cinnamon challenge’ was a short-lived internet hype. Although the instruction is simple enough – try to swallow a tablespoon of cinnamon at once – it proves to be virtually impossible in practice. Trying to ingest dry, ground cinnamon bark initially causes a severe choke reaction, characterised by extreme exhalation of cinnamon powder (known as ‘dragon breath’). Subsequently, the cinnamon combines with saliva in the mouth to produce an indigestible clutter in the back of the throat. Thankfully, this [quite dangerous assignment](https://doi.org/10.1542/peds.2012-3418) will only be a marginal footnote in the history of cinnamon. Those who know cinnamon only from an endless series of ridiculous YouTube videos, or as a quotidian kitchen spice, will be surprised to learn that the real challenge of cinnamon has been an ongoing effort for 2000 years, to find out what cinnamon actually is, as a plant and as a medicine.
 <param title="cinnamon challenge" eid="Q420721">
 <param ve-video
@@ -17,6 +18,7 @@ In 2012-2013, the ‘cinnamon challenge’ was a short-lived internet hype. Alth
 	title="Mythbusters Cinnamon Challenge.">
 	
 ### Forgotten knowledge and fabricated history
+
 Cinnamon had a long history before any European ever saw ‘true cinnamon (_Cinnamomum verum_ J.Presl), which originally grew only on Sri Lanka. Here immediately lies the key to understanding the history of cinnamon: it is mostly about a plant-based product carrying that name, not about any particular plant species like the one mentioned above. This is a crucial observation, because a lot of confusion about cinnamon emanates from the incorrect equation of _names_ with _plants_. To be more precise: in the Latin west, it has long been assumed that the plants _cinnamomum_ (κιννάμωμον in Greek) and _cassia_ (κασία), as described by ancient medical authorities (notably Dioscorides), are the same plants as those found in the East Indies in the sixteenth century. A recent revision of archaeological, historical, linguistic and botanical evidence, however, has suggested that the cinnamon of ancient history was probably an East-African plant, _Cassia abbreviata_ Oliv., which is not related to the genus _Cinnamomum_.[^ref1]
 <param title="Sri Lanka" eid="Q854">
 <param title="Pedanius Dioscorides" eid="Q297776" aliases="Dioscorides">
@@ -45,6 +47,7 @@ A second, and much more surprising reason for the long-lasting confusion over ci
 	url="Indian_Ocean_Spice_route_(Riddle 1985p99_from Miller_1969).bmp">
 
 ### Cinnamon as a tool of empire
+
 The attraction of cinnamon – ‘true or other – as a means to enhance the power of a state, by displaying its control over exotic riches, predates the early modern period. For example, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), showing a personification of Arabia, who holds a bundle of cinnamon sticks. The motif can be associated with Trajan’s conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda, to emphasize the relation between the authority of the empire and the conquered lands.[^ref7]
 <param title="Trajan" eid="Q1425">
 <param title="Persian Gulf" eid="Q34675">
@@ -74,6 +77,7 @@ Once ‘true cinnamon had begun to be understood as cinnamon from Sri Lanka, Eur
 	zoom="7.4">
 
 ### Optimizing the monopoly
+
 The Dutch made even stronger, concerted efforts to get a hold on cinnamon. They signed a treaty with the king of Kandy in 1638, hoping this would give them a share of the cinnamon trade, which was still dominated by the Portuguese at the time. After the Portuguese were defeated in Colombo (1656) and Jaffnapatnam (1658), the Dutch controlled many coastal areas of the island, while the kingdom of Kandy ruled the island’s interior. The relation between the Dutch and the king of Kandy was strained. Cinnamon trees were scattered throughout the forests of the island, so groups of peelers who worked for the Dutch often had to cross Portuguese and, later, Kandian territory to reach the areas where the trees grew. As it was impossible for the Dutch to keep a military grip on this enormous territory, or on individual groups of peelers, there was little they could do when peelers chose, or were forced, to switch allegiance. Therefore, bribing the king of Kandy was a recurring means to leave peelers alone, in order not to interrupt the supply of cinnamon.
 <param title="Kingdom of Kandy" eid="Q1530762" aliases="Kandy">
 <param title="Colombo" eid="Q35381">
@@ -246,11 +250,11 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘'True’' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MDg4OTEyLC0xOTgzMjQ2MjcsMTE2Nz
-g4Mzc3NSwtMTQyMDA3ODgzMSwtNDk4MjYxMjM0LC0xNzg5Mzkx
-MjY0LC0zNDc0ODMxNzQsLTM0NzQ4MzE3NCwtMjczODQxNjM4LD
-k0MDE5NzQ4OSwxNzg0NDQ3NDQsLTI1MzE5NzA0MywxNTA1Njky
-ODMyLDE2NjEyNjA4NDgsMTAxNTE2MTYzMSwtMTU1ODc2NjQwOC
-wxNDEwODExNTkzLC0xNTU1MTAwNDk3LDkxOTkzNDUyOSwtMjA2
-NjgwMTg5N119
+eyJoaXN0b3J5IjpbLTQ2MTA5MDM4OCwtMTk4MzI0NjI3LDExNj
+c4ODM3NzUsLTE0MjAwNzg4MzEsLTQ5ODI2MTIzNCwtMTc4OTM5
+MTI2NCwtMzQ3NDgzMTc0LC0zNDc0ODMxNzQsLTI3Mzg0MTYzOC
+w5NDAxOTc0ODksMTc4NDQ0NzQ0LC0yNTMxOTcwNDMsMTUwNTY5
+MjgzMiwxNjYxMjYwODQ4LDEwMTUxNjE2MzEsLTE1NTg3NjY0MD
+gsMTQxMDgxMTU5MywtMTU1NTEwMDQ5Nyw5MTk5MzQ1MjksLTIw
+NjY4MDE4OTddfQ==
 -->
