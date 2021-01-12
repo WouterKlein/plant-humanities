@@ -195,8 +195,8 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 https://upload.wikimedia.org/wikipedia/commons/e/e7/Forming_the_cinnamon_quills%2C_Ceylon%2C_photo_from_The_Encyclopedia_of_Food_by_Artemas_Ward.jpg
 https://upload.wikimedia.org/wikipedia/commons/0/0d/Skinning_the_cinnamon_sticks%2C_Ceylon%2C_photo_from_The_Encyclopedia_of_Food_by_Artemas_Ward.jpg
 
-Forming the cinnamon quills
-Skinning the cinnamon sticks, Ceylon
+‘Forming the cinnamon quills, Ceylon’.
+‘Skinning the cinnamon sticks, Ceylon’. Image from 
 
 ### References
 
@@ -258,11 +258,11 @@ Skinning the cinnamon sticks, Ceylon
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘True’ Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg5OTg5MDczLC0xMTUzMTU4MDMsMTM5MT
-g0MTMzMCwtMjc3Nzg3NjA3LC0xNjUzMjg1NTA2LC0xOTgzMjQ2
-MjcsMTE2Nzg4Mzc3NSwtMTQyMDA3ODgzMSwtNDk4MjYxMjM0LC
-0xNzg5MzkxMjY0LC0zNDc0ODMxNzQsLTM0NzQ4MzE3NCwtMjcz
-ODQxNjM4LDk0MDE5NzQ4OSwxNzg0NDQ3NDQsLTI1MzE5NzA0My
-wxNTA1NjkyODMyLDE2NjEyNjA4NDgsMTAxNTE2MTYzMSwtMTU1
-ODc2NjQwOF19
+eyJoaXN0b3J5IjpbLTE0OTk0NTE4ODQsLTExNTMxNTgwMywxMz
+kxODQxMzMwLC0yNzc3ODc2MDcsLTE2NTMyODU1MDYsLTE5ODMy
+NDYyNywxMTY3ODgzNzc1LC0xNDIwMDc4ODMxLC00OTgyNjEyMz
+QsLTE3ODkzOTEyNjQsLTM0NzQ4MzE3NCwtMzQ3NDgzMTc0LC0y
+NzM4NDE2MzgsOTQwMTk3NDg5LDE3ODQ0NDc0NCwtMjUzMTk3MD
+QzLDE1MDU2OTI4MzIsMTY2MTI2MDg0OCwxMDE1MTYxNjMxLC0x
+NTU4NzY2NDA4XX0=
 -->
