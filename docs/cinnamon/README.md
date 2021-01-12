@@ -195,13 +195,16 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 https://upload.wikimedia.org/wikipedia/commons/e/e7/Forming_the_cinnamon_quills%2C_Ceylon%2C_photo_from_The_Encyclopedia_of_Food_by_Artemas_Ward.jpg
 https://upload.wikimedia.org/wikipedia/commons/0/0d/Skinning_the_cinnamon_sticks%2C_Ceylon%2C_photo_from_The_Encyclopedia_of_Food_by_Artemas_Ward.jpg
 
+Forming the cinnamon quills
+Skinning the cinnamon sticks, Ceylon
+
 ### References
 
 [^ref1]: Stephen G. Haw, “Cinnamon, Cassia and Ancient Trade”, _Journal of Ancient History and Archaeology_, 4:1 (2017) 5-18.
 
 [^ref2]: Haw, “Cinnamon, 10-11.
 
-[^ref3]: Inês de Ornellas e Castro, “A Pleasant Banquet of Words’: Therapeutic Virtues and Alimentary Consumption in Garcia de Orta’s _Colloquies on the Simples and Drugs of India_”, in: Palmira Fontes da Costa (ed.), _Medicine, Trade, and Empire: Garcia de Orta’s_ Colloquies on the Simples and Drugs of India _(1563) in Context_ (Farnham and Burlington: Ashgate 2015) 67-88, there 84, 85.
+[^ref3]: Inês de Ornellas e Castro, “‘A Pleasant Banquet of Words’: Therapeutic Virtues and Alimentary Consumption in Garcia de Orta’s _Colloquies on the Simples and Drugs of India_”, in: Palmira Fontes da Costa (ed.), _Medicine, Trade, and Empire: Garcia de Orta’s_ Colloquies on the Simples and Drugs of India _(1563) in Context_ (Farnham and Burlington: Ashgate 2015) 67-88, there 84, 85.
 
 [^ref4]: Vijaya Samaraweera, The Cinnamon Trade of Ceylon”, _Indian Economic & Social History Review_, 8:4 (1971) 415-442, there 416.
 
@@ -255,7 +258,7 @@ https://upload.wikimedia.org/wikipedia/commons/0/0d/Skinning_the_cinnamon_sticks
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘True’ Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEyMTg3NDE5LC0xMTUzMTU4MDMsMTM5MT
+eyJoaXN0b3J5IjpbOTg5OTg5MDczLC0xMTUzMTU4MDMsMTM5MT
 g0MTMzMCwtMjc3Nzg3NjA3LC0xNjUzMjg1NTA2LC0xOTgzMjQ2
 MjcsMTE2Nzg4Mzc3NSwtMTQyMDA3ODgzMSwtNDk4MjYxMjM0LC
 0xNzg5MzkxMjY0LC0zNDc0ODMxNzQsLTM0NzQ4MzE3NCwtMjcz
