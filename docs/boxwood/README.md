@@ -174,7 +174,7 @@ In practical terms, borders involving a combination of different shrubs as descr
 
 ### A global garden element
 
-Mollet’s planting and stylistic innovations gained the fullest expression in the gardens of Versailles—whose boxwood parterres, _berceau_ (bowers), and a labyrinth were created for Louis XIV by André Le Nôtre. From here they spread throughout Europe and beyond. Elaborate topiary work, for example, was one of the attractions of the European-style imperial garden of Yuanming Yuan (Old Summer Palace) in Beijing, designed in the eighteenth century by Jesuit Giuseppe Castiglione. Italy continued to be resistant to the wholesale adoption of boxwood; but, in the end, the shrub’s triumph was complete. If, towards the end of the eighteenth century, agricultural reformer Marco Lastri had thought that the most characteristic plants growing in Italian gardens were “fruit trees, citruses, and flowers,” over a hundred years later, American novelist Edith Wharton extoled the country’s “old garden-magic” that she identified with green “box-parterres” and “box-edged plots.”[^ref27] Even the once reviled smell became a feature of Old World nostalgia. In her autobiography, Wharton—Beatrix Farrand’s aunt—would fondly recall her friend Vernon Lee’s “homely box-scented garden,” an epitome of the quaint European charm consciously cultivated by members of the Anglo-American community in Florence.[^ref28]
+Mollet’s planting and stylistic innovations gained the fullest expression in the gardens of Versailles—whose boxwood parterres, _berceau_ (bowers), and a labyrinth were created for Louis XIV by André Le Nôtre. From here they spread throughout Europe and beyond. Elaborate topiary work, for example, was one of the attractions of the European-style imperial garden of Yuanming Yuan (Old Summer Palace) in Beijing, designed in the eighteenth century by Jesuit Giuseppe Castiglione. Italy continued to be resistant to the wholesale adoption of boxwood but, in the end, the shrub’s triumph was complete. If, toward the end of the eighteenth century, agricultural reformer Marco Lastri had thought that the most characteristic plants growing in Italian gardens were “fruit trees, citruses, and flowers,” over a hundred years later, American novelist Edith Wharton (Beatrix Farrand’s aunt) extolled Italy's “old garden-magic” that she identified with green “box-parterres” and “box-edged plots.”[^ref27] Even the once reviled smell became a feature of Old World nostalgia. In her autobiography, Wharton would fondly recall her friend Vernon Lee’s “homely box-scented garden,” an epitome of the quaint European charm consciously cultivated by members of the Anglo-American community in Florence.[^ref28]
 <param ve-image
 	title="View of the garden of the Chatêau de Clagny at Versailles, in Charles Antoine Jombert (1712-1784), _Les delices de Versailles et des maisons royales_, 1766, plate 81."
 	manifest="https://iiif.lib.harvard.edu/manifests/drs:459932907"
@@ -275,10 +275,10 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^ref30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii,_ both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1OTE4NzEwLC0xNDM4MTM0ODM3LC0yNj
-ExNDA1MjEsMjAwNTc3MDk5MiwtMjAwNzk4NTk3MSwtMTg0Mzc3
-MDk5NCw5OTM1ODEwODIsOTkzNTgxMDgyLDk5MzU4MTA4MiwtMT
-Q3NTM2ODQ2MywxNDg2MTQ3MjIxLDUyMTQ0MTM1NSw5OTk3MDM5
-MjksLTEwMDU5NzE2NSw5OTk3MDM5MjksLTE4Mzg5NDU0MywxNT
-g0NjQ2MDIzXX0=
+eyJoaXN0b3J5IjpbLTExNDczMDU4MTEsLTE0MzgxMzQ4MzcsLT
+I2MTE0MDUyMSwyMDA1NzcwOTkyLC0yMDA3OTg1OTcxLC0xODQz
+NzcwOTk0LDk5MzU4MTA4Miw5OTM1ODEwODIsOTkzNTgxMDgyLC
+0xNDc1MzY4NDYzLDE0ODYxNDcyMjEsNTIxNDQxMzU1LDk5OTcw
+MzkyOSwtMTAwNTk3MTY1LDk5OTcwMzkyOSwtMTgzODk0NTQzLD
+E1ODQ2NDYwMjNdfQ==
 -->
