@@ -190,13 +190,11 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 <param ve-map
 	title="[I would like to include a map here with the current distribution of Cinnamomum verum. I have two sources for that: the data differ quite a bit, and I don’t know if I can simply extract it from the sources: https://www.cabi.org/isc/datasheet/13573 (CABI), and http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:463752-1 (Kew, Plants of the World Online)]">
 <param ve-image
-	title="[No visualization here yet.]"
-	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
-https://upload.wikimedia.org/wikipedia/commons/e/e7/Forming_the_cinnamon_quills%2C_Ceylon%2C_photo_from_The_Encyclopedia_of_Food_by_Artemas_Ward.jpg
-https://upload.wikimedia.org/wikipedia/commons/0/0d/Skinning_the_cinnamon_sticks%2C_Ceylon%2C_photo_from_The_Encyclopedia_of_Food_by_Artemas_Ward.jpg
-
-‘Forming the cinnamon quills, Ceylon’.
-‘Skinning the cinnamon sticks, Ceylon’. Image from 
+	title="‘Skinning the cinnamon sticks, Ceylon’. Image from "
+	url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Skinning_the_cinnamon_sticks%2C_Ceylon%2C_photo_from_The_Encyclopedia_of_Food_by_Artemas_Ward.jpg">
+<param ve-image
+	title="‘Forming the cinnamon quills, Ceylon’."
+	url="https://upload.wikimedia.org/wikipedia/commons/e/e7/Forming_the_cinnamon_quills%2C_Ceylon%2C_photo_from_The_Encyclopedia_of_Food_by_Artemas_Ward.jpg">
 
 ### References
 
@@ -258,11 +256,11 @@ https://upload.wikimedia.org/wikipedia/commons/0/0d/Skinning_the_cinnamon_sticks
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘True’ Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTk0NTE4ODQsLTExNTMxNTgwMywxMz
-kxODQxMzMwLC0yNzc3ODc2MDcsLTE2NTMyODU1MDYsLTE5ODMy
-NDYyNywxMTY3ODgzNzc1LC0xNDIwMDc4ODMxLC00OTgyNjEyMz
-QsLTE3ODkzOTEyNjQsLTM0NzQ4MzE3NCwtMzQ3NDgzMTc0LC0y
-NzM4NDE2MzgsOTQwMTk3NDg5LDE3ODQ0NDc0NCwtMjUzMTk3MD
-QzLDE1MDU2OTI4MzIsMTY2MTI2MDg0OCwxMDE1MTYxNjMxLC0x
-NTU4NzY2NDA4XX0=
+eyJoaXN0b3J5IjpbLTkyNjA4MDA4NywtMTQ5OTQ1MTg4NCwtMT
+E1MzE1ODAzLDEzOTE4NDEzMzAsLTI3Nzc4NzYwNywtMTY1MzI4
+NTUwNiwtMTk4MzI0NjI3LDExNjc4ODM3NzUsLTE0MjAwNzg4Mz
+EsLTQ5ODI2MTIzNCwtMTc4OTM5MTI2NCwtMzQ3NDgzMTc0LC0z
+NDc0ODMxNzQsLTI3Mzg0MTYzOCw5NDAxOTc0ODksMTc4NDQ0Nz
+Q0LC0yNTMxOTcwNDMsMTUwNTY5MjgzMiwxNjYxMjYwODQ4LDEw
+MTUxNjE2MzFdfQ==
 -->
