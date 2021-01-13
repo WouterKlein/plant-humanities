@@ -241,7 +241,7 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref12]: Wagenaar, _Cinnamon & Elephants_, 155.
 
-[^ref13]: Samaraweera, “"The Cinnamon Trade of Ceylon”.
+[^ref13]: Samaraweera, “The Cinnamon Trade of Ceylon”.
 
 [^ref14]: Johan Heniger, _Hendrik Adriaan van Reede tot Drakenstein (1636-1691) and Hortus Malabaricus: A Contribution to the History of Dutch Colonial Botany_ (Rotterdam and Boston: A.A. Balkema 1986) 37-38; and Harold J. Cook, _Matters of Exchange: Commerce, Medicine, and Science in the Dutch Golden Age_ (New Haven: Yale University Press 2007) 310-317.
 
@@ -263,7 +263,7 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref23]: Irene Fattacciu, “The Resilience and Boomerang Effect of Chocolate: A Product’s Globalization and Commodification”, in: Bethany Aram and Bartolomé Yun-Casalilla (eds.), _Global Goods and the Spanish Empire, 1492-1824: Circulation, Resistance and Diversity_ (Houndmills and Basingstoke: Palgrave Macmillan 2014) 255-273.
 
-[^ref24]: Francisco Mallari, S.J., “The Mindanao Cinnamon”, _Philippine Quarterly of Culture and Society_, 2:4 (1974) 190-194; and Russell K. Skowronek, “"Cinnamon, Ceramics, and Silks: Tracking the Manila Galleon Trade in the Creation of the World Economy”, in: Chunming Wu (ed.), _Early Navigation in the Asia-Pacific Region: A Maritime Archaeological Perspective_ (Singapore: Springer Science+Business Media 2016) 59-74.
+[^ref24]: Francisco Mallari, S.J., “The Mindanao Cinnamon”, _Philippine Quarterly of Culture and Society_, 2:4 (1974) 190-194; and Russell K. Skowronek, “Cinnamon, Ceramics, and Silks: Tracking the Manila Galleon Trade in the Creation of the World Economy”, in: Chunming Wu (ed.), _Early Navigation in the Asia-Pacific Region: A Maritime Archaeological Perspective_ (Singapore: Springer Science+Business Media 2016) 59-74.
 
 [^ref25]: Bleichmar, _Visible Empire_, 123-126.
 
@@ -275,11 +275,11 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘True’ Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk3OTQzNzM1LDIyOTA3OTkxOCwtMTQ5OT
-Q1MTg4NCwtMTE1MzE1ODAzLDEzOTE4NDEzMzAsLTI3Nzc4NzYw
-NywtMTY1MzI4NTUwNiwtMTk4MzI0NjI3LDExNjc4ODM3NzUsLT
-E0MjAwNzg4MzEsLTQ5ODI2MTIzNCwtMTc4OTM5MTI2NCwtMzQ3
-NDgzMTc0LC0zNDc0ODMxNzQsLTI3Mzg0MTYzOCw5NDAxOTc0OD
-ksMTc4NDQ0NzQ0LC0yNTMxOTcwNDMsMTUwNTY5MjgzMiwxNjYx
-MjYwODQ4XX0=
+eyJoaXN0b3J5IjpbNjMwMzg0Mzg3LDc5Nzk0MzczNSwyMjkwNz
+k5MTgsLTE0OTk0NTE4ODQsLTExNTMxNTgwMywxMzkxODQxMzMw
+LC0yNzc3ODc2MDcsLTE2NTMyODU1MDYsLTE5ODMyNDYyNywxMT
+Y3ODgzNzc1LC0xNDIwMDc4ODMxLC00OTgyNjEyMzQsLTE3ODkz
+OTEyNjQsLTM0NzQ4MzE3NCwtMzQ3NDgzMTc0LC0yNzM4NDE2Mz
+gsOTQwMTk3NDg5LDE3ODQ0NDc0NCwtMjUzMTk3MDQzLDE1MDU2
+OTI4MzJdfQ==
 -->
