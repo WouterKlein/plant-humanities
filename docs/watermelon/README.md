@@ -188,7 +188,7 @@ Watermelons were brought to the Americas in the sixteenth century, introduced by
 	title="African-Americans dancing around a pile of watermelons"
 	url="https://upload.wikimedia.org/wikipedia/commons/3/35/African_Americans_dancing_around_a_pile_of_watermelons_%28cropped%29.jpg"
 	fit="contain"
-	attribution="Wikimedia commons">
+	attribution="Wikimedia Commons">
 {#paragraph10}
 
 Certain characteristics of the watermelon made it conducive to racializing: its messiness when being eaten supposedly connoted uncleanliness, its easiness to grow implied laziness, its sweetness and color connoted childishness. These aspects of the fruit were bound up with representations of African-Americans whose taste for the melon were exaggerated to the point of naturalisation; the watermelon’s African origins were cited as an explanation for Black Americans’ apparently insatiable appetite for the fruit. Nineteenth-century newspapers were filled with anecdotes and reports which repeated these racial tropes until they masqueraded as truth.
@@ -271,7 +271,7 @@ As we have seen throughout this essay, the watermelon has undergone significant 
 	title="Square watermelon from Japan"
 	url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Square_watermelon.jpg"
 	fit="contain"
-	attribution="Wikimedia commons">
+	attribution="Wikimedia Commons">
 {#paragraph17}
 
 ### References
@@ -322,7 +322,7 @@ As we have seen throughout this essay, the watermelon has undergone significant 
 
 [^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODg0MDAyMDksMTQwNTk1NjkzMywtMT
-cyNjg2MDA5MSwtMTQyNjE1NzA2MSwtMjA4NTg2MzUxMSwtNDc0
-NTIxOTU5XX0=
+eyJoaXN0b3J5IjpbNjg2NTY3NTEsMTQwNTk1NjkzMywtMTcyNj
+g2MDA5MSwtMTQyNjE1NzA2MSwtMjA4NTg2MzUxMSwtNDc0NTIx
+OTU5XX0=
 -->
