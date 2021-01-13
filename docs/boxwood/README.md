@@ -66,7 +66,7 @@
 <param ve-map-layer
 	url="https://github.com/WouterKlein/plant-humanities/docs/boxwood/us-states.json">
 
-Boxwood is a genus of evergreen shrubs that enjoys great commercial success as ornamental garden plants. Among its varieties and cultivars, the most popular is arguably English or common boxwood (_Buxus sempervirens ‘Suffruticosa’_) native to western and southern Europe, northwest Africa, and southwest Asia. In the United States—where this cultivated variety had been mass introduced on the wave of the early twentieth-century interest in European gardens—its sales, until recently, represented the greatest proportion (around 15%) among broadleaf evergreens, reaching an annual revenue of $126 million in 2014.[^ref2] A boxwood-flanked promenade, in the words of landscape architect Diane McGuire, was historically “the most common element found in almost every garden in the southern United States.”
+Boxwood is a genus of evergreen shrubs that enjoys great commercial success as ornamental garden plants. Among its varieties and cultivars, the most popular is arguably English or common boxwood (_Buxus sempervirens_ ‘Suffruticosa’) native to western and southern Europe, northwest Africa, and southwest Asia. In the United States—where this cultivated variety had been mass introduced on the wave of the early twentieth-century interest in European gardens—its sales, until recently, represented the greatest proportion (around 15%) among broadleaf evergreens, reaching an annual revenue of $126 million in 2014.[^ref2] A boxwood-flanked promenade, in the words of landscape architect Diane McGuire, was historically “the most common element found in almost every garden in the southern United States.”
 <param title="Buxus" eid="Q158703" aliases="Boxwood">
 <param title="shrub" eid="Q42295" aliases="shrubs">
 <param ve-image
@@ -88,7 +88,7 @@ One of the finest among these, Dumbarton Oaks—designed by Beatrix Farrand begi
 	data-type="geojson"
 	data-url=""
 	data-active="true">
-	{#paragraph1}
+{#paragraph1}
 
 ### “A plant known to everybody”
 
@@ -276,7 +276,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^ref30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii,_ both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMDU0MzA4NCwxNzg2OTM0MzI2LDI2ND
+eyJoaXN0b3J5IjpbLTM2Nzc5OTM2OCwxNzg2OTM0MzI2LDI2ND
 M4OTU0NSw0NDk4Mjk4NzQsLTE0MzgxMzQ4MzcsLTI2MTE0MDUy
 MSwyMDA1NzcwOTkyLC0yMDA3OTg1OTcxLC0xODQzNzcwOTk0LD
 k5MzU4MTA4Miw5OTM1ODEwODIsOTkzNTgxMDgyLC0xNDc1MzY4
