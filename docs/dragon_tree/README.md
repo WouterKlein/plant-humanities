@@ -115,7 +115,8 @@ In 1799, as he stopped in Tenerife before his voyage to the Americas that would 
 <param ve-image
 	title="_Jardines y casa de Franchy_, engraving by Simón Cattoir y C. de Freudenberg (c. 1770)."
 	url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/DON%20JUAN%20FRANCISCO%20DE%20FRANCHI%20ALFARO.jpg"
-	region="pct:8,5,150,145">
+	region="pct:8,5,150,145"
+	zoom="2">
 {#paragraph9}
 
 ### Smothering the dragon’s flame: D. draco and the Anthropocene
@@ -205,11 +206,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTg4OTU4MDIsMzUwNjczNzUsNzA4NT
-IxMDY4LDcwODUyMTA2OCw3MDg1MjEwNjgsNzYwMjg5MTYxLC0x
-MDg5NzMzMzEyLC0yMDcyNzA2MzA0LDI4ODYxNjUxMiwxNTQwMD
-M3NDIwLC0xMDU5ODYzMjcxLDE3OTczMjAwNDcsMTcwMDUxOTg5
-MSw3MjA0NTY2ODksLTE0OTgwNTU0NTUsMTk0NTgzOTYwMCwtMT
-czNDI1NTgyLC02ODc3NTkwNzYsMTI0OTAxMjM5NCwxOTA2NTA1
-ODI0XX0=
+eyJoaXN0b3J5IjpbLTk0NTk0NTUxMiwtMTcxODg5NTgwMiwzNT
+A2NzM3NSw3MDg1MjEwNjgsNzA4NTIxMDY4LDcwODUyMTA2OCw3
+NjAyODkxNjEsLTEwODk3MzMzMTIsLTIwNzI3MDYzMDQsMjg4Nj
+E2NTEyLDE1NDAwMzc0MjAsLTEwNTk4NjMyNzEsMTc5NzMyMDA0
+NywxNzAwNTE5ODkxLDcyMDQ1NjY4OSwtMTQ5ODA1NTQ1NSwxOT
+Q1ODM5NjAwLC0xNzM0MjU1ODIsLTY4Nzc1OTA3NiwxMjQ5MDEy
+Mzk0XX0=
 -->
