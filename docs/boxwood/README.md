@@ -65,6 +65,7 @@
 	auto-play="true">
 <param ve-map-layer
 	url="https://github.com/WouterKlein/plant-humanities/docs/boxwood/us-states.json">
+{#paragraph1}
 
 Boxwood is a genus of evergreen shrubs that enjoys great commercial success as ornamental garden plants. Among its varieties and cultivars, the most popular is arguably English or common boxwood (_Buxus sempervirens_ ‘Suffruticosa’) native to western and southern Europe, northwest Africa, and southwest Asia. In the United States—where this cultivated variety had been mass introduced on the wave of the early twentieth-century interest in European gardens—its sales, until recently, represented the greatest proportion (around 15%) among broadleaf evergreens, reaching an annual revenue of $126 million in 2014.[^ref2] A boxwood-flanked promenade, in the words of landscape architect Diane McGuire, was historically “the most common element found in almost every garden in the southern United States.”
 <param title="Buxus" eid="Q158703" aliases="Boxwood">
@@ -73,6 +74,7 @@ Boxwood is a genus of evergreen shrubs that enjoys great commercial success as o
 	title="Box Walk at Dumbarton Oaks"
 	url="https://www.doaks.org/visit/garden/explore/box-walk/@@images/image"
 	region="154,53,900,667">
+{#paragraph2}
 
 One of the finest among these, Dumbarton Oaks—designed by Beatrix Farrand beginning in 1921—includes three areas originally named after this shrub: the Box Walk, the Box Terrace (now called Urn Terrace), and the <span data-mouseover-map-flyto="38.914959, -77.062772, 18">Box Ellipse</span> (later replanted with hornbeam). According to McGuire, boxwood—along with yew and holly—was one of the most characteristic plants in Farrand’s palette, serving as “the embodiment of our deepest associations with the gardens of the Old World and with the cottage gardens of England.”[^ref3] It was precisely these historical roots of North American garden culture, not just the commercial future of a ubiquitous ornamental shrub, that the spread of boxwood blight put under threat.
 <param title="Dumbarton Oaks" eid="Q1264942">
@@ -88,7 +90,7 @@ One of the finest among these, Dumbarton Oaks—designed by Beatrix Farrand begi
 	data-type="geojson"
 	data-url=""
 	data-active="true">
-{#paragraph1}
+{#paragraph3}
 
 ### “A plant known to everybody”
 
@@ -110,6 +112,7 @@ How did boxwood come to represent the lasting legacy of the European garden trad
 	data-type="geojson"
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/Buxus_sempervirens_pnt.json"
 	data-active="true">
+{#paragraph4}
 
 ### Ancient love vs. early modern dismissal
 
@@ -125,18 +128,21 @@ Given this close association of boxwood with the gardens of Roman antiquity, it 
 	<param ve-image
 	title="Boxwood pattern at Oldway Mansion in Devon, England"
 	url="https://upload.wikimedia.org/wikipedia/commons/4/4e/Oldway_Mansion_03.jpg">
+{#paragraph5}
 
 The real issue with boxwood was what sixteenth-century English physician John Gerard described as the “evil and loathsome smell,” which, according to Soderini, was not only “annoying,” but could give one headaches as it “infested the air.”[^ref11] To mitigate the odor, the recommended solution was to plant boxwood in combination with other strongly scented evergreens such as myrtle, mastic, and rosemary.[^ref12] These mixed hedges benefitted from the robust texture of boxwood. Boxwood’s other selective use, also due to its thick and dense foliage, was planting it in thicket-like bird trapping grounds, _ragnaie_.[^ref13] Yet, compared to other plants that could serve analogous purposes or occupy the same garden spaces, boxwood, in Soderini’s words, was “valued little or not at all.”[^ref14]
 <param ve-image
 	title="Boxwood in Gerard’s herbal"
 	url="https://www.archive.org/download/herballorgeneral00gera_2/page/n1250_w648"
 	region="-24,334,699,518">
+{#paragraph6}
 
 Boxwood’s potential medicinal applications met with a similar lack of enthusiasm. Despite an attempt by Amato Lusitano, a sixteenth-century Portuguese Jewish physician, to prove that boxwood was a native European analogue of guaiacum and could, therefore, potentially cure syphilis, the general consensus—endorsed by the leading writer on _materia medica_, Pietro Andrea Mattioli—was that it “had no use in medicine.” Lusitano’s claim was dismissed as “vain and foolish,” which “could in no way be acceptable to doctors.”[^ref15] Such pronouncements against boxwood, which was considered of “no physical use among the most and best physicians,” were sustained by the Englishman John Parkinson (who, however, noted that its leaves could be given to horses as a cure for botfly larvae); Gerard raged against “foolish empirics and women leeches” who “minister it against apoplexy and such diseases.”[^ref16] This negative opinion continued to pervade early modern medical thought, while boxwood’s known curative properties, especially as a styptic, generally remained ignored. 
 <param ve-image
 	title="Boxwood image in Parkinson’s _Paradisi in sole paradisus terrestris_ (1629)"
 	url="https://ia801309.us.archive.org/BookReader/BookReaderImages.php?id=gri_33125012606931&itemPath=%2F6%2Fitems%2Fgri_33125012606931&server=ia801309.us.archive.org&page=n620_w1136"
 	region="1,1157,1006,746">
+{#paragraph7}
 
 ### A crafty kind of wood
 
@@ -152,6 +158,7 @@ If Mattioli and Parkinson considered boxwood primarily an ornamental plant “we
 	title="Sixteenth-century Netherlandish rosary bead (interior)"
 	url="https://images.metmuseum.org/CRDImages/md/original/DP371962.jpg"
 	region="133,185,2777,2083">
+{#paragraph8}
 
 ### Boxwood reinstated
 
@@ -166,12 +173,14 @@ The vindication of boxwood as an essential garden plant took place in late sixte
 	manifest="https://iiif.lib.harvard.edu/manifests/drs:47289351"
 	seq="237"
 	region="-422,728,5072,3758">
+{#paragraph9}
 
 In practical terms, borders involving a combination of different shrubs as described by De Serres needed to be regularly replanted. If they were to last longer, his advice was to use boxwood alone regardless of its smell.[^ref23] The advocate of this method was royal gardener Claude Mollet, who was credited with inventing _parterres de broderie_ and supplying their illustrations for De Serres’s treatise _Théâtre d’Agriculture_. Coming from a family of gardeners, Mollet wrote from the perspective of a professional horticulturist (who among other things, he believed, was supposed to be well-versed in astrology). A committed champion of boxwood, he emphasized the volatility of the French climate affected by two “extremes,” “the great heat and the great cold,” which caused the “nuisance and expense of having to redo and replant garden compartments once every three years.”[^ref24] Mollet’s solution was to reduce the composition of borders solely to boxwood, which he started to implement for King Henri IV in 1595 in the gardens of Saint-Germain-en-Laye, Monceaux, and Fontainebleau; decades later, they would still remain in “good shape.”[^ref25] The species that he particularly praised was _nain_ (dwarf) boxwood, which did not grow as tall as other varieties and had smaller leaves, but showed the same resistance to freezing and heat.[^ref26]
 <param ve-map
 	title="French royal gardens where Claude Mollet experimented with boxwood."
 	center="Q90"
 	zoom="8">
+{#paragraph10}
 
 ### A global garden element
 
@@ -191,6 +200,7 @@ Mollet’s planting and stylistic innovations gained the fullest expression in t
 <param ve-image
 	title="Imperial garden of the Old Summer Palace in Beijing. Unknown artist, after Yilantai, c. 1783-1786."
 	url="https://raw.githubusercontent.com/WouterKlein/boxwoodtest/master/images/Old-Summer-Palace_Beijing_British-Museum.jpg">
+{#paragraph11}
 
 Closely connected with these expatriate circles was British landscape architect Cecil Pinsent, another contemporary of Farrand’s, who extensively used boxwood in his landscaping projects. Most famous among his gardens was the Villa I Tatti in Settignano, Italy, designed for the American art historian and connoisseur Bernard Berenson. Another celebrated work was the lower terrace of the fifteenth-century Villa Medici in Fiesole that Pinsent furnished with a “carpet of box parterre,” regarded by landscape historian Geoffrey Jellicoe as fully integral to the historic character of the property.[^ref29] Popularized by postcards and book illustrations, Pinsent’s design became an iconic image of the Italian Renaissance garden, with its boxwood geometry—purposely projected into the Medicean age—serving as a visible bridge between distant antiquity and a more recent but equally glorious past.
 <param ve-image
@@ -199,6 +209,7 @@ Closely connected with these expatriate circles was British landscape architect 
 <param ve-image
 	url="https://upload.wikimedia.org/wikipedia/commons/9/96/Bernard_Berenson_in_the_gardens_of_Villa_I_Tatti.jpg"
 	title="Bernard Berenson in the gardens of Villa I Tatti">
+{#paragraph12}
 
 ### Humble yet resilient
 
@@ -212,6 +223,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 <param ve-image
 	title="Boxwood in the Dumbarton Oaks garden, after removal."
 	url="https://github.com/WouterKlein/plant-humanities/docs/boxwood/Boxwood-blight-in-Dumbarton-Oaks-garden_post-removal.jpg">
+{#paragraph13}
 
 ### References
 
@@ -276,11 +288,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^ref30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii,_ both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2Nzc5OTM2OCwxNzg2OTM0MzI2LDI2ND
-M4OTU0NSw0NDk4Mjk4NzQsLTE0MzgxMzQ4MzcsLTI2MTE0MDUy
-MSwyMDA1NzcwOTkyLC0yMDA3OTg1OTcxLC0xODQzNzcwOTk0LD
-k5MzU4MTA4Miw5OTM1ODEwODIsOTkzNTgxMDgyLC0xNDc1MzY4
-NDYzLDE0ODYxNDcyMjEsNTIxNDQxMzU1LDk5OTcwMzkyOSwtMT
-AwNTk3MTY1LDk5OTcwMzkyOSwtMTgzODk0NTQzLDE1ODQ2NDYw
-MjNdfQ==
+eyJoaXN0b3J5IjpbMzY0NTU5ODg4LC0zNjc3OTkzNjgsMTc4Nj
+kzNDMyNiwyNjQzODk1NDUsNDQ5ODI5ODc0LC0xNDM4MTM0ODM3
+LC0yNjExNDA1MjEsMjAwNTc3MDk5MiwtMjAwNzk4NTk3MSwtMT
+g0Mzc3MDk5NCw5OTM1ODEwODIsOTkzNTgxMDgyLDk5MzU4MTA4
+MiwtMTQ3NTM2ODQ2MywxNDg2MTQ3MjIxLDUyMTQ0MTM1NSw5OT
+k3MDM5MjksLTEwMDU5NzE2NSw5OTk3MDM5MjksLTE4Mzg5NDU0
+M119
 -->
