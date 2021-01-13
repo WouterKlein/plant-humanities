@@ -7,7 +7,6 @@
 	num-specimens="0"
 	num-primary-sources="0"
 	author="Wouter Klein, PhD">
-<param title="" eid="" aliases-"Boxwood">
 
 ### The cinnamon challenge
 
@@ -275,11 +274,11 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘True’ Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTQxODQxODAsLTQ5MjQ5ODY2MiwxNj
-A0MDE3MTYyLDM5NzE3NTI2MCw1NzQ5MjUxODksMTY1ODQ5ODE5
-NCw3OTc5NDM3MzUsMjI5MDc5OTE4LC0xNDk5NDUxODg0LC0xMT
-UzMTU4MDMsMTM5MTg0MTMzMCwtMjc3Nzg3NjA3LC0xNjUzMjg1
-NTA2LC0xOTgzMjQ2MjcsMTE2Nzg4Mzc3NSwtMTQyMDA3ODgzMS
-wtNDk4MjYxMjM0LC0xNzg5MzkxMjY0LC0zNDc0ODMxNzQsLTM0
-NzQ4MzE3NF19
+eyJoaXN0b3J5IjpbMzYyNTgxNzUyLC0yMTE0MTg0MTgwLC00OT
+I0OTg2NjIsMTYwNDAxNzE2MiwzOTcxNzUyNjAsNTc0OTI1MTg5
+LDE2NTg0OTgxOTQsNzk3OTQzNzM1LDIyOTA3OTkxOCwtMTQ5OT
+Q1MTg4NCwtMTE1MzE1ODAzLDEzOTE4NDEzMzAsLTI3Nzc4NzYw
+NywtMTY1MzI4NTUwNiwtMTk4MzI0NjI3LDExNjc4ODM3NzUsLT
+E0MjAwNzg4MzEsLTQ5ODI2MTIzNCwtMTc4OTM5MTI2NCwtMzQ3
+NDgzMTc0XX0=
 -->
