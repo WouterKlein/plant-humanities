@@ -153,7 +153,7 @@ Interests of empire and a disinterested search for knowledge could go hand in ha
 <param title="Royal Society" eid="Q123885">
 <param ve-image
 	title="‘Cinnamon from Ceylon with flowers’. Specimen of   
-_Cinnamomum verum_ J.Presl, from Paul Hermanns herbarium of plants from Sri Lanka in Leiden, specimen no. L.2070171. [This is currently a downloaded image, because the Leiden volumes of Hermann’'s herbarium are not in JSTOR’s Global Plants database. The London volumes are.]"
+_Cinnamomum verum_ J.Presl, from Paul Hermanns herbarium of plants from Sri Lanka in Leiden, specimen no. L.2070171. [This is currently a downloaded image, because the Leiden volumes of Hermann’s herbarium are not in JSTOR’s Global Plants database. The London volumes are.]"
 	attribution="https://data.biodiversitydata.nl/naturalis/specimen/L.2070171"
 	url="007714869-L.2070171.jpg">
 {#paragraph14}
@@ -275,11 +275,11 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘True’ Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMwMzg0Mzg3LDc5Nzk0MzczNSwyMjkwNz
-k5MTgsLTE0OTk0NTE4ODQsLTExNTMxNTgwMywxMzkxODQxMzMw
-LC0yNzc3ODc2MDcsLTE2NTMyODU1MDYsLTE5ODMyNDYyNywxMT
-Y3ODgzNzc1LC0xNDIwMDc4ODMxLC00OTgyNjEyMzQsLTE3ODkz
-OTEyNjQsLTM0NzQ4MzE3NCwtMzQ3NDgzMTc0LC0yNzM4NDE2Mz
-gsOTQwMTk3NDg5LDE3ODQ0NDc0NCwtMjUzMTk3MDQzLDE1MDU2
-OTI4MzJdfQ==
+eyJoaXN0b3J5IjpbMTY1ODQ5ODE5NCw3OTc5NDM3MzUsMjI5MD
+c5OTE4LC0xNDk5NDUxODg0LC0xMTUzMTU4MDMsMTM5MTg0MTMz
+MCwtMjc3Nzg3NjA3LC0xNjUzMjg1NTA2LC0xOTgzMjQ2MjcsMT
+E2Nzg4Mzc3NSwtMTQyMDA3ODgzMSwtNDk4MjYxMjM0LC0xNzg5
+MzkxMjY0LC0zNDc0ODMxNzQsLTM0NzQ4MzE3NCwtMjczODQxNj
+M4LDk0MDE5NzQ4OSwxNzg0NDQ3NDQsLTI1MzE5NzA0MywxNTA1
+NjkyODMyXX0=
 -->
