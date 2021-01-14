@@ -218,7 +218,8 @@ Certain characteristics of the watermelon made it conducive to racializing: its 
 {#paragraph11}
 
 Stories of stolen watermelons similarly contributed to establishing the perception of Black criminality following the 13th Amendment. The irresistible lure of the watermelon suggested that it did “more to tempt the colored race to steal than all other fruit combined," with countless anecdotes supposedly citing the words of African-Americans claiming that stolen watermelons tasted better than bought.[^ref16] The narrative of African-American watermelon-stealing was so entrenched that in Tennessee, the state bill that criminalized trespass in 1870 was commonly known as the ‘watermelon bill’, serving to disenfranchise convicted trespassers. The popularity of such cultural tropes became important tools in exclusionary racial politics well into the twentieth century and [are still pervasive today](https://www.vox.com/first-person/2019/8/29/20836933/watermelon-racist-history-black-people).[^ref17]
-<param ve-storiiies id="0d1fv">
+<param ve-storiiies
+	id="0d1fv">
 {#paragraph12}
 
 ### “Cholera bombshells”
@@ -325,7 +326,7 @@ As we have seen throughout this essay, the watermelon has undergone significant 
 
 [^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NzgxNDIxNywtNzY0NDk5NjMxLDEwND
+eyJoaXN0b3J5IjpbLTE2ODk4OTIwMSwtNzY0NDk5NjMxLDEwND
 U0NTM2NTksNjg2NTY3NTEsMTQwNTk1NjkzMywtMTcyNjg2MDA5
 MSwtMTQyNjE1NzA2MSwtMjA4NTg2MzUxMSwtNDc0NTIxOTU5XX
 0=
