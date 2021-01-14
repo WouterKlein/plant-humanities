@@ -228,12 +228,12 @@ Stories of stolen watermelons similarly contributed to establishing the percepti
 The racist belief in the unhealthy habits of African-Americans also featured in nineteenth-century associations between watermelons and disease. The common belief that eating too much watermelon, especially when overripe, could lead to cholera led some cities to ban the fruit’s sale during epidemics, watermelons referred to as “cholera bombshells.”[^ref18] Whilst it is unclear whether such direct lines of causality between watermelons and cholera were accurate, contemporary evidence has shown that raw fruits and vegetables can be a frequent source of cholera infection, especially if fields are fertilized with uncomposted manure, or irrigated with contaminated water. The significance of watermelons specifically, rather than other types of fruit, in terms of cholera infections was almost certainly exaggerated to serve popular narratives in America at the time, but the association was also present in other parts of the world.
 <param ve-image
 	title="Cholera Intelligence"
-	url="images/054de03b-d835-43ba-a445-3f0e1024551e.jpeg"
+	url="054de03b-d835-43ba-a445-3f0e1024551e.jpeg"
 	fit="contain"
 	attribution="The National Intelligencer. 1832, Gale Primary Sources, Nineteenth Century U.S. Newspapers">
 <param ve-image
 	title="Carried the cholera"
-	url="images/watermelon-poem.jpeg"
+	url="watermelon-poem.jpeg"
 	fit="contain"
 	attribution="The Macon Telegraph. 1884, The Milwaukee Daily Sentinel, Aug. 19, p. 4, Gale Primary Sources, Nineteenth Century U.S. Newspapers">
 {#paragraph13}
@@ -327,8 +327,8 @@ As we have seen throughout this essay, the watermelon has undergone significant 
 
 [^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3NDUxMDYzLC01Mzc4MzI2NDAsLTE2OD
-k4OTIwMSwtNzY0NDk5NjMxLDEwNDU0NTM2NTksNjg2NTY3NTEs
-MTQwNTk1NjkzMywtMTcyNjg2MDA5MSwtMTQyNjE1NzA2MSwtMj
-A4NTg2MzUxMSwtNDc0NTIxOTU5XX0=
+eyJoaXN0b3J5IjpbLTk0NTIwNTY4OSwtNTM3ODMyNjQwLC0xNj
+g5ODkyMDEsLTc2NDQ5OTYzMSwxMDQ1NDUzNjU5LDY4NjU2NzUx
+LDE0MDU5NTY5MzMsLTE3MjY4NjAwOTEsLTE0MjYxNTcwNjEsLT
+IwODU4NjM1MTEsLTQ3NDUyMTk1OV19
 -->
