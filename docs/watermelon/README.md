@@ -162,7 +162,7 @@ In the seventeenth to nineteenth centuries, the watermelon became a common minor
 	attribution="Wikimedia Commons">
 {#paragraph8}
 
-Diverse types of watermelon are also represented in styles commonly associated with European botanical specimens with the fruits sitting in isolation, such as in Maria Sybilla Merian’s [_Metamorphosis insectorum Surinamesium_](https://www.doaks.org/resources/online-exhibits/maria-sibylla-merian/dissertatio-de-generatione-et-metamorphosibus-insectorum-surinamensium) and the nineteenth-century illustration shown to the right. This latter painting is taken from an [album of Asian fruits](https://www.doaks.org/resources/rare-books/album-of-chinese-watercolors-of-asian-fruits/) held by Dumbarton Oaks, likely executed by a Chinese artist working in Malaysia or Sumatra. In it, different stages in the growth of the flower and the fruit are shown alongside the seeds and a vivid cross-section, again echoing the whorls of earlier dSepictions. The bright and appealingly visual nature of the modern watermelon left it uniquely open to enrolment into the racist visual tropes of nineteenth-century America. 
+Diverse types of watermelon are also represented in styles commonly associated with European botanical specimens with the fruits sitting in isolation, such as in Maria Sybilla Merian’s [_Metamorphosis insectorum Surinamesium_](https://www.doaks.org/resources/online-exhibits/maria-sibylla-merian/dissertatio-de-generatione-et-metamorphosibus-insectorum-surinamensium) and the nineteenth-century illustration shown to the right. This latter painting is taken from an [album of Asian fruits](https://www.doaks.org/resources/rare-books/album-of-chinese-watercolors-of-asian-fruits/) held by Dumbarton Oaks, likely executed by a Chinese artist working in Malaysia or Sumatra. In it, different stages in the growth of the flower and the fruit are shown alongside the seeds and a vivid cross-section, again echoing the whorls of earlier depictions. The bright and appealingly visual nature of the modern watermelon left it uniquely open to enrolment into the racist visual tropes of nineteenth-century America. 
 <param ve-image
 	title="‘Melon d’Eau,’ Metamorphosis, Maria Sybilla Merian (1719)"
 	manifest="https://iiif.lib.harvard.edu/manifests/drs:481769537"
@@ -327,9 +327,9 @@ As we have seen throughout this essay, the watermelon has undergone significant 
 
 [^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjkxNjgzNDUsMjAzMTc4ODY4OCwxNz
-A0Mjc0MjMyLC05NDUyMDU2ODksLTUzNzgzMjY0MCwtMTY4OTg5
-MjAxLC03NjQ0OTk2MzEsMTA0NTQ1MzY1OSw2ODY1Njc1MSwxND
-A1OTU2OTMzLC0xNzI2ODYwMDkxLC0xNDI2MTU3MDYxLC0yMDg1
-ODYzNTExLC00NzQ1MjE5NTldfQ==
+eyJoaXN0b3J5IjpbLTk0Nzk5OTM3MiwyMDMxNzg4Njg4LDE3MD
+QyNzQyMzIsLTk0NTIwNTY4OSwtNTM3ODMyNjQwLC0xNjg5ODky
+MDEsLTc2NDQ5OTYzMSwxMDQ1NDUzNjU5LDY4NjU2NzUxLDE0MD
+U5NTY5MzMsLTE3MjY4NjAwOTEsLTE0MjYxNTcwNjEsLTIwODU4
+NjM1MTEsLTQ3NDUyMTk1OV19
 -->
