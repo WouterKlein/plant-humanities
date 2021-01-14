@@ -110,11 +110,11 @@ In 1799, as he stopped in Tenerife before his voyage to the Americas that would 
 <param title="Tenerife" eid="Q40846">
 <param ve-image
 	title="Marchais, ‘Le dragonier de l’Orotava,’ in: Alexander von Humboldt, _Vue des cordillères et monumens des peuples indigènes de l’Amerique_, (Paris: 1810), 156."
-	url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/Dracaena:Humboldt.jpg"
+	url="Dracaena_Humboldt.jpg"
 	region="866,1834,2130,1509">
 <param ve-image
 	title="_Jardines y casa de Franchy_, engraving by Simón Cattoir y C. de Freudenberg (c. 1770)."
-	url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/DON%20JUAN%20FRANCISCO%20DE%20FRANCHI%20ALFARO.jpg"
+	url="DON-JUAN-FRANCISCO-DE-FRANCHI-ALFARO.jpg"
 	region="1,26,1325,966">
 {#paragraph9}
 
@@ -124,7 +124,7 @@ Humboldt was not the only naturalist of his time attracted to the remarkable cen
 <param title="Anthropocene" eid="Q26841">
 <param ve-image static
 	title="A _Dracaena draco_ on a mountainside overlooking a twenty-first century industrial agriculture compound near Cenbio de Valerón, Gran Canaria, Spain. Photo taken by Thomas C. Anderson, July 2019."
-	url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/clone stamp craze.jpg">
+	url="clone-stamp-craze.jpg">
 {#paragraph10}
 
 As Ledru remarked in his 1810 [_Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco_](https://archive.org/details/voyageauxlesdet00sonngoog/page/n5/mode/2up), which drew on observations he made during his trip to the Isles of Fortune some fourteen years earlier: “In days gone by, the resin that one extracts from the dragon tree was an important object of commerce for Teneriffe; but since the locals have neglected to replace the old trees that were worn out by too-frequent tapping (of the resin) with young plantations, this source will soon be exhausted. There exist perhaps less than fifty dragon trees left on the island.”[^ref13] This gradual, yet persistent, degradation of the _D. draco_ population was not solely due to Guanche overcultivation, either, as Spanish colonizers inflicted profound ecological changes upon the islands when they razed and destroyed large swaths of forests during their conquest and settlement of the Canaries three centuries earlier.[^ref14] Modern ecologists attribute the dragon tree’s decline to the disappearance of seed dispersers in the Canary Islands over the _longue durée_, potentially refuting Ledru’s assertion that _D. draco_’s deterioration was due to irresponsible Guanche farming practices.[^ref15]
@@ -205,11 +205,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MDk3ODU5MCwxMjI4NDEzOTIwLC05NT
-U4MjEzNTMsLTE3MTg4OTU4MDIsMzUwNjczNzUsNzA4NTIxMDY4
-LDcwODUyMTA2OCw3MDg1MjEwNjgsNzYwMjg5MTYxLC0xMDg5Nz
-MzMzEyLC0yMDcyNzA2MzA0LDI4ODYxNjUxMiwxNTQwMDM3NDIw
-LC0xMDU5ODYzMjcxLDE3OTczMjAwNDcsMTcwMDUxOTg5MSw3Mj
-A0NTY2ODksLTE0OTgwNTU0NTUsMTk0NTgzOTYwMCwtMTczNDI1
-NTgyXX0=
+eyJoaXN0b3J5IjpbMTEwMDE2NTI0MSwtNjkwOTc4NTkwLDEyMj
+g0MTM5MjAsLTk1NTgyMTM1MywtMTcxODg5NTgwMiwzNTA2NzM3
+NSw3MDg1MjEwNjgsNzA4NTIxMDY4LDcwODUyMTA2OCw3NjAyOD
+kxNjEsLTEwODk3MzMzMTIsLTIwNzI3MDYzMDQsMjg4NjE2NTEy
+LDE1NDAwMzc0MjAsLTEwNTk4NjMyNzEsMTc5NzMyMDA0NywxNz
+AwNTE5ODkxLDcyMDQ1NjY4OSwtMTQ5ODA1NTQ1NSwxOTQ1ODM5
+NjAwXX0=
 -->
