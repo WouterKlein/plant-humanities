@@ -171,8 +171,8 @@ Diverse types of watermelon are also represented in styles commonly associated w
 	attribution="Dumbarton Oaks">
 <param ve-image
 	title="Watercolours of fruits from Asia, early 19th century. South East Asia. Dumbarton Oaks collection."
-	url="https://www.doaks.org/resources/rare-books/album-of-chinese-watercolors-of-asian-fruits/013717125-album-pl-0015.jpg/@@images/image/zoom"
-	fit="contain"
+	manifest="https://iiif.lib.harvard.edu/manifests/view/drs:426038375$"
+	region="74,39,926,676"
 	attribution="Dumbarton Oaks">
 {#paragraph9}
 
@@ -327,9 +327,9 @@ As we have seen throughout this essay, the watermelon has undergone significant 
 
 [^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg0MjU0NTY4LC05NDc5OTkzNzIsMjAzMT
-c4ODY4OCwxNzA0Mjc0MjMyLC05NDUyMDU2ODksLTUzNzgzMjY0
-MCwtMTY4OTg5MjAxLC03NjQ0OTk2MzEsMTA0NTQ1MzY1OSw2OD
-Y1Njc1MSwxNDA1OTU2OTMzLC0xNzI2ODYwMDkxLC0xNDI2MTU3
-MDYxLC0yMDg1ODYzNTExLC00NzQ1MjE5NTldfQ==
+eyJoaXN0b3J5IjpbMTIxODQ2ODYyOSwtOTQ3OTk5MzcyLDIwMz
+E3ODg2ODgsMTcwNDI3NDIzMiwtOTQ1MjA1Njg5LC01Mzc4MzI2
+NDAsLTE2ODk4OTIwMSwtNzY0NDk5NjMxLDEwNDU0NTM2NTksNj
+g2NTY3NTEsMTQwNTk1NjkzMywtMTcyNjg2MDA5MSwtMTQyNjE1
+NzA2MSwtMjA4NTg2MzUxMSwtNDc0NTIxOTU5XX0=
 -->
