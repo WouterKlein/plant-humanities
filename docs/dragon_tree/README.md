@@ -131,7 +131,7 @@ As Ledru remarked in his 1810 [_Voyages aux îles de Ténériffe, la Trinité, S
 <param title="Isles of Fortune" eid="Q19211357" aliases="Isles of Fortune" article="Isles_of_Fortune"> 
 <param ve-image static
 	title="A small outcrop of _Dracaena draco_ trees at the oldest botanical garden on the Canary Islands, the Jardin Botanico Canario Viera y Clavijo in Gran Canaria, Spain. Photo taken by Thomas C. Anderson, July 2019."
-	url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/IMG_9319.jpg">
+	url="IMG_9319.jpg">
 {#paragraph11}
 
 But even in the face of this acute anthropogenic pressure, the great dragon tree at Orotava persisted. Struck by the tree’s size, age, and enduring spirit, Ledru remarks on how even the most environmentally malicious conquistadors respected this dragon tree. Perhaps, then, to Humboldt’s delight, Ledru estimated that this special tree would easily live another one-hundred-fifty to two-hundred years.[^ref16]
@@ -205,7 +205,7 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMDE2NTI0MSwtNjkwOTc4NTkwLDEyMj
+eyJoaXN0b3J5IjpbMTkyNjM1OTkwOSwtNjkwOTc4NTkwLDEyMj
 g0MTM5MjAsLTk1NTgyMTM1MywtMTcxODg5NTgwMiwzNTA2NzM3
 NSw3MDg1MjEwNjgsNzA4NTIxMDY4LDcwODUyMTA2OCw3NjAyOD
 kxNjEsLTEwODk3MzMzMTIsLTIwNzI3MDYzMDQsMjg4NjE2NTEy
