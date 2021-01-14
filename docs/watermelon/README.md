@@ -166,7 +166,7 @@ Diverse types of watermelon are also represented in styles commonly associated w
 <param ve-image
 	title="‘Melon d’Eau,’ Metamorphosis, Maria Sybilla Merian (1719)"
 	manifest="https://iiif.lib.harvard.edu/manifests/drs:481769537"
-	seq="38"
+	seq="37"
 	fit="contain"
 	attribution="Dumbarton Oaks">
 <param ve-image
@@ -327,7 +327,7 @@ As we have seen throughout this essay, the watermelon has undergone significant 
 
 [^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDkwMDIxMDYsMjAzMTc4ODY4OCwxNz
+eyJoaXN0b3J5IjpbLTEzNjkxNjgzNDUsMjAzMTc4ODY4OCwxNz
 A0Mjc0MjMyLC05NDUyMDU2ODksLTUzNzgzMjY0MCwtMTY4OTg5
 MjAxLC03NjQ0OTk2MzEsMTA0NTQ1MzY1OSw2ODY1Njc1MSwxND
 A1OTU2OTMzLC0xNzI2ODYwMDkxLC0xNDI2MTU3MDYxLC0yMDg1
