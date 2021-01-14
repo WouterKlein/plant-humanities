@@ -167,7 +167,7 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref3]: J. Francisco-Ortega et al., “Early Cultivation of Macaronesian Plants in Three European Gardens”, _Revista de la Academia Canaria de Ciencias_ 23, no. 3 (April 2012), 113-143.
 
-[^ref4]: Pierre Bontier, Jean le Verrier, and Richard Henry Major (trans.), _The Canarian: or, Book of the Conquest and Conversion of the Canarians in the year 1402 by Messire Jean de Béthencourt, Kt_, (London: The Hakluyt Society, 1872), 70-71. [Click here for full book](https://archive.org/details/canarianorbookof00bont_0/page/n7/mode/2up). On D. draco’s wider significance within Guanche culture, see: Mark Milburn, “Dragon’s Blood in East and West Africa, Arabia and the Canary Islands,” _Africa: Rivista trimestrale di studi e documentazione dell’Istituto italiano per l’Africa e l’Oriente_ 39, no. 3 (1984), 489-90.
+[^ref4]: Pierre Bontier, Jean le Verrier, and Richard Henry Major (trans.), _The Canarian: or, Book of the Conquest and Conversion of the Canarians in the year 1402 by Messire Jean de Béthencourt, Kt_, (London: The Hakluyt Society, 1872), 70-71. [Click here for full book](https://archive.org/details/canarianorbookof00bont_0/page/n7/mode/2up). On _D. draco_’s wider significance within Guanche culture, see: Mark Milburn, “Dragon’s Blood in East and West Africa, Arabia and the Canary Islands,” _Africa: Rivista trimestrale di studi e documentazione dell’Istituto italiano per l’Africa e l’Oriente_ 39, no. 3 (1984), 489-90.
 
 [^ref5]: Colin Walker, “A tale of dragons – the pachycaul species of Dracaena,” _British Cactus & Succulent Journal_ 17, no. 4 (December, 1999), 171-177; Jane Pearson and Hew D.V. Prendergast, “_Daemonorops_, _Dracaena_ and Other Dragon’s Blood,” _Economic Botany_ 55, no. 4 (October-December 2001), 474-477, [https://doi.org/10.1007/BF02871711](https://doi.org/10.1007/BF02871711)
 
@@ -205,11 +205,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3MTA3MTQxLDE5MjYzNTk5MDksLTY5MD
-k3ODU5MCwxMjI4NDEzOTIwLC05NTU4MjEzNTMsLTE3MTg4OTU4
-MDIsMzUwNjczNzUsNzA4NTIxMDY4LDcwODUyMTA2OCw3MDg1Mj
-EwNjgsNzYwMjg5MTYxLC0xMDg5NzMzMzEyLC0yMDcyNzA2MzA0
-LDI4ODYxNjUxMiwxNTQwMDM3NDIwLC0xMDU5ODYzMjcxLDE3OT
-czMjAwNDcsMTcwMDUxOTg5MSw3MjA0NTY2ODksLTE0OTgwNTU0
-NTVdfQ==
+eyJoaXN0b3J5IjpbMjAwNzQyOTkzOSwxOTI2MzU5OTA5LC02OT
+A5Nzg1OTAsMTIyODQxMzkyMCwtOTU1ODIxMzUzLC0xNzE4ODk1
+ODAyLDM1MDY3Mzc1LDcwODUyMTA2OCw3MDg1MjEwNjgsNzA4NT
+IxMDY4LDc2MDI4OTE2MSwtMTA4OTczMzMxMiwtMjA3MjcwNjMw
+NCwyODg2MTY1MTIsMTU0MDAzNzQyMCwtMTA1OTg2MzI3MSwxNz
+k3MzIwMDQ3LDE3MDA1MTk4OTEsNzIwNDU2Njg5LC0xNDk4MDU1
+NDU1XX0=
 -->
