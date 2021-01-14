@@ -130,7 +130,7 @@ Moorish conquerors of Spain left agricultural evidence of the watermelon, mostly
 	attribution="Bibliothèque Nationale de France">
 <param ve-image
 	title="Watermelon in the Carrara Herbal"
-	url="https://github.com/JSTOR-Labs/plant-humanities/blob/master/images/Watermelon_carrara_herbal.jpg"
+	url="https://upload.wikimedia.org/wikipedia/commons/6/6e/Carrara_Herbal21.jpg"
 	fit="cover"
 	attribution="British Library. Egerton MS 2020">
 <param ve-image
@@ -326,8 +326,8 @@ As we have seen throughout this essay, the watermelon has undergone significant 
 
 [^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODk4OTIwMSwtNzY0NDk5NjMxLDEwND
-U0NTM2NTksNjg2NTY3NTEsMTQwNTk1NjkzMywtMTcyNjg2MDA5
-MSwtMTQyNjE1NzA2MSwtMjA4NTg2MzUxMSwtNDc0NTIxOTU5XX
-0=
+eyJoaXN0b3J5IjpbLTUzNzgzMjY0MCwtMTY4OTg5MjAxLC03Nj
+Q0OTk2MzEsMTA0NTQ1MzY1OSw2ODY1Njc1MSwxNDA1OTU2OTMz
+LC0xNzI2ODYwMDkxLC0xNDI2MTU3MDYxLC0yMDg1ODYzNTExLC
+00NzQ1MjE5NTldfQ==
 -->
