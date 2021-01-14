@@ -73,7 +73,7 @@ Species in the genus _Citrullus_ characteristically grow on vines with pinnatifi
 	zoom="3.5">
 <param ve-map-layer
 	title="Distribution"
-	url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/geojson/watermelon_distribution.json"
+	url="watermelon_distribution.json"
 	geojson active>
 {#paragraph3}
 
@@ -103,7 +103,7 @@ By the ninth and twelfth centuries CE respectively, watermelons had arrived in I
 	zoom="3">
 <param ve-map-layer
 	title="Distribution"
-	url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/geojson/watermelon_distribution.json"
+	url="watermelon_distribution.json"
 	geojson active>
 <param ve-image
 	title="‘Satsubari, the Second of the Sixteen Arhats.’ Japan. Early 14th century."
@@ -186,7 +186,7 @@ Watermelons were brought to the Americas in the sixteenth century, introduced by
 	zoom="">
 <param ve-map-layer
 	title="Distribution"
-	url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/geojson/watermelon_distribution.json"
+	url="watermelon_distribution.json"
 	geojson active>
 <param ve-image
 	title="African-Americans dancing around a pile of watermelons"
@@ -327,8 +327,8 @@ As we have seen throughout this essay, the watermelon has undergone significant 
 
 [^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTIwNTY4OSwtNTM3ODMyNjQwLC0xNj
-g5ODkyMDEsLTc2NDQ5OTYzMSwxMDQ1NDUzNjU5LDY4NjU2NzUx
-LDE0MDU5NTY5MzMsLTE3MjY4NjAwOTEsLTE0MjYxNTcwNjEsLT
-IwODU4NjM1MTEsLTQ3NDUyMTk1OV19
+eyJoaXN0b3J5IjpbMTcwNDI3NDIzMiwtOTQ1MjA1Njg5LC01Mz
+c4MzI2NDAsLTE2ODk4OTIwMSwtNzY0NDk5NjMxLDEwNDU0NTM2
+NTksNjg2NTY3NTEsMTQwNTk1NjkzMywtMTcyNjg2MDA5MSwtMT
+QyNjE1NzA2MSwtMjA4NTg2MzUxMSwtNDc0NTIxOTU5XX0=
 -->
