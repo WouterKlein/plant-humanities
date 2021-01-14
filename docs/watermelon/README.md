@@ -37,8 +37,9 @@
 
 ### Watermelon, the food of angels
 
-Mark Twain once said that watermelon “is the chief of this world’s luxuries, king by the grace of God over all the fruits of the earth. When one has tasted it, he knows what the angels eat.”[^ref1] Though today “watermelon” calls to mind a sturdy melon with refreshing, sweet, red flesh, for most of its millennia-long history as a cultivated crop it was known as a pale, hard, sometimes bitter fruit with relatively tender rind. Not until the sixth century CE were watermelons associated with sweet fruits like figs and grapes, and it was not until well into the 1400s that the uniformly red, thick-rinded watermelons that we recognize today began to appear. Throughout its history, the watermelon has been associated with medicine, vitality, racism, and disease, revealing a darker side to the sweet summer fruit that we know and love. 
-<param ve-vis-network file="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/graphs/watermelon.csv">
+Mark Twain once said that watermelon “is the chief of this world’s luxuries, king by the grace of God over all the fruits of the earth. When one has tasted it, he knows what the angels eat.”[^ref1] Though today ‘watermelon’ calls to mind a sturdy melon with refreshing, sweet, red flesh, for most of its millennia-long history as a cultivated crop it was known as a pale, hard, sometimes bitter fruit with relatively tender rind. Not until the sixth century CE were watermelons associated with sweet fruits like figs and grapes, and it was not until well into the 1400s that the uniformly red, thick-rinded watermelons that we recognize today began to appear. Throughout its history, the watermelon has been associated with medicine, vitality, racism, and disease, revealing a darker side to the sweet summer fruit that we know and love. 
+<param ve-vis-network
+	file="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/graphs/watermelon.csv">
 <param ve-image
 title="Watermelon" url="https://upload.wikimedia.org/wikipedia/commons/4/4d/Bulgarian_watermelon.JPG"
 	fit="cover"
@@ -322,7 +323,7 @@ As we have seen throughout this essay, the watermelon has undergone significant 
 
 [^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg2NTY3NTEsMTQwNTk1NjkzMywtMTcyNj
-g2MDA5MSwtMTQyNjE1NzA2MSwtMjA4NTg2MzUxMSwtNDc0NTIx
-OTU5XX0=
+eyJoaXN0b3J5IjpbMTA0NTQ1MzY1OSw2ODY1Njc1MSwxNDA1OT
+U2OTMzLC0xNzI2ODYwMDkxLC0xNDI2MTU3MDYxLC0yMDg1ODYz
+NTExLC00NzQ1MjE5NTldfQ==
 -->
