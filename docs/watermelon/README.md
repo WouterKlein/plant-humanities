@@ -164,7 +164,7 @@ In the seventeenth to nineteenth centuries, the watermelon became a common minor
 
 Diverse types of watermelon are also represented in styles commonly associated with European botanical specimens with the fruits sitting in isolation, such as in Maria Sybilla Merian’s [_Metamorphosis insectorum Surinamesium_](https://www.doaks.org/resources/online-exhibits/maria-sibylla-merian/dissertatio-de-generatione-et-metamorphosibus-insectorum-surinamensium) and the nineteenth-century illustration shown to the right. This latter painting is taken from an [album of Asian fruits](https://www.doaks.org/resources/rare-books/album-of-chinese-watercolors-of-asian-fruits/) held by Dumbarton Oaks, likely executed by a Chinese artist working in Malaysia or Sumatra. In it, different stages in the growth of the flower and the fruit are shown alongside the seeds and a vivid cross-section, again echoing the whorls of earlier dSepictions. The bright and appealingly visual nature of the modern watermelon left it uniquely open to enrolment into the racist visual tropes of nineteenth-century America. 
 <param ve-image
-title="‘Melon d’Eau,’ Metamorphosis, Maria Sybilla Merian (1719)"
+	title="‘Melon d’Eau,’ Metamorphosis, Maria Sybilla Merian (1719)"
 	url=""
 	fit="contain"
 	attribution="Dumbarton Oaks">
@@ -184,9 +184,9 @@ Watermelons were brought to the Americas in the sixteenth century, introduced by
 	center="27.6648, -81.5158"
 	zoom="">
 <param ve-map-layer
-	geojson active
 	title="Distribution"
-	url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/geojson/watermelon_distribution.json">
+	url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/geojson/watermelon_distribution.json"
+	geojson active>
 <param ve-image
 	title="African-Americans dancing around a pile of watermelons"
 	url="https://upload.wikimedia.org/wikipedia/commons/3/35/African_Americans_dancing_around_a_pile_of_watermelons_%28cropped%29.jpg"
@@ -325,8 +325,8 @@ As we have seen throughout this essay, the watermelon has undergone significant 
 
 [^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY0Njc2NTE1LC03NjQ0OTk2MzEsMTA0NT
-Q1MzY1OSw2ODY1Njc1MSwxNDA1OTU2OTMzLC0xNzI2ODYwMDkx
-LC0xNDI2MTU3MDYxLC0yMDg1ODYzNTExLC00NzQ1MjE5NTldfQ
-==
+eyJoaXN0b3J5IjpbMTU2NzgxNDIxNywtNzY0NDk5NjMxLDEwND
+U0NTM2NTksNjg2NTY3NTEsMTQwNTk1NjkzMywtMTcyNjg2MDA5
+MSwtMTQyNjE1NzA2MSwtMjA4NTg2MzUxMSwtNDc0NTIxOTU5XX
+0=
 -->
