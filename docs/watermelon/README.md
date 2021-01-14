@@ -41,7 +41,8 @@ Mark Twain once said that watermelon “is the chief of this world’s luxuries,
 <param ve-vis-network
 	file="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/graphs/watermelon.csv">
 <param ve-image
-title="Watermelon" url="https://upload.wikimedia.org/wikipedia/commons/4/4d/Bulgarian_watermelon.JPG"
+	title="Watermelon"
+	url="https://upload.wikimedia.org/wikipedia/commons/4/4d/Bulgarian_watermelon.JPG"
 	fit="cover"
 	attribution="Wikimedia Commons">
 {#paragraph1}
@@ -71,8 +72,9 @@ Species in the genus _Citrullus_ characteristically grow on vines with pinnatifi
 	center="34.5531, 18.0480"
 	zoom="3.5">
 <param ve-map-layer
-	geojson active
-	url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/geojson/watermelon_distribution.json" title="Distribution">
+	title="Distribution"
+	url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/geojson/watermelon_distribution.json"
+	geojson active>
 {#paragraph3}
 
 In the arid savanna regions of Africa, watermelons were welcomed as sources of water, the flesh generally being cooked or beaten to a pulp to extract the water. In southern Africa’s Kalahari Desert, for example, the multiple uses of the flesh, rind, and seeds in their fresh, cooked, and dried forms helped some groups to remain sedentary and hydrated throughout the wet and dry seasons.[^ref7] As they became domesticated, watermelons were bred to yield softer and sweeter flesh, excluding traits like the mucilaginous egusi seeds or the hard, bitter flesh of the citron melon, although western and southern African cuisines still make use of these elements today.[^ref8] 
@@ -323,7 +325,7 @@ As we have seen throughout this essay, the watermelon has undergone significant 
 
 [^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NTQ1MzY1OSw2ODY1Njc1MSwxNDA1OT
-U2OTMzLC0xNzI2ODYwMDkxLC0xNDI2MTU3MDYxLC0yMDg1ODYz
-NTExLC00NzQ1MjE5NTldfQ==
+eyJoaXN0b3J5IjpbLTc2NDQ5OTYzMSwxMDQ1NDUzNjU5LDY4Nj
+U2NzUxLDE0MDU5NTY5MzMsLTE3MjY4NjAwOTEsLTE0MjYxNTcw
+NjEsLTIwODU4NjM1MTEsLTQ3NDUyMTk1OV19
 -->
