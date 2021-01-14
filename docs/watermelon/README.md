@@ -165,7 +165,8 @@ In the seventeenth to nineteenth centuries, the watermelon became a common minor
 Diverse types of watermelon are also represented in styles commonly associated with European botanical specimens with the fruits sitting in isolation, such as in Maria Sybilla Merian’s [_Metamorphosis insectorum Surinamesium_](https://www.doaks.org/resources/online-exhibits/maria-sibylla-merian/dissertatio-de-generatione-et-metamorphosibus-insectorum-surinamensium) and the nineteenth-century illustration shown to the right. This latter painting is taken from an [album of Asian fruits](https://www.doaks.org/resources/rare-books/album-of-chinese-watercolors-of-asian-fruits/) held by Dumbarton Oaks, likely executed by a Chinese artist working in Malaysia or Sumatra. In it, different stages in the growth of the flower and the fruit are shown alongside the seeds and a vivid cross-section, again echoing the whorls of earlier dSepictions. The bright and appealingly visual nature of the modern watermelon left it uniquely open to enrolment into the racist visual tropes of nineteenth-century America. 
 <param ve-image
 	title="‘Melon d’Eau,’ Metamorphosis, Maria Sybilla Merian (1719)"
-	url=""
+	manifest="https://iiif.lib.harvard.edu/manifests/drs:481769537$38i"
+	seq="50"
 	fit="contain"
 	attribution="Dumbarton Oaks">
 <param ve-image
@@ -326,8 +327,8 @@ As we have seen throughout this essay, the watermelon has undergone significant 
 
 [^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzgzMjY0MCwtMTY4OTg5MjAxLC03Nj
-Q0OTk2MzEsMTA0NTQ1MzY1OSw2ODY1Njc1MSwxNDA1OTU2OTMz
-LC0xNzI2ODYwMDkxLC0xNDI2MTU3MDYxLC0yMDg1ODYzNTExLC
-00NzQ1MjE5NTldfQ==
+eyJoaXN0b3J5IjpbMzg3NDUxMDYzLC01Mzc4MzI2NDAsLTE2OD
+k4OTIwMSwtNzY0NDk5NjMxLDEwNDU0NTM2NTksNjg2NTY3NTEs
+MTQwNTk1NjkzMywtMTcyNjg2MDA5MSwtMTQyNjE1NzA2MSwtMj
+A4NTg2MzUxMSwtNDc0NTIxOTU5XX0=
 -->
