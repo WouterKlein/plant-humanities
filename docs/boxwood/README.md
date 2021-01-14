@@ -199,7 +199,7 @@ Mollet’s planting and stylistic innovations gained the fullest expression in t
 	region="42,362,2798,3776">
 <param ve-image
 	title="Imperial garden of the Old Summer Palace in Beijing. Unknown artist, after Yilantai, c. 1783-1786."
-	url="https://raw.githubusercontent.com/WouterKlein/boxwoodtest/master/images/Old-Summer-Palace_Beijing_British-Museum.jpg">
+	url="Old-Summer-Palace_Beijing_British-Museum.jpg">
 {#paragraph11}
 
 Closely connected with these expatriate circles was British landscape architect Cecil Pinsent, another contemporary of Farrand’s, who extensively used boxwood in his landscaping projects. Most famous among his gardens was the Villa I Tatti in Settignano, Italy, designed for the American art historian and connoisseur Bernard Berenson. Another celebrated work was the lower terrace of the fifteenth-century Villa Medici in Fiesole that Pinsent furnished with a “carpet of box parterre,” regarded by landscape historian Geoffrey Jellicoe as fully integral to the historic character of the property.[^ref29] Popularized by postcards and book illustrations, Pinsent’s design became an iconic image of the Italian Renaissance garden, with its boxwood geometry—purposely projected into the Medicean age—serving as a visible bridge between distant antiquity and a more recent but equally glorious past.
@@ -216,13 +216,13 @@ Closely connected with these expatriate circles was British landscape architect 
 Deeply invested with cultural symbolism, boxwood represents the rich legacy of the formal gardens of Europe characterized by geometric layout, controlling vistas, and ambitious scale. Characterized by climate resistance and malleability, it has served not merely as plant material, but a key medium of stylistic expression across the globe, reflecting a horticultural tradition with origins in antiquity. The story of boxwood is that of a humble yet resilient plant, which, after centuries of disparagement and neglect, succeeded in taking over the garden world. Whether or not it would be able retain this hard-earned preeminence as the most sought-after ornamental shrub, only time can tell.[^ref30]
 <param ve-image
 	title="Boxwood in the Dumbarton Oaks garden, before removal."
-	url="https://github.com/WouterKlein/plant-humanities/docs/boxwood/Boxwood-blight-in-Dumbarton-Oaks-garden_pre-removal1.jpg">
+	url="Boxwood-blight-in-Dumbarton-Oaks-garden_pre-removal1.jpg">
 <param ve-image
 	title="Boxwood blight at the Dumbarton Oaks garden."
-	url="https://github.com/WouterKlein/plant-humanities/docs/boxwood/Boxwood-blight-in-Dumbarton-Oaks-garden_pre-removal2.jpg">
+	url="Boxwood-blight-in-Dumbarton-Oaks-garden_pre-removal2.jpg">
 <param ve-image
 	title="Boxwood in the Dumbarton Oaks garden, after removal."
-	url="https://github.com/WouterKlein/plant-humanities/docs/boxwood/Boxwood-blight-in-Dumbarton-Oaks-garden_post-removal.jpg">
+	url="Boxwood-blight-in-Dumbarton-Oaks-garden_post-removal.jpg">
 {#paragraph13}
 
 ### References
@@ -288,7 +288,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^ref30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii,_ both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDA0NDQ1MywzNjQ1NTk4ODgsLTM2Nz
+eyJoaXN0b3J5IjpbMTY2MjQ2NTY1MSwzNjQ1NTk4ODgsLTM2Nz
 c5OTM2OCwxNzg2OTM0MzI2LDI2NDM4OTU0NSw0NDk4Mjk4NzQs
 LTE0MzgxMzQ4MzcsLTI2MTE0MDUyMSwyMDA1NzcwOTkyLC0yMD
 A3OTg1OTcxLC0xODQzNzcwOTk0LDk5MzU4MTA4Miw5OTM1ODEw
