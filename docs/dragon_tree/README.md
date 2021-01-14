@@ -95,7 +95,7 @@ After European colonization, and along with the integration of the Canaries into
 <param title="Botanical Garden Berlin" eid="Q163255" aliases="Botanical Garden in Berlin">
 <param ve-image
 	title="An 1859 oil painting of Alexander von Humboldt by German painter Julius Schrader (1815-1900). Julius Schrader, _Baron Alexander von Humboldt (1769-1859)_, oil on canvas, 1859."
-	url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/Humboldt.jpg"
+	url="https://upload.wikimedia.org/wikipedia/commons/c/c5/Baron_Alexander_von_Humboldt_by_Julius_Schrader_1859.jpg"
 	fit="contain">
 <param ve-image
 	title="Between 1799 and 1804, Alexander Humboldt visited the Canary Islands, Venezuela, Cuba, Peru, Ecuador, Mexico, and the United States."
@@ -205,11 +205,11 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyODQxMzkyMCwtOTU1ODIxMzUzLC0xNz
-E4ODk1ODAyLDM1MDY3Mzc1LDcwODUyMTA2OCw3MDg1MjEwNjgs
-NzA4NTIxMDY4LDc2MDI4OTE2MSwtMTA4OTczMzMxMiwtMjA3Mj
-cwNjMwNCwyODg2MTY1MTIsMTU0MDAzNzQyMCwtMTA1OTg2MzI3
-MSwxNzk3MzIwMDQ3LDE3MDA1MTk4OTEsNzIwNDU2Njg5LC0xND
-k4MDU1NDU1LDE5NDU4Mzk2MDAsLTE3MzQyNTU4MiwtNjg3NzU5
-MDc2XX0=
+eyJoaXN0b3J5IjpbLTY5MDk3ODU5MCwxMjI4NDEzOTIwLC05NT
+U4MjEzNTMsLTE3MTg4OTU4MDIsMzUwNjczNzUsNzA4NTIxMDY4
+LDcwODUyMTA2OCw3MDg1MjEwNjgsNzYwMjg5MTYxLC0xMDg5Nz
+MzMzEyLC0yMDcyNzA2MzA0LDI4ODYxNjUxMiwxNTQwMDM3NDIw
+LC0xMDU5ODYzMjcxLDE3OTczMjAwNDcsMTcwMDUxOTg5MSw3Mj
+A0NTY2ODksLTE0OTgwNTU0NTUsMTk0NTgzOTYwMCwtMTczNDI1
+NTgyXX0=
 -->
