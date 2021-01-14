@@ -102,9 +102,9 @@ By the ninth and twelfth centuries CE respectively, watermelons had arrived in I
 	center="38.9637, 35.2433"
 	zoom="3">
 <param ve-map-layer
-	geojson active 
 	title="Distribution"
-	url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/geojson/watermelon_distribution.json">
+	url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/geojson/watermelon_distribution.json"
+	geojson active>
 <param ve-image
 	title="‘Satsubari, the Second of the Sixteen Arhats.’ Japan. Early 14th century."
 	url="https://images.metmuseum.org/CRDImages/as/original/DP-12232-006.jpg"
@@ -325,8 +325,8 @@ As we have seen throughout this essay, the watermelon has undergone significant 
 
 [^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]dus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODY1ODI4NDksLTc2NDQ5OTYzMSwxMD
-Q1NDUzNjU5LDY4NjU2NzUxLDE0MDU5NTY5MzMsLTE3MjY4NjAw
-OTEsLTE0MjYxNTcwNjEsLTIwODU4NjM1MTEsLTQ3NDUyMTk1OV
-19
+eyJoaXN0b3J5IjpbMjY0Njc2NTE1LC03NjQ0OTk2MzEsMTA0NT
+Q1MzY1OSw2ODY1Njc1MSwxNDA1OTU2OTMzLC0xNzI2ODYwMDkx
+LC0xNDI2MTU3MDYxLC0yMDg1ODYzNTExLC00NzQ1MjE5NTldfQ
+==
 -->
