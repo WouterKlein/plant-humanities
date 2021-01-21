@@ -74,7 +74,7 @@ The quest for spices, cinnamon among them, was one important aim that inspired E
 	fit="contain">
 {#paragraph6}
 
-Once ‘true’ cinnamon had begun to be understood as cinnamon from Sri Lanka, European states strove to gain a foothold on the island, to get access to the cinnamon trade. From the sixteenth century onwards, local rulers bargained with the Portuguese, and later the Dutch, for a share in this trade, in exchange for political and/or military assistance against their rivals. The Portuguese made humble attempts to create a monopoly after they first arrived on Sri Lanka in 1505. They soon realized that this was impossible without getting involved in local politics on the island. Therefore, they engaged in ‘reluctant imperialism’ to get access to cinnamon: they needed a permanent presence on the island, and eventually signed an agreement with the king of Kotte in 1533 to buy large amounts of cinnamon.[^ref8]
+Once ‘true’ cinnamon had begun to be understood as cinnamon from Sri Lanka, European states strove to gain a foothold on the island, to get access to the cinnamon trade. From the sixteenth century onwards, local rulers bargained with the Portuguese, and later the Dutch, for a share in this trade, in exchange for political and military assistance against their rivals. The Portuguese made tentative attempts to create a monopoly after they first arrived on Sri Lanka in 1505. They soon realized that this was impossible without getting involved in local politics on the island. Therefore, they engaged in ‘reluctant imperialism’ to get access to cinnamon: they needed a permanent presence on the island, and eventually signed an agreement with the king of Kotte in 1533 to buy large amounts of cinnamon.[^ref8]
 <param title="Kingdom of Kotte" eid="Q1589163" aliases="Kotte">
 <param ve-map
 	title="Sri Lanka in the sixteenth century (after 1521). [Note: I have to create a ve-map tag based on a map in Wagenaar, p. 32, and a map from Wikimedia Commons (https://upload.wikimedia.org/wikipedia/commons/d/d7/Sri_Lanka_geopolitics_-_after_%22Spoiling_of_Vijayabahu%22.png).]"
@@ -84,7 +84,7 @@ Once ‘true’ cinnamon had begun to be understood as cinnamon from Sri Lanka, 
 
 ### Optimizing the monopoly
 
-The Dutch made even stronger, concerted efforts to get a hold on cinnamon. They signed a treaty with the king of Kandy in 1638, hoping this would give them a share of the cinnamon trade, which was still dominated by the Portuguese at the time. After the Portuguese were defeated in Colombo (1656) and Jaffnapatnam (1658), the Dutch controlled many coastal areas of the island, while the kingdom of Kandy ruled the island’s interior. The relation between the Dutch and the king of Kandy was strained. Cinnamon trees were scattered throughout the forests of the island, so groups of peelers who worked for the Dutch often had to cross Portuguese and, later, Kandian territory to reach the areas where the trees grew. As it was impossible for the Dutch to keep a military grip on this enormous territory, or on individual groups of peelers, there was little they could do when peelers chose, or were forced, to switch allegiance. Therefore, bribing the king of Kandy was a recurring means to leave peelers alone, in order not to interrupt the supply of cinnamon.
+The Dutch made even stronger, concerted efforts to get a monopoly on cinnamon. They signed a treaty with the king of Kandy in 1638, hoping this would give them a share of the cinnamon trade, which was still dominated by the Portuguese at the time. After the Portuguese defeats at Colombo (1656) and Jaffnapatnam (1658), the Dutch controlled many coastal areas of the island, while the kingdom of Kandy ruled the island’s interior. The relation between the Dutch and the king of Kandy was strained. Cinnamon trees were scattered throughout the island’s forests of the island, so groups of peelers who worked for the Dutch often had to cross Portuguese and, later, Kandian territory to reach the areas where the trees grew. As it was impossible for the Dutch to keep a military grip on this enormous territory, or on individual groups of peelers, there was little they could do when peelers chose, or were forced, to switch allegiance. Therefore, bribing the king of Kandy was a recurring means to leave peelers alone, in order not to interrupt the supply of cinnamon.
 <param title="Kingdom of Kandy" eid="Q1530762" aliases="Kandy">
 <param title="Colombo" eid="Q35381">
 <param title="Jaffna" eid="Q215277" aliases="Jaffnapatnam">
@@ -274,11 +274,11 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘True’ Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTQ1NjcxMCwxODg3MDIzMiwtODEwOD
-UzMywzNjI1ODE3NTIsLTIxMTQxODQxODAsLTQ5MjQ5ODY2Miwx
-NjA0MDE3MTYyLDM5NzE3NTI2MCw1NzQ5MjUxODksMTY1ODQ5OD
-E5NCw3OTc5NDM3MzUsMjI5MDc5OTE4LC0xNDk5NDUxODg0LC0x
-MTUzMTU4MDMsMTM5MTg0MTMzMCwtMjc3Nzg3NjA3LC0xNjUzMj
-g1NTA2LC0xOTgzMjQ2MjcsMTE2Nzg4Mzc3NSwtMTQyMDA3ODgz
-MV19
+eyJoaXN0b3J5IjpbLTEwODEzODg4NDksMTg4NzAyMzIsLTgxMD
+g1MzMsMzYyNTgxNzUyLC0yMTE0MTg0MTgwLC00OTI0OTg2NjIs
+MTYwNDAxNzE2MiwzOTcxNzUyNjAsNTc0OTI1MTg5LDE2NTg0OT
+gxOTQsNzk3OTQzNzM1LDIyOTA3OTkxOCwtMTQ5OTQ1MTg4NCwt
+MTE1MzE1ODAzLDEzOTE4NDEzMzAsLTI3Nzc4NzYwNywtMTY1Mz
+I4NTUwNiwtMTk4MzI0NjI3LDExNjc4ODM3NzUsLTE0MjAwNzg4
+MzFdfQ==
 -->
