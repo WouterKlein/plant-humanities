@@ -51,7 +51,7 @@ Another, much more surprising reason for the long-lasting confusion over cinnamo
 
 ### Cinnamon as a tool of empire
 
-The attraction of cinnamon – ‘true’ or other – as a means to enhance the power of state by displaying its control over exotic riches, predates the early modern period. For example, many coins from the reign of Roman emperor Trajan (r. 98-117 CE) show a personification of Arabia, who holds a bundle of cinnamon sticks. This motif can be associated with Trajan’s conquests on the eastern periphery of the Roman empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda, emphasize the relation between the authority of the empire and the conquered lands.[^ref7]
+The attraction of cinnamon – ‘true’ or other – as a means to enhance the power of state by displaying its control over exotic riches, predates the early modern period. For example, many coins from the reign of Roman emperor Trajan (r. 98-117 CE) show a personification of Arabia, who holds a bundle of cinnamon sticks. This motif can be associated with Trajan’s conquests on the eastern periphery of the Roman empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda, emphasizing the empire’s authority over the conquered lands.[^ref7]
 <param title="Trajan" eid="Q1425">
 <param title="Persian Gulf" eid="Q34675">
 <param ve-image
@@ -60,7 +60,7 @@ The attraction of cinnamon – ‘true’ or other – as a means to enhance the
 	region="1414,152,1586,1031">
 {#paragraph5}
 
-The quest for spices, cinnamon among them, was one of the most important aims that inspired Europeans of the fifteenth and sixteenth centuries to sail the oceans. With success, as many explorers claimed. Columbus brought samples of cinnamon bark with him on his first journey to the New World, to help native inhabitants guide him to cinnamon trees, which he believed should grow there. He sent samples of a kind of ‘white cinnamon’ (probably _Canella winterana_ (L.) Gaertn.) back to Spain from his second journey. Similarly, Juan Sebastián Elcano, who completed Magellan’s circumnavigation of the world after the commander himself had been killed on the Philippines, petitioned successfully to have cinnamon sticks, cloves and nutmeg depicted on his coat of arms, to commemorate his role in opening up the spice route to the East Indies.[^ref6]
+The quest for spices, cinnamon among them, was one important aim that inspired Europeans of the fifteenth and sixteenth centuries to brave the oceans. With success, as many explorers claimed. Columbus brought samples of cinnamon bark with him on his first journey to the New World, to help native inhabitants guide him to cinnamon trees, which he believed should grow there. He sent samples of a kind of ‘white cinnamon’ (probably _Canella winterana_ (L.) Gaertn.) back to Spain from his second journey. Similarly, Juan Sebastián Elcano, who completed Magellan’s circumnavigation of the world after the commander himself had been killed on the Philippines, petitioned successfully to have cinnamon sticks, cloves and nutmeg depicted on his coat of arms, to commemorate his role in opening up the spice route to the East Indies.[^ref6]
 <param title="Christopher Columbus" eid="Q7322" aliases="Columbus">
 <param title="Canella winterana" eid="Q2706419">
 <param title="Juan Sebastián Elcano" eid="Q201510">
@@ -274,11 +274,11 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘True’ Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg4NjAzNzc4LC04MTA4NTMzLDM2MjU4MT
-c1MiwtMjExNDE4NDE4MCwtNDkyNDk4NjYyLDE2MDQwMTcxNjIs
-Mzk3MTc1MjYwLDU3NDkyNTE4OSwxNjU4NDk4MTk0LDc5Nzk0Mz
-czNSwyMjkwNzk5MTgsLTE0OTk0NTE4ODQsLTExNTMxNTgwMywx
-MzkxODQxMzMwLC0yNzc3ODc2MDcsLTE2NTMyODU1MDYsLTE5OD
-MyNDYyNywxMTY3ODgzNzc1LC0xNDIwMDc4ODMxLC00OTgyNjEy
-MzRdfQ==
+eyJoaXN0b3J5IjpbMTg4NzAyMzIsLTgxMDg1MzMsMzYyNTgxNz
+UyLC0yMTE0MTg0MTgwLC00OTI0OTg2NjIsMTYwNDAxNzE2Miwz
+OTcxNzUyNjAsNTc0OTI1MTg5LDE2NTg0OTgxOTQsNzk3OTQzNz
+M1LDIyOTA3OTkxOCwtMTQ5OTQ1MTg4NCwtMTE1MzE1ODAzLDEz
+OTE4NDEzMzAsLTI3Nzc4NzYwNywtMTY1MzI4NTUwNiwtMTk4Mz
+I0NjI3LDExNjc4ODM3NzUsLTE0MjAwNzg4MzEsLTQ5ODI2MTIz
+NF19
 -->
