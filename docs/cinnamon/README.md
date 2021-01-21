@@ -84,7 +84,7 @@ Once ‘true’ cinnamon had begun to be understood as cinnamon from Sri Lanka, 
 
 ### Optimizing the monopoly
 
-The Dutch made even stronger, concerted efforts to get a monopoly on cinnamon. They signed a treaty with the king of Kandy in 1638, hoping this would give them a share of the cinnamon trade, which was still dominated by the Portuguese at the time. After the Portuguese defeats at Colombo (1656) and Jaffnapatnam (1658), the Dutch controlled many coastal areas of the island, while the kingdom of Kandy ruled the island’s interior. The relation between the Dutch and the king of Kandy was strained. Cinnamon trees were scattered throughout the island’s forests of the island, so groups of peelers who worked for the Dutch often had to cross Portuguese and, later, Kandian territory to reach the areas where the trees grew. As it was impossible for the Dutch to keep a military grip on this enormous territory, or on individual groups of peelers, there was little they could do when peelers chose, or were forced, to switch allegiance. Therefore, bribing the king of Kandy was a recurring means to leave peelers alone, in order not to interrupt the supply of cinnamon.
+The Dutch made even stronger, concerted efforts to get a monopoly on cinnamon. They signed a treaty with the king of Kandy in 1638, hoping this would give them a share of the cinnamon trade, which was still dominated by the Portuguese at the time. After the Portuguese defeats at Colombo (1656) and Jaffnapatnam (1658), the Dutch controlled many coastal areas of the island, while the kingdom of Kandy ruled the island’s interior. The relation between the Dutch and the king of Kandy was strained. Cinnamon trees were scattered throughout the island’s forests, so groups of cinnamon peelers who worked for the Dutch often had to cross Portuguese as well as Kandian territory to reach the areas where the trees grew. As it was impossible for the Dutch to keep a military grip on this enormous territory, or to control individual groups of peelers, there was little that they could do when the peelers chose, or were forced, to switch allegiance. Therefore, bribing the king of Kandy was a recurring means to make sure he left the peelers alone, in order not to interrupt the supply of cinnamon.
 <param title="Kingdom of Kandy" eid="Q1530762" aliases="Kandy">
 <param title="Colombo" eid="Q35381">
 <param title="Jaffna" eid="Q215277" aliases="Jaffnapatnam">
@@ -94,7 +94,7 @@ The Dutch made even stronger, concerted efforts to get a monopoly on cinnamon. T
 	zoom="7.4">
 {#paragraph8}
 
-Peelers were specialized laborers from the Sinhalese caste _Salagama_ (also known as _Saliya_ or _Chaliya_). Although their skills were indispensable for the cinnamon trade, they were treated harshly by the Dutch. Each year, the peelers gathered in Colombo for a ceremony where they pledged loyalty to the Dutch governor. There was a long peeling season for cinnamon between May and August, and a short season in January and February. On both occasions, groups of men were sent off into the woods with nothing but paring knives and an amount of rice. Adult men were obliged to bring back 12 _robes_ (of 56 pounds each) at the end of the summer season. Boys from 12 years of age had to contribute proportionally. Dutch sources often complained about peelers as lazy and unreliable, but the peelers had a hard life. They were away from home for months, had to provide for themselves while working in the forests, where they were subject to diseases, and they were severely punished if they did not meet their quotum.[^ref9]
+Cinnamon peelers were specialized laborers from the Sinhalese caste _Salagama_ (also known as _Saliya_ or _Chaliya_). Although their skills were indispensable for the cinnamon trade, they were treated harshly by the Dutch. Each year, the peelers gathered in Colombo for a ceremony where they pledged loyalty to the Dutch governor. There was a long peeling season for cinnamon between May and August, and a short season in January and February. On both occasions, groups of men were sent off into the woods with nothing but paring knives and an amount of rice. Adult men were obliged to bring back 12 _robes_ (of 56 pounds each) at the end of the summer season. Boys from 12 years of age had to contribute proportionally. Dutch sources often complained about peelers as lazy and unreliable, but the peelers had a hard life. They were away from home for months, had to provide for themselves while working in the forests, where they were subject to diseases, and they were severely punished if they did not meet their quotum.[^ref9]
 <param title="Sinhalese people" eid="Q932244" aliases="Sinhalese">
 <param title="Salagama" eid="Q3469487">
 <param ve-image
@@ -274,11 +274,11 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘True’ Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODEzODg4NDksMTg4NzAyMzIsLTgxMD
-g1MzMsMzYyNTgxNzUyLC0yMTE0MTg0MTgwLC00OTI0OTg2NjIs
-MTYwNDAxNzE2MiwzOTcxNzUyNjAsNTc0OTI1MTg5LDE2NTg0OT
-gxOTQsNzk3OTQzNzM1LDIyOTA3OTkxOCwtMTQ5OTQ1MTg4NCwt
-MTE1MzE1ODAzLDEzOTE4NDEzMzAsLTI3Nzc4NzYwNywtMTY1Mz
-I4NTUwNiwtMTk4MzI0NjI3LDExNjc4ODM3NzUsLTE0MjAwNzg4
-MzFdfQ==
+eyJoaXN0b3J5IjpbLTcxMTk0ODQ0MSwxODg3MDIzMiwtODEwOD
+UzMywzNjI1ODE3NTIsLTIxMTQxODQxODAsLTQ5MjQ5ODY2Miwx
+NjA0MDE3MTYyLDM5NzE3NTI2MCw1NzQ5MjUxODksMTY1ODQ5OD
+E5NCw3OTc5NDM3MzUsMjI5MDc5OTE4LC0xNDk5NDUxODg0LC0x
+MTUzMTU4MDMsMTM5MTg0MTMzMCwtMjc3Nzg3NjA3LC0xNjUzMj
+g1NTA2LC0xOTgzMjQ2MjcsMTE2Nzg4Mzc3NSwtMTQyMDA3ODgz
+MV19
 -->
