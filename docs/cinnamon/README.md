@@ -124,7 +124,7 @@ In 1760, local grievances about the VOC policy concerning _chenas_, and the trea
 	region="2226,1064,839,630">
 {#paragraph11}
 
-The success, however, was short-lived, however. When the British took over control of the Dutch territories on Sri Lanka in 1796, they failed to maintain the success of the cinnamon plantation economy. Calls for free trade and better working conditions for peelers, high export duties, and competition of cheaper _cassia_ cinnamon from Java finally led to reforms in 1833. But the measures came too late and were counterproductive: Britain sold many plantations to private owners, who switched to coffee and tea production, thus ending the success of cinnamon production for years to come.[^ref13]
+The success, however, was short-lived. When the British took control over the Dutch territories on Sri Lanka in 1796, they failed to maintain the successful cinnamon plantation economy. Calls for free trade and better working conditions for the peelers, high export duties, and competition with cheaper _cassia_ cinnamon from Java finally led to reforms in 1833. But these measures came too late and were counterproductive: Britain sold many plantations to private owners, who switched instead to coffee and tea cultivation, thus ending the success of cinnamon production for years to come.[^ref13]
 <param ve-image
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
@@ -132,7 +132,7 @@ The success, however, was short-lived, however. When the British took over contr
 
 ### A tool of empire or a tool of science?
 
-Although cinnamon was a successful monopoly during the Dutch period, was it purely a tool of empire? Production and export were guarded as closely as possible, smuggling was prohibited, and living trees could not leave the island. The Dutch monopoly was about retaining commercial interests above anything else, but not all restrictions were commercially motivated. When the commander of the Dutch possessions on the Malabar coast, Hendrik Adriaan van Rheede tot Drakenstein, experimented with the oil of local cinnamon species as a medicine in 1675, he was reprimanded by Rijckloff van Goens, the governor of Sri Lanka, for breaking the monopoly. The colonial government in Batavia agreed, but Van Rheede justified his actions by letter and continued his work. Here, the motivation of both men was to demonstrate that the medicines from ‘their’ respective regions were superior. In such instances, interests of empire and personal rivalry intertwined.[^ref14]
+Although cinnamon was a successful monopoly during the Dutch period, was it purely a tool of empire? Production and export were guarded as closely as possible, smuggling was prohibited, and living trees could not leave the island. The Dutch monopoly was about promoting commercial interests above anything else, but not all restrictions were commercially motivated. When the administrator of the Dutch possessions on the Malabar coast, Hendrik Adriaan van Rheede tot Drakenstein, experimented with the oil of local cinnamon species as a medicine in 1675, he was reprimanded by Rijckloff van Goens, the governor of Sri Lanka, for breaking the monopoly. The colonial government in Batavia agreed, but Van Rheede justified his actions by letter and continued his work. Here, the motivation of both men was to demonstrate that the medicines from ‘their’ respective regions were superior. In such instances, interests of empire and personal rivalry intertwined.[^ref14]
 <param title="Malabar Coast" eid="Q473181">
 <param title="Hendrik van Rheede" eid="Q741104" aliases="Hendrik Adriaan van Rheede tot Drakenstein">
 <param title="Rijckloff van Goens" eid="Q1392981">
@@ -274,7 +274,7 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘True’ Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MDEzNzMxMSwxODg3MDIzMiwtODEwOD
+eyJoaXN0b3J5IjpbLTEzOTEzMzQzMywxODg3MDIzMiwtODEwOD
 UzMywzNjI1ODE3NTIsLTIxMTQxODQxODAsLTQ5MjQ5ODY2Miwx
 NjA0MDE3MTYyLDM5NzE3NTI2MCw1NzQ5MjUxODksMTY1ODQ5OD
 E5NCw3OTc5NDM3MzUsMjI5MDc5OTE4LC0xNDk5NDUxODg0LC0x
