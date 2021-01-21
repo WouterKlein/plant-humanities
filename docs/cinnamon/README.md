@@ -190,7 +190,7 @@ And Spain really needed cinnamon. One eighteenth-century report estimated that t
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 {#paragraph17}
 
-The last and most daring strategy was to transplant the ‘true’ cinnamon to Spanish territories. This was an important objective for men like Casimiro Gómez Ortega, director of the Royal Botanical Garden of Madrid between 1771 and 1801, and José Celestino Mutis, the Spanish botanist who initiated the Royal Botanical Expedition to New Granada in 1783. Gómez Ortega published an instruction in 1779, which invited naturalists across the world to contribute plants and plant knowledge for the benefit of theSpanish empire. Cinnamon was explicitly mentioned as one of the target species. Similarly, Mutis addressed the Spanish crown in the 1760s to support his plans for botanical expeditions in South America. New plant knowledge would greatly benefit the empire, and again cinnamon was explicitly mentioned.[^ref26] However, Spain never succeeded in growing ‘true’ cinnamon in South America, contrary to the French on Guadeloupe (1762) and the British on Saint Vincent (1768).[^ref27]
+The last and most daring strategy was to transplant the ‘true’ cinnamon to Spanish territories. This was an important objective for men like Casimiro Gómez Ortega, director of the Royal Botanical Garden of Madrid between 1771 and 1801, and José Celestino Mutis, the Spanish botanist who initiated the Royal Botanical Expedition to New Granada in 1783. Gómez Ortega published an instruction in 1779, which invited naturalists across the world to contribute plants and plant knowledge for the benefit of the Spanish empire. Cinnamon was explicitly mentioned as one of the target species. Similarly, Mutis addressed the Spanish crown in the 1760s to support his plans for botanical expeditions in South America. New plant knowledge would greatly benefit the empire, he argued, again explicitly mentioning cinnamon.[^ref26] However, Spain never succeeded in growing ‘true’ cinnamon in South America, unlike the French efforts on Guadeloupe (1762) and the British on Saint Vincent (1768).[^ref27]
 <param title="Casimiro Gómez Ortega" eid="Q957993">
 <param title="Real Jardín Botánico de Madrid" eid="Q1794858" aliases="Royal Botanical Garden of Madrid">
 <param title="José Celestino Mutis y Bosio" eid="Q731937" aliases="José Celestino Mutis">
@@ -202,7 +202,7 @@ The last and most daring strategy was to transplant the ‘true’ cinnamon to S
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 {#paragraph18}
 
-Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of cinnamon](http://www.worldstopexports.com/cinnamon-exporters/). But confusion still remains: _Cinnamomum verum_ J.Presl is now grown in many countries in the tropical zone, but the quality of the product differs for each region.[^ref28] Moreover, commercial statistics usually generalize all market variations under the header ‘cinnamon’, without differentiating between _Cinnamomum_ species. This issue is even more pertinent in medicine. Cinnamon has a lot of potential therapeutic applications that have been studied, but many studies fail to clarify which species of _Cinnamomum_ was/were used, making it difficult to generalize the results.[^ref29] The species epithet _verum_ may sound like an obsolete name in a globalized world, where everyone has access to cinnamon and where cinnamon is grown in many tropical areas. But it still captures the essence of what cinnamon has always been about: distinguishing between what is ‘true’ and what is not.
+Today, Sri Lanka again ranks high among [the world’s largest exporters of cinnamon](http://www.worldstopexports.com/cinnamon-exporters/). But confusion remains: while _Cinnamomum verum_ J.Presl is now grown in many countries in the tropical zone, the quality of the product differs for each region.[^ref28] Moreover, commercial statistics usually generalize all market variations under the header ‘cinnamon’, without differentiating between _Cinnamomum_ species. This issue is even more pertinent in medicine. Cinnamon has a lot of potential therapeutic applications that have been studied, but many studies fail to clarify which species of _Cinnamomum_ was/were used, making it difficult to generalize the results.[^ref29] The species epithet _verum_ may sound like an obsolete name in a globalized world, where everyone has access to cinnamon and where cinnamon is grown in many tropical areas. But it still captures the essence of what cinnamon has always been about: distinguishing between what is ‘true’ and what is not.
 <param title="cinnamon" eid="Q370239">
 <param ve-map primary
 	title="[I would like to include a map here with the current distribution of Cinnamomum verum. I have two sources for that: the data differ quite a bit, and I don’t know if I can simply extract it from the sources: https://www.cabi.org/isc/datasheet/13573 (CABI), and http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:463752-1 (Kew, Plants of the World Online)]">
@@ -274,11 +274,11 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘True’ Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQwMjgxOTAxLDE4ODcwMjMyLC04MTA4NT
-MzLDM2MjU4MTc1MiwtMjExNDE4NDE4MCwtNDkyNDk4NjYyLDE2
-MDQwMTcxNjIsMzk3MTc1MjYwLDU3NDkyNTE4OSwxNjU4NDk4MT
-k0LDc5Nzk0MzczNSwyMjkwNzk5MTgsLTE0OTk0NTE4ODQsLTEx
-NTMxNTgwMywxMzkxODQxMzMwLC0yNzc3ODc2MDcsLTE2NTMyOD
-U1MDYsLTE5ODMyNDYyNywxMTY3ODgzNzc1LC0xNDIwMDc4ODMx
-XX0=
+eyJoaXN0b3J5IjpbLTEzMjQ0MzkzODIsMTg4NzAyMzIsLTgxMD
+g1MzMsMzYyNTgxNzUyLC0yMTE0MTg0MTgwLC00OTI0OTg2NjIs
+MTYwNDAxNzE2MiwzOTcxNzUyNjAsNTc0OTI1MTg5LDE2NTg0OT
+gxOTQsNzk3OTQzNzM1LDIyOTA3OTkxOCwtMTQ5OTQ1MTg4NCwt
+MTE1MzE1ODAzLDEzOTE4NDEzMzAsLTI3Nzc4NzYwNywtMTY1Mz
+I4NTUwNiwtMTk4MzI0NjI3LDExNjc4ODM3NzUsLTE0MjAwNzg4
+MzFdfQ==
 -->
