@@ -60,7 +60,7 @@ The attraction of cinnamon – ‘true’ or other – as a means to enhance the
 	region="1414,152,1586,1031">
 {#paragraph5}
 
-The quest for spices, cinnamon among them, was one important aim that inspired Europeans of the fifteenth and sixteenth centuries to brave the oceans. Columbus, expecting to reach India, brought samples of cinnamon bark with him on his first journey to the Americas to help native inhabitants guide him to cinnamon trees, which he believed should grow there. He sent samples of a kind of ‘white cinnamon’ – probably _Canella winterana_ (L.) Gaertn. – back to Spain from his second journey. Similarly, Juan Sebastián Elcano, who completed Magellan’s circumnavigation of the world after the commander himself had been killed on the Philippines, petitioned successfully to have cinnamon sticks, cloves and nutmeg depicted on his coat of arms, to commemorate his role in opening up the spice route to the East Indies.[^ref6]
+The quest for spices, cinnamon among them, was one important aim that inspired Europeans of the fifteenth and sixteenth centuries to brave the oceans. Columbus, expecting to reach India, brought samples of cinnamon bark with him on his first journey to the Americas to help native inhabitants guide him to cinnamon trees, which he believed should grow there. He sent samples of a kind of ‘white cinnamon’ – probably _Canella winterana_ (L.) Gaertn. – back to Spain from his second journey. Similarly, Juan Sebastián Elcano, who completed Magellan’s circumnavigation of the world after his commander had been killed on the Philippines, successfully petitioned the king to have cinnamon sticks, cloves and nutmeg depicted on his coat-of-arms to commemorate his role in opening up the spice route to the East Indies.[^ref6]
 <param title="Christopher Columbus" eid="Q7322" aliases="Columbus">
 <param title="Canella winterana" eid="Q2706419">
 <param title="Juan Sebastián Elcano" eid="Q201510">
@@ -69,12 +69,12 @@ The quest for spices, cinnamon among them, was one important aim that inspired E
 <param title="Syzygium aromaticum" eid="Q26736" aliases="cloves">
 <param title="nutmeg" eid="Q83165">
 <param ve-image
-	title="Coat of arms of Juan Sebastián Elcano. At the bottom are two crossed cinnamon sticks, three nutmegs and a bunch of cloves. The banner covering the globe reads in Latin ‘Primus circumdedisti me’ (You first encircled me’)."
+	title="Coat-of-arms of Juan Sebastián Elcano. At the bottom are two crossed cinnamon sticks, three nutmegs and a bunch of cloves. The banner covering the globe reads in Latin ‘Primus circumdedisti me’ (You first encircled me’)."
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg/585px-Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg.png"
 	fit="contain">
 {#paragraph6}
 
-Once ‘true’ cinnamon had begun to be understood as cinnamon from Sri Lanka, European states strove to gain a foothold on the island, to get access to the cinnamon trade. From the sixteenth century onwards, local rulers bargained with the Portuguese, and later the Dutch, for a share in the cinnamon trade, in exchange for political and/or military assistance against their rivals. The Portuguese made humble attempts to create a monopoly after they first arrived on Sri Lanka in 1505. They soon realized that this was impossible without getting involved in local politics on the island. Therefore, they engaged in ‘reluctant imperialism’ to get access to cinnamon: they needed a permanent presence on the island, and eventually signed an agreement with the king of Kotte in 1533 to buy large amounts of cinnamon.[^ref8]
+Once ‘true’ cinnamon had begun to be understood as cinnamon from Sri Lanka, European states strove to gain a foothold on the island, to get access to the cinnamon trade. From the sixteenth century onwards, local rulers bargained with the Portuguese, and later the Dutch, for a share in this trade, in exchange for political and/or military assistance against their rivals. The Portuguese made humble attempts to create a monopoly after they first arrived on Sri Lanka in 1505. They soon realized that this was impossible without getting involved in local politics on the island. Therefore, they engaged in ‘reluctant imperialism’ to get access to cinnamon: they needed a permanent presence on the island, and eventually signed an agreement with the king of Kotte in 1533 to buy large amounts of cinnamon.[^ref8]
 <param title="Kingdom of Kotte" eid="Q1589163" aliases="Kotte">
 <param ve-map
 	title="Sri Lanka in the sixteenth century (after 1521). [Note: I have to create a ve-map tag based on a map in Wagenaar, p. 32, and a map from Wikimedia Commons (https://upload.wikimedia.org/wikipedia/commons/d/d7/Sri_Lanka_geopolitics_-_after_%22Spoiling_of_Vijayabahu%22.png).]"
@@ -274,11 +274,11 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘True’ Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM4NjgyNDA5LDE4ODcwMjMyLC04MTA4NT
-MzLDM2MjU4MTc1MiwtMjExNDE4NDE4MCwtNDkyNDk4NjYyLDE2
-MDQwMTcxNjIsMzk3MTc1MjYwLDU3NDkyNTE4OSwxNjU4NDk4MT
-k0LDc5Nzk0MzczNSwyMjkwNzk5MTgsLTE0OTk0NTE4ODQsLTEx
-NTMxNTgwMywxMzkxODQxMzMwLC0yNzc3ODc2MDcsLTE2NTMyOD
-U1MDYsLTE5ODMyNDYyNywxMTY3ODgzNzc1LC0xNDIwMDc4ODMx
-XX0=
+eyJoaXN0b3J5IjpbMTE1NTQ1NjcxMCwxODg3MDIzMiwtODEwOD
+UzMywzNjI1ODE3NTIsLTIxMTQxODQxODAsLTQ5MjQ5ODY2Miwx
+NjA0MDE3MTYyLDM5NzE3NTI2MCw1NzQ5MjUxODksMTY1ODQ5OD
+E5NCw3OTc5NDM3MzUsMjI5MDc5OTE4LC0xNDk5NDUxODg0LC0x
+MTUzMTU4MDMsMTM5MTg0MTMzMCwtMjc3Nzg3NjA3LC0xNjUzMj
+g1NTA2LC0xOTgzMjQ2MjcsMTE2Nzg4Mzc3NSwtMTQyMDA3ODgz
+MV19
 -->
