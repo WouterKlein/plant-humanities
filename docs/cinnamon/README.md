@@ -10,7 +10,7 @@
 
 ### The cinnamon challenge
 
-In 2012-2013, the ‘cinnamon challenge’ was a short-lived internet hype. Although the instruction is simple enough – try to swallow a tablespoon of cinnamon at once – it proves to be virtually impossible in practice. Trying to ingest dry, ground cinnamon bark initially causes a severe choke reaction, characterised by extreme exhalation of cinnamon powder (known as ‘dragon breath’). Subsequently, the cinnamon combines with saliva in the mouth to produce an indigestible clutter in the back of the throat. Thankfully, this [quite dangerous assignment](https://doi.org/10.1542/peds.2012-3418) will only be a marginal footnote in the history of cinnamon. Those who know cinnamon only from an endless series of ridiculous YouTube videos, or as a quotidian kitchen spice, will be surprised to learn that the real challenge of cinnamon has been an ongoing effort for 2000 years, to find out what cinnamon actually is, as a plant and as a medicine.
+In 2012-2013, the ‘cinnamon challenge’ was a short-lived internet hype. Although the instructions were simple enough – try to swallow a tablespoon of cinnamon at once – they proved to be virtually impossible to follow in practice. Trying to ingest dry, ground cinnamon bark initially causes a severe choke reaction, characterised by extreme exhalation of cinnamon powder (known as ‘dragon breath’). Subsequently, the cinnamon combines with saliva in the mouth to produce an indigestible clutter at the back of the throat. Thankfully, this [quite dangerous assignment](https://doi.org/10.1542/peds.2012-3418) will only be a marginal footnote to the history of cinnamon. Those who know cinnamon only from an endless series of ridiculous YouTube videos that trie, or as a quotidian kitchen spice, will be surprised to learn that the real challenge of cinnamon has been an ongoing effort for 2000 years, to find out what cinnamon actually is, as a plant and as a medicine.
 <param title="cinnamon challenge" eid="Q420721">
 <param ve-video
 	vid="cmpd58kMl2s"
@@ -274,11 +274,11 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘True’ Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYyNTgxNzUyLC0yMTE0MTg0MTgwLC00OT
-I0OTg2NjIsMTYwNDAxNzE2MiwzOTcxNzUyNjAsNTc0OTI1MTg5
-LDE2NTg0OTgxOTQsNzk3OTQzNzM1LDIyOTA3OTkxOCwtMTQ5OT
-Q1MTg4NCwtMTE1MzE1ODAzLDEzOTE4NDEzMzAsLTI3Nzc4NzYw
-NywtMTY1MzI4NTUwNiwtMTk4MzI0NjI3LDExNjc4ODM3NzUsLT
-E0MjAwNzg4MzEsLTQ5ODI2MTIzNCwtMTc4OTM5MTI2NCwtMzQ3
-NDgzMTc0XX0=
+eyJoaXN0b3J5IjpbLTE2NjI4ODE1MTMsMzYyNTgxNzUyLC0yMT
+E0MTg0MTgwLC00OTI0OTg2NjIsMTYwNDAxNzE2MiwzOTcxNzUy
+NjAsNTc0OTI1MTg5LDE2NTg0OTgxOTQsNzk3OTQzNzM1LDIyOT
+A3OTkxOCwtMTQ5OTQ1MTg4NCwtMTE1MzE1ODAzLDEzOTE4NDEz
+MzAsLTI3Nzc4NzYwNywtMTY1MzI4NTUwNiwtMTk4MzI0NjI3LD
+ExNjc4ODM3NzUsLTE0MjAwNzg4MzEsLTQ5ODI2MTIzNCwtMTc4
+OTM5MTI2NF19
 -->
