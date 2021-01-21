@@ -41,7 +41,7 @@ How could this confusion last so long? One possible explanation for the shift fr
 	region="246,1762,1391,985">
 {#paragraph3}
 
-Another, much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue still exists today. This is a striking case of forgotten knowledge in modern science. In the nineteenth century, Flückiger and Hanbury already noted in their [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) that cinnamon in Antiquity did not come from Sri Lanka. It only became a noticeable export item there in the thirteenth century, when political power on the island shifted to the cinnamon-producing areas in the southwest.[^ref4] Rather, they argued, it must have been _cassia lignea_ (a common historical name for _cassia_, generally believed to be _Cinnamomum cassia_ (L.) J.Presl), imported from China through Arabia and East Africa. Although this narrative is debatable, it is still less fantastic than the one proposed by J. Innes Miller (1969). Miller claimed there had been an interoceanic Spice Route in Antiquity, spanning all corners of the Indian Ocean world. Although this concept is now rejected by historians, Sri Lanka still features in many accounts of cinnamon in Antiquity.[^ref5]
+Another, much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue still exists today. This is a striking case of forgotten knowledge in modern science. In the nineteenth century, Friedrich A. Flückiger and Daniel Hanbury already noted in their [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) that cinnamon in antiquity did not come from Sri Lanka. It only became a noticeable export item there in the thirteenth century, when political power on the island shifted to the cinnamon-producing areas in the southwest.[^ref4] Rather, they argued, it must have been _cassia lignea_ (a common historical name for _cassia_, generally believed to be _Cinnamomum cassia_ (L.) J.Presl), imported from China through Arabia and East Africa. Although this narrative is debatable, it is still less fantastic than the one proposed by J. Innes Miller (1969). Miller claimed there had been an interoceanic Spice Route in antiquity, spanning all corners of the Indian Ocean world. Although this concept is now rejected by historians, Sri Lanka still features in many accounts of cinnamon in Antiquity.[^ref5]
 <param title="Cinnamomum cassia" eid="Q204148">
 <param ve-image
 	title="The proposed Spice Route of Antiquity, by J. Innes Miller. [Note: This is just a screenshot from Riddle’s book. I’m not sure if I want to use this image, and if so, I should reproduce it as a proper ve-map tag, which seems like it would be a lot of work.]"
@@ -274,11 +274,11 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘True’ Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMDI2NzcxNSwtODEwODUzMywzNjI1OD
-E3NTIsLTIxMTQxODQxODAsLTQ5MjQ5ODY2MiwxNjA0MDE3MTYy
-LDM5NzE3NTI2MCw1NzQ5MjUxODksMTY1ODQ5ODE5NCw3OTc5ND
-M3MzUsMjI5MDc5OTE4LC0xNDk5NDUxODg0LC0xMTUzMTU4MDMs
-MTM5MTg0MTMzMCwtMjc3Nzg3NjA3LC0xNjUzMjg1NTA2LC0xOT
-gzMjQ2MjcsMTE2Nzg4Mzc3NSwtMTQyMDA3ODgzMSwtNDk4MjYx
-MjM0XX0=
+eyJoaXN0b3J5IjpbMjkxNzI3NTEzLC04MTA4NTMzLDM2MjU4MT
+c1MiwtMjExNDE4NDE4MCwtNDkyNDk4NjYyLDE2MDQwMTcxNjIs
+Mzk3MTc1MjYwLDU3NDkyNTE4OSwxNjU4NDk4MTk0LDc5Nzk0Mz
+czNSwyMjkwNzk5MTgsLTE0OTk0NTE4ODQsLTExNTMxNTgwMywx
+MzkxODQxMzMwLC0yNzc3ODc2MDcsLTE2NTMyODU1MDYsLTE5OD
+MyNDYyNywxMTY3ODgzNzc1LC0xNDIwMDc4ODMxLC00OTgyNjEy
+MzRdfQ==
 -->
