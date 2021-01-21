@@ -159,7 +159,7 @@ _Cinnamomum verum_ J.Presl, from Paul Hermanns herbarium of plants from Sri Lank
 
 ### Cinnamon and imperial imagination
 
-Meanwhile, other countries were desperately trying to have access to cinnamon, which was especially true of Spain and its empire. Spain sought, but ultimately without success, to procure cinnamon trees, or at least to replicate Dutch practices for cultivating such exotic plants in its colonies.[^ref19] The Spanish quest for cinnamon in the New World went back as far as the early days of exploration: we already came across Columbus’s efforts to find cinnamon on his voyages. The famous expedition of Gonzalo Pizarro and Francisco de Orellana along the Amazon river (1541-1542) was also intended to find the legendary ‘Land of Cinnamon’ (_País de la Canela_), which was associated with the land of gold, El Dorado. Their journey later inspired the French botanist Joseph de Jussieu to find the cinnamon lands of South America in the 1740s.[^ref20]
+Meanwhile, other countries were desperately trying to have access to cinnamon, which was especially true of Spain and its empire. Spain sought, but ultimately without success, to procure cinnamon trees, or at least to replicate Dutch practices for cultivating such exotic plants in its colonies.[^ref19] The Spanish quest for cinnamon in the New World went back as far as the early days of exploration: we already came across Columbus’s efforts to find cinnamon on his voyages. The famous expedition of Gonzalo Pizarro and Francisco de Orellana along the Amazon river (1541-1542) was also intended to find the legendary ‘Land of Cinnamon’ (_País de la Canela_), which was associated with the land of gold, El Dorado. Their journey later inspired the French botanist Joseph de Jussieu to search for cinnamon lands in South America in the 1740s.[^ref20]
 <param title="Gonzalo Pizarro" eid="Q435292">
 <param title="Francisco de Orellana" eid="Q207901">
 <param title="Amazon" eid="Q3783">
@@ -171,7 +171,7 @@ Meanwhile, other countries were desperately trying to have access to cinnamon, w
 	zoom="4.9">
 {#paragraph15}
 
-The Spanish efforts to find cinnamon in the New World were not only intended to compete with the ‘true’ cinnamon of the Portuguese and the Dutch on Sri Lanka. There was more at stake. The commercial successes of Spain’s European rivals in the East Indies made the Cape of Good Hope the principal shipping route to get there. The promise of South American riches could transform Cape Horn into an attractive alternative route, which would benefit Spain. This was an important aim for men like Alonso de Ovalle, a Chilean Jesuit. His _Histórica Relación del Reyno de Chile_ (1646) was accompanied by a detailed map, which served as a visual propaganda tool for Spanish South America. The map highlights the assets of the continent, including the presence of _<span data-click-image-zoomto="6423,1032,659,467">canela</span>_ and _<span data-click-image-zoomto="7756,2229,613,434">cynamomum</span>_ areas along the east coast.[^ref21] This was one strategy to emphasize the possibilities of cinnamon production for the Spanish global empire.
+The Spanish efforts to find cinnamon in the New World were not only intended to find an alternative to the ‘true’ cinnamon of the Portuguese and the Dutch on Sri Lanka. There was more at stake. The commercial success of Spain’s European rivals in the East Indies made the Cape of Good Hope the principal shipping route for such goods. The promise of South American riches could transform Cape Horn into an alternative route, which would benefit Spain. This was an important aim for men like Alonso de Ovalle, a Chilean Jesuit. His _Histórica Relación del Reyno de Chile_ (1646) was accompanied by a detailed map, which served as a visual propaganda tool for Spanish South America. The map highlights the natural resources of the continent, including the presence of areas of _<span data-click-image-zoomto="6423,1032,659,467">canela</span>_ and _<span data-click-image-zoomto="7756,2229,613,434">cynamomum</span>_ areas along the east coast.[^ref21] This was one strategy to emphasize the possibilities of cinnamon production for the Spanish global empire.
 <param title="Cape of Good Hope" eid="Q4092">
 <param title="Cape Horn" eid="Q4078">
 <param title="Alonso de Ovalle" eid="Q2839275">
@@ -274,11 +274,11 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘True’ Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4ODA2NjY2NywxODg3MDIzMiwtODEwOD
-UzMywzNjI1ODE3NTIsLTIxMTQxODQxODAsLTQ5MjQ5ODY2Miwx
-NjA0MDE3MTYyLDM5NzE3NTI2MCw1NzQ5MjUxODksMTY1ODQ5OD
-E5NCw3OTc5NDM3MzUsMjI5MDc5OTE4LC0xNDk5NDUxODg0LC0x
-MTUzMTU4MDMsMTM5MTg0MTMzMCwtMjc3Nzg3NjA3LC0xNjUzMj
-g1NTA2LC0xOTgzMjQ2MjcsMTE2Nzg4Mzc3NSwtMTQyMDA3ODgz
-MV19
+eyJoaXN0b3J5IjpbODM5ODE5NDU1LDE4ODcwMjMyLC04MTA4NT
+MzLDM2MjU4MTc1MiwtMjExNDE4NDE4MCwtNDkyNDk4NjYyLDE2
+MDQwMTcxNjIsMzk3MTc1MjYwLDU3NDkyNTE4OSwxNjU4NDk4MT
+k0LDc5Nzk0MzczNSwyMjkwNzk5MTgsLTE0OTk0NTE4ODQsLTEx
+NTMxNTgwMywxMzkxODQxMzMwLC0yNzc3ODc2MDcsLTE2NTMyOD
+U1MDYsLTE5ODMyNDYyNywxMTY3ODgzNzc1LC0xNDIwMDc4ODMx
+XX0=
 -->
