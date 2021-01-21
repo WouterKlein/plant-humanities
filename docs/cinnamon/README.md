@@ -159,7 +159,7 @@ _Cinnamomum verum_ J.Presl, from Paul Hermanns herbarium of plants from Sri Lank
 
 ### Cinnamon and imperial imagination
 
-Meanwhile, other countries were desperately trying to have access to cinnamon. This was especially true for Spain and its empire. Spain tried – ultimately with no success – to acquire cinnamon trees itself, or at least to copy Dutch practices for exotic plants in its colonies.[^ref19] The Spanish quest for cinnamon in the New World even went back as far as the early days of exploration: we already came across Columbus’s efforts to find cinnamon on his journeys. The famous expedition of Gonzalo Pizarro and Francisco de Orellana along the Amazon river (1541-1542) was also intended to find the legendary ‘Land of Cinnamon’ (_País de la Canela_), which was associated with the land of gold, El Dorado. Their journey still inspired the French botanist Joseph de Jussieu to find the cinnamon lands of South America in the 1740s.[^ref20]
+Meanwhile, other countries were desperately trying to have access to cinnamon, which was especially true of Spain and its empire. Spain sought, but ultimately without success, to procure cinnamon trees, or at least to replicate Dutch practices for cultivating such exotic plants in its colonies.[^ref19] The Spanish quest for cinnamon in the New World went back as far as the early days of exploration: we already came across Columbus’s efforts to find cinnamon on his voyages. The famous expedition of Gonzalo Pizarro and Francisco de Orellana along the Amazon river (1541-1542) was also intended to find the legendary ‘Land of Cinnamon’ (_País de la Canela_), which was associated with the land of gold, El Dorado. Their journey later inspired the French botanist Joseph de Jussieu to find the cinnamon lands of South America in the 1740s.[^ref20]
 <param title="Gonzalo Pizarro" eid="Q435292">
 <param title="Francisco de Orellana" eid="Q207901">
 <param title="Amazon" eid="Q3783">
@@ -274,7 +274,7 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘True’ Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwODI0NDU3MSwxODg3MDIzMiwtODEwOD
+eyJoaXN0b3J5IjpbMTA4ODA2NjY2NywxODg3MDIzMiwtODEwOD
 UzMywzNjI1ODE3NTIsLTIxMTQxODQxODAsLTQ5MjQ5ODY2Miwx
 NjA0MDE3MTYyLDM5NzE3NTI2MCw1NzQ5MjUxODksMTY1ODQ5OD
 E5NCw3OTc5NDM3MzUsMjI5MDc5OTE4LC0xNDk5NDUxODg0LC0x
