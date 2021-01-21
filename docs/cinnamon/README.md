@@ -202,7 +202,7 @@ The last and most daring strategy was to transplant the ‘true’ cinnamon to S
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 {#paragraph18}
 
-Today, Sri Lanka again ranks high among [the world’s largest exporters of cinnamon](http://www.worldstopexports.com/cinnamon-exporters/). But confusion remains: while _Cinnamomum verum_ J.Presl is now grown in many countries in the tropical zone, the quality of the end product differs for each region.[^ref28] Moreover, commercial statistics usually bring all market variations under the rubric ‘cinnamon’, without differentiating between different _Cinnamomum_ species. This issue is even more pertinent in the context of medicine. Cinnamon has a lot of potential therapeutic applications, but many studies fail to clarify which species of _Cinnamomum_ they focus on, making it difficult to compare the results.[^ref29] The species epithet _verum_ may sound like an obsolete name in a globalized world, where everyone has access to cinnamon and where cinnamon is grown in many tropical areas. But it still captures the essence of what cinnamon has always been about: a between what is ‘true’ and what is not.
+Today, Sri Lanka again ranks high among [the world’s largest exporters of cinnamon](http://www.worldstopexports.com/cinnamon-exporters/). But confusion remains: while _Cinnamomum verum_ J.Presl is now grown in many countries in the tropical zone, the quality of the end product differs for each region.[^ref28] Moreover, commercial statistics usually bring all market variations under the rubric ‘cinnamon’, without differentiating between different _Cinnamomum_ species. This issue is even more pertinent in the context of medicine. Cinnamon has a lot of potential therapeutic applications, but many studies fail to clarify which species of _Cinnamomum_ they focus on, making it difficult to compare the results.[^ref29] The species epithet _verum_ may sound like an obsolete name in a globalized world, where everyone has access to cinnamon and where cinnamon is grown in many tropical areas. But it still captures the essence of what cinnamon has always been about: a touchstone for what is ‘true’ and what is not.
 <param title="cinnamon" eid="Q370239">
 <param ve-map primary
 	title="[I would like to include a map here with the current distribution of Cinnamomum verum. I have two sources for that: the data differ quite a bit, and I don’t know if I can simply extract it from the sources: https://www.cabi.org/isc/datasheet/13573 (CABI), and http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:463752-1 (Kew, Plants of the World Online)]">
@@ -274,11 +274,11 @@ Today, Sri Lanka again ranks high among [the world’s largest exporters of cinn
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘True’ Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MDQ5MzkwNCwxODg3MDIzMiwtODEwOD
-UzMywzNjI1ODE3NTIsLTIxMTQxODQxODAsLTQ5MjQ5ODY2Miwx
-NjA0MDE3MTYyLDM5NzE3NTI2MCw1NzQ5MjUxODksMTY1ODQ5OD
-E5NCw3OTc5NDM3MzUsMjI5MDc5OTE4LC0xNDk5NDUxODg0LC0x
-MTUzMTU4MDMsMTM5MTg0MTMzMCwtMjc3Nzg3NjA3LC0xNjUzMj
-g1NTA2LC0xOTgzMjQ2MjcsMTE2Nzg4Mzc3NSwtMTQyMDA3ODgz
-MV19
+eyJoaXN0b3J5IjpbNDUyODM3ODU3LDE4ODcwMjMyLC04MTA4NT
+MzLDM2MjU4MTc1MiwtMjExNDE4NDE4MCwtNDkyNDk4NjYyLDE2
+MDQwMTcxNjIsMzk3MTc1MjYwLDU3NDkyNTE4OSwxNjU4NDk4MT
+k0LDc5Nzk0MzczNSwyMjkwNzk5MTgsLTE0OTk0NTE4ODQsLTEx
+NTMxNTgwMywxMzkxODQxMzMwLC0yNzc3ODc2MDcsLTE2NTMyOD
+U1MDYsLTE5ODMyNDYyNywxMTY3ODgzNzc1LC0xNDIwMDc4ODMx
+XX0=
 -->
