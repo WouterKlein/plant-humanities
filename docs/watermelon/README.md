@@ -327,12 +327,12 @@ As we have seen throughout this essay, the watermelon has undergone significant 
 
 [^ref22]: Deal Saxon, H. (2018) ‘Bees and watermelons’, The Statesboro Herald, [online], https://www.statesboroherald.com/local/bees-and-watermelons/, [Accessed: 24/07/20]; Melicher, D. (2019) ‘Road Trip: How Hive Transportation Puts Stress on Honey Bees’, Entomology Today, [online], https://entomologytoday.org/2019/04/01/road-trip-hive-transportation-stress-honey-bees/, [Accessed: 24/07/20]
 
-[^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]dus
+[^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzMyODkyODAsMTQ4NTQ4ODg2MCwtOT
-Q3OTk5MzcyLDIwMzE3ODg2ODgsMTcwNDI3NDIzMiwtOTQ1MjA1
-Njg5LC01Mzc4MzI2NDAsLTE2ODk4OTIwMSwtNzY0NDk5NjMxLD
-EwNDU0NTM2NTksNjg2NTY3NTEsMTQwNTk1NjkzMywtMTcyNjg2
-MDA5MSwtMTQyNjE1NzA2MSwtMjA4NTg2MzUxMSwtNDc0NTIxOT
-U5XX0=
+eyJoaXN0b3J5IjpbLTIwMTk0MDA0MzAsLTEzNzMyODkyODAsMT
+Q4NTQ4ODg2MCwtOTQ3OTk5MzcyLDIwMzE3ODg2ODgsMTcwNDI3
+NDIzMiwtOTQ1MjA1Njg5LC01Mzc4MzI2NDAsLTE2ODk4OTIwMS
+wtNzY0NDk5NjMxLDEwNDU0NTM2NTksNjg2NTY3NTEsMTQwNTk1
+NjkzMywtMTcyNjg2MDA5MSwtMTQyNjE1NzA2MSwtMjA4NTg2Mz
+UxMSwtNDc0NTIxOTU5XX0=
 -->
