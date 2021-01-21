@@ -142,7 +142,7 @@ Although cinnamon was a successful monopoly during the Dutch period, was it pure
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 {#paragraph13}
 
-Imperial agendas and a disinterested search for knowledge could also go hand in hand. The botanist Paul Hermann was employed by the VOC between 1672 and 1677 to gather botanical knowledge on Sri Lanka. Although Hermann barely ventured beyond Colombo, he managed to collect an impressive amount of material, including many cinnamon specimens.[^ref15] Hermann’s collections sustained for decades scholarly interest in Sri Lankan flora. Many specimens served indirectly as type specimens for the _Species Plantarum_ (1753) of Carl Linnaeus, who dreamed of transplanting cinnamon to Lapland.[^ref16] But Hermann already knew that northern Europe was too cold for cinnamon: in spite of the VOC ban on exporting living plants, he sent trees to several acquaintances in the Dutch Republic, none of which survived the cold winters.[^ref17] Exchange of knowledge and goods was evidently possible: an extensive, first-hand account of all the cinnamon varieties on Sri Lanka even made it into the _Philosophical Transactions_ of the Royal Society in 1730.[^ref18]
+Imperial agendas and a disinterested search for knowledge could also go hand in hand. The botanist Paul Hermann was employed by the VOC between 1672 and 1677 to gather botanical knowledge on Sri Lanka. Although Hermann barely ventured beyond Colombo, he managed to collect an impressive amount of material, including many cinnamon specimens.[^ref15] Hermann’s collections sustained for decades scholarly interest in Sri Lankan flora. Many specimens served indirectly as type specimens for the _Species Plantarum_ (1753) of Carl Linnaeus, who dreamed of transplanting cinnamon to Lapland.[^ref16] But Hermann already knew that northern Europe was too cold for cinnamon: in spite of the VOC ban on exporting living plants, he sent trees to several acquaintances in the Dutch Republic, none of which survived the cold winters.[^ref17] Despite the government restrictions, the exchange of knowledge and goods was evidently possible: an extensive, first-hand account of all the cinnamon varieties growing on Sri Lanka even made it into the _Philosophical Transactions_ of the British Royal Society in 1730.[^ref18]
 <param title="Paul Hermann" eid="Q66569">
 <param title="Species Plantarum" eid="Q849308">
 <param title="Carl Linnaeus" eid="Q1043">
@@ -157,9 +157,9 @@ _Cinnamomum verum_ J.Presl, from Paul Hermanns herbarium of plants from Sri Lank
 	url="007714869-L.2070171.jpg">
 {#paragraph14}
 
-### Cinnamon and the imagination of empire
+### Cinnamon and imperial imagination
 
-Meanwhile, other states were desperate to have cinnamon for themselves. This was especially true for Spain and its empire. Spain tried – ultimately with no success – to acquire cinnamon trees itself, or at least to copy Dutch practices for exotic plants in its colonies.[^ref19] The Spanish quest for cinnamon in the New World even went back as far as the early days of exploration: we already came across Columbus’s efforts to find cinnamon on his journeys. The famous expedition of Gonzalo Pizarro and Francisco de Orellana along the Amazon river (1541-1542) was also intended to find the legendary ‘Land of Cinnamon’ (_País de la Canela_), which was associated with the land of gold, El Dorado. Their journey still inspired the French botanist Joseph de Jussieu to find the cinnamon lands of South America in the 1740s.[^ref20]
+Meanwhile, other countries were desperately trying to have access to cinnamon. This was especially true for Spain and its empire. Spain tried – ultimately with no success – to acquire cinnamon trees itself, or at least to copy Dutch practices for exotic plants in its colonies.[^ref19] The Spanish quest for cinnamon in the New World even went back as far as the early days of exploration: we already came across Columbus’s efforts to find cinnamon on his journeys. The famous expedition of Gonzalo Pizarro and Francisco de Orellana along the Amazon river (1541-1542) was also intended to find the legendary ‘Land of Cinnamon’ (_País de la Canela_), which was associated with the land of gold, El Dorado. Their journey still inspired the French botanist Joseph de Jussieu to find the cinnamon lands of South America in the 1740s.[^ref20]
 <param title="Gonzalo Pizarro" eid="Q435292">
 <param title="Francisco de Orellana" eid="Q207901">
 <param title="Amazon" eid="Q3783">
@@ -274,11 +274,11 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘True’ Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjA4NTA2MTQsMTg4NzAyMzIsLTgxMD
-g1MzMsMzYyNTgxNzUyLC0yMTE0MTg0MTgwLC00OTI0OTg2NjIs
-MTYwNDAxNzE2MiwzOTcxNzUyNjAsNTc0OTI1MTg5LDE2NTg0OT
-gxOTQsNzk3OTQzNzM1LDIyOTA3OTkxOCwtMTQ5OTQ1MTg4NCwt
-MTE1MzE1ODAzLDEzOTE4NDEzMzAsLTI3Nzc4NzYwNywtMTY1Mz
-I4NTUwNiwtMTk4MzI0NjI3LDExNjc4ODM3NzUsLTE0MjAwNzg4
-MzFdfQ==
+eyJoaXN0b3J5IjpbMTUwODI0NDU3MSwxODg3MDIzMiwtODEwOD
+UzMywzNjI1ODE3NTIsLTIxMTQxODQxODAsLTQ5MjQ5ODY2Miwx
+NjA0MDE3MTYyLDM5NzE3NTI2MCw1NzQ5MjUxODksMTY1ODQ5OD
+E5NCw3OTc5NDM3MzUsMjI5MDc5OTE4LC0xNDk5NDUxODg0LC0x
+MTUzMTU4MDMsMTM5MTg0MTMzMCwtMjc3Nzg3NjA3LC0xNjUzMj
+g1NTA2LC0xOTgzMjQ2MjcsMTE2Nzg4Mzc3NSwtMTQyMDA3ODgz
+MV19
 -->
