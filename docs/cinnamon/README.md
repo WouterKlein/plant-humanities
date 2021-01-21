@@ -114,7 +114,7 @@ The restrictions imposed by the Dutch on cinnamon exports made it the only real 
 	url="NL-HaNA_4.VEL_939A-groot_cropped.jpg">
 {#paragraph10}
 
-In 1760, local grievances about the VOC policy concerning _chenas_, and about extortion of peelers by Sinhalese and Dutch officials, exploded in 1760. Backed by the king of Kandy, the peelers rebelled, leading to a war that lasted until 1766. The war finally may have caused the Dutch to rethink their approach for cinnamon production. Starting in 1769, governor Iman Willem Falck (in office 1765-1785) began to experiment with ‘cinnamon gardens’ (_kaneeltuinen_), which amounted to nothing less than a successful colonial plantation mechanism. By the end of his governorship, there were 24 million cinnamon trees growing in gardens, which increased to 609 million trees (!) by 1794.[^ref12]
+In 1760, local grievances about the VOC policy concerning _chenas_, and the treatment of peelers by Sinhalese and Dutch officials, created an explosive situation. Backed by the king of Kandy, the peelers rebelled, leading to a war that lasted until 1766. The rebellion finally urged the Dutch to rethink their approach to cinnamon production. Starting in 1769, governor Iman Willem Falck (in office 1765-1785) began to experiment with ‘cinnamon gardens’ (_kaneeltuinen_), which amounted to nothing less than a successful colonial plantation system. By the end of his governorship, there were 24 million cinnamon trees growing in these gardens, which increased to 609 million trees (!) by 1794.[^ref12]
 <param title="Iman Willem Falck" eid="Q16836179">
 <param title="plantation" eid="Q188913">
 <param ve-image
@@ -124,7 +124,7 @@ In 1760, local grievances about the VOC policy concerning _chenas_, and about ex
 	region="2226,1064,839,630">
 {#paragraph11}
 
-The success was short-lived, however. When the British took over control of the Dutch territories on Sri Lanka in 1796, they failed to maintain the success of the cinnamon plantation economy. Calls for free trade and better working conditions for peelers, high export duties, and competition of cheaper _cassia_ cinnamon from Java finally led to reforms in 1833. But the measures came too late and were counterproductive: Britain sold many plantations to private owners, who switched to coffee and tea production, thus ending the success of cinnamon production for years to come.[^ref13]
+The success, however, was short-lived, however. When the British took over control of the Dutch territories on Sri Lanka in 1796, they failed to maintain the success of the cinnamon plantation economy. Calls for free trade and better working conditions for peelers, high export duties, and competition of cheaper _cassia_ cinnamon from Java finally led to reforms in 1833. But the measures came too late and were counterproductive: Britain sold many plantations to private owners, who switched to coffee and tea production, thus ending the success of cinnamon production for years to come.[^ref13]
 <param ve-image
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
@@ -274,7 +274,7 @@ Nowadays, Sri Lanka ranks high again among [the world’s largest exporters of c
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘True’ Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NTMyMDc4OSwxODg3MDIzMiwtODEwOD
+eyJoaXN0b3J5IjpbLTY5MDEzNzMxMSwxODg3MDIzMiwtODEwOD
 UzMywzNjI1ODE3NTIsLTIxMTQxODQxODAsLTQ5MjQ5ODY2Miwx
 NjA0MDE3MTYyLDM5NzE3NTI2MCw1NzQ5MjUxODksMTY1ODQ5OD
 E5NCw3OTc5NDM3MzUsMjI5MDc5OTE4LC0xNDk5NDUxODg0LC0x
