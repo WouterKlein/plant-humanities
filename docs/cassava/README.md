@@ -49,7 +49,7 @@ title="Chicha Production, de Léry" url="https://raw.githubusercontent.com/melin
 The preparation process for _chicha_ uses several tools.  The basic process is that cassava is either turned into flour or cut into pieces, then boiled, chewed and combined with saliva in the mouth for some time, then boiled again in a different vessel, then it is left to ferment for several days until it is ready for consumption.[^ref13] To the right are modern tools used to create _chicha_ in Argentina.[^ref14] This shows that even today people continue to follow the traditional methods established by their ancestors to create fermented cassava beverages.
 <param ve-image
 	title="Pots"
-	url="https://raw.githubusercontent.com/melindasusanto/demo1/master/Pots.jpg"
+url="https://raw.githubusercontent.com/melindasusanto/demo1/master/Pots.jpg"
 	fit="cover"
 	attribution="">
 
@@ -386,6 +386,6 @@ Code to add a specimen from Global Plants. Lorem ipsum dolor sit amet, consectet
 This example also displays a type specimen from the Global Plants site for the species _Agave americana_.  In this example the Global Plants identifier ([10.5555/al.ap.specimen.us00092112](https://plants.jstor.org/stable/10.5555/al.ap.specimen.us00092112)) is used to display the image for a specific specimen.
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.m0233266">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTIxMDk0MDgsLTY4Nzk3MzI2LC0zOD
-c1ODkyODksMTk5OTM0NTY0MV19
+eyJoaXN0b3J5IjpbLTg5NjA2NjU1MiwtMTE5MjEwOTQwOCwtNj
+g3OTczMjYsLTM4NzU4OTI4OSwxOTk5MzQ1NjQxXX0=
 -->
