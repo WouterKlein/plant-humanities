@@ -164,7 +164,7 @@ If Mattioli and Parkinson considered boxwood primarily an ornamental plant “we
 
 The vindication of boxwood as an essential garden plant took place in late sixteenth-century France, almost a millennium-and-a-half after its enthusiastic mention by Pliny. In horticulture, this moment marked the introduction of _parterres de broderie_ characterized by low, manicured hedges that imitated embroidery patterns. Boxwood—along with myrtle, lavender, juniper, and rosemary—was deemed particularly well-adapted to making the borders of plant beds, within which were planted marjoram, thyme, hyssop, pennyroyal, sage, chamomile, mint, violets, marguerites, basil, and other herbs and flowers.[^ref21] Horticultural theorist Olivier de Serres, in _Théâtre d’Agriculture_ (1600), emphasized boxwood’s resistance to the effects of weather and time and its little need for care, favorably contrasting it with myrtle, which was less suitable to colder climates. These properties, he believed, would have made boxwood a perfect garden shrub if not for the lack of “good scent,” having instead an odor “strong, unwelcome, and unpleasant, which causes headaches.”[^ref22]
 <param ve-image
-	title="Front page of Claude Mollet (c. 1564-c. 1649), _Theatre des plans et iardinages_, 1652."
+	title="Front page of Claude Mollet (c. 1564–c. 1649), _Theatre des plans et iardinages_, 1652."
 	manifest="https://iiif.lib.harvard.edu/manifests/drs:47289351"
 	seq="9"
 	region="-396,75,4753,3521">
@@ -288,11 +288,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^ref30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii,_ both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjQ2NTY1MSwzNjQ1NTk4ODgsLTM2Nz
-c5OTM2OCwxNzg2OTM0MzI2LDI2NDM4OTU0NSw0NDk4Mjk4NzQs
-LTE0MzgxMzQ4MzcsLTI2MTE0MDUyMSwyMDA1NzcwOTkyLC0yMD
-A3OTg1OTcxLC0xODQzNzcwOTk0LDk5MzU4MTA4Miw5OTM1ODEw
-ODIsOTkzNTgxMDgyLC0xNDc1MzY4NDYzLDE0ODYxNDcyMjEsNT
-IxNDQxMzU1LDk5OTcwMzkyOSwtMTAwNTk3MTY1LDk5OTcwMzky
-OV19
+eyJoaXN0b3J5IjpbMTkzNDY0MTg4MSwxNjYyNDY1NjUxLDM2ND
+U1OTg4OCwtMzY3Nzk5MzY4LDE3ODY5MzQzMjYsMjY0Mzg5NTQ1
+LDQ0OTgyOTg3NCwtMTQzODEzNDgzNywtMjYxMTQwNTIxLDIwMD
+U3NzA5OTIsLTIwMDc5ODU5NzEsLTE4NDM3NzA5OTQsOTkzNTgx
+MDgyLDk5MzU4MTA4Miw5OTM1ODEwODIsLTE0NzUzNjg0NjMsMT
+Q4NjE0NzIyMSw1MjE0NDEzNTUsOTk5NzAzOTI5LC0xMDA1OTcx
+NjVdfQ==
 -->
