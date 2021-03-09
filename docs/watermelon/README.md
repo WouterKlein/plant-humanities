@@ -164,7 +164,7 @@ In the seventeenth to nineteenth centuries, the watermelon became a common minor
 
 Diverse types of watermelon are also represented in styles commonly associated with European botanical specimens with the fruits sitting in isolation, such as in Maria Sybilla Merian’s [_Metamorphosis insectorum Surinamesium_](https://www.doaks.org/resources/online-exhibits/maria-sibylla-merian/dissertatio-de-generatione-et-metamorphosibus-insectorum-surinamensium) and the nineteenth-century illustration shown to the right. This latter painting is taken from an [album of Asian fruits](https://www.doaks.org/resources/rare-books/album-of-chinese-watercolors-of-asian-fruits/) held by Dumbarton Oaks, likely executed by a Chinese artist working in Malaysia or Sumatra. In it, different stages in the growth of the flower and the fruit are shown alongside the seeds and a vivid cross-section, again echoing the whorls of earlier depictions. The bright and appealingly visual nature of the modern watermelon left it uniquely open to enrolment into the racist visual tropes of nineteenth-century America. 
 <param ve-image
-	title="‘Melon d’Eau,’ Metamorphosis, Maria Sybilla Merian (1719)"
+	title="‘Melon d’Eau,’ in Maria Sybilla Merian’s _Metamorphosis insectorum Surinamensium_ (1719)"
 	manifest="https://iiif.lib.harvard.edu/manifests/drs:481769537"
 	seq="37"
 	region="180,2179,4002,2751"
@@ -329,10 +329,10 @@ As we have seen throughout this essay, the watermelon has undergone significant 
 
 [^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTk0MDA0MzAsLTEzNzMyODkyODAsMT
-Q4NTQ4ODg2MCwtOTQ3OTk5MzcyLDIwMzE3ODg2ODgsMTcwNDI3
-NDIzMiwtOTQ1MjA1Njg5LC01Mzc4MzI2NDAsLTE2ODk4OTIwMS
-wtNzY0NDk5NjMxLDEwNDU0NTM2NTksNjg2NTY3NTEsMTQwNTk1
-NjkzMywtMTcyNjg2MDA5MSwtMTQyNjE1NzA2MSwtMjA4NTg2Mz
-UxMSwtNDc0NTIxOTU5XX0=
+eyJoaXN0b3J5IjpbLTExODUwMTUyNjQsLTIwMTk0MDA0MzAsLT
+EzNzMyODkyODAsMTQ4NTQ4ODg2MCwtOTQ3OTk5MzcyLDIwMzE3
+ODg2ODgsMTcwNDI3NDIzMiwtOTQ1MjA1Njg5LC01Mzc4MzI2ND
+AsLTE2ODk4OTIwMSwtNzY0NDk5NjMxLDEwNDU0NTM2NTksNjg2
+NTY3NTEsMTQwNTk1NjkzMywtMTcyNjg2MDA5MSwtMTQyNjE1Nz
+A2MSwtMjA4NTg2MzUxMSwtNDc0NTIxOTU5XX0=
 -->
